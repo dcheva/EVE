@@ -222,5 +222,33 @@
       "className": "mantine-UnstyledButton-root mantine-Button-root mantine-fnk0ba",
       "innerText": "PLAY NOW"
     }
+  },
+  {
+    "window": {
+      "width": 1400,
+      "height": 800
+    },
+    "click": {
+      "x": 987,
+      "y": 407,
+      "tagName": "BUTTON",
+      "id": "",
+      "className": "mantine-UnstyledButton-root mantine-Button-root mantine-fnk0ba",
+      "innerText": "PLAY NOW"
+    }
+  },
+  {
+    "window": {
+      "width": 1400,
+      "height": 800
+    },
+    "click": {
+      "x": 1376,
+      "y": 14,
+      "tagName": "BUTTON",
+      "id": "",
+      "className": "mantine-UnstyledButton-root mantine-CloseButton-wrapper mantine-CloseButton-CloseButton mantine-1evzfwy",
+      "innerText": ""
+    }
   }
 ]
