@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\Dmytro\\AppData\\Roaming\\EVE Online\\logs\\.log-audit.json",
+    "files": [
+        {
+            "date": 1701080957805,
+            "name": "C:\\Users\\Dmytro\\AppData\\Roaming\\EVE Online\\logs\\eve-online-launcher-2023.11.27-10.29.17.log",
+            "hash": "60a6d603ff453e58117a7c95cde18e9d35fd14916f7832181fc5c4deac9194fe"
+        },
+        {
+            "date": 1701080959206,
+            "name": "C:\\Users\\Dmytro\\AppData\\Roaming\\EVE Online\\logs\\eve-online-launcher-2023.11.27-10.29.19.log",
+            "hash": "2c2462c2445bd6fdbdf51585af79b8417ec53fdb269714d1a3a842dc65f9aeea"
+        }
+    ],
+    "hashType": "sha256"
+}

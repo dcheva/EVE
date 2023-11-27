@@ -1,0 +1,226 @@
+[
+  {
+    "window": {
+      "width": 1400,
+      "height": 800
+    },
+    "click": {
+      "x": 978,
+      "y": 333,
+      "tagName": "BUTTON",
+      "id": "",
+      "className": "mantine-UnstyledButton-root mantine-Button-root mantine-1y7cnm0",
+      "innerText": "LOG IN"
+    }
+  },
+  {
+    "window": {
+      "width": 1400,
+      "height": 800
+    },
+    "click": {
+      "x": 133,
+      "y": 108,
+      "tagName": "BODY",
+      "id": "loginbody",
+      "className": "en",
+      "innerText": "LOG IN TO YOUR ACCOUNT\n \n \nForgot username or password?\nCreate account\n "
+    }
+  },
+  {
+    "window": {
+      "width": 1400,
+      "height": 800
+    },
+    "click": {
+      "x": 432,
+      "y": 198,
+      "tagName": "INPUT",
+      "id": "Password",
+      "className": "",
+      "innerText": ""
+    }
+  },
+  {
+    "window": {
+      "width": 1400,
+      "height": 800
+    },
+    "click": {
+      "x": 423,
+      "y": 373,
+      "tagName": "FORM",
+      "id": "loginForm",
+      "className": "",
+      "innerText": " \n \nForgot username or password?\nCreate account\n "
+    }
+  },
+  {
+    "window": {
+      "width": 1400,
+      "height": 800
+    },
+    "click": {
+      "x": 415,
+      "y": 377,
+      "tagName": "FORM",
+      "id": "loginForm",
+      "className": "",
+      "innerText": " \n \nForgot username or password?\nCreate account\n "
+    }
+  },
+  {
+    "window": {
+      "width": 1400,
+      "height": 800
+    },
+    "click": {
+      "x": 545,
+      "y": 291,
+      "tagName": "INPUT",
+      "id": "submitButton",
+      "className": "btn btn-blue",
+      "innerText": ""
+    }
+  },
+  {
+    "window": {
+      "width": 1400,
+      "height": 800
+    },
+    "click": {
+      "x": 656,
+      "y": 316,
+      "tagName": "INPUT",
+      "id": "submitcodebutton",
+      "className": "btn btn-blue continue",
+      "innerText": ""
+    }
+  },
+  {
+    "window": {
+      "width": 1400,
+      "height": 800
+    },
+    "click": {
+      "x": 468,
+      "y": 316,
+      "tagName": "DIV",
+      "id": "root",
+      "className": "",
+      "innerText": ""
+    }
+  },
+  {
+    "window": {
+      "width": 1400,
+      "height": 800
+    },
+    "click": {
+      "x": 464,
+      "y": 307,
+      "tagName": "DIV",
+      "id": "root",
+      "className": "",
+      "innerText": ""
+    }
+  },
+  {
+    "window": {
+      "width": 1400,
+      "height": 800
+    },
+    "click": {
+      "x": 464,
+      "y": 307,
+      "tagName": "DIV",
+      "id": "root",
+      "className": "",
+      "innerText": ""
+    }
+  },
+  {
+    "window": {
+      "width": 1400,
+      "height": 800
+    },
+    "click": {
+      "x": 449,
+      "y": 315,
+      "tagName": "DIV",
+      "id": "root",
+      "className": "",
+      "innerText": ""
+    }
+  },
+  {
+    "window": {
+      "width": 1400,
+      "height": 800
+    },
+    "click": {
+      "x": 947,
+      "y": 412,
+      "tagName": "BUTTON",
+      "id": "",
+      "className": "mantine-UnstyledButton-root mantine-Button-root mantine-fnk0ba",
+      "innerText": "PLAY NOW"
+    }
+  },
+  {
+    "window": {
+      "width": 1400,
+      "height": 800
+    },
+    "click": {
+      "x": 1290,
+      "y": 16,
+      "tagName": "BUTTON",
+      "id": "",
+      "className": "mantine-UnstyledButton-root mantine-MinimizeButton-wrapper mantine-MinimizeButton-MinimizeButton mantine-m29v9y",
+      "innerText": ""
+    }
+  },
+  {
+    "window": {
+      "width": 1400,
+      "height": 800
+    },
+    "click": {
+      "x": 489,
+      "y": 314,
+      "tagName": "DIV",
+      "id": "root",
+      "className": "",
+      "innerText": ""
+    }
+  },
+  {
+    "window": {
+      "width": 1400,
+      "height": 800
+    },
+    "click": {
+      "x": 489,
+      "y": 314,
+      "tagName": "DIV",
+      "id": "root",
+      "className": "",
+      "innerText": ""
+    }
+  },
+  {
+    "window": {
+      "width": 1400,
+      "height": 800
+    },
+    "click": {
+      "x": 964,
+      "y": 401,
+      "tagName": "BUTTON",
+      "id": "",
+      "className": "mantine-UnstyledButton-root mantine-Button-root mantine-fnk0ba",
+      "innerText": "PLAY NOW"
+    }
+  }
+]

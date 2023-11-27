@@ -1,0 +1,27 @@
+cache
+./cache/*
+
+QtWebEngine
+./QtWebEngine/*
+
+Launcher
+./Launcher/*
+
+Browser
+./Browser/*
+
+*/*Cache*
+*/*Cache*/*
+
+'EVE Online/DawnCache'
+'./EVE Online/DawnCache/*'
+'EVE Online/DawnCache/data*'
+'EVE Online/DawnCache/data*/'
+'EVE Online/DawnCache/*'
+
+'EVE Online/Cache Storage'
+'EVE Online/Cache Storage/*'
+
+'EVE Online/lockfile'
+EVE Online/lockfile
+
