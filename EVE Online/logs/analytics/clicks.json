@@ -5,8 +5,50 @@
       "height": 800
     },
     "click": {
-      "x": 451,
-      "y": 314,
+      "x": 554,
+      "y": 569,
+      "tagName": "BUTTON",
+      "id": "",
+      "className": "mantine-UnstyledButton-root mantine-Button-root mantine-vhbkwm",
+      "innerText": "ADD ACCOUNT"
+    }
+  },
+  {
+    "window": {
+      "width": 1400,
+      "height": 800
+    },
+    "click": {
+      "x": 418,
+      "y": 378,
+      "tagName": "FORM",
+      "id": "loginForm",
+      "className": "",
+      "innerText": " \n \nForgot username or password?\nCreate account\n "
+    }
+  },
+  {
+    "window": {
+      "width": 1400,
+      "height": 800
+    },
+    "click": {
+      "x": 706,
+      "y": 336,
+      "tagName": "DIV",
+      "id": "create-link",
+      "className": "",
+      "innerText": "Create account"
+    }
+  },
+  {
+    "window": {
+      "width": 1400,
+      "height": 800
+    },
+    "click": {
+      "x": 507,
+      "y": 496,
       "tagName": "DIV",
       "id": "root",
       "className": "",
@@ -19,12 +61,12 @@
       "height": 800
     },
     "click": {
-      "x": 962,
-      "y": 400,
+      "x": 743,
+      "y": 584,
       "tagName": "BUTTON",
       "id": "",
-      "className": "mantine-UnstyledButton-root mantine-Button-root mantine-fnk0ba",
-      "innerText": "PLAY NOW"
+      "className": "mantine-UnstyledButton-root mantine-Button-root mantine-xpnl85",
+      "innerText": "NEXT"
     }
   },
   {
@@ -33,12 +75,68 @@
       "height": 800
     },
     "click": {
-      "x": 1369,
-      "y": 8,
+      "x": 569,
+      "y": 547,
+      "tagName": "INPUT",
+      "id": "mantine-a0axu0ycr",
+      "className": "mantine-Input-input mantine-TextInput-input mantine-cns0mm",
+      "innerText": ""
+    }
+  },
+  {
+    "window": {
+      "width": 1400,
+      "height": 800
+    },
+    "click": {
+      "x": 977,
+      "y": 635,
       "tagName": "BUTTON",
       "id": "",
-      "className": "mantine-UnstyledButton-root mantine-CloseButton-wrapper mantine-CloseButton-CloseButton mantine-1evzfwy",
+      "className": "mantine-UnstyledButton-root mantine-Button-root mantine-xpnl85",
+      "innerText": "START PLAYING FOR FREE"
+    }
+  },
+  {
+    "window": {
+      "width": 1400,
+      "height": 800
+    },
+    "click": {
+      "x": 720,
+      "y": 678,
+      "tagName": "BUTTON",
+      "id": "",
+      "className": "mantine-UnstyledButton-root mantine-Button-root mantine-1y7cnm0",
+      "innerText": "ACCEPT"
+    }
+  },
+  {
+    "window": {
+      "width": 1400,
+      "height": 800
+    },
+    "click": {
+      "x": 473,
+      "y": 436,
+      "tagName": "DIV",
+      "id": "root",
+      "className": "",
       "innerText": ""
+    }
+  },
+  {
+    "window": {
+      "width": 1400,
+      "height": 800
+    },
+    "click": {
+      "x": 986,
+      "y": 402,
+      "tagName": "BUTTON",
+      "id": "",
+      "className": "mantine-UnstyledButton-root mantine-Button-root mantine-fnk0ba",
+      "innerText": "CREATE CHARACTER"
     }
   }
 ]

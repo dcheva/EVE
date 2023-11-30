@@ -1,0 +1,338 @@
+2023-11-30 12:48:21.524    app     info:    Startup arguments    []
+2023-11-30 12:48:21.529    app     info:    [self-update] Starting automatic update checks
+2023-11-30 12:48:21.529    app     info:    [self-update] Checking for a launcher update...
+2023-11-30 12:48:21.671    app     info:    [i18next] Changed language    en
+2023-11-30 12:48:21.784    app     info:    [authentication] Token for '16492377' on 'tranquility' is expired, refresh is required
+2023-11-30 12:48:21.784    app     info:    [authentication] Refreshing token for '16492377' on 'tranquility'
+2023-11-30 12:48:21.785    app     info:    [authentication] Token for '17525312' on 'tranquility' is expired, refresh is required
+2023-11-30 12:48:21.785    app     info:    [authentication] Refreshing token for '17525312' on 'tranquility'
+2023-11-30 12:48:21.785    app     info:    [authentication] Token for '25218835' on 'tranquility' is expired, refresh is required
+2023-11-30 12:48:21.786    app     info:    [authentication] Refreshing token for '25218835' on 'tranquility'
+2023-11-30 12:48:21.786    app     info:    [device-id] Device id found in state
+2023-11-30 12:48:21.790    app     info:    [analytics] Application name:    EVE Online
+2023-11-30 12:48:21.791    app     info:    [analytics] Application version:    0.4.10
+2023-11-30 12:48:21.791    app     info:    [analytics] Domain    undefined
+2023-11-30 12:48:21.791    app     info:    [analytics] Working directory    C:\Users\REDACTED\AppData\Local\eve-online\app-0.4.10
+2023-11-30 12:48:21.792    app     info:    [analytics] Username contains UTF8?    false
+2023-11-30 12:48:22.588    app     info:    [elg-events] Sending event    eve_launcher.electron.application.PdmLoaded
+2023-11-30 12:48:22.590    app     info:    [analytics] Operating system    {
+  type: 'Windows',
+  name: 'Windows 10 Education',
+  version: '10.0 (19045)'
+}
+2023-11-30 12:48:22.591    app     info:    [analytics] Encryption available:    true
+2023-11-30 12:48:22.591    app     info:    [analytics] Machine UUID    4E9F516C-5B97-47C6-8C67-E93D943CB7C8
+2023-11-30 12:48:22.591    app     info:    [analytics] PDM Version    2.1.4
+2023-11-30 12:48:22.592    app     info:    [analytics] Release channel    release
+2023-11-30 12:48:22.595    app     info:    [initializers] Shared cache directory set to    C:\CCP\EVE Online
+2023-11-30 12:48:22.622    app     info:    [initializers] Shared cache drive free space: 107,60 GiB / 465,75 GiB
+2023-11-30 12:48:22.633    app     info:    [elg-events] Sending event    eve_launcher.electron.application.LauncherStarted
+2023-11-30 12:48:22.637    app     info:    [elg-events] Sending event    eve_launcher.electron.application.CoreDataLoaded
+2023-11-30 12:48:22.637    app     info:    [initializers] Starting up with product EVE Online
+2023-11-30 12:48:22.639    app     info:    [cdn-trace] Fetching CDN trace data from https://binaries.eveonline.com/cdn-cgi/trace
+2023-11-30 12:48:22.656    app     info:    [feature-flags] Initializing feature flag client
+2023-11-30 12:48:22.734    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-11-30 12:48:22.750    app     info:    [first-run] First application run was at 2023-11-27T10:29:20.506Z
+2023-11-30 12:48:22.786    app     info:    [cache-protocol] Found 0 entries to remove
+2023-11-30 12:48:22.787    app     info:    [cache-protocol] Nothing to clean up.
+2023-11-30 12:48:22.835    app     info:    [server-manager] Starting refresh cycle for Tranquility
+2023-11-30 12:48:22.868    app     info:    info: [LaunchDarkly] LaunchDarkly client initialized    []
+2023-11-30 12:48:22.869    app     info:    info: [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/64c3d12e27a4b11365012d39/eyJrZXkiOiI0YTQzNmFkYi00Yjk5LTQwYTctODViMC00MmUyMDZmNDEyODYiLCJraW5kIjoidXNlciIsImN1c3RvbSI6eyJpc0ZpcnN0UnVuIjpmYWxzZSwiZGF5c1NpbmNlRmlyc3RSdW4iOjMsImxhbmd1YWdlIjoiZW4iLCJhcHBsaWNhdGlvbiI6ImV2ZS1vbmxpbmUiLCJ2ZXJzaW9uIjoiMC40LjEwIiwicGxhdGZvcm0iOiJ3aW5kb3dzIiwib3NWZXJzaW9uRGVwcmVjYXRlZCI6ZmFsc2UsInVzZXJJZHMiOlsxNjQ5MjM3NywxNzUyNTMxMiwyNTIxODgzNV0sImNoYXJhY3RlcklkcyI6WzIxMTM4NzUxMzksMjExNDY1NjEyNywyMTE5MzYxODkxLDIxMjAzNDc2MzUsMjEyMTE3NDg3MSwyMTIxMTc4Mzk2XSwib21lZ2FDb3VudCI6MCwiYWxwaGFDb3VudCI6MywiYWNjb3VudENvdW50IjozLCJvbGRlc3RBY2NvdW50QWdlIjoyMDk1LCJ5b3VuZ2VzdEFjY291bnRBZ2UiOjc0NH19?withReasons=true    []
+2023-11-30 12:48:22.870    app     info:    [feature-flags] Client 4a436adb... ready, fetching flags
+2023-11-30 12:48:22.873    app     info:    [feature-flags] Received 13 flags for client 4a436adb...
+2023-11-30 12:48:22.873    app     info:    [feature-flags] Client initialized with key 4a436adb...
+2023-11-30 12:48:22.889    app     info:    [customer-information] Agreements have been updated
+2023-11-30 12:48:22.971    app     info:    [server-manager] Previous Tranquility build: 2435360, current build: 2438956
+2023-11-30 12:48:22.973    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.GameClientUpdateStarted
+2023-11-30 12:48:22.973    app     info:    [server-manager] Starting download of build 2438956 for Tranquility.
+2023-11-30 12:48:22.979    app     info:    [authentication] Token for '25218835' on 'tranquility' has been successfully refreshed
+2023-11-30 12:48:22.980    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.UserTokensRefreshed
+2023-11-30 12:48:22.982    app     info:    [customer-information] Getting character information for '25218835' on 'tranquility'
+2023-11-30 12:48:22.982    app     info:    [customer-information] Getting Omega status for '25218835' on 'tranquility'
+2023-11-30 12:48:22.982    app     info:    [virtual-goods] Getting Plex status for '25218835' on 'tranquility'
+2023-11-30 12:48:22.994    app     info:    [authentication] Token for '16492377' on 'tranquility' has been successfully refreshed
+2023-11-30 12:48:22.995    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.UserTokensRefreshed
+2023-11-30 12:48:22.996    app     info:    [customer-information] Getting character information for '16492377' on 'tranquility'
+2023-11-30 12:48:22.996    app     info:    [customer-information] Getting Omega status for '16492377' on 'tranquility'
+2023-11-30 12:48:22.996    app     info:    [virtual-goods] Getting Plex status for '16492377' on 'tranquility'
+2023-11-30 12:48:23.005    app     info:    [authentication] Token for '17525312' on 'tranquility' has been successfully refreshed
+2023-11-30 12:48:23.006    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.UserTokensRefreshed
+2023-11-30 12:48:23.007    app     info:    [customer-information] Getting character information for '17525312' on 'tranquility'
+2023-11-30 12:48:23.007    app     info:    [customer-information] Getting Omega status for '17525312' on 'tranquility'
+2023-11-30 12:48:23.007    app     info:    [virtual-goods] Getting Plex status for '17525312' on 'tranquility'
+2023-11-30 12:48:23.016    app     info:    [AuthenticationMiddleware] Successfully restored 3 / 3 users
+2023-11-30 12:48:23.100    app     info:    [esi] Fetching character details for 2119361891, 2120347635
+2023-11-30 12:48:23.145    app     info:    [virtual-goods] Fetched Plex status for '25218835' on 'tranquility'
+2023-11-30 12:48:23.170    app     info:    [esi] Fetching character details for 2113875139, 2121174871
+2023-11-30 12:48:23.294    app     info:    [virtual-goods] Fetched Plex status for '17525312' on 'tranquility'
+2023-11-30 12:48:23.299    app     info:    [manifest] Excluded 20 files from the manifest, leaving 178 entries
+2023-11-30 12:48:23.299    app     info:    [server-manager] Downloading 178 binary files (178 MB)
+2023-11-30 12:48:23.300    app     info:    [download-from-manifest] Preparing to download 178 files    { cdn: 1, concurrent: 10 }
+2023-11-30 12:48:23.364    app     info:    [virtual-goods] Fetched Plex status for '16492377' on 'tranquility'
+2023-11-30 12:48:23.369    app     info:    [AuthenticationMiddleware] User information updated
+2023-11-30 12:48:23.420    app     info:    [AuthenticationMiddleware] User information updated
+2023-11-30 12:48:23.443    app     info:    [esi] Fetching character details for 2114656127, 2121178396
+2023-11-30 12:48:23.459    app     info:    [AuthenticationMiddleware] User information updated
+2023-11-30 12:48:23.678    app     warn:    [steam-auth] Failed to initialize Steamworks client
+2023-11-30 12:48:23.681    app     info:    [main-window] Registering main window    { windowId: 2 }
+2023-11-30 12:48:23.688    app     info:    [cdn-trace] Fetching CDN trace data from https://binaries.eveonline.com/cdn-cgi/trace
+2023-11-30 12:48:23.690    app     info:    [creatives] Requesting creatives
+2023-11-30 12:48:23.701    app     info:    [elg-events] Sending event    eve_launcher.electron.application.RendererLoaded
+2023-11-30 12:48:23.909    app     info:    [creatives] Received 3 creatives
+2023-11-30 12:48:24.032    app     info:    [esi] Fetched 2 character details for 16492377
+2023-11-30 12:48:24.102    app     info:    [esi] Fetched 2 character details for 17525312
+2023-11-30 12:48:24.340    app     info:    [esi] Fetched 2 character details for 25218835
+2023-11-30 12:48:24.373    app     info:    [server-manager] Downloaded 8.06 MiB/170.19 MiB at 3.37 MiB/s
+2023-11-30 12:48:24.404     ui     info:    Initializing captcha    ccp://launcher/renderer/main_window/index.js    2
+2023-11-30 12:48:25.432    app     info:    [server-manager] Downloaded 17.72 MiB/170.19 MiB at 14.36 MiB/s
+2023-11-30 12:48:26.434    app     info:    [server-manager] Downloaded 27.40 MiB/170.19 MiB at 5.05 MiB/s
+2023-11-30 12:48:27.436    app     info:    [server-manager] Downloaded 37.22 MiB/170.19 MiB at 9.79 MiB/s
+2023-11-30 12:48:28.439    app     info:    [server-manager] Downloaded 47.03 MiB/170.19 MiB at 9.77 MiB/s
+2023-11-30 12:48:29.442    app     info:    [server-manager] Downloaded 56.86 MiB/170.19 MiB at 9.84 MiB/s
+2023-11-30 12:48:30.444    app     info:    [server-manager] Downloaded 66.65 MiB/170.19 MiB at 9.77 MiB/s
+2023-11-30 12:48:30.629    app     info:    [analytics] Hardware rendering enabled:    true    { disabledViaCommandline: false, disabledViaSettings: false }
+2023-11-30 12:48:31.448    app     info:    [server-manager] Downloaded 76.52 MiB/170.19 MiB at 9.80 MiB/s
+2023-11-30 12:48:32.451    app     info:    [server-manager] Downloaded 86.25 MiB/170.19 MiB at 9.65 MiB/s
+2023-11-30 12:48:33.451    app     info:    [server-manager] Downloaded 96.10 MiB/170.19 MiB at 5.13 MiB/s
+2023-11-30 12:48:34.454    app     info:    [server-manager] Downloaded 105.82 MiB/170.19 MiB at 10.00 MiB/s
+2023-11-30 12:48:35.451    app     info:    [ipc-requests] Handling requests in the background
+2023-11-30 12:48:35.456    app     info:    [server-manager] Downloaded 115.77 MiB/170.19 MiB at 15.00 MiB/s
+2023-11-30 12:48:36.451    app     info:    [ipc-requests] No longer handling requests in the background
+2023-11-30 12:48:36.456    app     info:    [server-manager] Downloaded 125.48 MiB/170.19 MiB at 9.70 MiB/s
+2023-11-30 12:48:37.458    app     info:    [server-manager] Downloaded 135.32 MiB/170.19 MiB at 9.82 MiB/s
+2023-11-30 12:48:38.461    app     info:    [server-manager] Downloaded 145.14 MiB/170.19 MiB at 9.83 MiB/s
+2023-11-30 12:48:39.462    app     info:    [server-manager] Downloaded 154.94 MiB/170.19 MiB at 9.82 MiB/s
+2023-11-30 12:48:40.465    app     info:    [server-manager] Downloaded 164.63 MiB/170.19 MiB at 9.80 MiB/s
+2023-11-30 12:48:40.792    app     info:    [download-from-manifest] Downloaded 178 files (169,49 MiB) in 17.492 seconds
+2023-11-30 12:48:40.793    app     info:    [download-from-manifest] Average download speed: 9,69 MiB/s
+2023-11-30 12:48:40.824    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesStarted
+2023-11-30 12:48:40.824    app     info:    [binary-copier] Copying 198 files (216 MB) to 'C:\CCP\EVE Online\tq'
+2023-11-30 12:48:40.869    app     info:    [binary-copier] Removing old binaries
+2023-11-30 12:48:40.883    app     info:    [binary-copier] Copying binaries from ResFiles
+2023-11-30 12:48:41.019    app     info:    [binary-copier] Finished copying 198 files to 'C:\CCP\EVE Online\tq' in 0.196 seconds
+2023-11-30 12:48:41.021    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesFinished
+2023-11-30 12:48:41.709    app     info:    [server-manager] Copying executables 198/198
+2023-11-30 12:48:43.093    app     info:    [manifest] Excluded 49229 files from the manifest, leaving 33 entries
+2023-11-30 12:48:43.093    app     info:    [server-manager] Downloading 33 prefetch files (713 MB)
+2023-11-30 12:48:43.094    app     info:    [download-from-manifest] Preparing to download 33 files    { cdn: 2, concurrent: 10 }
+2023-11-30 12:48:43.156    app     info:    [server-manager] Copying executables 198/198
+2023-11-30 12:48:44.157    app     info:    [server-manager] Downloaded 7.74 MiB/680.25 MiB at 3.92 MiB/s
+2023-11-30 12:48:45.160    app     info:    [server-manager] Downloaded 17.39 MiB/680.25 MiB at 9.19 MiB/s
+2023-11-30 12:48:46.162    app     info:    [server-manager] Downloaded 27.13 MiB/680.25 MiB at 9.81 MiB/s
+2023-11-30 12:48:47.166    app     info:    [server-manager] Downloaded 37.01 MiB/680.25 MiB at 9.88 MiB/s
+2023-11-30 12:48:48.170    app     info:    [server-manager] Downloaded 46.65 MiB/680.25 MiB at 4.82 MiB/s
+2023-11-30 12:48:49.175    app     info:    [server-manager] Downloaded 56.70 MiB/680.25 MiB at 10.03 MiB/s
+2023-11-30 12:48:50.178    app     info:    [server-manager] Downloaded 66.58 MiB/680.25 MiB at 9.63 MiB/s
+2023-11-30 12:48:51.186    app     info:    [server-manager] Downloaded 76.21 MiB/680.25 MiB at 9.61 MiB/s
+2023-11-30 12:48:52.188    app     info:    [server-manager] Downloaded 86.07 MiB/680.25 MiB at 9.70 MiB/s
+2023-11-30 12:48:52.781    app     warn:    Could not connect to LogLite    [
+  Error: connect ECONNREFUSED 127.0.0.1:3273
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16) {
+    errno: -4078,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '127.0.0.1',
+    port: 3273
+  }
+]
+2023-11-30 12:48:53.194    app     info:    [server-manager] Downloaded 95.20 MiB/680.25 MiB at 9.62 MiB/s
+2023-11-30 12:48:54.208    app     info:    [server-manager] Downloaded 103.51 MiB/680.25 MiB at 7.81 MiB/s
+2023-11-30 12:48:55.211    app     info:    [server-manager] Downloaded 112.66 MiB/680.25 MiB at 9.20 MiB/s
+2023-11-30 12:48:56.213    app     info:    [server-manager] Downloaded 122.51 MiB/680.25 MiB at 4.86 MiB/s
+2023-11-30 12:48:57.214    app     info:    [server-manager] Downloaded 132.33 MiB/680.25 MiB at 9.90 MiB/s
+2023-11-30 12:48:58.216    app     info:    [server-manager] Downloaded 142.09 MiB/680.25 MiB at 4.72 MiB/s
+2023-11-30 12:48:59.218    app     info:    [server-manager] Downloaded 151.87 MiB/680.25 MiB at 9.63 MiB/s
+2023-11-30 12:49:00.225    app     info:    [server-manager] Downloaded 161.73 MiB/680.25 MiB at 10.10 MiB/s
+2023-11-30 12:49:01.227    app     info:    [server-manager] Downloaded 171.54 MiB/680.25 MiB at 5.05 MiB/s
+2023-11-30 12:49:02.235    app     info:    [server-manager] Downloaded 181.47 MiB/680.25 MiB at 9.92 MiB/s
+2023-11-30 12:49:03.238    app     info:    [server-manager] Downloaded 191.20 MiB/680.25 MiB at 5.23 MiB/s
+2023-11-30 12:49:04.241    app     info:    [server-manager] Downloaded 201.07 MiB/680.25 MiB at 10.17 MiB/s
+2023-11-30 12:49:05.247    app     info:    [server-manager] Downloaded 210.92 MiB/680.25 MiB at 14.97 MiB/s
+2023-11-30 12:49:06.252    app     info:    [server-manager] Downloaded 220.72 MiB/680.25 MiB at 9.83 MiB/s
+2023-11-30 12:49:07.256    app     info:    [server-manager] Downloaded 230.65 MiB/680.25 MiB at 10.02 MiB/s
+2023-11-30 12:49:08.264    app     info:    [server-manager] Downloaded 240.41 MiB/680.25 MiB at 9.80 MiB/s
+2023-11-30 12:49:09.266    app     info:    [server-manager] Downloaded 250.36 MiB/680.25 MiB at 10.24 MiB/s
+2023-11-30 12:49:10.274    app     info:    [server-manager] Downloaded 260.15 MiB/680.25 MiB at 9.56 MiB/s
+2023-11-30 12:49:11.281    app     info:    [server-manager] Downloaded 270.03 MiB/680.25 MiB at 5.05 MiB/s
+2023-11-30 12:49:12.284    app     info:    [server-manager] Downloaded 279.92 MiB/680.25 MiB at 10.06 MiB/s
+2023-11-30 12:49:13.287    app     info:    [server-manager] Downloaded 289.76 MiB/680.25 MiB at 14.65 MiB/s
+2023-11-30 12:49:14.294    app     info:    [server-manager] Downloaded 299.54 MiB/680.25 MiB at 9.64 MiB/s
+2023-11-30 12:49:15.301    app     info:    [server-manager] Downloaded 309.42 MiB/680.25 MiB at 14.92 MiB/s
+2023-11-30 12:49:16.308    app     info:    [server-manager] Downloaded 319.19 MiB/680.25 MiB at 9.24 MiB/s
+2023-11-30 12:49:17.313    app     info:    [server-manager] Downloaded 329.10 MiB/680.25 MiB at 9.89 MiB/s
+2023-11-30 12:49:18.321    app     info:    [server-manager] Downloaded 338.91 MiB/680.25 MiB at 5.19 MiB/s
+2023-11-30 12:49:19.327    app     info:    [server-manager] Downloaded 348.81 MiB/680.25 MiB at 9.90 MiB/s
+2023-11-30 12:49:20.331    app     info:    [server-manager] Downloaded 358.63 MiB/680.25 MiB at 9.92 MiB/s
+2023-11-30 12:49:21.334    app     info:    [server-manager] Downloaded 368.44 MiB/680.25 MiB at 14.86 MiB/s
+2023-11-30 12:49:22.337    app     info:    [server-manager] Downloaded 378.30 MiB/680.25 MiB at 10.06 MiB/s
+2023-11-30 12:49:23.340    app     info:    [server-manager] Downloaded 388.28 MiB/680.25 MiB at 9.98 MiB/s
+2023-11-30 12:49:24.342    app     info:    [server-manager] Downloaded 397.96 MiB/680.25 MiB at 9.56 MiB/s
+2023-11-30 12:49:25.345    app     info:    [server-manager] Downloaded 407.83 MiB/680.25 MiB at 5.03 MiB/s
+2023-11-30 12:49:26.346    app     info:    [server-manager] Downloaded 417.70 MiB/680.25 MiB at 9.71 MiB/s
+2023-11-30 12:49:27.349    app     info:    [server-manager] Downloaded 427.52 MiB/680.25 MiB at 9.69 MiB/s
+2023-11-30 12:49:28.351    app     info:    [server-manager] Downloaded 437.34 MiB/680.25 MiB at 9.83 MiB/s
+2023-11-30 12:49:29.354    app     info:    [server-manager] Downloaded 447.12 MiB/680.25 MiB at 9.64 MiB/s
+2023-11-30 12:49:30.357    app     info:    [server-manager] Downloaded 456.96 MiB/680.25 MiB at 10.01 MiB/s
+2023-11-30 12:49:31.360    app     info:    [server-manager] Downloaded 466.87 MiB/680.25 MiB at 10.04 MiB/s
+2023-11-30 12:49:32.363    app     info:    [server-manager] Downloaded 476.69 MiB/680.25 MiB at 9.83 MiB/s
+2023-11-30 12:49:33.365    app     info:    [server-manager] Downloaded 486.54 MiB/680.25 MiB at 9.88 MiB/s
+2023-11-30 12:49:34.366    app     info:    [server-manager] Downloaded 496.31 MiB/680.25 MiB at 14.67 MiB/s
+2023-11-30 12:49:35.366    app     info:    [server-manager] Downloaded 506.14 MiB/680.25 MiB at 9.87 MiB/s
+2023-11-30 12:49:36.369    app     info:    [server-manager] Downloaded 515.91 MiB/680.25 MiB at 9.75 MiB/s
+2023-11-30 12:49:37.370    app     info:    [server-manager] Downloaded 525.73 MiB/680.25 MiB at 9.87 MiB/s
+2023-11-30 12:49:38.373    app     info:    [server-manager] Downloaded 535.57 MiB/680.25 MiB at 9.83 MiB/s
+2023-11-30 12:49:39.375    app     info:    [server-manager] Downloaded 545.38 MiB/680.25 MiB at 9.79 MiB/s
+2023-11-30 12:49:40.377    app     info:    [server-manager] Downloaded 555.19 MiB/680.25 MiB at 9.83 MiB/s
+2023-11-30 12:49:41.379    app     info:    [server-manager] Downloaded 565.03 MiB/680.25 MiB at 9.85 MiB/s
+2023-11-30 12:49:42.381    app     info:    [server-manager] Downloaded 574.84 MiB/680.25 MiB at 9.79 MiB/s
+2023-11-30 12:49:43.383    app     info:    [server-manager] Downloaded 584.67 MiB/680.25 MiB at 9.83 MiB/s
+2023-11-30 12:49:44.385    app     info:    [server-manager] Downloaded 594.48 MiB/680.25 MiB at 9.83 MiB/s
+2023-11-30 12:49:45.386    app     info:    [server-manager] Downloaded 604.25 MiB/680.25 MiB at 14.73 MiB/s
+2023-11-30 12:49:46.389    app     info:    [server-manager] Downloaded 614.03 MiB/680.25 MiB at 9.72 MiB/s
+2023-11-30 12:49:47.390    app     info:    [server-manager] Downloaded 623.85 MiB/680.25 MiB at 9.84 MiB/s
+2023-11-30 12:49:48.393    app     info:    [server-manager] Downloaded 633.68 MiB/680.25 MiB at 9.85 MiB/s
+2023-11-30 12:49:49.395    app     info:    [server-manager] Downloaded 643.49 MiB/680.25 MiB at 9.81 MiB/s
+2023-11-30 12:49:50.397    app     info:    [server-manager] Downloaded 653.32 MiB/680.25 MiB at 9.81 MiB/s
+2023-11-30 12:49:51.399    app     info:    [server-manager] Downloaded 663.13 MiB/680.25 MiB at 9.79 MiB/s
+2023-11-30 12:49:52.401    app     info:    [server-manager] Downloaded 672.91 MiB/680.25 MiB at 9.84 MiB/s
+2023-11-30 12:49:52.923    app     info:    [download-from-manifest] Downloaded 33 files (680,07 MiB) in 1 minutes, 9.829 seconds
+2023-11-30 12:49:52.924    app     info:    [download-from-manifest] Average download speed: 9,74 MiB/s
+2023-11-30 12:49:52.928    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.GameClientUpdateFinished
+2023-11-30 12:49:52.930    app     info:    [server-manager] Downloaded 680.25 MiB/680.25 MiB at 109.40 MiB/s
+2023-11-30 12:49:52.932    app     info:    [server-manager] Ready to play!
+2023-11-30 12:49:52.934    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-11-30 12:49:52.934    app     info:    [server-manager] Build for Tranquility is now 2438956
+2023-11-30 12:50:08.078    app     info:    [authentication] Generated login URL with state 'h4zsRuc8sanB_IioMzEKq9EKpGUlEQRZHDVyFjdGFCU' for 'tranquility' using clientID 'eveLauncherTQ'
+2023-11-30 12:50:08.080    app     info:    [authentication-handler] Creating login window using URI https://login.eveonline.com/account/logoff?lang=en&ReturnUrl=%2Fv2%2Foauth%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3DeveLauncherTQ%26scope%3DeveClientLogin%2Bcisservice.customerRead.v1%2Bcisservice.customerWrite.v1%2Bcisservice.userProfileBasic.v1%2Bvgs.transactionRead.v1%2Bvgs.marketAccess.v1%26redirect_uri%3Dhttps%253A%252F%252Flogin.eveonline.com%252Flauncher%253Fclient_id%253DeveLauncherTQ%26state%3Dh4zsRuc8sanB_IioMzEKq9EKpGUlEQRZHDVyFjdGFCU%26code_challenge_method%3DS256%26code_challenge%3DLyk-iiqVUbH_zlKK5T8xkc7to3W0GQIhH4alwNzi-OU
+2023-11-30 12:50:08.795    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.LoginWindowOpened
+2023-11-30 12:50:13.010    app     info:    [ipc-requests] Opening external link: https://login.eveonline.com/account/external
+2023-11-30 12:50:13.112    app     info:    [ipc-requests] Handling requests in the background
+2023-11-30 12:50:14.128    app     info:    [ipc-requests] No longer handling requests in the background
+2023-11-30 12:50:24.921    app     info:    [authentication-handler] Switching from login to signup
+2023-11-30 12:50:24.929    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.LoginWindowClosed
+2023-11-30 12:50:59.118    app     info:    [signup-ipc] Sending email to the signup service for validation.    { value: 'dee.covana@gmail.com' }
+2023-11-30 12:50:59.120    app     info:    [signup-ipc] Sending username to the signup service for validation.    { value: 'dee.covana' }
+2023-11-30 12:51:00.594    app     info:    [signup-ipc] Validated email with the signup service    { value: 'dee.covana@gmail.com', result: true }
+2023-11-30 12:51:03.500    app     info:    [signup-ipc] Validated username with the signup service    { value: 'dee.covana', result: true }
+2023-11-30 12:51:26.514    app     info:    [signup-ipc] Sending registration request to the signup service.    {
+  captchaResponse: '03AFcWeA5vQZWw8doDRWwV0hn-to6dobOYaUn5pbVYpYAICNcE3T1aY0eNQ1PlEqhO4Po3m1tiZNen2vtY9BS4MI2TUTFWKwXSutdPeTF4K6liXOXQ2QVe8n7R85t2wCO7Wz4JsDwmBc6_HNECU7HzOkl0VEaDxJV-3j-2Ah0nTKkkZCIv7cyjwbgxK___A-ahGMXszOHc6UBzuNSb1n_ez2DUTK6AaI3aTBsmLJ2Oi2ligFMV2AppDuqstziQX2-3IytAMXlDDEohtvhOzwfgBNiGypajDhtrDbo6aBjMan59Am4snv-uy5lelqaQOah3dgtICfrx3dj9NsbGRB3qsRm-n-eQgVHzzaXVdhLWDlAmdYQq2pHQeuKOTmywFuMF5IOjSyJXcMu4SDx_4aJltc7C6NcA8OttpIcqIinWOU9NNjbOG9XXd9oVV3eDcIPLY0mgIvUcrKU-HFmySQ4AL15p2oHbC59qTXDlcYlJGQyr1xei5MJYo3HeKZBSOwF9RchUIjZC0oAnJiy4-wsNj27V5yc272X_PRjiUXQO1Gw3CDR3SRtaen0',
+  email: 'dee.covana@gmail.com',
+  username: 'dee.covana'
+}
+2023-11-30 12:51:31.882    app     info:    [server-manager] Starting refresh cycle for Tranquility
+2023-11-30 12:51:31.885    app     info:    [customer-information] Getting character information for '29280260' on 'tranquility'
+2023-11-30 12:51:31.885    app     info:    [customer-information] Getting Omega status for '29280260' on 'tranquility'
+2023-11-30 12:51:31.885    app     info:    [virtual-goods] Getting Plex status for '29280260' on 'tranquility'
+2023-11-30 12:51:31.988    app     info:    [virtual-goods] Fetched Plex status for '29280260' on 'tranquility'
+2023-11-30 12:51:32.013     ui     info:    Signup success, not new user experience false    ccp://launcher/renderer/main_window/index.js    2
+2023-11-30 12:51:32.039    app     info:    info: [LaunchDarkly] Closing stream connection    []
+2023-11-30 12:51:32.040    app     info:    info: [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/64c3d12e27a4b11365012d39/eyJrZXkiOiI0YTQzNmFkYi00Yjk5LTQwYTctODViMC00MmUyMDZmNDEyODYiLCJraW5kIjoidXNlciIsImN1c3RvbSI6eyJpc0ZpcnN0UnVuIjpmYWxzZSwiZGF5c1NpbmNlRmlyc3RSdW4iOjMsImxhbmd1YWdlIjoiZW4iLCJhcHBsaWNhdGlvbiI6ImV2ZS1vbmxpbmUiLCJ2ZXJzaW9uIjoiMC40LjEwIiwicGxhdGZvcm0iOiJ3aW5kb3dzIiwib3NWZXJzaW9uRGVwcmVjYXRlZCI6ZmFsc2UsInVzZXJJZHMiOlsxNjQ5MjM3NywxNzUyNTMxMiwyNTIxODgzNSwyOTI4MDI2MF0sImNoYXJhY3RlcklkcyI6WzIxMTM4NzUxMzksMjExNDY1NjEyNywyMTE5MzYxODkxLDIxMjAzNDc2MzUsMjEyMTE3NDg3MSwyMTIxMTc4Mzk2XSwib21lZ2FDb3VudCI6MCwiYWxwaGFDb3VudCI6NCwiYWNjb3VudENvdW50Ijo0LCJvbGRlc3RBY2NvdW50QWdlIjoyMDk1LCJ5b3VuZ2VzdEFjY291bnRBZ2UiOjc0NH19?withReasons=true    []
+2023-11-30 12:51:32.107    app     info:    [customer-information] Agreement status has been fetched for user '29280260'
+2023-11-30 12:51:32.107    app     info:    [AuthenticationMiddleware] User information updated
+2023-11-30 12:51:32.165    app     info:    [server-manager] Previous Tranquility build: 2438956, current build: 2438956
+2023-11-30 12:51:32.165    app     info:    [server-manager] Tranquility build is unchanged.
+2023-11-30 12:51:32.172    app     info:    [server-manager] Ready to play!
+2023-11-30 12:51:32.175    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-11-30 12:51:34.041    app     info:    [customer-information] Agreement marked as agreed for '29280260'
+2023-11-30 12:51:34.041    app     info:    [AuthenticationMiddleware] Updated agreements for 1 users.    { success: 1, failed: [] }
+2023-11-30 12:51:37.020    app     info:    info: [LaunchDarkly] Closing stream connection    []
+2023-11-30 12:51:37.022    app     info:    info: [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/64c3d12e27a4b11365012d39/eyJrZXkiOiI0YTQzNmFkYi00Yjk5LTQwYTctODViMC00MmUyMDZmNDEyODYiLCJraW5kIjoidXNlciIsImN1c3RvbSI6eyJpc0ZpcnN0UnVuIjpmYWxzZSwiZGF5c1NpbmNlRmlyc3RSdW4iOjMsImxhbmd1YWdlIjoiZW4iLCJhcHBsaWNhdGlvbiI6ImV2ZS1vbmxpbmUiLCJ2ZXJzaW9uIjoiMC40LjEwIiwicGxhdGZvcm0iOiJ3aW5kb3dzIiwib3NWZXJzaW9uRGVwcmVjYXRlZCI6ZmFsc2UsInVzZXJJZHMiOlsxNjQ5MjM3NywxNzUyNTMxMiwyNTIxODgzNSwyOTI4MDI2MF0sImNoYXJhY3RlcklkcyI6WzIxMTM4NzUxMzksMjExNDY1NjEyNywyMTE5MzYxODkxLDIxMjAzNDc2MzUsMjEyMTE3NDg3MSwyMTIxMTc4Mzk2XSwib21lZ2FDb3VudCI6MCwiYWxwaGFDb3VudCI6NCwiYWNjb3VudENvdW50Ijo0LCJvbGRlc3RBY2NvdW50QWdlIjoyMDk1LCJ5b3VuZ2VzdEFjY291bnRBZ2UiOjB9fQ?withReasons=true    []
+2023-11-30 12:51:44.948    app     info:    [client-queue] Queued client startup    {
+  tenant: 'tranquility',
+  userId: 29280260,
+  characterId: 1,
+  profile: ''
+}
+2023-11-30 12:51:44.950    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.ClientQueued
+2023-11-30 12:51:44.950    app     info:    [client-queue] No clients running for tranquility, copying files before starting a client
+2023-11-30 12:51:44.954    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesStarted
+2023-11-30 12:51:44.955    app     info:    [binary-copier] Copying 198 files (216 MB) to 'C:\CCP\EVE Online\tq'
+2023-11-30 12:51:44.971    app     info:    [binary-copier] Removing old binaries
+2023-11-30 12:51:44.994    app     info:    [binary-copier] Copying binaries from ResFiles
+2023-11-30 12:51:45.099    app     info:    [binary-copier] Finished copying 198 files to 'C:\CCP\EVE Online\tq' in 0.146 seconds
+2023-11-30 12:51:45.100    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesFinished
+2023-11-30 12:51:45.107    app     info:    [client-manager] Starting EVE Online game client.    C:\CCP\EVE Online\tq\bin64\exefile.exe    Map(10) {
+  'noconsole' => '/noconsole',
+  'server' => '/server:tranquility.servers.eveonline.com',
+  'triplatform' => '/triplatform=dx12',
+  'ssotoken' => '/ssoToken=***',
+  'refreshtoken' => '/refreshToken=***',
+  'settingsprofile' => '/settingsprofile=Default',
+  'deviceid' => '/deviceID=4a436adb-4b99-40a7-85b0-42e206f41286',
+  'language' => '/language=en',
+  'exp' => '1701435091',
+  'tokenExpires' => '2023-12-01 14:51:31.000'
+}    29280260
+2023-11-30 12:51:45.109    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.GameClientStartRequested
+2023-11-30 12:51:45.139    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.TemporaryClientProcessAdded
+2023-11-30 12:51:45.142    app     info:    [client-queue] Started client from group startup    {
+  tenant: 'tranquility',
+  characterId: 1,
+  profile: '',
+  userId: 29280260
+}
+2023-11-30 12:51:45.651    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.TemporaryClientProcessMonitoringRetried
+2023-11-30 12:51:45.659    app     info:    [client-manager] Found 'tranquility' client for '29280260' running:     {
+  processId: 3284,
+  createdDate: 1701348705197,
+  userId: 29280260,
+  characterId: undefined,
+  profile: 'Default',
+  dxVersion: 'dx12'
+}
+2023-11-30 12:51:45.671    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.GameClientStarted
+2023-11-30 12:51:45.677    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.TemporaryClientProcessRemoved
+2023-11-30 12:51:46.158    app     info:    [client-queue] Queue has stopped running, no more clients pending startup.
+2023-11-30 12:51:50.290    app     info:    [ipc-requests] Handling requests in the background
+2023-11-30 12:51:51.299    app     info:    [ipc-requests] No longer handling requests in the background
+2023-11-30 12:53:18.338    app     info:    [ipc-requests] Handling requests in the background
+2023-11-30 12:53:19.346    app     info:    [ipc-requests] No longer handling requests in the background
+2023-11-30 12:53:22.748    app     info:    [self-update] Checking for a launcher update...
+2023-11-30 12:53:23.045    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-11-30 12:53:38.045    app     info:    [ipc-requests] Handling requests in the background
+2023-11-30 12:53:39.049    app     info:    [ipc-requests] No longer handling requests in the background
+2023-11-30 12:54:00.195    app     info:    [ipc-requests] Handling requests in the background
+2023-11-30 12:54:01.196    app     info:    [ipc-requests] No longer handling requests in the background
+2023-11-30 12:54:06.699    app     info:    [ipc-requests] Handling requests in the background
+2023-11-30 12:54:07.711    app     info:    [ipc-requests] No longer handling requests in the background
+2023-11-30 12:55:00.936    app     info:    [ipc-requests] Handling requests in the background
+2023-11-30 12:55:01.947    app     info:    [ipc-requests] No longer handling requests in the background
+2023-11-30 12:55:19.304    app     info:    [ipc-requests] Handling requests in the background
+2023-11-30 12:55:20.307    app     info:    [ipc-requests] No longer handling requests in the background
+2023-11-30 12:56:31.868    app     info:    [elg-events] ELG connection closed with ECONNRESET, restarting connection in 30s
+2023-11-30 12:56:32.191    app     info:    [server-manager] Starting refresh cycle for Tranquility
+2023-11-30 12:56:32.434    app     info:    [server-manager] Previous Tranquility build: 2438956, current build: 2438956
+2023-11-30 12:56:32.434    app     info:    [server-manager] Tranquility build is unchanged.
+2023-11-30 12:56:32.439    app     info:    [server-manager] Ready to play!
+2023-11-30 12:56:32.443    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-11-30 12:58:23.058    app     info:    [self-update] Checking for a launcher update...
+2023-11-30 12:58:23.346    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-11-30 13:01:32.452    app     info:    [server-manager] Starting refresh cycle for Tranquility
+2023-11-30 13:01:32.619    app     info:    [server-manager] Previous Tranquility build: 2438956, current build: 2438956
+2023-11-30 13:01:32.620    app     info:    [server-manager] Tranquility build is unchanged.
+2023-11-30 13:01:32.624    app     info:    [server-manager] Ready to play!
+2023-11-30 13:01:32.627    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-11-30 13:03:23.354    app     info:    [self-update] Checking for a launcher update...
+2023-11-30 13:03:23.631    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-11-30 13:03:40.831    app     info:    [elg-events] ELG connection closed with ECONNRESET, restarting connection in 30s
+2023-11-30 13:04:41.213    app     info:    [ipc-requests] Handling requests in the background
+2023-11-30 13:04:42.218    app     info:    [ipc-requests] No longer handling requests in the background
+2023-11-30 13:04:44.580    app     info:    [ipc-requests] Handling requests in the background
+2023-11-30 13:04:45.592    app     info:    [ipc-requests] No longer handling requests in the background
+2023-11-30 13:06:32.626    app     info:    [server-manager] Starting refresh cycle for Tranquility
+2023-11-30 13:06:32.750    app     info:    [server-manager] Previous Tranquility build: 2438956, current build: 2438956
+2023-11-30 13:06:32.751    app     info:    [server-manager] Tranquility build is unchanged.
+2023-11-30 13:06:32.755    app     info:    [server-manager] Ready to play!
+2023-11-30 13:06:32.757    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-11-30 13:08:23.653    app     info:    [self-update] Checking for a launcher update...
+2023-11-30 13:08:23.931    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-11-30 13:10:09.404    app     info:    [client-manager] 'tranquility' for EVE game client for '29280260' exited with no errors.
+2023-11-30 13:10:09.409    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.GameClientExited
+2023-11-30 13:10:09.419    app     info:    [server-manager] Starting refresh cycle for Tranquility
+2023-11-30 13:10:09.569    app     info:    [server-manager] Previous Tranquility build: 2438956, current build: 2438956
+2023-11-30 13:10:09.569    app     info:    [server-manager] Tranquility build is unchanged.
+2023-11-30 13:10:09.590    app     info:    [server-manager] Ready to play!
+2023-11-30 13:10:09.595    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-11-30 13:10:13.239    app     info:    [ipc-requests] Handling requests in the background
+2023-11-30 13:10:14.243    app     info:    [ipc-requests] No longer handling requests in the background
+2023-11-30 13:10:33.460    app     info:    [elg-events] ELG connection closed with ECONNRESET, restarting connection in 30s
