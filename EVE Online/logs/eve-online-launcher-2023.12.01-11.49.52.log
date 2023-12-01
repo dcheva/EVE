@@ -502,3 +502,50 @@
 2023-12-01 14:25:41.273    app     info:    [server-manager] Tranquility build is unchanged.
 2023-12-01 14:25:41.277    app     info:    [server-manager] Ready to play!
 2023-12-01 14:25:41.279    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-01 14:27:08.112    app     info:    [tray] Main window restored from tray    { windowId: 2 }
+2023-12-01 14:27:08.121    app     info:    [creatives] Requesting creatives
+2023-12-01 14:27:08.250    app     info:    [creatives] Received 3 creatives
+2023-12-01 14:27:10.149    app     info:    [authentication] Generated login URL with state 'i05uij29mHFVYO-bado8j6OnacJR386_A-qgStnAEd8' for 'tranquility' using clientID 'eveLauncherTQ'
+2023-12-01 14:27:10.151    app     info:    [authentication-handler] Creating login window using URI https://login.eveonline.com/account/logoff?lang=en&ReturnUrl=%2Fv2%2Foauth%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3DeveLauncherTQ%26scope%3DeveClientLogin%2Bcisservice.customerRead.v1%2Bcisservice.customerWrite.v1%2Bcisservice.userProfileBasic.v1%2Bvgs.transactionRead.v1%2Bvgs.marketAccess.v1%26redirect_uri%3Dhttps%253A%252F%252Flogin.eveonline.com%252Flauncher%253Fclient_id%253DeveLauncherTQ%26state%3Di05uij29mHFVYO-bado8j6OnacJR386_A-qgStnAEd8%26code_challenge_method%3DS256%26code_challenge%3DQZ0x47CSwVnng1GGhvye6CGV2In0CrT5e3-JuaORCPE
+2023-12-01 14:27:10.845    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.LoginWindowOpened
+2023-12-01 14:27:17.445    app     info:    [authentication-handler] Switching from login to signup
+2023-12-01 14:27:17.454    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.LoginWindowClosed
+2023-12-01 14:27:20.400    app     info:    [ipc-requests] Handling requests in the background
+2023-12-01 14:27:21.403    app     info:    [ipc-requests] No longer handling requests in the background
+2023-12-01 14:28:52.863    app     info:    [signup-ipc] Sending email to the signup service for validation.    { value: 'neverplayedever@gmail.com' }
+2023-12-01 14:28:52.864    app     info:    [signup-ipc] Sending username to the signup service for validation.    { value: 'never-played' }
+2023-12-01 14:28:53.211    app     info:    [signup-ipc] Validated username with the signup service    { value: 'never-played', result: true }
+2023-12-01 14:28:53.788    app     info:    [signup-ipc] Validated email with the signup service    { value: 'neverplayedever@gmail.com', result: true }
+2023-12-01 14:29:16.017    app     info:    [signup-ipc] Sending registration request to the signup service.    {
+  captchaResponse: '03AFcWeA4_h4XQnceFg_fz5PtfHrsvX3M-5awfaZW7u-rahfGqTj5onoXnLxJEdwDzfYHKvjygi0XEaKljS01ST3ifIeqzgxXahu4ATm6CBeKjOMRSkZvv6KPzSKtJyvR5gsPdUYxD_FM_gAez-h4uesXh4laYMHRDD7wy-aKMjzGfTK51cOpQVXLdMpYmmv7DfcbbdjHowKvCcT5CVtjJKVvmiB_T01JW8-TagWugMSq_UTO6AGrrE0xSqF_GgF3YRjgOjA-zw5gxA49kddfhNtM9iZsgBCT_ma6urIBQKOUhjRwKni5X_oHKMLLwnF0cJ0Udl0qjjhj2EXj2OiuBbdNtHRmTEUdbR3lyprfUaDlmxni9VgOAovoDgm983fV5js5Lh0XrVOnWztK918gU2XO2PMd3Ue7o4nG15gPmFuWv6X7IXdANaresgdUj3_Yy1tMLXBf1wQZ2Wn1-k4LYMFUpHxGq040Ito1IRHsrdLhv-V_LJc6anqujsecbAIrLoSV2pdUmFF-21JBsxV5fAn-Bf3VOIgBHyD32-P5wVlPO3erajqaMktgXcFtKC37pGEkVZ_RFfnRM',
+  email: 'neverplayedever@gmail.com',
+  username: 'never-played'
+}
+2023-12-01 14:29:17.593    app     info:    [server-manager] Starting refresh cycle for Tranquility
+2023-12-01 14:29:17.597    app     info:    [customer-information] Getting character information for '29285645' on 'tranquility'
+2023-12-01 14:29:17.597    app     info:    [customer-information] Getting Omega status for '29285645' on 'tranquility'
+2023-12-01 14:29:17.597    app     info:    [virtual-goods] Getting Plex status for '29285645' on 'tranquility'
+2023-12-01 14:29:17.727     ui     info:    Signup success, not new user experience false    ccp://launcher/renderer/main_window/index.js    2
+2023-12-01 14:29:17.741    app     info:    info: [LaunchDarkly] Closing stream connection    []
+2023-12-01 14:29:17.741    app     info:    info: [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/64c3d12e27a4b11365012d39/eyJrZXkiOiI0YTQzNmFkYi00Yjk5LTQwYTctODViMC00MmUyMDZmNDEyODYiLCJraW5kIjoidXNlciIsImN1c3RvbSI6eyJpc0ZpcnN0UnVuIjpmYWxzZSwiZGF5c1NpbmNlRmlyc3RSdW4iOjQsImxhbmd1YWdlIjoiZW4iLCJhcHBsaWNhdGlvbiI6ImV2ZS1vbmxpbmUiLCJ2ZXJzaW9uIjoiMC40LjEwIiwicGxhdGZvcm0iOiJ3aW5kb3dzIiwib3NWZXJzaW9uRGVwcmVjYXRlZCI6ZmFsc2UsInVzZXJJZHMiOlsxNjQ5MjM3NywxNzUyNTMxMiwyNTIxODgzNSwyOTI4MDI2MCwyOTI4NTY0NV0sImNoYXJhY3RlcklkcyI6WzIxMTM4NzUxMzksMjExNDY1NjEyNywyMTE5MzYxODkxLDIxMjAzNDc2MzUsMjEyMTE3NDg3MSwyMTIxMTc4Mzk2LDIxMjE4NTMzMzZdLCJvbWVnYUNvdW50IjowLCJhbHBoYUNvdW50Ijo1LCJhY2NvdW50Q291bnQiOjUsIm9sZGVzdEFjY291bnRBZ2UiOjIwOTYsInlvdW5nZXN0QWNjb3VudEFnZSI6MX19?withReasons=true    []
+2023-12-01 14:29:17.779    app     info:    [server-manager] Previous Tranquility build: 2440374, current build: 2440374
+2023-12-01 14:29:17.779    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-01 14:29:17.783    app     info:    [server-manager] Ready to play!
+2023-12-01 14:29:17.786    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-01 14:29:18.024    app     info:    [customer-information] Agreement status has been fetched for user '29285645'
+2023-12-01 14:29:18.172    app     info:    [virtual-goods] Fetched Plex status for '29285645' on 'tranquility'
+2023-12-01 14:29:18.183    app     info:    [AuthenticationMiddleware] User information updated
+2023-12-01 14:29:19.619    app     info:    [customer-information] Agreement marked as agreed for '29285645'
+2023-12-01 14:29:19.620    app     info:    [AuthenticationMiddleware] Updated agreements for 1 users.    { success: 1, failed: [] }
+2023-12-01 14:29:22.708    app     info:    info: [LaunchDarkly] Closing stream connection    []
+2023-12-01 14:29:22.709    app     info:    info: [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/64c3d12e27a4b11365012d39/eyJrZXkiOiI0YTQzNmFkYi00Yjk5LTQwYTctODViMC00MmUyMDZmNDEyODYiLCJraW5kIjoidXNlciIsImN1c3RvbSI6eyJpc0ZpcnN0UnVuIjpmYWxzZSwiZGF5c1NpbmNlRmlyc3RSdW4iOjQsImxhbmd1YWdlIjoiZW4iLCJhcHBsaWNhdGlvbiI6ImV2ZS1vbmxpbmUiLCJ2ZXJzaW9uIjoiMC40LjEwIiwicGxhdGZvcm0iOiJ3aW5kb3dzIiwib3NWZXJzaW9uRGVwcmVjYXRlZCI6ZmFsc2UsInVzZXJJZHMiOlsxNjQ5MjM3NywxNzUyNTMxMiwyNTIxODgzNSwyOTI4MDI2MCwyOTI4NTY0NV0sImNoYXJhY3RlcklkcyI6WzIxMTM4NzUxMzksMjExNDY1NjEyNywyMTE5MzYxODkxLDIxMjAzNDc2MzUsMjEyMTE3NDg3MSwyMTIxMTc4Mzk2LDIxMjE4NTMzMzZdLCJvbWVnYUNvdW50IjowLCJhbHBoYUNvdW50Ijo1LCJhY2NvdW50Q291bnQiOjUsIm9sZGVzdEFjY291bnRBZ2UiOjIwOTYsInlvdW5nZXN0QWNjb3VudEFnZSI6MH19?withReasons=true    []
+2023-12-01 14:29:33.829    app     info:    [main-window] Main window minimized to tray    { windowId: 2 }
+2023-12-01 14:29:33.837    app     info:    [ipc-requests] Handling requests in the background
+2023-12-01 14:29:34.837    app     info:    [ipc-requests] No longer handling requests in the background
+2023-12-01 14:29:36.386    app     info:    [tray] Quitting application from tray
+2023-12-01 14:29:36.388    app     info:    Application quitting. Cleanup needed: true
+2023-12-01 14:29:36.390    app     info:    [elg-events] Sending event    eve_launcher.electron.application.LauncherShutdown
+2023-12-01 14:29:36.392    app     info:    app.quit called, but we are still sending ELG events.
+2023-12-01 14:29:37.005    app     info:    ELG stream closed, quitting.
+2023-12-01 14:29:37.007    app     info:    [main-window] Main window closing    { windowId: 2 }
+2023-12-01 14:29:37.021    app     info:    Application closed    0

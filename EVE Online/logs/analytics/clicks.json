@@ -5,22 +5,8 @@
       "height": 800
     },
     "click": {
-      "x": 941,
-      "y": 400,
-      "tagName": "BUTTON",
-      "id": "",
-      "className": "mantine-UnstyledButton-root mantine-Button-root mantine-18s04gt",
-      "innerText": "NOT READY"
-    }
-  },
-  {
-    "window": {
-      "width": 1400,
-      "height": 800
-    },
-    "click": {
-      "x": 523,
-      "y": 440,
+      "x": 498,
+      "y": 431,
       "tagName": "DIV",
       "id": "root",
       "className": "",
@@ -33,8 +19,8 @@
       "height": 800
     },
     "click": {
-      "x": 910,
-      "y": 412,
+      "x": 926,
+      "y": 395,
       "tagName": "BUTTON",
       "id": "",
       "className": "mantine-UnstyledButton-root mantine-Button-root mantine-fnk0ba",
@@ -47,8 +33,64 @@
       "height": 800
     },
     "click": {
-      "x": 1375,
-      "y": 18,
+      "x": 650,
+      "y": 598,
+      "tagName": "DIV",
+      "id": "root",
+      "className": "",
+      "innerText": ""
+    }
+  },
+  {
+    "window": {
+      "width": 1400,
+      "height": 800
+    },
+    "click": {
+      "x": 1249,
+      "y": 160,
+      "tagName": "BUTTON",
+      "id": "",
+      "className": "mantine-UnstyledButton-root active mantine-cas5u6",
+      "innerText": "Account Settings"
+    }
+  },
+  {
+    "window": {
+      "width": 1400,
+      "height": 800
+    },
+    "click": {
+      "x": 858,
+      "y": 449,
+      "tagName": "BUTTON",
+      "id": "",
+      "className": "mantine-UnstyledButton-root active mantine-1bl9jjk",
+      "innerText": "Remove Account"
+    }
+  },
+  {
+    "window": {
+      "width": 1400,
+      "height": 800
+    },
+    "click": {
+      "x": 1377,
+      "y": 15,
+      "tagName": "BUTTON",
+      "id": "",
+      "className": "mantine-UnstyledButton-root mantine-CloseButton-wrapper mantine-CloseButton-CloseButton mantine-1evzfwy",
+      "innerText": ""
+    }
+  },
+  {
+    "window": {
+      "width": 1400,
+      "height": 800
+    },
+    "click": {
+      "x": 1379,
+      "y": 13,
       "tagName": "BUTTON",
       "id": "",
       "className": "mantine-UnstyledButton-root mantine-CloseButton-wrapper mantine-CloseButton-CloseButton mantine-1evzfwy",
