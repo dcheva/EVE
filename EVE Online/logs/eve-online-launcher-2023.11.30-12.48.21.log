@@ -726,3 +726,13 @@
 2023-11-30 15:46:27.673    app     info:    [creatives] Received 3 creatives
 2023-11-30 15:46:28.334    app     info:    [ipc-requests] Handling requests in the background
 2023-11-30 15:46:29.344    app     info:    [ipc-requests] No longer handling requests in the background
+2023-11-30 15:46:50.297    app     info:    [main-window] Main window minimized to tray    { windowId: 2 }
+2023-11-30 15:46:50.302    app     info:    [ipc-requests] Handling requests in the background
+2023-11-30 15:46:51.314    app     info:    [ipc-requests] No longer handling requests in the background
+2023-11-30 15:46:52.920    app     info:    [tray] Quitting application from tray
+2023-11-30 15:46:52.921    app     info:    Application quitting. Cleanup needed: true
+2023-11-30 15:46:52.923    app     info:    [elg-events] Sending event    eve_launcher.electron.application.LauncherShutdown
+2023-11-30 15:46:52.924    app     info:    app.quit called, but we are still sending ELG events.
+2023-11-30 15:46:53.528    app     info:    ELG stream closed, quitting.
+2023-11-30 15:46:53.530    app     info:    [main-window] Main window closing    { windowId: 2 }
+2023-11-30 15:46:53.545    app     info:    Application closed    0
