@@ -5,8 +5,8 @@
       "height": 800
     },
     "click": {
-      "x": 498,
-      "y": 431,
+      "x": 508,
+      "y": 529,
       "tagName": "DIV",
       "id": "root",
       "className": "",
@@ -19,8 +19,22 @@
       "height": 800
     },
     "click": {
-      "x": 926,
-      "y": 395,
+      "x": 503,
+      "y": 432,
+      "tagName": "DIV",
+      "id": "root",
+      "className": "",
+      "innerText": ""
+    }
+  },
+  {
+    "window": {
+      "width": 1400,
+      "height": 800
+    },
+    "click": {
+      "x": 938,
+      "y": 402,
       "tagName": "BUTTON",
       "id": "",
       "className": "mantine-UnstyledButton-root mantine-Button-root mantine-fnk0ba",
@@ -33,63 +47,7 @@
       "height": 800
     },
     "click": {
-      "x": 650,
-      "y": 598,
-      "tagName": "DIV",
-      "id": "root",
-      "className": "",
-      "innerText": ""
-    }
-  },
-  {
-    "window": {
-      "width": 1400,
-      "height": 800
-    },
-    "click": {
-      "x": 1249,
-      "y": 160,
-      "tagName": "BUTTON",
-      "id": "",
-      "className": "mantine-UnstyledButton-root active mantine-cas5u6",
-      "innerText": "Account Settings"
-    }
-  },
-  {
-    "window": {
-      "width": 1400,
-      "height": 800
-    },
-    "click": {
-      "x": 858,
-      "y": 449,
-      "tagName": "BUTTON",
-      "id": "",
-      "className": "mantine-UnstyledButton-root active mantine-1bl9jjk",
-      "innerText": "Remove Account"
-    }
-  },
-  {
-    "window": {
-      "width": 1400,
-      "height": 800
-    },
-    "click": {
-      "x": 1377,
-      "y": 15,
-      "tagName": "BUTTON",
-      "id": "",
-      "className": "mantine-UnstyledButton-root mantine-CloseButton-wrapper mantine-CloseButton-CloseButton mantine-1evzfwy",
-      "innerText": ""
-    }
-  },
-  {
-    "window": {
-      "width": 1400,
-      "height": 800
-    },
-    "click": {
-      "x": 1379,
+      "x": 1374,
       "y": 13,
       "tagName": "BUTTON",
       "id": "",
