@@ -5,8 +5,8 @@
       "height": 800
     },
     "click": {
-      "x": 508,
-      "y": 529,
+      "x": 673,
+      "y": 618,
       "tagName": "DIV",
       "id": "root",
       "className": "",
@@ -19,8 +19,8 @@
       "height": 800
     },
     "click": {
-      "x": 503,
-      "y": 432,
+      "x": 511,
+      "y": 526,
       "tagName": "DIV",
       "id": "root",
       "className": "",
@@ -33,7 +33,105 @@
       "height": 800
     },
     "click": {
-      "x": 938,
+      "x": 940,
+      "y": 403,
+      "tagName": "BUTTON",
+      "id": "",
+      "className": "mantine-UnstyledButton-root mantine-Button-root mantine-fnk0ba",
+      "innerText": "CREATE CHARACTER"
+    }
+  },
+  {
+    "window": {
+      "width": 1400,
+      "height": 800
+    },
+    "click": {
+      "x": 1375,
+      "y": 13,
+      "tagName": "BUTTON",
+      "id": "",
+      "className": "mantine-UnstyledButton-root mantine-CloseButton-wrapper mantine-CloseButton-CloseButton mantine-1evzfwy",
+      "innerText": ""
+    }
+  },
+  {
+    "window": {
+      "width": 1400,
+      "height": 800
+    },
+    "click": {
+      "x": 474,
+      "y": 429,
+      "tagName": "DIV",
+      "id": "root",
+      "className": "",
+      "innerText": ""
+    }
+  },
+  {
+    "window": {
+      "width": 1400,
+      "height": 800
+    },
+    "click": {
+      "x": 949,
+      "y": 399,
+      "tagName": "BUTTON",
+      "id": "",
+      "className": "mantine-UnstyledButton-root mantine-Button-root mantine-fnk0ba",
+      "innerText": "PLAY NOW"
+    }
+  },
+  {
+    "window": {
+      "width": 1400,
+      "height": 800
+    },
+    "click": {
+      "x": 1373,
+      "y": 16,
+      "tagName": "BUTTON",
+      "id": "",
+      "className": "mantine-UnstyledButton-root mantine-CloseButton-wrapper mantine-CloseButton-CloseButton mantine-1evzfwy",
+      "innerText": ""
+    }
+  },
+  {
+    "window": {
+      "width": 1400,
+      "height": 800
+    },
+    "click": {
+      "x": 929,
+      "y": 394,
+      "tagName": "BUTTON",
+      "id": "",
+      "className": "mantine-UnstyledButton-root mantine-Button-root mantine-fnk0ba",
+      "innerText": "PLAY NOW"
+    }
+  },
+  {
+    "window": {
+      "width": 1400,
+      "height": 800
+    },
+    "click": {
+      "x": 1375,
+      "y": 18,
+      "tagName": "BUTTON",
+      "id": "",
+      "className": "mantine-UnstyledButton-root mantine-CloseButton-wrapper mantine-CloseButton-CloseButton mantine-1evzfwy",
+      "innerText": ""
+    }
+  },
+  {
+    "window": {
+      "width": 1400,
+      "height": 800
+    },
+    "click": {
+      "x": 925,
       "y": 402,
       "tagName": "BUTTON",
       "id": "",
@@ -47,7 +145,7 @@
       "height": 800
     },
     "click": {
-      "x": 1374,
+      "x": 1375,
       "y": 13,
       "tagName": "BUTTON",
       "id": "",

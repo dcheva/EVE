@@ -1,0 +1,60 @@
+2023-12-02 13:16:59.463    app     info:    Startup arguments    []
+2023-12-02 13:16:59.472    app     info:    EVE Online Launcher is already running. This instance will now be closed.
+2023-12-02 13:16:59.473    app     info:    Application quitting. Cleanup needed: true
+2023-12-02 13:16:59.479    app     info:    [elg-events] Sending event    eve_launcher.electron.application.LauncherShutdown
+2023-12-02 13:16:59.481    app     info:    [self-update] Starting automatic update checks
+2023-12-02 13:16:59.482    app     info:    [self-update] Checking for a launcher update...
+2023-12-02 13:16:59.506    app     info:    app.quit called, but we are still sending ELG events.
+2023-12-02 13:16:59.581    app     info:    [i18next] Changed language    en
+2023-12-02 13:16:59.605    app     info:    [authentication] Token for '16492377' on 'tranquility' is expired, refresh is required
+2023-12-02 13:16:59.605    app     info:    [authentication] Refreshing token for '16492377' on 'tranquility'
+2023-12-02 13:16:59.606    app     info:    [authentication] Token for '17525312' on 'tranquility' is expired, refresh is required
+2023-12-02 13:16:59.606    app     info:    [authentication] Refreshing token for '17525312' on 'tranquility'
+2023-12-02 13:16:59.607    app     info:    [authentication] Token for '25218835' on 'tranquility' is expired, refresh is required
+2023-12-02 13:16:59.607    app     info:    [authentication] Refreshing token for '25218835' on 'tranquility'
+2023-12-02 13:16:59.608    app     info:    [customer-information] Getting character information for '29280260' on 'tranquility'
+2023-12-02 13:16:59.608    app     info:    [customer-information] Getting Omega status for '29280260' on 'tranquility'
+2023-12-02 13:16:59.609    app     info:    [virtual-goods] Getting Plex status for '29280260' on 'tranquility'
+2023-12-02 13:16:59.610    app     info:    [customer-information] Getting character information for '29285645' on 'tranquility'
+2023-12-02 13:16:59.610    app     info:    [customer-information] Getting Omega status for '29285645' on 'tranquility'
+2023-12-02 13:16:59.610    app     info:    [virtual-goods] Getting Plex status for '29285645' on 'tranquility'
+2023-12-02 13:16:59.641    app     info:    [cache-protocol] Found 0 entries to remove
+2023-12-02 13:16:59.641    app     info:    [cache-protocol] Nothing to clean up.
+2023-12-02 13:16:59.766    app     info:    [esi] Fetching character details for 2121853336
+2023-12-02 13:16:59.782    app     info:    [customer-information] Agreements have been updated
+2023-12-02 13:16:59.803    app     info:    [first-run] First application run was at 2023-11-27T10:29:20.506Z
+2023-12-02 13:16:59.818    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-02 13:16:59.870    app     info:    [authentication] Token for '25218835' on 'tranquility' has been successfully refreshed
+2023-12-02 13:16:59.873    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.UserTokensRefreshed
+2023-12-02 13:16:59.875    app     info:    [customer-information] Getting character information for '25218835' on 'tranquility'
+2023-12-02 13:16:59.876    app     info:    [customer-information] Getting Omega status for '25218835' on 'tranquility'
+2023-12-02 13:16:59.876    app     info:    [virtual-goods] Getting Plex status for '25218835' on 'tranquility'
+2023-12-02 13:16:59.895    app     info:    [authentication] Token for '16492377' on 'tranquility' has been successfully refreshed
+2023-12-02 13:16:59.897    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.UserTokensRefreshed
+2023-12-02 13:16:59.898    app     info:    [customer-information] Getting character information for '16492377' on 'tranquility'
+2023-12-02 13:16:59.898    app     info:    [customer-information] Getting Omega status for '16492377' on 'tranquility'
+2023-12-02 13:16:59.899    app     info:    [virtual-goods] Getting Plex status for '16492377' on 'tranquility'
+2023-12-02 13:16:59.918    app     info:    [authentication] Token for '17525312' on 'tranquility' has been successfully refreshed
+2023-12-02 13:16:59.919    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.UserTokensRefreshed
+2023-12-02 13:16:59.921    app     info:    [customer-information] Getting character information for '17525312' on 'tranquility'
+2023-12-02 13:16:59.921    app     info:    [customer-information] Getting Omega status for '17525312' on 'tranquility'
+2023-12-02 13:16:59.921    app     info:    [virtual-goods] Getting Plex status for '17525312' on 'tranquility'
+2023-12-02 13:16:59.937    app     info:    [virtual-goods] Fetched Plex status for '29285645' on 'tranquility'
+2023-12-02 13:16:59.943    app     info:    [virtual-goods] Fetched Plex status for '29280260' on 'tranquility'
+2023-12-02 13:16:59.947    app     info:    [AuthenticationMiddleware] Successfully restored 7 / 7 users
+2023-12-02 13:17:00.046    app     info:    [esi] Fetching character details for 2119361891, 2120347635
+2023-12-02 13:17:00.055    app     info:    [esi] Fetching character details for 2114656127, 2121178396
+2023-12-02 13:17:00.072    app     info:    [esi] Fetching character details for 2113875139, 2121174871
+2023-12-02 13:17:00.084    app     info:    [customer-information] Agreement status has been fetched for user '17525312'
+2023-12-02 13:17:00.088    app     info:    [virtual-goods] Fetched Plex status for '25218835' on 'tranquility'
+2023-12-02 13:17:00.103    app     info:    [customer-information] Agreement status has been fetched for user '16492377'
+2023-12-02 13:17:00.107    app     info:    [customer-information] Agreement status has been fetched for user '25218835'
+2023-12-02 13:17:00.107    app     info:    [AuthenticationMiddleware] User information updated
+2023-12-02 13:17:00.108    app     info:    [virtual-goods] Fetched Plex status for '17525312' on 'tranquility'
+2023-12-02 13:17:00.113    app     info:    [AuthenticationMiddleware] User information updated
+2023-12-02 13:17:00.223    app     info:    [virtual-goods] Fetched Plex status for '16492377' on 'tranquility'
+2023-12-02 13:17:00.229    app     info:    [AuthenticationMiddleware] User information updated
+2023-12-02 13:17:00.258    app     info:    [esi] Fetched 1 character details for 29280260
+2023-12-02 13:17:00.436    app     info:    [esi] Fetched 2 character details for 16492377
+2023-12-02 13:17:00.443    app     info:    [esi] Fetched 2 character details for 17525312
+2023-12-02 13:17:00.477    app     info:    ELG stream closed, quitting.

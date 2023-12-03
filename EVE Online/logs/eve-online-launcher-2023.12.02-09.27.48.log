@@ -1,0 +1,40 @@
+2023-12-02 09:27:49.050    app     info:    Startup arguments    []
+2023-12-02 09:27:49.061    app     info:    EVE Online Launcher is already running. This instance will now be closed.
+2023-12-02 09:27:49.062    app     info:    Application quitting. Cleanup needed: true
+2023-12-02 09:27:49.068    app     info:    [elg-events] Sending event    eve_launcher.electron.application.LauncherShutdown
+2023-12-02 09:27:49.071    app     info:    [self-update] Starting automatic update checks
+2023-12-02 09:27:49.072    app     info:    [self-update] Checking for a launcher update...
+2023-12-02 09:27:49.098    app     info:    app.quit called, but we are still sending ELG events.
+2023-12-02 09:27:49.173    app     info:    [i18next] Changed language    en
+2023-12-02 09:27:49.195    app     info:    [authentication] Token for '16492377' on 'tranquility' is expired, refresh is required
+2023-12-02 09:27:49.196    app     info:    [authentication] Refreshing token for '16492377' on 'tranquility'
+2023-12-02 09:27:49.196    app     info:    [authentication] Token for '17525312' on 'tranquility' is expired, refresh is required
+2023-12-02 09:27:49.196    app     info:    [authentication] Refreshing token for '17525312' on 'tranquility'
+2023-12-02 09:27:49.197    app     info:    [authentication] Token for '25218835' on 'tranquility' is expired, refresh is required
+2023-12-02 09:27:49.197    app     info:    [authentication] Refreshing token for '25218835' on 'tranquility'
+2023-12-02 09:27:49.198    app     info:    [AuthenticationMiddleware] Character information for '29280260' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-02 09:27:49.198    app     info:    [AuthenticationMiddleware] Plex information for '29280260' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-02 09:27:49.199    app     info:    [AuthenticationMiddleware] Character information for '29285645' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-02 09:27:49.199    app     info:    [AuthenticationMiddleware] Plex information for '29285645' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-02 09:27:49.225    app     info:    [cache-protocol] Found 0 entries to remove
+2023-12-02 09:27:49.226    app     info:    [cache-protocol] Nothing to clean up.
+2023-12-02 09:27:49.327    app     info:    [customer-information] Agreements have been updated
+2023-12-02 09:27:49.376    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-02 09:27:49.453    app     info:    [authentication] Token for '16492377' on 'tranquility' has been successfully refreshed
+2023-12-02 09:27:49.455    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.UserTokensRefreshed
+2023-12-02 09:27:49.458    app     info:    [AuthenticationMiddleware] Character information for '16492377' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-02 09:27:49.459    app     info:    [AuthenticationMiddleware] Plex information for '16492377' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-02 09:27:49.469    app     info:    [AuthenticationMiddleware] User information updated
+2023-12-02 09:27:49.470    app     info:    [authentication] Token for '17525312' on 'tranquility' has been successfully refreshed
+2023-12-02 09:27:49.471    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.UserTokensRefreshed
+2023-12-02 09:27:49.472    app     info:    [AuthenticationMiddleware] Character information for '17525312' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-02 09:27:49.473    app     info:    [AuthenticationMiddleware] Plex information for '17525312' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-02 09:27:49.480    app     info:    [AuthenticationMiddleware] User information updated
+2023-12-02 09:27:49.480    app     info:    [authentication] Token for '25218835' on 'tranquility' has been successfully refreshed
+2023-12-02 09:27:49.481    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.UserTokensRefreshed
+2023-12-02 09:27:49.482    app     info:    [AuthenticationMiddleware] Character information for '25218835' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-02 09:27:49.482    app     info:    [AuthenticationMiddleware] Plex information for '25218835' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-02 09:27:49.489    app     info:    [AuthenticationMiddleware] Successfully restored 7 / 7 users
+2023-12-02 09:27:49.489    app     info:    [AuthenticationMiddleware] User information updated
+2023-12-02 09:27:49.492    app     info:    [first-run] First application run was at 2023-11-27T10:29:20.506Z
+2023-12-02 09:27:50.071    app     info:    ELG stream closed, quitting.
