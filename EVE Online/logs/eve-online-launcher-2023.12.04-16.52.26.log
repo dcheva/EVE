@@ -1,0 +1,376 @@
+2023-12-04 16:52:26.950    app     info:    Startup arguments    []
+2023-12-04 16:52:26.955    app     info:    [self-update] Starting automatic update checks
+2023-12-04 16:52:26.955    app     info:    [self-update] Checking for a launcher update...
+2023-12-04 16:52:27.128    app     info:    [i18next] Changed language    en
+2023-12-04 16:52:27.238    app     info:    [authentication] Token for '16492377' on 'tranquility' is expired, refresh is required
+2023-12-04 16:52:27.238    app     info:    [authentication] Refreshing token for '16492377' on 'tranquility'
+2023-12-04 16:52:27.239    app     info:    [authentication] Token for '17525312' on 'tranquility' is expired, refresh is required
+2023-12-04 16:52:27.239    app     info:    [authentication] Refreshing token for '17525312' on 'tranquility'
+2023-12-04 16:52:27.240    app     info:    [authentication] Token for '25218835' on 'tranquility' is expired, refresh is required
+2023-12-04 16:52:27.240    app     info:    [authentication] Refreshing token for '25218835' on 'tranquility'
+2023-12-04 16:52:27.241    app     info:    [customer-information] Getting character information for '29280260' on 'tranquility'
+2023-12-04 16:52:27.241    app     info:    [customer-information] Getting Omega status for '29280260' on 'tranquility'
+2023-12-04 16:52:27.242    app     info:    [virtual-goods] Getting Plex status for '29280260' on 'tranquility'
+2023-12-04 16:52:27.243    app     info:    [customer-information] Getting character information for '29285645' on 'tranquility'
+2023-12-04 16:52:27.243    app     info:    [customer-information] Getting Omega status for '29285645' on 'tranquility'
+2023-12-04 16:52:27.243    app     info:    [virtual-goods] Getting Plex status for '29285645' on 'tranquility'
+2023-12-04 16:52:27.244    app     info:    [device-id] Device id found in state
+2023-12-04 16:52:27.247    app     info:    [analytics] Application name:    EVE Online
+2023-12-04 16:52:27.247    app     info:    [analytics] Application version:    0.4.10
+2023-12-04 16:52:27.247    app     info:    [analytics] Domain    undefined
+2023-12-04 16:52:27.248    app     info:    [analytics] Working directory    C:\Users\REDACTED\AppData\Local\eve-online\app-0.4.10
+2023-12-04 16:52:27.249    app     info:    [analytics] Username contains UTF8?    false
+2023-12-04 16:52:27.560    app     info:    [elg-events] Sending event    eve_launcher.electron.application.PdmLoaded
+2023-12-04 16:52:27.562    app     info:    [analytics] Operating system    {
+  type: 'Windows',
+  name: 'Windows 10 Education',
+  version: '10.0 (19045)'
+}
+2023-12-04 16:52:27.563    app     info:    [analytics] Encryption available:    true
+2023-12-04 16:52:27.563    app     info:    [analytics] Machine UUID    4E9F516C-5B97-47C6-8C67-E93D943CB7C8
+2023-12-04 16:52:27.563    app     info:    [analytics] PDM Version    2.1.4
+2023-12-04 16:52:27.563    app     info:    [analytics] Release channel    release
+2023-12-04 16:52:27.566    app     info:    [initializers] Shared cache directory set to    C:\CCP\EVE Online
+2023-12-04 16:52:27.600    app     info:    [initializers] Shared cache drive free space: 112,83 GiB / 465,75 GiB
+2023-12-04 16:52:27.608    app     info:    [elg-events] Sending event    eve_launcher.electron.application.LauncherStarted
+2023-12-04 16:52:27.611    app     info:    [elg-events] Sending event    eve_launcher.electron.application.CoreDataLoaded
+2023-12-04 16:52:27.612    app     info:    [initializers] Starting up with product EVE Online
+2023-12-04 16:52:27.613    app     info:    [cdn-trace] Fetching CDN trace data from https://binaries.eveonline.com/cdn-cgi/trace
+2023-12-04 16:52:27.631    app     info:    [feature-flags] Initializing feature flag client
+2023-12-04 16:52:27.723    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-04 16:52:27.743    app     info:    [first-run] First application run was at 2023-11-27T10:29:20.506Z
+2023-12-04 16:52:27.794    app     info:    [cache-protocol] Found 0 entries to remove
+2023-12-04 16:52:27.794    app     info:    [cache-protocol] Nothing to clean up.
+2023-12-04 16:52:27.842    app     info:    [virtual-goods] Fetched Plex status for '29285645' on 'tranquility'
+2023-12-04 16:52:27.887    app     info:    [esi] Fetching character details for 2121853336
+2023-12-04 16:52:27.909    app     info:    [customer-information] Agreements have been updated
+2023-12-04 16:52:27.910    app     info:    info: [LaunchDarkly] LaunchDarkly client initialized    []
+2023-12-04 16:52:27.911    app     info:    info: [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/64c3d12e27a4b11365012d39/eyJrZXkiOiI0YTQzNmFkYi00Yjk5LTQwYTctODViMC00MmUyMDZmNDEyODYiLCJraW5kIjoidXNlciIsImN1c3RvbSI6eyJpc0ZpcnN0UnVuIjpmYWxzZSwiZGF5c1NpbmNlRmlyc3RSdW4iOjcsImxhbmd1YWdlIjoiZW4iLCJhcHBsaWNhdGlvbiI6ImV2ZS1vbmxpbmUiLCJ2ZXJzaW9uIjoiMC40LjEwIiwicGxhdGZvcm0iOiJ3aW5kb3dzIiwib3NWZXJzaW9uRGVwcmVjYXRlZCI6ZmFsc2UsInVzZXJJZHMiOlsxNjQ5MjM3NywxNzUyNTMxMiwyNTIxODgzNSwyOTI4MDI2MCwyOTI4NTY0NV0sImNoYXJhY3RlcklkcyI6WzIxMTM4NzUxMzksMjExNDY1NjEyNywyMTE5MzYxODkxLDIxMjAzNDc2MzUsMjEyMTE3NDg3MSwyMTIxMTc4Mzk2LDIxMjE4NTMzMzZdLCJvbWVnYUNvdW50IjowLCJhbHBoYUNvdW50Ijo1LCJhY2NvdW50Q291bnQiOjUsIm9sZGVzdEFjY291bnRBZ2UiOjIwOTksInlvdW5nZXN0QWNjb3VudEFnZSI6M319?withReasons=true    []
+2023-12-04 16:52:27.912    app     info:    [feature-flags] Client 4a436adb... ready, fetching flags
+2023-12-04 16:52:27.916    app     info:    [feature-flags] Received 13 flags for client 4a436adb...
+2023-12-04 16:52:27.917    app     info:    [feature-flags] Client initialized with key 4a436adb...
+2023-12-04 16:52:27.929    app     info:    [server-manager] Starting refresh cycle for Tranquility
+2023-12-04 16:52:27.991    app     info:    [virtual-goods] Fetched Plex status for '29280260' on 'tranquility'
+2023-12-04 16:52:28.009    app     info:    [authentication] Token for '17525312' on 'tranquility' has been successfully refreshed
+2023-12-04 16:52:28.011    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.UserTokensRefreshed
+2023-12-04 16:52:28.013    app     info:    [customer-information] Getting character information for '17525312' on 'tranquility'
+2023-12-04 16:52:28.013    app     info:    [customer-information] Getting Omega status for '17525312' on 'tranquility'
+2023-12-04 16:52:28.013    app     info:    [virtual-goods] Getting Plex status for '17525312' on 'tranquility'
+2023-12-04 16:52:28.063    app     info:    [authentication] Token for '16492377' on 'tranquility' has been successfully refreshed
+2023-12-04 16:52:28.064    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.UserTokensRefreshed
+2023-12-04 16:52:28.065    app     info:    [customer-information] Getting character information for '16492377' on 'tranquility'
+2023-12-04 16:52:28.066    app     info:    [customer-information] Getting Omega status for '16492377' on 'tranquility'
+2023-12-04 16:52:28.066    app     info:    [virtual-goods] Getting Plex status for '16492377' on 'tranquility'
+2023-12-04 16:52:28.217    app     info:    [authentication] Token for '25218835' on 'tranquility' has been successfully refreshed
+2023-12-04 16:52:28.219    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.UserTokensRefreshed
+2023-12-04 16:52:28.220    app     info:    [customer-information] Getting character information for '25218835' on 'tranquility'
+2023-12-04 16:52:28.221    app     info:    [customer-information] Getting Omega status for '25218835' on 'tranquility'
+2023-12-04 16:52:28.221    app     info:    [virtual-goods] Getting Plex status for '25218835' on 'tranquility'
+2023-12-04 16:52:28.319    app     info:    [server-manager] Previous Tranquility build: 2441868, current build: 2441868
+2023-12-04 16:52:28.319    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-04 16:52:28.324    app     info:    [server-manager] Ready to play!
+2023-12-04 16:52:28.327    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-04 16:52:28.339    app     info:    [AuthenticationMiddleware] Successfully restored 7 / 7 users
+2023-12-04 16:52:28.422    app     info:    [esi] Fetching character details for 2114656127, 2121178396
+2023-12-04 16:52:28.446    app     info:    [esi] Fetching character details for 2113875139, 2121174871
+2023-12-04 16:52:29.051    app     info:    [virtual-goods] Fetched Plex status for '17525312' on 'tranquility'
+2023-12-04 16:52:29.125    app     info:    [AuthenticationMiddleware] User information updated
+2023-12-04 16:52:29.131    app     info:    [virtual-goods] Fetched Plex status for '25218835' on 'tranquility'
+2023-12-04 16:52:29.141    app     info:    [esi] Fetching character details for 2119361891, 2120347635
+2023-12-04 16:52:29.169    app     info:    [AuthenticationMiddleware] User information updated
+2023-12-04 16:52:29.176    app     info:    [virtual-goods] Fetched Plex status for '16492377' on 'tranquility'
+2023-12-04 16:52:29.188    app     info:    [AuthenticationMiddleware] User information updated
+2023-12-04 16:52:29.295    app     info:    [esi] Fetched 1 character details for 29280260
+2023-12-04 16:52:29.545    app     info:    [esi] Fetched 2 character details for 25218835
+2023-12-04 16:52:29.695    app     info:    [esi] Fetched 2 character details for 16492377
+2023-12-04 16:52:29.723    app     info:    [esi] Fetched 2 character details for 17525312
+2023-12-04 16:52:29.842    app     warn:    [steam-auth] Failed to initialize Steamworks client
+2023-12-04 16:52:29.846    app     info:    [main-window] Registering main window    { windowId: 2 }
+2023-12-04 16:52:29.854    app     info:    [cdn-trace] Fetching CDN trace data from https://binaries.eveonline.com/cdn-cgi/trace
+2023-12-04 16:52:29.855    app     info:    [creatives] Requesting creatives
+2023-12-04 16:52:29.868    app     info:    [elg-events] Sending event    eve_launcher.electron.application.RendererLoaded
+2023-12-04 16:52:29.991    app     info:    [creatives] Received 3 creatives
+2023-12-04 16:52:30.597     ui     info:    Initializing captcha    ccp://launcher/renderer/main_window/index.js    2
+2023-12-04 16:52:31.043    app     info:    [ipc-requests] Handling requests in the background
+2023-12-04 16:52:32.055    app     info:    [ipc-requests] No longer handling requests in the background
+2023-12-04 16:52:34.494    app     info:    [analytics] Hardware rendering enabled:    true    { disabledViaCommandline: false, disabledViaSettings: false }
+2023-12-04 16:52:43.638    app     info:    [client-queue] Queued client startup    {
+  tenant: 'tranquility',
+  userId: 29280260,
+  characterId: 2121853336,
+  profile: ''
+}
+2023-12-04 16:52:43.640    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.ClientQueued
+2023-12-04 16:52:43.641    app     info:    [client-queue] No clients running for tranquility, copying files before starting a client
+2023-12-04 16:52:43.646    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesStarted
+2023-12-04 16:52:43.646    app     info:    [binary-copier] Copying 198 files (217 MB) to 'C:\CCP\EVE Online\tq'
+2023-12-04 16:52:43.684    app     info:    [binary-copier] Removing old binaries
+2023-12-04 16:52:43.698    app     info:    [binary-copier] Copying binaries from ResFiles
+2023-12-04 16:52:44.161    app     info:    [binary-copier] Finished copying 198 files to 'C:\CCP\EVE Online\tq' in 0.517 seconds
+2023-12-04 16:52:44.164    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesFinished
+2023-12-04 16:52:44.171    app     info:    [client-manager] Starting EVE Online game client.    C:\CCP\EVE Online\tq\bin64\exefile.exe    Map(11) {
+  'noconsole' => '/noconsole',
+  'server' => '/server:tranquility.servers.eveonline.com',
+  'triplatform' => '/triplatform=dx12',
+  'ssotoken' => '/ssoToken=***',
+  'refreshtoken' => '/refreshToken=***',
+  'settingsprofile' => '/settingsprofile=Default',
+  'deviceid' => '/deviceID=4a436adb-4b99-40a7-85b0-42e206f41286',
+  'autoselectcharacter' => '/autoSelectCharacter:2121853336',
+  'language' => '/language=en',
+  'exp' => '1701728300',
+  'tokenExpires' => '2023-12-05 00:18:20.000'
+}    29280260
+2023-12-04 16:52:44.173    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.GameClientStartRequested
+2023-12-04 16:52:44.255    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.TemporaryClientProcessAdded
+2023-12-04 16:52:44.258    app     info:    [client-queue] Started client from group startup    {
+  tenant: 'tranquility',
+  characterId: 2121853336,
+  profile: '',
+  userId: 29280260
+}
+2023-12-04 16:52:44.774    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.TemporaryClientProcessMonitoringRetried
+2023-12-04 16:52:44.784    app     info:    [client-manager] Found 'tranquility' client for '29280260' running:     {
+  processId: 6056,
+  createdDate: 1701708764309,
+  userId: 29280260,
+  characterId: 2121853336,
+  profile: 'Default',
+  dxVersion: 'dx12'
+}
+2023-12-04 16:52:44.797    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.GameClientStarted
+2023-12-04 16:52:44.802    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.TemporaryClientProcessRemoved
+2023-12-04 16:52:45.270    app     info:    [client-queue] Queue has stopped running, no more clients pending startup.
+2023-12-04 16:52:45.657    app     info:    [ipc-requests] Handling requests in the background
+2023-12-04 16:52:46.667    app     info:    [ipc-requests] No longer handling requests in the background
+2023-12-04 16:52:58.391    app     warn:    Could not connect to LogLite    [
+  Error: connect ECONNREFUSED 127.0.0.1:3273
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16) {
+    errno: -4078,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '127.0.0.1',
+    port: 3273
+  }
+]
+2023-12-04 16:53:01.756    app     info:    [main-window] Main window minimized to tray    { windowId: 2 }
+2023-12-04 16:53:01.773    app     info:    [main-window] Sent notification that the application is minimized to tray    { windowId: 2 }
+2023-12-04 16:53:01.779    app     info:    [ipc-requests] Handling requests in the background
+2023-12-04 16:53:02.790    app     info:    [ipc-requests] No longer handling requests in the background
+2023-12-04 16:57:27.727    app     info:    [self-update] Checking for a launcher update...
+2023-12-04 16:57:28.017    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-04 16:57:28.341    app     info:    [server-manager] Starting refresh cycle for Tranquility
+2023-12-04 16:57:28.465    app     info:    [server-manager] Previous Tranquility build: 2441868, current build: 2441868
+2023-12-04 16:57:28.465    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-04 16:57:28.471    app     info:    [server-manager] Ready to play!
+2023-12-04 16:57:28.474    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-04 17:02:28.022    app     info:    [self-update] Checking for a launcher update...
+2023-12-04 17:02:28.308    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-04 17:02:28.476    app     info:    [server-manager] Starting refresh cycle for Tranquility
+2023-12-04 17:02:28.641    app     info:    [server-manager] Previous Tranquility build: 2441868, current build: 2441868
+2023-12-04 17:02:28.641    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-04 17:02:28.646    app     info:    [server-manager] Ready to play!
+2023-12-04 17:02:28.649    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-04 17:07:28.312    app     info:    [self-update] Checking for a launcher update...
+2023-12-04 17:07:28.584    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-04 17:07:28.662    app     info:    [server-manager] Starting refresh cycle for Tranquility
+2023-12-04 17:07:28.852    app     info:    [server-manager] Previous Tranquility build: 2441868, current build: 2441868
+2023-12-04 17:07:28.852    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-04 17:07:28.861    app     info:    [server-manager] Ready to play!
+2023-12-04 17:07:28.865    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-04 17:12:28.599    app     info:    [self-update] Checking for a launcher update...
+2023-12-04 17:12:28.870    app     info:    [server-manager] Starting refresh cycle for Tranquility
+2023-12-04 17:12:28.885    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-04 17:12:29.017    app     info:    [server-manager] Previous Tranquility build: 2441868, current build: 2441868
+2023-12-04 17:12:29.018    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-04 17:12:29.022    app     info:    [server-manager] Ready to play!
+2023-12-04 17:12:29.025    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-04 17:17:28.890    app     info:    [self-update] Checking for a launcher update...
+2023-12-04 17:17:29.034    app     info:    [server-manager] Starting refresh cycle for Tranquility
+2023-12-04 17:17:29.178    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-04 17:17:29.182    app     info:    [server-manager] Previous Tranquility build: 2441868, current build: 2441868
+2023-12-04 17:17:29.182    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-04 17:17:29.186    app     info:    [server-manager] Ready to play!
+2023-12-04 17:17:29.189    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-04 17:22:29.184    app     info:    [self-update] Checking for a launcher update...
+2023-12-04 17:22:29.209    app     info:    [server-manager] Starting refresh cycle for Tranquility
+2023-12-04 17:22:29.333    app     info:    [server-manager] Previous Tranquility build: 2441868, current build: 2441868
+2023-12-04 17:22:29.333    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-04 17:22:29.338    app     info:    [server-manager] Ready to play!
+2023-12-04 17:22:29.341    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-04 17:22:29.472    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-04 17:27:29.357    app     info:    [server-manager] Starting refresh cycle for Tranquility
+2023-12-04 17:27:29.481    app     info:    [self-update] Checking for a launcher update...
+2023-12-04 17:27:29.506    app     info:    [server-manager] Previous Tranquility build: 2441868, current build: 2441868
+2023-12-04 17:27:29.507    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-04 17:27:29.511    app     info:    [server-manager] Ready to play!
+2023-12-04 17:27:29.515    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-04 17:27:29.768    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-04 17:32:29.519    app     info:    [server-manager] Starting refresh cycle for Tranquility
+2023-12-04 17:32:29.683    app     info:    [server-manager] Previous Tranquility build: 2441868, current build: 2441868
+2023-12-04 17:32:29.683    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-04 17:32:29.687    app     info:    [server-manager] Ready to play!
+2023-12-04 17:32:29.691    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-04 17:32:29.783    app     info:    [self-update] Checking for a launcher update...
+2023-12-04 17:32:30.068    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-04 17:37:29.701    app     info:    [server-manager] Starting refresh cycle for Tranquility
+2023-12-04 17:37:29.862    app     info:    [server-manager] Previous Tranquility build: 2441868, current build: 2441868
+2023-12-04 17:37:29.862    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-04 17:37:29.866    app     info:    [server-manager] Ready to play!
+2023-12-04 17:37:29.869    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-04 17:37:30.075    app     info:    [self-update] Checking for a launcher update...
+2023-12-04 17:37:30.359    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-04 17:42:29.878    app     info:    [server-manager] Starting refresh cycle for Tranquility
+2023-12-04 17:42:30.039    app     info:    [server-manager] Previous Tranquility build: 2441868, current build: 2441868
+2023-12-04 17:42:30.040    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-04 17:42:30.043    app     info:    [server-manager] Ready to play!
+2023-12-04 17:42:30.046    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-04 17:42:30.363    app     info:    [self-update] Checking for a launcher update...
+2023-12-04 17:42:30.653    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-04 17:47:30.058    app     info:    [server-manager] Starting refresh cycle for Tranquility
+2023-12-04 17:47:30.215    app     info:    [server-manager] Previous Tranquility build: 2441868, current build: 2441868
+2023-12-04 17:47:30.215    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-04 17:47:30.219    app     info:    [server-manager] Ready to play!
+2023-12-04 17:47:30.222    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-04 17:47:30.664    app     info:    [self-update] Checking for a launcher update...
+2023-12-04 17:47:30.945    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-04 17:52:30.224    app     info:    [server-manager] Starting refresh cycle for Tranquility
+2023-12-04 17:52:30.356    app     info:    [server-manager] Previous Tranquility build: 2441868, current build: 2441868
+2023-12-04 17:52:30.357    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-04 17:52:30.361    app     info:    [server-manager] Ready to play!
+2023-12-04 17:52:30.364    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-04 17:52:30.948    app     info:    [self-update] Checking for a launcher update...
+2023-12-04 17:52:31.273    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-04 17:57:30.379    app     info:    [server-manager] Starting refresh cycle for Tranquility
+2023-12-04 17:57:30.935    app     info:    [server-manager] Previous Tranquility build: 2441868, current build: 2441868
+2023-12-04 17:57:30.935    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-04 17:57:30.939    app     info:    [server-manager] Ready to play!
+2023-12-04 17:57:30.942    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-04 17:57:31.279    app     info:    [self-update] Checking for a launcher update...
+2023-12-04 17:57:31.570    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-04 18:02:30.955    app     info:    [server-manager] Starting refresh cycle for Tranquility
+2023-12-04 18:02:31.115    app     info:    [server-manager] Previous Tranquility build: 2441868, current build: 2441868
+2023-12-04 18:02:31.115    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-04 18:02:31.119    app     info:    [server-manager] Ready to play!
+2023-12-04 18:02:31.122    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-04 18:02:31.571    app     info:    [self-update] Checking for a launcher update...
+2023-12-04 18:02:31.836    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-04 18:07:31.132    app     info:    [server-manager] Starting refresh cycle for Tranquility
+2023-12-04 18:07:31.302    app     info:    [server-manager] Previous Tranquility build: 2441868, current build: 2441868
+2023-12-04 18:07:31.302    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-04 18:07:31.307    app     info:    [server-manager] Ready to play!
+2023-12-04 18:07:31.310    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-04 18:07:31.852    app     info:    [self-update] Checking for a launcher update...
+2023-12-04 18:07:32.140    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-04 18:12:31.315    app     info:    [server-manager] Starting refresh cycle for Tranquility
+2023-12-04 18:12:31.453    app     info:    [server-manager] Previous Tranquility build: 2441868, current build: 2441868
+2023-12-04 18:12:31.453    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-04 18:12:31.457    app     info:    [server-manager] Ready to play!
+2023-12-04 18:12:31.460    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-04 18:12:32.149    app     info:    [self-update] Checking for a launcher update...
+2023-12-04 18:12:32.438    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-04 18:17:31.476    app     info:    [server-manager] Starting refresh cycle for Tranquility
+2023-12-04 18:17:31.630    app     info:    [server-manager] Previous Tranquility build: 2441868, current build: 2441868
+2023-12-04 18:17:31.631    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-04 18:17:31.635    app     info:    [server-manager] Ready to play!
+2023-12-04 18:17:31.638    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-04 18:17:32.446    app     info:    [self-update] Checking for a launcher update...
+2023-12-04 18:17:32.714    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-04 18:22:31.640    app     info:    [server-manager] Starting refresh cycle for Tranquility
+2023-12-04 18:22:31.789    app     info:    [server-manager] Previous Tranquility build: 2441868, current build: 2441868
+2023-12-04 18:22:31.790    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-04 18:22:31.794    app     info:    [server-manager] Ready to play!
+2023-12-04 18:22:31.797    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-04 18:22:32.727    app     info:    [self-update] Checking for a launcher update...
+2023-12-04 18:22:33.009    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-04 18:27:31.800    app     info:    [server-manager] Starting refresh cycle for Tranquility
+2023-12-04 18:27:31.930    app     info:    [server-manager] Previous Tranquility build: 2441868, current build: 2441868
+2023-12-04 18:27:31.930    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-04 18:27:31.934    app     info:    [server-manager] Ready to play!
+2023-12-04 18:27:31.937    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-04 18:27:33.017    app     info:    [self-update] Checking for a launcher update...
+2023-12-04 18:27:33.311    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-04 18:32:31.941    app     info:    [server-manager] Starting refresh cycle for Tranquility
+2023-12-04 18:32:32.104    app     info:    [server-manager] Previous Tranquility build: 2441868, current build: 2441868
+2023-12-04 18:32:32.104    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-04 18:32:32.109    app     info:    [server-manager] Ready to play!
+2023-12-04 18:32:32.111    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-04 18:32:33.311    app     info:    [self-update] Checking for a launcher update...
+2023-12-04 18:32:33.599    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-04 18:37:32.116    app     info:    [server-manager] Starting refresh cycle for Tranquility
+2023-12-04 18:37:32.266    app     info:    [server-manager] Previous Tranquility build: 2441868, current build: 2441868
+2023-12-04 18:37:32.266    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-04 18:37:32.270    app     info:    [server-manager] Ready to play!
+2023-12-04 18:37:32.273    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-04 18:37:33.602    app     info:    [self-update] Checking for a launcher update...
+2023-12-04 18:37:33.891    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-04 18:42:32.274    app     info:    [server-manager] Starting refresh cycle for Tranquility
+2023-12-04 18:42:32.414    app     info:    [server-manager] Previous Tranquility build: 2441868, current build: 2441868
+2023-12-04 18:42:32.414    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-04 18:42:32.418    app     info:    [server-manager] Ready to play!
+2023-12-04 18:42:32.421    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-04 18:42:33.899    app     info:    [self-update] Checking for a launcher update...
+2023-12-04 18:42:34.186    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-04 18:47:32.424    app     info:    [server-manager] Starting refresh cycle for Tranquility
+2023-12-04 18:47:32.589    app     info:    [server-manager] Previous Tranquility build: 2441868, current build: 2441868
+2023-12-04 18:47:32.589    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-04 18:47:32.594    app     info:    [server-manager] Ready to play!
+2023-12-04 18:47:32.597    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-04 18:47:34.200    app     info:    [self-update] Checking for a launcher update...
+2023-12-04 18:47:34.491    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-04 18:52:32.604    app     info:    [server-manager] Starting refresh cycle for Tranquility
+2023-12-04 18:52:32.756    app     info:    [server-manager] Previous Tranquility build: 2441868, current build: 2441868
+2023-12-04 18:52:32.756    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-04 18:52:32.760    app     info:    [server-manager] Ready to play!
+2023-12-04 18:52:32.763    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-04 18:52:34.497    app     info:    [self-update] Checking for a launcher update...
+2023-12-04 18:52:34.970    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-04 18:57:32.771    app     info:    [server-manager] Starting refresh cycle for Tranquility
+2023-12-04 18:57:32.901    app     info:    [server-manager] Previous Tranquility build: 2441868, current build: 2441868
+2023-12-04 18:57:32.901    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-04 18:57:32.906    app     info:    [server-manager] Ready to play!
+2023-12-04 18:57:32.908    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-04 18:57:34.978    app     info:    [self-update] Checking for a launcher update...
+2023-12-04 18:57:35.256    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-04 19:02:32.920    app     info:    [server-manager] Starting refresh cycle for Tranquility
+2023-12-04 19:02:33.045    app     info:    [server-manager] Previous Tranquility build: 2441868, current build: 2441868
+2023-12-04 19:02:33.045    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-04 19:02:33.050    app     info:    [server-manager] Ready to play!
+2023-12-04 19:02:33.052    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-04 19:02:35.266    app     info:    [self-update] Checking for a launcher update...
+2023-12-04 19:02:35.550    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-04 19:07:33.065    app     info:    [server-manager] Starting refresh cycle for Tranquility
+2023-12-04 19:07:33.183    app     info:    [server-manager] Previous Tranquility build: 2441868, current build: 2441868
+2023-12-04 19:07:33.183    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-04 19:07:33.187    app     info:    [server-manager] Ready to play!
+2023-12-04 19:07:33.189    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-04 19:07:35.556    app     info:    [self-update] Checking for a launcher update...
+2023-12-04 19:07:35.848    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-04 19:12:33.192    app     info:    [server-manager] Starting refresh cycle for Tranquility
+2023-12-04 19:12:33.344    app     info:    [server-manager] Previous Tranquility build: 2441868, current build: 2441868
+2023-12-04 19:12:33.344    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-04 19:12:33.348    app     info:    [server-manager] Ready to play!
+2023-12-04 19:12:33.351    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-04 19:12:35.852    app     info:    [self-update] Checking for a launcher update...
+2023-12-04 19:12:36.131    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-04 19:17:33.364    app     info:    [server-manager] Starting refresh cycle for Tranquility
+2023-12-04 19:17:33.592    app     info:    [server-manager] Previous Tranquility build: 2441868, current build: 2441868
+2023-12-04 19:17:33.592    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-04 19:17:33.597    app     info:    [server-manager] Ready to play!
+2023-12-04 19:17:33.600    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-04 19:17:36.139    app     info:    [self-update] Checking for a launcher update...
+2023-12-04 19:17:36.421    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-04 19:18:02.286    app     info:    [client-manager] 'tranquility' for EVE game client for '29280260' exited with no errors.
+2023-12-04 19:18:02.288    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.GameClientExited
+2023-12-04 19:18:02.295    app     info:    [server-manager] Starting refresh cycle for Tranquility
+2023-12-04 19:18:02.447    app     info:    [server-manager] Previous Tranquility build: 2441868, current build: 2441868
+2023-12-04 19:18:02.447    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-04 19:18:02.451    app     info:    [server-manager] Ready to play!
+2023-12-04 19:18:02.453    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-04 19:18:07.309    app     info:    [tray] Quitting application from tray
+2023-12-04 19:18:07.311    app     info:    Application quitting. Cleanup needed: true
+2023-12-04 19:18:07.312    app     info:    [elg-events] Sending event    eve_launcher.electron.application.LauncherShutdown
+2023-12-04 19:18:07.313    app     info:    app.quit called, but we are still sending ELG events.
+2023-12-04 19:18:07.926    app     info:    ELG stream closed, quitting.
+2023-12-04 19:18:07.929    app     info:    [main-window] Main window closing    { windowId: 2 }
+2023-12-04 19:18:07.947    app     info:    Application closed    0
