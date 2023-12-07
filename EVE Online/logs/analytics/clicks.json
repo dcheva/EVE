@@ -5,8 +5,8 @@
       "height": 1080
     },
     "click": {
-      "x": 494,
-      "y": 680,
+      "x": 530,
+      "y": 310,
       "tagName": "DIV",
       "id": "root",
       "className": "",
@@ -19,8 +19,8 @@
       "height": 1080
     },
     "click": {
-      "x": 550,
-      "y": 258,
+      "x": 528,
+      "y": 707,
       "tagName": "DIV",
       "id": "root",
       "className": "",
@@ -33,8 +33,8 @@
       "height": 1080
     },
     "click": {
-      "x": 471,
-      "y": 324,
+      "x": 465,
+      "y": 578,
       "tagName": "DIV",
       "id": "root",
       "className": "",
@@ -47,12 +47,12 @@
       "height": 1080
     },
     "click": {
-      "x": 544,
-      "y": 710,
-      "tagName": "DIV",
-      "id": "root",
-      "className": "",
-      "innerText": ""
+      "x": 960,
+      "y": 400,
+      "tagName": "BUTTON",
+      "id": "",
+      "className": "mantine-UnstyledButton-root mantine-Button-root ___ref-play-button-the-button mantine-fnk0ba",
+      "innerText": "PLAY NOW"
     }
   },
   {
@@ -61,22 +61,8 @@
       "height": 1080
     },
     "click": {
-      "x": 600,
-      "y": 483,
-      "tagName": "DIV",
-      "id": "root",
-      "className": "",
-      "innerText": ""
-    }
-  },
-  {
-    "window": {
-      "width": 1400,
-      "height": 1080
-    },
-    "click": {
-      "x": 593,
-      "y": 369,
+      "x": 512,
+      "y": 248,
       "tagName": "DIV",
       "id": "root",
       "className": "",
@@ -90,7 +76,7 @@
     },
     "click": {
       "x": 469,
-      "y": 453,
+      "y": 250,
       "tagName": "DIV",
       "id": "root",
       "className": "",
@@ -103,8 +89,8 @@
       "height": 1080
     },
     "click": {
-      "x": 1013,
-      "y": 404,
+      "x": 972,
+      "y": 403,
       "tagName": "BUTTON",
       "id": "",
       "className": "mantine-UnstyledButton-root mantine-Button-root ___ref-play-button-the-button mantine-fnk0ba",
@@ -117,8 +103,8 @@
       "height": 1080
     },
     "click": {
-      "x": 1377,
-      "y": 13,
+      "x": 1382,
+      "y": 16,
       "tagName": "BUTTON",
       "id": "",
       "className": "mantine-UnstyledButton-root mantine-CloseButton-wrapper mantine-CloseButton-CloseButton mantine-1evzfwy",
@@ -131,8 +117,8 @@
       "height": 1080
     },
     "click": {
-      "x": 1127,
-      "y": 781,
+      "x": 582,
+      "y": 683,
       "tagName": "DIV",
       "id": "root",
       "className": "",
@@ -145,8 +131,8 @@
       "height": 1080
     },
     "click": {
-      "x": 480,
-      "y": 609,
+      "x": 456,
+      "y": 607,
       "tagName": "DIV",
       "id": "root",
       "className": "",
@@ -159,8 +145,8 @@
       "height": 1080
     },
     "click": {
-      "x": 950,
-      "y": 406,
+      "x": 932,
+      "y": 394,
       "tagName": "BUTTON",
       "id": "",
       "className": "mantine-UnstyledButton-root mantine-Button-root ___ref-play-button-the-button mantine-fnk0ba",
@@ -173,12 +159,54 @@
       "height": 1080
     },
     "click": {
-      "x": 1381,
-      "y": 17,
+      "x": 578,
+      "y": 610,
+      "tagName": "DIV",
+      "id": "root",
+      "className": "",
+      "innerText": ""
+    }
+  },
+  {
+    "window": {
+      "width": 1400,
+      "height": 1080
+    },
+    "click": {
+      "x": 472,
+      "y": 483,
+      "tagName": "DIV",
+      "id": "root",
+      "className": "",
+      "innerText": ""
+    }
+  },
+  {
+    "window": {
+      "width": 1400,
+      "height": 1080
+    },
+    "click": {
+      "x": 430,
+      "y": 480,
+      "tagName": "DIV",
+      "id": "root",
+      "className": "",
+      "innerText": ""
+    }
+  },
+  {
+    "window": {
+      "width": 1400,
+      "height": 1080
+    },
+    "click": {
+      "x": 973,
+      "y": 396,
       "tagName": "BUTTON",
       "id": "",
-      "className": "mantine-UnstyledButton-root mantine-CloseButton-wrapper mantine-CloseButton-CloseButton mantine-1evzfwy",
-      "innerText": ""
+      "className": "mantine-UnstyledButton-root mantine-Button-root ___ref-play-button-the-button mantine-fnk0ba",
+      "innerText": "PLAY NOW"
     }
   }
 ]
