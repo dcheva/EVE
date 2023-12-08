@@ -29,18 +29,7 @@
 		"clientManagement": {
 			"processes": {
 				"eve-online": {
-					"tranquility": [
-						{
-							"processId": 8504,
-							"createdDate": 1702014367169,
-							"username": "dee.covana",
-							"userId": 29280260,
-							"characterId": 2121853336,
-							"profile": "Default",
-							"dxVersion": "dx12",
-							"foundDate": 1702014367678
-						}
-					]
+					"tranquility": []
 				}
 			},
 			"temporaryProcesses": {}
