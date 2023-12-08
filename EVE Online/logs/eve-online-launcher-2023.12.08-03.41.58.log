@@ -1,0 +1,31 @@
+2023-12-08 03:41:58.575    app     info:    Startup arguments    [
+  'eveonline://callback/?client_id=eveLauncherTQ&code=svYurIC68kaOm92GIvlkWQ&state=gIVXpDJWBCNtb1E4YtdmRxIFFlJfSs1DlcjBzMjZfP8&remember=true'
+]
+2023-12-08 03:41:58.602    app     info:    EVE Online Launcher is already running. This instance will now be closed.
+2023-12-08 03:41:58.603    app     info:    Application quitting. Cleanup needed: true
+2023-12-08 03:41:58.609    app     info:    [elg-events] Sending event    eve_launcher.electron.application.LauncherShutdown
+2023-12-08 03:41:58.612    app     info:    [self-update] Starting automatic update checks
+2023-12-08 03:41:58.613    app     info:    [self-update] Waiting for update feed before starting update checks
+2023-12-08 03:41:58.618    app     info:    app.quit called, but we are still sending ELG events.
+2023-12-08 03:41:58.701    app     info:    [i18next] Changed language    en
+2023-12-08 03:41:58.724    app     info:    [AuthenticationMiddleware] Character information for '16492377' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-08 03:41:58.725    app     info:    [AuthenticationMiddleware] Plex information for '16492377' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-08 03:41:58.727    app     info:    [AuthenticationMiddleware] Character information for '17525312' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-08 03:41:58.727    app     info:    [AuthenticationMiddleware] Plex information for '17525312' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-08 03:41:58.727    app     info:    [AuthenticationMiddleware] Character information for '25218835' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-08 03:41:58.727    app     info:    [AuthenticationMiddleware] Plex information for '25218835' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-08 03:41:58.728    app     info:    [AuthenticationMiddleware] Character information for '29280260' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-08 03:41:58.728    app     info:    [AuthenticationMiddleware] Plex information for '29280260' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-08 03:41:58.728    app     info:    [AuthenticationMiddleware] Character information for '29285645' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-08 03:41:58.728    app     info:    [AuthenticationMiddleware] Plex information for '29285645' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-08 03:41:58.729    app     info:    [AuthenticationMiddleware] Character information for '18034259' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-08 03:41:58.729    app     info:    [AuthenticationMiddleware] Plex information for '18034259' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-08 03:41:58.729    app     info:    [AuthenticationMiddleware] Character information for '28182799' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-08 03:41:58.729    app     info:    [AuthenticationMiddleware] Plex information for '28182799' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-08 03:41:58.729    app     info:    [AuthenticationMiddleware] Character information for '2110311' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-08 03:41:58.730    app     info:    [AuthenticationMiddleware] Plex information for '2110311' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-08 03:41:58.733    app     info:    [AuthenticationMiddleware] Successfully restored 16 / 16 users
+2023-12-08 03:41:58.754    app     info:    [cache-protocol] Found 0 entries to remove
+2023-12-08 03:41:58.754    app     info:    [cache-protocol] Nothing to clean up.
+2023-12-08 03:41:58.871    app     info:    [customer-information] Agreements have been updated
+2023-12-08 03:41:59.463    app     info:    ELG stream closed, quitting.
