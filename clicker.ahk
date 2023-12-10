@@ -62,7 +62,7 @@ $^+C::
 		SoundPlay %A_WinDir%\Media\Windows Navigation Start.wav
 		MouseMove, %OrigX%, %OrigY%
 		Sleep, % ran(1000, 9000)
-		global MouseSpeed = % ran(1, 20)
+		MouseSpeed = % ran(1, 20)
 		SetDefaultMouseSpeed, MouseSpeed
 	}
 return
