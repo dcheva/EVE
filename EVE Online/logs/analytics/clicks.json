@@ -222,5 +222,19 @@
       "className": "mantine-UnstyledButton-root mantine-Button-root ___ref-play-button-the-button mantine-fnk0ba",
       "innerText": "PLAY NOW"
     }
+  },
+  {
+    "window": {
+      "width": 1400,
+      "height": 1080
+    },
+    "click": {
+      "x": 1373,
+      "y": 10,
+      "tagName": "BUTTON",
+      "id": "",
+      "className": "mantine-UnstyledButton-root mantine-CloseButton-wrapper mantine-CloseButton-CloseButton mantine-1evzfwy",
+      "innerText": ""
+    }
   }
 ]

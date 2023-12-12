@@ -31,18 +31,7 @@
 		"clientManagement": {
 			"processes": {
 				"eve-online": {
-					"tranquility": [
-						{
-							"processId": 1796,
-							"createdDate": 1702392239896,
-							"username": "dmitry.cheva",
-							"userId": 2110311,
-							"characterId": 2115457291,
-							"profile": "Default",
-							"dxVersion": "dx12",
-							"foundDate": 1702392240384
-						}
-					]
+					"tranquility": []
 				}
 			},
 			"temporaryProcesses": {}
@@ -53,7 +42,7 @@
 			"wasRecentlyUpdated": false,
 			"isMinimized": false,
 			"isMaximized": false,
-			"isVisible": true
+			"isVisible": false
 		},
 		"v2/products": {
 			"eve-online": {
