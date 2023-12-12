@@ -6,16 +6,6 @@
     "auditLog": "C:\\Users\\Dmytro\\AppData\\Roaming\\EVE Online\\logs\\.log-audit.json",
     "files": [
         {
-            "date": 1701169211194,
-            "name": "C:\\Users\\Dmytro\\AppData\\Roaming\\EVE Online\\logs\\eve-online-launcher-2023.11.28-11.00.11.log",
-            "hash": "4ebca1fa400019868dd7569f26a45ad79a0f4852891880389a2dad9183753e46"
-        },
-        {
-            "date": 1701172293980,
-            "name": "C:\\Users\\Dmytro\\AppData\\Roaming\\EVE Online\\logs\\eve-online-launcher-2023.11.28-11.51.33.log",
-            "hash": "579418be3dc54f290ade7dce0b921b48b09afab8496a8477fd9c22ad8d801648"
-        },
-        {
             "date": 1701187369458,
             "name": "C:\\Users\\Dmytro\\AppData\\Roaming\\EVE Online\\logs\\eve-online-launcher-2023.11.28-16.02.49.log",
             "hash": "934de029d27081ce76caf2f2fd600e1ab1b1b5dd4e4395e2fdd94aab208a8406"
@@ -299,6 +289,41 @@
             "date": 1702362955040,
             "name": "C:\\Users\\Dmytro\\AppData\\Roaming\\EVE Online\\logs\\eve-online-launcher-2023.12.12-06.35.55.log",
             "hash": "fa4e57eeba96d14218f45b957f1dc2af80f36e3e03165fad0306ad27205c624c"
+        },
+        {
+            "date": 1702381774866,
+            "name": "C:\\Users\\Dmytro\\AppData\\Roaming\\EVE Online\\logs\\eve-online-launcher-2023.12.12-11.49.34.log",
+            "hash": "4fa553e16ab06a94478ee0f27f3882b7dcc4a863e50ff27e8b27be641cb42e94"
+        },
+        {
+            "date": 1702389382434,
+            "name": "C:\\Users\\Dmytro\\AppData\\Roaming\\EVE Online\\logs\\eve-online-launcher-2023.12.12-13.56.22.log",
+            "hash": "a9d2b87ea326d1e0944612ed5913bd2f5b8556aad3d213e5da9d9a88c6e3c3d7"
+        },
+        {
+            "date": 1702390762540,
+            "name": "C:\\Users\\Dmytro\\AppData\\Roaming\\EVE Online\\logs\\eve-online-launcher-2023.12.12-14.19.22.log",
+            "hash": "d86e114d47e91a432cf87309559e63600d86e9f7b0380cb2f433a9c9ba322444"
+        },
+        {
+            "date": 1702391220567,
+            "name": "C:\\Users\\Dmytro\\AppData\\Roaming\\EVE Online\\logs\\eve-online-launcher-2023.12.12-14.27.00.log",
+            "hash": "e2903db1f447fb04fabe8f3b088381494f3243af5fb8d1a1e2a9e6f4e9f6f6dd"
+        },
+        {
+            "date": 1702391223464,
+            "name": "C:\\Users\\Dmytro\\AppData\\Roaming\\EVE Online\\logs\\eve-online-launcher-2023.12.12-14.27.03.log",
+            "hash": "7ec27637e07cc154cb1dc7f88f73b6af08eb4a8a5ff885a2ace48b7c5726cb38"
+        },
+        {
+            "date": 1702391340389,
+            "name": "C:\\Users\\Dmytro\\AppData\\Roaming\\EVE Online\\logs\\eve-online-launcher-2023.12.12-14.29.00.log",
+            "hash": "9a7adb2da3292b86b272971b2df8a0afe3bc1369c2e20262adbb34248dcce043"
+        },
+        {
+            "date": 1702391358113,
+            "name": "C:\\Users\\Dmytro\\AppData\\Roaming\\EVE Online\\logs\\eve-online-launcher-2023.12.12-14.29.18.log",
+            "hash": "bef2f295bdf1613e26f55542dd40c83fba3f8cca470c85ce0207a459dc7d25e2"
         }
     ],
     "hashType": "sha256"

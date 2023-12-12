@@ -5,8 +5,8 @@
       "height": 1080
     },
     "click": {
-      "x": 537,
-      "y": 436,
+      "x": 584,
+      "y": 824,
       "tagName": "DIV",
       "id": "root",
       "className": "",
@@ -19,8 +19,8 @@
       "height": 1080
     },
     "click": {
-      "x": 485,
-      "y": 501,
+      "x": 441,
+      "y": 690,
       "tagName": "DIV",
       "id": "root",
       "className": "",
@@ -33,8 +33,8 @@
       "height": 1080
     },
     "click": {
-      "x": 942,
-      "y": 409,
+      "x": 992,
+      "y": 403,
       "tagName": "BUTTON",
       "id": "",
       "className": "mantine-UnstyledButton-root mantine-Button-root ___ref-play-button-the-button mantine-fnk0ba",
@@ -47,8 +47,36 @@
       "height": 1080
     },
     "click": {
-      "x": 1367,
-      "y": 27,
+      "x": 493,
+      "y": 221,
+      "tagName": "DIV",
+      "id": "root",
+      "className": "",
+      "innerText": ""
+    }
+  },
+  {
+    "window": {
+      "width": 1400,
+      "height": 1080
+    },
+    "click": {
+      "x": 957,
+      "y": 397,
+      "tagName": "BUTTON",
+      "id": "",
+      "className": "mantine-UnstyledButton-root mantine-Button-root ___ref-play-button-the-button mantine-fnk0ba",
+      "innerText": "PLAY NOW"
+    }
+  },
+  {
+    "window": {
+      "width": 1400,
+      "height": 1080
+    },
+    "click": {
+      "x": 1381,
+      "y": 9,
       "tagName": "BUTTON",
       "id": "",
       "className": "mantine-UnstyledButton-root mantine-CloseButton-wrapper mantine-CloseButton-CloseButton mantine-1evzfwy",

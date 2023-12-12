@@ -1,0 +1,1712 @@
+2023-12-12 11:49:35.075    app     info:    Startup arguments    []
+2023-12-12 11:49:35.079    app     info:    [self-update] Starting automatic update checks
+2023-12-12 11:49:35.080    app     info:    [self-update] Waiting for update feed before starting update checks
+2023-12-12 11:49:35.203    app     info:    [i18next] Changed language    en
+2023-12-12 11:49:35.306    app     info:    [authentication] Token for '16492377' on 'tranquility' is expired, refresh is required
+2023-12-12 11:49:35.306    app     info:    [authentication] Refreshing token for '16492377' on 'tranquility'
+2023-12-12 11:49:35.307    app     info:    [authentication] Token for '17525312' on 'tranquility' is expired, refresh is required
+2023-12-12 11:49:35.307    app     info:    [authentication] Refreshing token for '17525312' on 'tranquility'
+2023-12-12 11:49:35.308    app     info:    [authentication] Token for '25218835' on 'tranquility' is expired, refresh is required
+2023-12-12 11:49:35.308    app     info:    [authentication] Refreshing token for '25218835' on 'tranquility'
+2023-12-12 11:49:35.309    app     info:    [customer-information] Getting character information for '29280260' on 'tranquility'
+2023-12-12 11:49:35.309    app     info:    [customer-information] Getting Omega status for '29280260' on 'tranquility'
+2023-12-12 11:49:35.309    app     info:    [virtual-goods] Getting Plex status for '29280260' on 'tranquility'
+2023-12-12 11:49:35.311    app     info:    [customer-information] Getting character information for '29285645' on 'tranquility'
+2023-12-12 11:49:35.311    app     info:    [customer-information] Getting Omega status for '29285645' on 'tranquility'
+2023-12-12 11:49:35.312    app     info:    [virtual-goods] Getting Plex status for '29285645' on 'tranquility'
+2023-12-12 11:49:35.312    app     info:    [authentication] Token for '18034259' on 'tranquility' is expired, refresh is required
+2023-12-12 11:49:35.312    app     info:    [authentication] Refreshing token for '18034259' on 'tranquility'
+2023-12-12 11:49:35.313    app     info:    [authentication] Token for '28182799' on 'tranquility' is expired, refresh is required
+2023-12-12 11:49:35.313    app     info:    [authentication] Refreshing token for '28182799' on 'tranquility'
+2023-12-12 11:49:35.313    app     info:    [authentication] Token for '2110311' on 'tranquility' is expired, refresh is required
+2023-12-12 11:49:35.313    app     info:    [authentication] Refreshing token for '2110311' on 'tranquility'
+2023-12-12 11:49:35.314    app     info:    [authentication] Token for '23622903' on 'tranquility' is expired, refresh is required
+2023-12-12 11:49:35.314    app     info:    [authentication] Refreshing token for '23622903' on 'tranquility'
+2023-12-12 11:49:35.314    app     info:    [authentication] Token for '26239201' on 'tranquility' is expired, refresh is required
+2023-12-12 11:49:35.314    app     info:    [authentication] Refreshing token for '26239201' on 'tranquility'
+2023-12-12 11:49:35.314    app     info:    [device-id] Device id found in state
+2023-12-12 11:49:35.318    app     info:    [analytics] Application name:    EVE Online
+2023-12-12 11:49:35.318    app     info:    [analytics] Application version:    1.0.2
+2023-12-12 11:49:35.318    app     info:    [analytics] Domain    undefined
+2023-12-12 11:49:35.319    app     info:    [analytics] Working directory    C:\Users\REDACTED\AppData\Local\eve-online\app-1.0.2
+2023-12-12 11:49:35.319    app     info:    [analytics] Username contains UTF8?    false
+2023-12-12 11:49:36.098    app     info:    [elg-events] Sending event    eve_launcher.electron.application.PdmLoaded
+2023-12-12 11:49:36.101    app     info:    [analytics] Operating system    {
+  type: 'Windows',
+  name: 'Windows 10 Education',
+  version: '10.0 (19045)'
+}
+2023-12-12 11:49:36.101    app     info:    [analytics] Encryption available:    true
+2023-12-12 11:49:36.102    app     info:    [analytics] Machine UUID    4E9F516C-5B97-47C6-8C67-E93D943CB7C8
+2023-12-12 11:49:36.102    app     info:    [analytics] PDM Version    2.1.4
+2023-12-12 11:49:36.102    app     info:    [analytics] Release channel    release
+2023-12-12 11:49:36.105    app     info:    [initializers] Shared cache directory set to    C:\CCP\EVE Online
+2023-12-12 11:49:36.137    app     info:    [initializers] Shared cache drive free space: 63,26 GiB / 465,75 GiB
+2023-12-12 11:49:36.146    app     info:    [elg-events] Sending event    eve_launcher.electron.application.LauncherStarted
+2023-12-12 11:49:36.149    app     info:    [elg-events] Sending event    eve_launcher.electron.application.CoreDataLoaded
+2023-12-12 11:49:36.150    app     info:    [cdn-trace] Fetching CDN trace data from https://binaries.eveonline.com/cdn-cgi/trace
+2023-12-12 11:49:36.167    app     info:    [feature-flags] Initializing feature flag client
+2023-12-12 11:49:36.271    app     info:    [first-run] First application run was at 2023-11-27T10:29:20.506Z
+2023-12-12 11:49:36.323    app     info:    [cache-protocol] Found 0 entries to remove
+2023-12-12 11:49:36.323    app     info:    [cache-protocol] Nothing to clean up.
+2023-12-12 11:49:36.377    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2023-12-12 11:49:36.383    app     info:    [esi] Fetching character details for 2121878074
+2023-12-12 11:49:36.409    app     info:    [customer-information] Agreements have been updated
+2023-12-12 11:49:36.410    app     info:    info: [LaunchDarkly] LaunchDarkly client initialized    []
+2023-12-12 11:49:36.411    app     info:    info: [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/64c3d12e27a4b11365012d39/eyJrZXkiOiI0YTQzNmFkYi00Yjk5LTQwYTctODViMC00MmUyMDZmNDEyODYiLCJraW5kIjoidXNlciIsImN1c3RvbSI6eyJpc0ZpcnN0UnVuIjpmYWxzZSwiZGF5c1NpbmNlRmlyc3RSdW4iOjE1LCJsYW5ndWFnZSI6ImVuIiwiYXBwbGljYXRpb24iOiJldmUtb25saW5lIiwidmVyc2lvbiI6IjEuMC4yIiwicGxhdGZvcm0iOiJ3aW5kb3dzIiwib3NWZXJzaW9uRGVwcmVjYXRlZCI6ZmFsc2UsInVzZXJJZHMiOlsxNjQ5MjM3NywxNzUyNTMxMiwxODAzNDI1OSwyMTEwMzExLDIzNjIyOTAzLDI1MjE4ODM1LDI2MjM5MjAxLDI4MTgyNzk5LDI5MjgwMjYwLDI5Mjg1NjQ1XSwiY2hhcmFjdGVySWRzIjpbMjExMzg3NTEzOSwyMTE0NjU2MTI3LDIxMTUwMzE4OTAsMjExNTQ1NzI5MSwyMTE4MjQ4MDQxLDIxMTkzNjE4OTEsMjEyMDM0NzYzNSwyMTIxMTc0NTQ1LDIxMjExNzQ4NzEsMjEyMTE3NTc3NiwyMTIxMTc3OTczLDIxMjExNzgxNzEsMjEyMTE3ODM5NiwyMTIxODUzMzM2LDIxMjE4NzgwNzQsNTc4NTY0Mzk0XSwib21lZ2FDb3VudCI6MCwiYWxwaGFDb3VudCI6MTAsImFjY291bnRDb3VudCI6MTAsIm9sZGVzdEFjY291bnRBZ2UiOjU5OTgsInlvdW5nZXN0QWNjb3VudEFnZSI6MTB9fQ?withReasons=true    []
+2023-12-12 11:49:36.412    app     info:    [feature-flags] Client 4a436adb... ready, fetching flags
+2023-12-12 11:49:36.416    app     info:    [feature-flags] Received 17 flags for client 4a436adb...
+2023-12-12 11:49:36.416    app     info:    [feature-flags] Client initialized with key 4a436adb...
+2023-12-12 11:49:36.418    app     info:    [self-update] Update feed set, starting update checks
+2023-12-12 11:49:36.418    app     info:    [self-update] Starting automatic update checks
+2023-12-12 11:49:36.419    app     info:    [self-update] Checking for a launcher update...
+2023-12-12 11:49:36.514    app     info:    [authentication] Token for '25218835' on 'tranquility' has been successfully refreshed
+2023-12-12 11:49:36.516    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.UserTokensRefreshed
+2023-12-12 11:49:36.518    app     info:    [customer-information] Getting character information for '25218835' on 'tranquility'
+2023-12-12 11:49:36.518    app     info:    [customer-information] Getting Omega status for '25218835' on 'tranquility'
+2023-12-12 11:49:36.518    app     info:    [virtual-goods] Getting Plex status for '25218835' on 'tranquility'
+2023-12-12 11:49:36.530    app     info:    [authentication] Token for '23622903' on 'tranquility' has been successfully refreshed
+2023-12-12 11:49:36.531    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.UserTokensRefreshed
+2023-12-12 11:49:36.534    app     info:    [customer-information] Getting character information for '23622903' on 'tranquility'
+2023-12-12 11:49:36.534    app     info:    [customer-information] Getting Omega status for '23622903' on 'tranquility'
+2023-12-12 11:49:36.534    app     info:    [virtual-goods] Getting Plex status for '23622903' on 'tranquility'
+2023-12-12 11:49:36.543    app     info:    [authentication] Token for '16492377' on 'tranquility' has been successfully refreshed
+2023-12-12 11:49:36.545    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.UserTokensRefreshed
+2023-12-12 11:49:36.546    app     info:    [customer-information] Getting character information for '16492377' on 'tranquility'
+2023-12-12 11:49:36.546    app     info:    [customer-information] Getting Omega status for '16492377' on 'tranquility'
+2023-12-12 11:49:36.546    app     info:    [virtual-goods] Getting Plex status for '16492377' on 'tranquility'
+2023-12-12 11:49:36.556    app     info:    [authentication] Token for '17525312' on 'tranquility' has been successfully refreshed
+2023-12-12 11:49:36.557    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.UserTokensRefreshed
+2023-12-12 11:49:36.558    app     info:    [customer-information] Getting character information for '17525312' on 'tranquility'
+2023-12-12 11:49:36.558    app     info:    [customer-information] Getting Omega status for '17525312' on 'tranquility'
+2023-12-12 11:49:36.559    app     info:    [virtual-goods] Getting Plex status for '17525312' on 'tranquility'
+2023-12-12 11:49:36.568    app     info:    [authentication] Token for '2110311' on 'tranquility' has been successfully refreshed
+2023-12-12 11:49:36.569    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.UserTokensRefreshed
+2023-12-12 11:49:36.572    app     info:    [customer-information] Getting character information for '2110311' on 'tranquility'
+2023-12-12 11:49:36.572    app     info:    [customer-information] Getting Omega status for '2110311' on 'tranquility'
+2023-12-12 11:49:36.572    app     info:    [virtual-goods] Getting Plex status for '2110311' on 'tranquility'
+2023-12-12 11:49:36.581    app     info:    [authentication] Token for '18034259' on 'tranquility' has been successfully refreshed
+2023-12-12 11:49:36.583    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.UserTokensRefreshed
+2023-12-12 11:49:36.584    app     info:    [customer-information] Getting character information for '18034259' on 'tranquility'
+2023-12-12 11:49:36.584    app     info:    [customer-information] Getting Omega status for '18034259' on 'tranquility'
+2023-12-12 11:49:36.584    app     info:    [virtual-goods] Getting Plex status for '18034259' on 'tranquility'
+2023-12-12 11:49:36.594    app     info:    [authentication] Token for '26239201' on 'tranquility' has been successfully refreshed
+2023-12-12 11:49:36.595    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.UserTokensRefreshed
+2023-12-12 11:49:36.596    app     info:    [customer-information] Getting character information for '26239201' on 'tranquility'
+2023-12-12 11:49:36.596    app     info:    [customer-information] Getting Omega status for '26239201' on 'tranquility'
+2023-12-12 11:49:36.597    app     info:    [virtual-goods] Getting Plex status for '26239201' on 'tranquility'
+2023-12-12 11:49:36.611    app     info:    [virtual-goods] Fetched Plex status for '29280260' on 'tranquility'
+2023-12-12 11:49:36.622    app     info:    [server-manager] Previous Tranquility build: 2448565, current build: 2450028
+2023-12-12 11:49:36.624    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.GameClientUpdateStarted
+2023-12-12 11:49:36.624    app     info:    [server-manager] Starting download of build 2450028 for Tranquility.
+2023-12-12 11:49:36.628    app     info:    [authentication] Token for '28182799' on 'tranquility' has been successfully refreshed
+2023-12-12 11:49:36.630    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.UserTokensRefreshed
+2023-12-12 11:49:36.631    app     info:    [customer-information] Getting character information for '28182799' on 'tranquility'
+2023-12-12 11:49:36.631    app     info:    [customer-information] Getting Omega status for '28182799' on 'tranquility'
+2023-12-12 11:49:36.631    app     info:    [virtual-goods] Getting Plex status for '28182799' on 'tranquility'
+2023-12-12 11:49:36.708    app     info:    [virtual-goods] Fetched Plex status for '29285645' on 'tranquility'
+2023-12-12 11:49:36.738    app     info:    [esi] Fetching character details for 2119361891, 2120347635
+2023-12-12 11:49:36.747    app     info:    [esi] Fetching character details for 2115031890, 2121177973
+2023-12-12 11:49:36.793    app     info:    [esi] Fetching character details for 2121174545
+2023-12-12 11:49:36.808    app     info:    [esi] Fetching character details for 2121178171
+2023-12-12 11:49:36.824    app     info:    [esi] Fetching character details for 2114656127, 2121178396
+2023-12-12 11:49:36.839    app     info:    [esi] Fetching character details for 2118248041, 2121175776
+2023-12-12 11:49:36.855    app     info:    [esi] Fetching character details for 578564394, 2115457291
+2023-12-12 11:49:36.872    app     info:    [virtual-goods] Fetched Plex status for '17525312' on 'tranquility'
+2023-12-12 11:49:36.877    app     info:    [AuthenticationMiddleware] User information updated
+2023-12-12 11:49:36.884    app     info:    [virtual-goods] Fetched Plex status for '18034259' on 'tranquility'
+2023-12-12 11:49:36.889    app     info:    [AuthenticationMiddleware] User information updated
+2023-12-12 11:49:36.891    app     info:    [virtual-goods] Fetched Plex status for '23622903' on 'tranquility'
+2023-12-12 11:49:36.897    app     info:    [AuthenticationMiddleware] User information updated
+2023-12-12 11:49:36.898    app     info:    [virtual-goods] Fetched Plex status for '25218835' on 'tranquility'
+2023-12-12 11:49:36.904    app     info:    [AuthenticationMiddleware] User information updated
+2023-12-12 11:49:37.063    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-12 11:49:37.064    app     info:    [virtual-goods] Fetched Plex status for '28182799' on 'tranquility'
+2023-12-12 11:49:37.069    app     info:    [AuthenticationMiddleware] User information updated
+2023-12-12 11:49:37.075    app     info:    [virtual-goods] Fetched Plex status for '26239201' on 'tranquility'
+2023-12-12 11:49:37.080    app     info:    [AuthenticationMiddleware] User information updated
+2023-12-12 11:49:37.081    app     info:    [esi] Fetching character details for 2121853336
+2023-12-12 11:49:37.088    app     info:    [AuthenticationMiddleware] Successfully restored 12 / 12 users
+2023-12-12 11:49:37.089    app     info:    [esi] Fetching character details for 2113875139, 2121174871
+2023-12-12 11:49:37.096    app     info:    [manifest] Excluded 22 files from the manifest, leaving 172 entries
+2023-12-12 11:49:37.097    app     info:    [server-manager] Downloading 172 binary files (164 MB)
+2023-12-12 11:49:37.097    app     info:    [download-from-manifest] Preparing to download 172 files    { cdn: 1, concurrent: 10 }
+2023-12-12 11:49:37.219    app     info:    [virtual-goods] Fetched Plex status for '2110311' on 'tranquility'
+2023-12-12 11:49:37.224    app     info:    [AuthenticationMiddleware] User information updated
+2023-12-12 11:49:37.230    app     info:    [virtual-goods] Fetched Plex status for '16492377' on 'tranquility'
+2023-12-12 11:49:37.235    app     info:    [AuthenticationMiddleware] User information updated
+2023-12-12 11:49:37.250    app     info:    [esi] Fetched 1 character details for 29285645
+2023-12-12 11:49:37.362    app     warn:    [steam-auth] Failed to initialize Steamworks client
+2023-12-12 11:49:37.368    app     info:    [main-window] Registering main window    { windowId: 2 }
+2023-12-12 11:49:37.380    app     info:    [cdn-trace] Fetching CDN trace data from https://binaries.eveonline.com/cdn-cgi/trace
+2023-12-12 11:49:37.381    app     info:    [creatives] Requesting creatives
+2023-12-12 11:49:37.385    app     info:    [elg-events] Sending event    eve_launcher.electron.application.RendererLoaded
+2023-12-12 11:49:37.569    app     info:    [esi] Fetched 2 character details for 2110311
+2023-12-12 11:49:37.574    app     info:    [esi] Fetched 1 character details for 28182799
+2023-12-12 11:49:37.576    app     info:    [esi] Fetched 2 character details for 18034259
+2023-12-12 11:49:37.662    app     info:    [esi] Fetched 2 character details for 16492377
+2023-12-12 11:49:37.864    app     info:    [esi] Fetched 2 character details for 17525312
+2023-12-12 11:49:37.998    app     info:    [esi] Fetched 1 character details for 26239201
+2023-12-12 11:49:38.062    app     info:    [esi] Fetched 2 character details for 25218835
+2023-12-12 11:49:38.065    app     info:    [esi] Fetched 2 character details for 23622903
+2023-12-12 11:49:38.130     ui     info:    Initializing captcha    ccp://launcher/renderer/main_window/index.js    2
+2023-12-12 11:49:38.144    app     info:    [esi] Fetched 1 character details for 29280260
+2023-12-12 11:49:38.163    app     info:    [server-manager] Downloaded 7.24 MiB/156.18 MiB at 3.70 MiB/s
+2023-12-12 11:49:38.545    app     info:    [creatives] Received 3 creatives
+2023-12-12 11:49:39.166    app     info:    [server-manager] Downloaded 16.97 MiB/156.18 MiB at 14.80 MiB/s
+2023-12-12 11:49:40.174    app     info:    [server-manager] Downloaded 26.40 MiB/156.18 MiB at 8.97 MiB/s
+2023-12-12 11:49:41.177    app     info:    [server-manager] Downloaded 36.22 MiB/156.18 MiB at 9.82 MiB/s
+2023-12-12 11:49:41.238    app     info:    [AuthenticationMiddleware] Character information for '2110311' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 11:49:41.238    app     info:    [AuthenticationMiddleware] Plex information for '2110311' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 11:49:42.179    app     info:    [server-manager] Downloaded 45.96 MiB/156.18 MiB at 9.94 MiB/s
+2023-12-12 11:49:43.186    app     info:    [server-manager] Downloaded 55.93 MiB/156.18 MiB at 10.12 MiB/s
+2023-12-12 11:49:44.190    app     info:    [server-manager] Downloaded 65.78 MiB/156.18 MiB at 14.72 MiB/s
+2023-12-12 11:49:44.961    app     info:    [analytics] Hardware rendering enabled:    true    { disabledViaCommandline: false, disabledViaSettings: false }
+2023-12-12 11:49:45.192    app     info:    [server-manager] Downloaded 75.63 MiB/156.18 MiB at 9.85 MiB/s
+2023-12-12 11:49:46.108    app     info:    [AuthenticationMiddleware] Character information for '2110311' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 11:49:46.108    app     info:    [AuthenticationMiddleware] Plex information for '2110311' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 11:49:46.194    app     info:    [server-manager] Downloaded 85.41 MiB/156.18 MiB at 9.82 MiB/s
+2023-12-12 11:49:46.356    app     info:    [AuthenticationMiddleware] Character information for '2110311' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 11:49:46.356    app     info:    [AuthenticationMiddleware] Plex information for '2110311' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 11:49:47.196    app     info:    [server-manager] Downloaded 95.26 MiB/156.18 MiB at 9.90 MiB/s
+2023-12-12 11:49:48.200    app     info:    [server-manager] Downloaded 105.10 MiB/156.18 MiB at 9.92 MiB/s
+2023-12-12 11:49:49.202    app     info:    [server-manager] Downloaded 114.98 MiB/156.18 MiB at 9.87 MiB/s
+2023-12-12 11:49:50.204    app     info:    [server-manager] Downloaded 124.82 MiB/156.18 MiB at 9.82 MiB/s
+2023-12-12 11:49:51.207    app     info:    [server-manager] Downloaded 134.60 MiB/156.18 MiB at 4.96 MiB/s
+2023-12-12 11:49:52.209    app     info:    [server-manager] Downloaded 144.41 MiB/156.18 MiB at 9.89 MiB/s
+2023-12-12 11:49:53.169    app     info:    [download-from-manifest] Downloaded 172 files (154,24 MiB) in 16.69 seconds
+2023-12-12 11:49:53.170    app     info:    [download-from-manifest] Average download speed: 9,60 MiB/s
+2023-12-12 11:49:53.214    app     info:    [server-manager] Downloaded 156.18 MiB/156.18 MiB at 10.73 MiB/s
+2023-12-12 11:49:53.218    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesStarted
+2023-12-12 11:49:53.218    app     info:    [binary-copier] Copying 194 files (216 MB) to 'C:\CCP\EVE Online\tq'
+2023-12-12 11:49:53.252    app     info:    [binary-copier] Removing old binaries
+2023-12-12 11:49:53.267    app     info:    [binary-copier] Copying binaries from ResFiles
+2023-12-12 11:49:53.412    app     info:    [binary-copier] Finished copying 194 files to 'C:\CCP\EVE Online\tq' in 0.197 seconds
+2023-12-12 11:49:53.414    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesFinished
+2023-12-12 11:49:54.275    app     info:    [server-manager] Copying executables 194/194
+2023-12-12 11:49:55.125    app     info:    [manifest] Excluded 49240 files from the manifest, leaving 54 entries
+2023-12-12 11:49:55.125    app     info:    [server-manager] Downloading 54 prefetch files (843 MB)
+2023-12-12 11:49:55.126    app     info:    [download-from-manifest] Preparing to download 54 files    { cdn: 2, concurrent: 10 }
+2023-12-12 11:49:55.196    app     info:    [server-manager] Copying executables 194/194
+2023-12-12 11:49:56.193    app     info:    [server-manager] Downloaded 8.10 MiB/803.55 MiB at 4.81 MiB/s
+2023-12-12 11:49:57.194    app     info:    [server-manager] Downloaded 18.10 MiB/803.55 MiB at 9.95 MiB/s
+2023-12-12 11:49:58.201    app     info:    [server-manager] Downloaded 27.97 MiB/803.55 MiB at 9.58 MiB/s
+2023-12-12 11:49:59.203    app     info:    [server-manager] Downloaded 37.76 MiB/803.55 MiB at 14.48 MiB/s
+2023-12-12 11:50:00.214    app     info:    [server-manager] Downloaded 47.68 MiB/803.55 MiB at 9.90 MiB/s
+2023-12-12 11:50:01.220    app     info:    [server-manager] Downloaded 57.65 MiB/803.55 MiB at 9.99 MiB/s
+2023-12-12 11:50:02.222    app     info:    [server-manager] Downloaded 67.38 MiB/803.55 MiB at 9.58 MiB/s
+2023-12-12 11:50:03.233    app     info:    [server-manager] Downloaded 77.26 MiB/803.55 MiB at 9.81 MiB/s
+2023-12-12 11:50:04.237    app     info:    [server-manager] Downloaded 87.17 MiB/803.55 MiB at 10.10 MiB/s
+2023-12-12 11:50:05.239    app     info:    [server-manager] Downloaded 96.90 MiB/803.55 MiB at 9.90 MiB/s
+2023-12-12 11:50:06.241    app     info:    [server-manager] Downloaded 106.83 MiB/803.55 MiB at 10.14 MiB/s
+2023-12-12 11:50:06.259    app     warn:    Could not connect to LogLite    [
+  Error: connect ECONNREFUSED 127.0.0.1:3273
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16) {
+    errno: -4078,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '127.0.0.1',
+    port: 3273
+  }
+]
+2023-12-12 11:50:07.244    app     info:    [server-manager] Downloaded 116.63 MiB/803.55 MiB at 14.92 MiB/s
+2023-12-12 11:50:08.246    app     info:    [server-manager] Downloaded 126.55 MiB/803.55 MiB at 9.87 MiB/s
+2023-12-12 11:50:09.251    app     info:    [server-manager] Downloaded 136.33 MiB/803.55 MiB at 4.90 MiB/s
+2023-12-12 11:50:10.255    app     info:    [server-manager] Downloaded 146.17 MiB/803.55 MiB at 14.86 MiB/s
+2023-12-12 11:50:11.259    app     info:    [server-manager] Downloaded 156.01 MiB/803.55 MiB at 9.89 MiB/s
+2023-12-12 11:50:12.262    app     info:    [server-manager] Downloaded 165.75 MiB/803.55 MiB at 9.73 MiB/s
+2023-12-12 11:50:13.272    app     info:    [server-manager] Downloaded 175.55 MiB/803.55 MiB at 14.76 MiB/s
+2023-12-12 11:50:14.275    app     info:    [server-manager] Downloaded 185.35 MiB/803.55 MiB at 10.17 MiB/s
+2023-12-12 11:50:15.277    app     info:    [server-manager] Downloaded 195.38 MiB/803.55 MiB at 10.22 MiB/s
+2023-12-12 11:50:16.290    app     info:    [server-manager] Downloaded 205.12 MiB/803.55 MiB at 9.83 MiB/s
+2023-12-12 11:50:17.294    app     info:    [server-manager] Downloaded 215.13 MiB/803.55 MiB at 10.19 MiB/s
+2023-12-12 11:50:18.297    app     info:    [server-manager] Downloaded 224.95 MiB/803.55 MiB at 9.58 MiB/s
+2023-12-12 11:50:19.306    app     info:    [server-manager] Downloaded 234.73 MiB/803.55 MiB at 9.59 MiB/s
+2023-12-12 11:50:20.313    app     info:    [server-manager] Downloaded 244.56 MiB/803.55 MiB at 9.95 MiB/s
+2023-12-12 11:50:21.315    app     info:    [server-manager] Downloaded 254.44 MiB/803.55 MiB at 10.11 MiB/s
+2023-12-12 11:50:22.321    app     info:    [server-manager] Downloaded 264.23 MiB/803.55 MiB at 10.02 MiB/s
+2023-12-12 11:50:23.326    app     info:    [server-manager] Downloaded 274.05 MiB/803.55 MiB at 5.04 MiB/s
+2023-12-12 11:50:24.329    app     info:    [server-manager] Downloaded 284.03 MiB/803.55 MiB at 10.05 MiB/s
+2023-12-12 11:50:25.331    app     info:    [server-manager] Downloaded 293.79 MiB/803.55 MiB at 9.87 MiB/s
+2023-12-12 11:50:26.340    app     info:    [server-manager] Downloaded 303.57 MiB/803.55 MiB at 9.92 MiB/s
+2023-12-12 11:50:27.343    app     info:    [server-manager] Downloaded 313.62 MiB/803.55 MiB at 15.15 MiB/s
+2023-12-12 11:50:28.345    app     info:    [server-manager] Downloaded 323.31 MiB/803.55 MiB at 9.82 MiB/s
+2023-12-12 11:50:29.351    app     info:    [server-manager] Downloaded 333.20 MiB/803.55 MiB at 9.99 MiB/s
+2023-12-12 11:50:30.353    app     info:    [server-manager] Downloaded 343.05 MiB/803.55 MiB at 4.98 MiB/s
+2023-12-12 11:50:31.359    app     info:    [server-manager] Downloaded 352.95 MiB/803.55 MiB at 9.88 MiB/s
+2023-12-12 11:50:32.362    app     info:    [server-manager] Downloaded 362.68 MiB/803.55 MiB at 9.71 MiB/s
+2023-12-12 11:50:33.364    app     info:    [server-manager] Downloaded 372.52 MiB/803.55 MiB at 9.96 MiB/s
+2023-12-12 11:50:34.368    app     info:    [server-manager] Downloaded 382.38 MiB/803.55 MiB at 10.15 MiB/s
+2023-12-12 11:50:35.375    app     info:    [server-manager] Downloaded 392.21 MiB/803.55 MiB at 10.06 MiB/s
+2023-12-12 11:50:36.380    app     info:    [server-manager] Downloaded 402.14 MiB/803.55 MiB at 14.96 MiB/s
+2023-12-12 11:50:37.381    app     info:    [server-manager] Downloaded 411.87 MiB/803.55 MiB at 9.75 MiB/s
+2023-12-12 11:50:38.386    app     info:    [server-manager] Downloaded 421.78 MiB/803.55 MiB at 10.17 MiB/s
+2023-12-12 11:50:39.389    app     info:    [server-manager] Downloaded 431.52 MiB/803.55 MiB at 9.78 MiB/s
+2023-12-12 11:50:40.392    app     info:    [server-manager] Downloaded 441.39 MiB/803.55 MiB at 15.02 MiB/s
+2023-12-12 11:50:41.394    app     info:    [server-manager] Downloaded 451.30 MiB/803.55 MiB at 10.00 MiB/s
+2023-12-12 11:50:42.398    app     info:    [server-manager] Downloaded 461.06 MiB/803.55 MiB at 4.61 MiB/s
+2023-12-12 11:50:43.400    app     info:    [server-manager] Downloaded 470.91 MiB/803.55 MiB at 9.85 MiB/s
+2023-12-12 11:50:44.403    app     info:    [server-manager] Downloaded 480.71 MiB/803.55 MiB at 9.80 MiB/s
+2023-12-12 11:50:45.410    app     info:    [server-manager] Downloaded 490.56 MiB/803.55 MiB at 9.76 MiB/s
+2023-12-12 11:50:46.417    app     info:    [server-manager] Downloaded 500.57 MiB/803.55 MiB at 9.90 MiB/s
+2023-12-12 11:50:47.424    app     info:    [server-manager] Downloaded 510.40 MiB/803.55 MiB at 9.87 MiB/s
+2023-12-12 11:50:48.426    app     info:    [server-manager] Downloaded 520.25 MiB/803.55 MiB at 9.88 MiB/s
+2023-12-12 11:50:49.429    app     info:    [server-manager] Downloaded 530.13 MiB/803.55 MiB at 9.89 MiB/s
+2023-12-12 11:50:50.439    app     info:    [server-manager] Downloaded 539.95 MiB/803.55 MiB at 9.77 MiB/s
+2023-12-12 11:50:51.441    app     info:    [server-manager] Downloaded 549.83 MiB/803.55 MiB at 9.95 MiB/s
+2023-12-12 11:50:52.444    app     info:    [server-manager] Downloaded 559.40 MiB/803.55 MiB at 9.25 MiB/s
+2023-12-12 11:50:53.446    app     info:    [server-manager] Downloaded 569.28 MiB/803.55 MiB at 9.99 MiB/s
+2023-12-12 11:50:54.448    app     info:    [server-manager] Downloaded 579.11 MiB/803.55 MiB at 9.86 MiB/s
+2023-12-12 11:50:55.448    app     info:    [server-manager] Downloaded 588.93 MiB/803.55 MiB at 4.91 MiB/s
+2023-12-12 11:50:56.451    app     info:    [server-manager] Downloaded 598.75 MiB/803.55 MiB at 4.93 MiB/s
+2023-12-12 11:50:57.454    app     info:    [server-manager] Downloaded 608.59 MiB/803.55 MiB at 9.64 MiB/s
+2023-12-12 11:50:58.456    app     info:    [server-manager] Downloaded 618.41 MiB/803.55 MiB at 14.74 MiB/s
+2023-12-12 11:50:59.463    app     info:    [server-manager] Downloaded 628.26 MiB/803.55 MiB at 4.96 MiB/s
+2023-12-12 11:51:00.465    app     info:    [server-manager] Downloaded 638.13 MiB/803.55 MiB at 9.97 MiB/s
+2023-12-12 11:51:01.468    app     info:    [server-manager] Downloaded 647.97 MiB/803.55 MiB at 9.85 MiB/s
+2023-12-12 11:51:02.470    app     info:    [server-manager] Downloaded 657.77 MiB/803.55 MiB at 9.78 MiB/s
+2023-12-12 11:51:03.472    app     info:    [server-manager] Downloaded 667.60 MiB/803.55 MiB at 9.82 MiB/s
+2023-12-12 11:51:04.475    app     info:    [server-manager] Downloaded 677.40 MiB/803.55 MiB at 14.73 MiB/s
+2023-12-12 11:51:05.477    app     info:    [server-manager] Downloaded 687.25 MiB/803.55 MiB at 9.91 MiB/s
+2023-12-12 11:51:06.478    app     info:    [server-manager] Downloaded 697.07 MiB/803.55 MiB at 9.83 MiB/s
+2023-12-12 11:51:07.481    app     info:    [server-manager] Downloaded 706.89 MiB/803.55 MiB at 14.73 MiB/s
+2023-12-12 11:51:08.482    app     info:    [server-manager] Downloaded 716.71 MiB/803.55 MiB at 9.82 MiB/s
+2023-12-12 11:51:09.485    app     info:    [server-manager] Downloaded 726.53 MiB/803.55 MiB at 14.74 MiB/s
+2023-12-12 11:51:10.488    app     info:    [server-manager] Downloaded 736.37 MiB/803.55 MiB at 9.81 MiB/s
+2023-12-12 11:51:11.489    app     info:    [server-manager] Downloaded 746.14 MiB/803.55 MiB at 14.71 MiB/s
+2023-12-12 11:51:12.491    app     info:    [server-manager] Downloaded 755.86 MiB/803.55 MiB at 14.50 MiB/s
+2023-12-12 11:51:13.493    app     info:    [server-manager] Downloaded 765.68 MiB/803.55 MiB at 9.82 MiB/s
+2023-12-12 11:51:14.495    app     info:    [server-manager] Downloaded 775.47 MiB/803.55 MiB at 14.67 MiB/s
+2023-12-12 11:51:15.498    app     info:    [server-manager] Downloaded 785.29 MiB/803.55 MiB at 14.73 MiB/s
+2023-12-12 11:51:16.500    app     info:    [server-manager] Downloaded 795.11 MiB/803.55 MiB at 4.98 MiB/s
+2023-12-12 11:51:17.114    app     info:    [download-from-manifest] Downloaded 54 files (802,49 MiB) in 1 minutes, 21.987 seconds
+2023-12-12 11:51:17.114    app     info:    [download-from-manifest] Average download speed: 9,79 MiB/s
+2023-12-12 11:51:17.118    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.GameClientUpdateFinished
+2023-12-12 11:51:17.121    app     info:    [server-manager] Downloaded 803.55 MiB/803.55 MiB at 21.75 MiB/s
+2023-12-12 11:51:17.122    app     info:    [server-manager] Ready to play!
+2023-12-12 11:51:17.125    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-12 11:51:17.125    app     info:    [server-manager] Build for Tranquility is now 2450028
+2023-12-12 11:54:34.587    app     info:    [client-queue] Queued client startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  userId: 2110311,
+  characterId: 2115457291,
+  profile: ''
+}
+2023-12-12 11:54:34.591    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.ClientQueued
+2023-12-12 11:54:34.591    app     info:    [client-queue] No clients running for tranquility, copying files before starting a client
+2023-12-12 11:54:34.595    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesStarted
+2023-12-12 11:54:34.595    app     info:    [binary-copier] Copying 194 files (216 MB) to 'C:\CCP\EVE Online\tq'
+2023-12-12 11:54:34.613    app     info:    [binary-copier] Removing old binaries
+2023-12-12 11:54:34.643    app     info:    [binary-copier] Copying binaries from ResFiles
+2023-12-12 11:54:34.730    app     info:    [binary-copier] Finished copying 194 files to 'C:\CCP\EVE Online\tq' in 0.136 seconds
+2023-12-12 11:54:34.732    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesFinished
+2023-12-12 11:54:34.739    app     info:    [client-manager] Starting EVE Online game client.    C:\CCP\EVE Online\tq\bin64\exefile.exe    Map(11) {
+  'noconsole' => '/noconsole',
+  'server' => '/server:tranquility.servers.eveonline.com',
+  'triplatform' => '/triplatform=dx12',
+  'ssotoken' => '/ssoToken=***',
+  'refreshtoken' => '/refreshToken=***',
+  'settingsprofile' => '/settingsprofile=Default',
+  'deviceid' => '/deviceID=4a436adb-4b99-40a7-85b0-42e206f41286',
+  'autoselectcharacter' => '/autoSelectCharacter:2115457291',
+  'language' => '/language=en',
+  'exp' => '1702382376',
+  'tokenExpires' => '2023-12-12 13:59:36.000'
+}    2110311
+2023-12-12 11:54:34.773    app     info:    [client-queue] Started client from group startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  characterId: 2115457291,
+  profile: '',
+  userId: 2110311
+}
+2023-12-12 11:54:34.844    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientStartRequested'
+2023-12-12 11:54:34.844    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessAdded'
+2023-12-12 11:54:35.306    app     info:    [client-manager] Found 'tranquility' client for '2110311' running:     {
+  processId: 3760,
+  createdDate: 1702382074820,
+  userId: 2110311,
+  characterId: 2115457291,
+  profile: 'Default',
+  dxVersion: 'dx12'
+}
+2023-12-12 11:54:35.396    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessMonitoringRetried'
+2023-12-12 11:54:35.396    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientStarted'
+2023-12-12 11:54:35.396    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessRemoved'
+2023-12-12 11:54:35.789    app     info:    [client-queue] Queue has stopped running, no more clients pending startup.
+2023-12-12 11:54:37.078    app     info:    [self-update] Checking for a launcher update...
+2023-12-12 11:54:37.370    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-12 11:54:57.399    app     info:    [AuthenticationMiddleware] Character information for '25218835' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 11:54:57.399    app     info:    [AuthenticationMiddleware] Plex information for '25218835' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 11:54:59.549    app     info:    [AuthenticationMiddleware] Character information for '25218835' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 11:54:59.549    app     info:    [AuthenticationMiddleware] Plex information for '25218835' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 11:55:11.966    app     info:    [AuthenticationMiddleware] Character information for '17525312' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 11:55:11.966    app     info:    [AuthenticationMiddleware] Plex information for '17525312' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 11:56:17.135    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2023-12-12 11:56:17.301    app     info:    [server-manager] Previous Tranquility build: 2450028, current build: 2450028
+2023-12-12 11:56:17.301    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-12 11:56:17.307    app     info:    [server-manager] Ready to play!
+2023-12-12 11:56:17.311    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-12 11:59:37.375    app     info:    [self-update] Checking for a launcher update...
+2023-12-12 11:59:37.679    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-12 12:01:17.328    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2023-12-12 12:01:17.810    app     info:    [server-manager] Previous Tranquility build: 2450028, current build: 2450028
+2023-12-12 12:01:17.810    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-12 12:01:17.817    app     info:    [server-manager] Ready to play!
+2023-12-12 12:01:17.820    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-12 12:04:37.686    app     info:    [self-update] Checking for a launcher update...
+2023-12-12 12:04:37.974    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-12 12:04:51.387    app     info:    [ipc-requests] Handling requests in the background
+2023-12-12 12:04:52.403    app     info:    [ipc-requests] No longer handling requests in the background
+2023-12-12 12:06:17.837    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2023-12-12 12:06:17.969    app     info:    [server-manager] Previous Tranquility build: 2450028, current build: 2450028
+2023-12-12 12:06:17.970    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-12 12:06:17.980    app     info:    [server-manager] Ready to play!
+2023-12-12 12:06:17.987    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-12 12:07:25.971    app     info:    [ipc-requests] Handling requests in the background
+2023-12-12 12:07:26.975    app     info:    [ipc-requests] No longer handling requests in the background
+2023-12-12 12:07:44.143    app     info:    [ipc-requests] Handling requests in the background
+2023-12-12 12:07:45.146    app     info:    [ipc-requests] No longer handling requests in the background
+2023-12-12 12:07:52.703    app     info:    [ipc-requests] Handling requests in the background
+2023-12-12 12:07:53.713    app     info:    [ipc-requests] No longer handling requests in the background
+2023-12-12 12:09:37.989    app     info:    [self-update] Checking for a launcher update...
+2023-12-12 12:09:38.276    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-12 12:11:17.990    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2023-12-12 12:11:18.553    app     info:    [server-manager] Previous Tranquility build: 2450028, current build: 2450028
+2023-12-12 12:11:18.553    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-12 12:11:18.558    app     info:    [server-manager] Ready to play!
+2023-12-12 12:11:18.562    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-12 12:14:38.277    app     info:    [self-update] Checking for a launcher update...
+2023-12-12 12:14:38.582    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-12 12:16:18.571    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2023-12-12 12:16:18.715    app     info:    [server-manager] Previous Tranquility build: 2450028, current build: 2450028
+2023-12-12 12:16:18.715    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-12 12:16:18.720    app     info:    [server-manager] Ready to play!
+2023-12-12 12:16:18.724    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-12 12:18:20.456    app     info:    [ipc-requests] Handling requests in the background
+2023-12-12 12:18:21.466    app     info:    [ipc-requests] No longer handling requests in the background
+2023-12-12 12:18:22.376    app     info:    [ipc-requests] Handling requests in the background
+2023-12-12 12:18:23.380    app     info:    [ipc-requests] No longer handling requests in the background
+2023-12-12 12:18:39.543    app     info:    [ipc-requests] Handling requests in the background
+2023-12-12 12:18:40.553    app     info:    [ipc-requests] No longer handling requests in the background
+2023-12-12 12:18:42.943    app     info:    [ipc-requests] Handling requests in the background
+2023-12-12 12:18:43.952    app     info:    [ipc-requests] No longer handling requests in the background
+2023-12-12 12:19:38.596    app     info:    [self-update] Checking for a launcher update...
+2023-12-12 12:19:38.873    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-12 12:20:18.985    app     info:    [ipc-requests] Handling requests in the background
+2023-12-12 12:20:19.987    app     info:    [ipc-requests] No longer handling requests in the background
+2023-12-12 12:21:18.731    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2023-12-12 12:21:18.867    app     info:    [server-manager] Previous Tranquility build: 2450028, current build: 2450028
+2023-12-12 12:21:18.867    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-12 12:21:18.871    app     info:    [server-manager] Ready to play!
+2023-12-12 12:21:18.874    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-12 12:24:17.784    app     info:    [ipc-requests] Handling requests in the background
+2023-12-12 12:24:18.800    app     info:    [ipc-requests] No longer handling requests in the background
+2023-12-12 12:24:38.882    app     info:    [self-update] Checking for a launcher update...
+2023-12-12 12:24:39.157    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-12 12:25:15.723    app     info:    [ipc-requests] Handling requests in the background
+2023-12-12 12:25:16.736    app     info:    [ipc-requests] No longer handling requests in the background
+2023-12-12 12:26:18.881    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2023-12-12 12:26:19.085    app     info:    [server-manager] Previous Tranquility build: 2450028, current build: 2450028
+2023-12-12 12:26:19.085    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-12 12:26:19.089    app     info:    [server-manager] Ready to play!
+2023-12-12 12:26:19.093    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-12 12:28:34.764    app     info:    [ipc-requests] Handling requests in the background
+2023-12-12 12:28:35.780    app     info:    [ipc-requests] No longer handling requests in the background
+2023-12-12 12:28:57.191    app     info:    [ipc-requests] Handling requests in the background
+2023-12-12 12:28:58.198    app     info:    [ipc-requests] No longer handling requests in the background
+2023-12-12 12:29:39.161    app     info:    [self-update] Checking for a launcher update...
+2023-12-12 12:29:39.468    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-12 12:30:55.554    app     info:    [ipc-requests] Handling requests in the background
+2023-12-12 12:30:56.561    app     info:    [ipc-requests] No longer handling requests in the background
+2023-12-12 12:31:19.107    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2023-12-12 12:31:19.292    app     info:    [server-manager] Previous Tranquility build: 2450028, current build: 2450028
+2023-12-12 12:31:19.293    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-12 12:31:19.301    app     info:    [server-manager] Ready to play!
+2023-12-12 12:31:19.306    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-12 12:31:21.025    app     info:    [ipc-requests] Handling requests in the background
+2023-12-12 12:31:22.027    app     info:    [ipc-requests] No longer handling requests in the background
+2023-12-12 12:31:37.725    app     info:    [ipc-requests] Handling requests in the background
+2023-12-12 12:31:38.741    app     info:    [ipc-requests] No longer handling requests in the background
+2023-12-12 12:31:44.729    app     info:    [ipc-requests] Handling requests in the background
+2023-12-12 12:31:45.736    app     info:    [ipc-requests] No longer handling requests in the background
+2023-12-12 12:31:47.237    app     info:    [ipc-requests] Handling requests in the background
+2023-12-12 12:31:48.251    app     info:    [ipc-requests] No longer handling requests in the background
+2023-12-12 12:33:37.615    app     info:    [ipc-requests] Handling requests in the background
+2023-12-12 12:33:38.623    app     info:    [ipc-requests] No longer handling requests in the background
+2023-12-12 12:33:39.703    app     info:    [ipc-requests] Handling requests in the background
+2023-12-12 12:33:40.711    app     info:    [ipc-requests] No longer handling requests in the background
+2023-12-12 12:34:39.484    app     info:    [self-update] Checking for a launcher update...
+2023-12-12 12:34:39.786    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-12 12:35:48.433    app     info:    [ipc-requests] Handling requests in the background
+2023-12-12 12:35:49.438    app     info:    [ipc-requests] No longer handling requests in the background
+2023-12-12 12:35:51.097    app     info:    [ipc-requests] Handling requests in the background
+2023-12-12 12:35:52.102    app     info:    [ipc-requests] No longer handling requests in the background
+2023-12-12 12:36:19.318    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2023-12-12 12:36:19.839    app     info:    [server-manager] Previous Tranquility build: 2450028, current build: 2450028
+2023-12-12 12:36:19.839    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-12 12:36:19.845    app     info:    [server-manager] Ready to play!
+2023-12-12 12:36:19.848    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-12 12:39:39.792    app     info:    [self-update] Checking for a launcher update...
+2023-12-12 12:39:40.073    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-12 12:41:19.851    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2023-12-12 12:41:20.012    app     info:    [server-manager] Previous Tranquility build: 2450028, current build: 2450028
+2023-12-12 12:41:20.012    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-12 12:41:20.018    app     info:    [server-manager] Ready to play!
+2023-12-12 12:41:20.022    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-12 12:44:40.079    app     info:    [self-update] Checking for a launcher update...
+2023-12-12 12:44:40.379    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-12 12:46:20.038    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2023-12-12 12:46:20.196    app     info:    [server-manager] Previous Tranquility build: 2450028, current build: 2450028
+2023-12-12 12:46:20.196    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-12 12:46:20.201    app     info:    [server-manager] Ready to play!
+2023-12-12 12:46:20.204    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-12 12:49:20.945    app     info:    [ipc-requests] Handling requests in the background
+2023-12-12 12:49:21.960    app     info:    [ipc-requests] No longer handling requests in the background
+2023-12-12 12:49:37.387    app     info:    [creatives] Requesting creatives
+2023-12-12 12:49:37.504    app     info:    [creatives] Received 3 creatives
+2023-12-12 12:49:40.393    app     info:    [self-update] Checking for a launcher update...
+2023-12-12 12:49:40.666    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-12 12:50:24.294    app     info:    [client-manager] 'tranquility' for EVE game client for '2110311' exited with no errors.
+2023-12-12 12:50:24.304    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2023-12-12 12:50:24.403    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientExited'
+2023-12-12 12:50:24.478    app     info:    [server-manager] Previous Tranquility build: 2450028, current build: 2450028
+2023-12-12 12:50:24.478    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-12 12:50:24.486    app     info:    [server-manager] Ready to play!
+2023-12-12 12:50:24.490    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-12 12:50:29.002    app     info:    [authentication] Token for '16492377' on 'tranquility' is expired, refresh is required
+2023-12-12 12:50:29.002    app     info:    [authentication] Refreshing token for '16492377' on 'tranquility'
+2023-12-12 12:50:29.140    app     info:    [authentication] Token for '16492377' on 'tranquility' has been successfully refreshed
+2023-12-12 12:50:29.142    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.UserTokensRefreshed
+2023-12-12 12:50:29.143    app     info:    [customer-information] Getting character information for '16492377' on 'tranquility'
+2023-12-12 12:50:29.143    app     info:    [customer-information] Getting Omega status for '16492377' on 'tranquility'
+2023-12-12 12:50:29.143    app     info:    [virtual-goods] Getting Plex status for '16492377' on 'tranquility'
+2023-12-12 12:50:29.234    app     info:    info: [LaunchDarkly] Closing stream connection    []
+2023-12-12 12:50:29.235    app     info:    info: [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/64c3d12e27a4b11365012d39/eyJrZXkiOiI0YTQzNmFkYi00Yjk5LTQwYTctODViMC00MmUyMDZmNDEyODYiLCJraW5kIjoidXNlciIsImN1c3RvbSI6eyJpc0ZpcnN0UnVuIjpmYWxzZSwiZGF5c1NpbmNlRmlyc3RSdW4iOjE1LCJsYW5ndWFnZSI6ImVuIiwiYXBwbGljYXRpb24iOiJldmUtb25saW5lIiwidmVyc2lvbiI6IjEuMC4yIiwicGxhdGZvcm0iOiJ3aW5kb3dzIiwib3NWZXJzaW9uRGVwcmVjYXRlZCI6ZmFsc2UsInVzZXJJZHMiOlsxNjQ5MjM3NywxNzUyNTMxMiwxODAzNDI1OSwyMTEwMzExLDIzNjIyOTAzLDI1MjE4ODM1LDI2MjM5MjAxLDI4MTgyNzk5LDI5MjgwMjYwLDI5Mjg1NjQ1XSwiY2hhcmFjdGVySWRzIjpbMjExMzg3NTEzOSwyMTE0NjU2MTI3LDIxMTUwMzE4OTAsMjExNTQ1NzI5MSwyMTE4MjQ4MDQxLDIxMTkzNjE4OTEsMjEyMDM0NzYzNSwyMTIxMTc0NTQ1LDIxMjExNzQ4NzEsMjEyMTE3NTc3NiwyMTIxMTc3OTczLDIxMjExNzgxNzEsMjEyMTE3ODM5NiwyMTIxODUzMzM2LDIxMjE4NzgwNzQsNTc4NTY0Mzk0XSwib21lZ2FDb3VudCI6MCwiYWxwaGFDb3VudCI6MTAsImFjY291bnRDb3VudCI6MTAsIm9sZGVzdEFjY291bnRBZ2UiOjU5OTgsInlvdW5nZXN0QWNjb3VudEFnZSI6MTF9fQ?withReasons=true    []
+2023-12-12 12:50:29.242    app     info:    [esi] Fetching character details for 2113875139, 2121174871
+2023-12-12 12:50:29.526    app     info:    [virtual-goods] Fetched Plex status for '16492377' on 'tranquility'
+2023-12-12 12:50:29.540    app     info:    [AuthenticationMiddleware] User information updated
+2023-12-12 12:50:29.624    app     info:    [esi] Fetched 2 character details for 16492377
+2023-12-12 12:50:38.952    app     info:    [customer-information] Getting character information for '29280260' on 'tranquility'
+2023-12-12 12:50:38.953    app     info:    [customer-information] Getting Omega status for '29280260' on 'tranquility'
+2023-12-12 12:50:38.953    app     info:    [virtual-goods] Getting Plex status for '29280260' on 'tranquility'
+2023-12-12 12:50:39.044    app     info:    [virtual-goods] Fetched Plex status for '29280260' on 'tranquility'
+2023-12-12 12:50:39.060    app     info:    [esi] Fetching character details for 2121853336
+2023-12-12 12:50:39.435    app     info:    [esi] Fetched 1 character details for 29280260
+2023-12-12 12:50:39.466    app     info:    [customer-information] Getting character information for '29280260' on 'tranquility'
+2023-12-12 12:50:39.467    app     info:    [customer-information] Getting Omega status for '29280260' on 'tranquility'
+2023-12-12 12:50:39.468    app     info:    [virtual-goods] Getting Plex status for '29280260' on 'tranquility'
+2023-12-12 12:50:39.552    app     info:    [virtual-goods] Fetched Plex status for '29280260' on 'tranquility'
+2023-12-12 12:50:39.560    app     info:    [esi] Fetching character details for 2121853336
+2023-12-12 12:50:39.931    app     info:    [esi] Fetched 1 character details for 29280260
+2023-12-12 12:50:41.078    app     info:    [client-queue] Queued client startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  userId: 29280260,
+  characterId: 2121853336,
+  profile: ''
+}
+2023-12-12 12:50:41.080    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.ClientQueued
+2023-12-12 12:50:41.081    app     info:    [client-queue] No clients running for tranquility, copying files before starting a client
+2023-12-12 12:50:41.084    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesStarted
+2023-12-12 12:50:41.084    app     info:    [binary-copier] Copying 194 files (216 MB) to 'C:\CCP\EVE Online\tq'
+2023-12-12 12:50:41.097    app     info:    [binary-copier] Removing old binaries
+2023-12-12 12:50:41.126    app     info:    [binary-copier] Copying binaries from ResFiles
+2023-12-12 12:50:41.487    app     info:    [binary-copier] Finished copying 194 files to 'C:\CCP\EVE Online\tq' in 0.405 seconds
+2023-12-12 12:50:41.488    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesFinished
+2023-12-12 12:50:41.493    app     info:    [client-manager] Starting EVE Online game client.    C:\CCP\EVE Online\tq\bin64\exefile.exe    Map(11) {
+  'noconsole' => '/noconsole',
+  'server' => '/server:tranquility.servers.eveonline.com',
+  'triplatform' => '/triplatform=dx12',
+  'ssotoken' => '/ssoToken=***',
+  'refreshtoken' => '/refreshToken=***',
+  'settingsprofile' => '/settingsprofile=Default',
+  'deviceid' => '/deviceID=4a436adb-4b99-40a7-85b0-42e206f41286',
+  'autoselectcharacter' => '/autoSelectCharacter:2121853336',
+  'language' => '/language=en',
+  'exp' => '1702449357',
+  'tokenExpires' => '2023-12-13 08:35:57.000'
+}    29280260
+2023-12-12 12:50:41.524    app     info:    [client-queue] Started client from group startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  characterId: 2121853336,
+  profile: '',
+  userId: 29280260
+}
+2023-12-12 12:50:41.596    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientStartRequested'
+2023-12-12 12:50:41.596    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessAdded'
+2023-12-12 12:50:42.040    app     info:    [client-manager] Found 'tranquility' client for '29280260' running:     {
+  processId: 8160,
+  createdDate: 1702385441555,
+  userId: 29280260,
+  characterId: 2121853336,
+  profile: 'Default',
+  dxVersion: 'dx12'
+}
+2023-12-12 12:50:42.141    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessMonitoringRetried'
+2023-12-12 12:50:42.142    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientStarted'
+2023-12-12 12:50:42.142    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessRemoved'
+2023-12-12 12:50:42.531    app     info:    [client-queue] Queue has stopped running, no more clients pending startup.
+2023-12-12 12:53:25.639    app     info:    [client-manager] 'tranquility' for EVE game client for '29280260' exited with no errors.
+2023-12-12 12:53:25.654    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2023-12-12 12:53:25.757    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientExited'
+2023-12-12 12:53:25.816    app     info:    [server-manager] Previous Tranquility build: 2450028, current build: 2450028
+2023-12-12 12:53:25.817    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-12 12:53:25.823    app     info:    [server-manager] Ready to play!
+2023-12-12 12:53:25.827    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-12 12:53:29.513    app     info:    [AuthenticationMiddleware] Character information for '16492377' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 12:53:29.513    app     info:    [AuthenticationMiddleware] Plex information for '16492377' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 12:53:30.735    app     info:    [AuthenticationMiddleware] Character information for '16492377' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 12:53:30.736    app     info:    [AuthenticationMiddleware] Plex information for '16492377' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 12:53:34.719    app     info:    [AuthenticationMiddleware] Character information for '29280260' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 12:53:34.719    app     info:    [AuthenticationMiddleware] Plex information for '29280260' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 12:53:34.730    app     info:    [AuthenticationMiddleware] Character information for '29280260' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 12:53:34.730    app     info:    [AuthenticationMiddleware] Plex information for '29280260' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 12:53:36.401    app     info:    [AuthenticationMiddleware] Character information for '29280260' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 12:53:36.401    app     info:    [AuthenticationMiddleware] Plex information for '29280260' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 12:53:37.565    app     info:    [client-queue] Queued client startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  userId: 29280260,
+  characterId: 2121853336,
+  profile: ''
+}
+2023-12-12 12:53:37.567    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.ClientQueued
+2023-12-12 12:53:37.567    app     info:    [client-queue] No clients running for tranquility, copying files before starting a client
+2023-12-12 12:53:37.570    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesStarted
+2023-12-12 12:53:37.570    app     info:    [binary-copier] Copying 194 files (216 MB) to 'C:\CCP\EVE Online\tq'
+2023-12-12 12:53:37.585    app     info:    [binary-copier] Removing old binaries
+2023-12-12 12:53:37.616    app     info:    [binary-copier] Copying binaries from ResFiles
+2023-12-12 12:53:37.702    app     info:    [binary-copier] Finished copying 194 files to 'C:\CCP\EVE Online\tq' in 0.134 seconds
+2023-12-12 12:53:37.704    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesFinished
+2023-12-12 12:53:37.708    app     info:    [client-manager] Starting EVE Online game client.    C:\CCP\EVE Online\tq\bin64\exefile.exe    Map(11) {
+  'noconsole' => '/noconsole',
+  'server' => '/server:tranquility.servers.eveonline.com',
+  'triplatform' => '/triplatform=dx12',
+  'ssotoken' => '/ssoToken=***',
+  'refreshtoken' => '/refreshToken=***',
+  'settingsprofile' => '/settingsprofile=Default',
+  'deviceid' => '/deviceID=4a436adb-4b99-40a7-85b0-42e206f41286',
+  'autoselectcharacter' => '/autoSelectCharacter:2121853336',
+  'language' => '/language=en',
+  'exp' => '1702449357',
+  'tokenExpires' => '2023-12-13 08:35:57.000'
+}    29280260
+2023-12-12 12:53:37.740    app     info:    [client-queue] Started client from group startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  characterId: 2121853336,
+  profile: '',
+  userId: 29280260
+}
+2023-12-12 12:53:37.817    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientStartRequested'
+2023-12-12 12:53:37.817    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessAdded'
+2023-12-12 12:53:38.261    app     info:    [client-manager] Found 'tranquility' client for '29280260' running:     {
+  processId: 3080,
+  createdDate: 1702385617780,
+  userId: 29280260,
+  characterId: 2121853336,
+  profile: 'Default',
+  dxVersion: 'dx12'
+}
+2023-12-12 12:53:38.353    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessMonitoringRetried'
+2023-12-12 12:53:38.354    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientStarted'
+2023-12-12 12:53:38.354    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessRemoved'
+2023-12-12 12:53:38.751    app     info:    [client-queue] Queue has stopped running, no more clients pending startup.
+2023-12-12 12:54:40.671    app     info:    [self-update] Checking for a launcher update...
+2023-12-12 12:54:40.980    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-12 12:56:07.685    app     info:    [client-manager] 'tranquility' for EVE game client for '29280260' exited with no errors.
+2023-12-12 12:56:07.693    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2023-12-12 12:56:07.798    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientExited'
+2023-12-12 12:56:07.864    app     info:    [server-manager] Previous Tranquility build: 2450028, current build: 2450028
+2023-12-12 12:56:07.865    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-12 12:56:07.885    app     info:    [server-manager] Ready to play!
+2023-12-12 12:56:07.891    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-12 12:56:10.034    app     info:    [AuthenticationMiddleware] Character information for '16492377' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 12:56:10.034    app     info:    [AuthenticationMiddleware] Plex information for '16492377' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 12:56:11.087    app     info:    [AuthenticationMiddleware] Character information for '16492377' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 12:56:11.087    app     info:    [AuthenticationMiddleware] Plex information for '16492377' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 12:56:11.709    app     info:    [client-queue] Queued client startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  userId: 16492377,
+  characterId: 2121174871,
+  profile: ''
+}
+2023-12-12 12:56:11.711    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.ClientQueued
+2023-12-12 12:56:11.711    app     info:    [client-queue] No clients running for tranquility, copying files before starting a client
+2023-12-12 12:56:11.715    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesStarted
+2023-12-12 12:56:11.715    app     info:    [binary-copier] Copying 194 files (216 MB) to 'C:\CCP\EVE Online\tq'
+2023-12-12 12:56:11.731    app     info:    [binary-copier] Removing old binaries
+2023-12-12 12:56:11.764    app     info:    [binary-copier] Copying binaries from ResFiles
+2023-12-12 12:56:11.859    app     info:    [binary-copier] Finished copying 194 files to 'C:\CCP\EVE Online\tq' in 0.146 seconds
+2023-12-12 12:56:11.861    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesFinished
+2023-12-12 12:56:11.866    app     info:    [client-manager] Starting EVE Online game client.    C:\CCP\EVE Online\tq\bin64\exefile.exe    Map(11) {
+  'noconsole' => '/noconsole',
+  'server' => '/server:tranquility.servers.eveonline.com',
+  'triplatform' => '/triplatform=dx12',
+  'ssotoken' => '/ssoToken=***',
+  'refreshtoken' => '/refreshToken=***',
+  'settingsprofile' => '/settingsprofile=Default',
+  'deviceid' => '/deviceID=4a436adb-4b99-40a7-85b0-42e206f41286',
+  'autoselectcharacter' => '/autoSelectCharacter:2121174871',
+  'language' => '/language=en',
+  'exp' => '1702386028',
+  'tokenExpires' => '2023-12-12 15:00:28.000'
+}    16492377
+2023-12-12 12:56:11.897    app     info:    [client-queue] Started client from group startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  characterId: 2121174871,
+  profile: '',
+  userId: 16492377
+}
+2023-12-12 12:56:11.968    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientStartRequested'
+2023-12-12 12:56:11.968    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessAdded'
+2023-12-12 12:56:12.410    app     info:    [client-manager] Found 'tranquility' client for '16492377' running:     {
+  processId: 2564,
+  createdDate: 1702385771930,
+  userId: 16492377,
+  characterId: 2121174871,
+  profile: 'Default',
+  dxVersion: 'dx12'
+}
+2023-12-12 12:56:12.513    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessMonitoringRetried'
+2023-12-12 12:56:12.514    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientStarted'
+2023-12-12 12:56:12.514    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessRemoved'
+2023-12-12 12:56:12.915    app     info:    [client-queue] Queue has stopped running, no more clients pending startup.
+2023-12-12 12:59:40.991    app     info:    [self-update] Checking for a launcher update...
+2023-12-12 12:59:41.269    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-12 13:01:07.902    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2023-12-12 13:01:08.095    app     info:    [server-manager] Previous Tranquility build: 2450028, current build: 2450028
+2023-12-12 13:01:08.095    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-12 13:01:08.100    app     info:    [server-manager] Ready to play!
+2023-12-12 13:01:08.103    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-12 13:04:41.282    app     info:    [self-update] Checking for a launcher update...
+2023-12-12 13:04:41.561    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-12 13:06:08.119    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2023-12-12 13:06:08.286    app     info:    [server-manager] Previous Tranquility build: 2450028, current build: 2450028
+2023-12-12 13:06:08.286    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-12 13:06:08.290    app     info:    [server-manager] Ready to play!
+2023-12-12 13:06:08.293    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-12 13:07:11.183    app     info:    [client-manager] 'tranquility' for EVE game client for '16492377' exited with no errors.
+2023-12-12 13:07:11.194    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2023-12-12 13:07:11.287    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientExited'
+2023-12-12 13:07:11.371    app     info:    [server-manager] Previous Tranquility build: 2450028, current build: 2450028
+2023-12-12 13:07:11.372    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-12 13:07:11.377    app     info:    [server-manager] Ready to play!
+2023-12-12 13:07:11.380    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-12 13:07:13.543    app     info:    [authentication] Token for '25218835' on 'tranquility' is expired, refresh is required
+2023-12-12 13:07:13.543    app     info:    [authentication] Refreshing token for '25218835' on 'tranquility'
+2023-12-12 13:07:13.690    app     info:    [authentication] Token for '25218835' on 'tranquility' has been successfully refreshed
+2023-12-12 13:07:13.691    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.UserTokensRefreshed
+2023-12-12 13:07:13.692    app     info:    [customer-information] Getting character information for '25218835' on 'tranquility'
+2023-12-12 13:07:13.692    app     info:    [customer-information] Getting Omega status for '25218835' on 'tranquility'
+2023-12-12 13:07:13.693    app     info:    [virtual-goods] Getting Plex status for '25218835' on 'tranquility'
+2023-12-12 13:07:13.787    app     info:    [virtual-goods] Fetched Plex status for '25218835' on 'tranquility'
+2023-12-12 13:07:13.795    app     info:    [esi] Fetching character details for 2119361891, 2120347635
+2023-12-12 13:07:13.803    app     info:    [AuthenticationMiddleware] User information updated
+2023-12-12 13:07:14.203    app     info:    [esi] Fetched 2 character details for 25218835
+2023-12-12 13:07:18.103    app     info:    [AuthenticationMiddleware] Character information for '25218835' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:07:18.104    app     info:    [AuthenticationMiddleware] Plex information for '25218835' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:07:31.089    app     info:    [client-queue] Queued client startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  userId: 25218835,
+  characterId: 2119361891,
+  profile: ''
+}
+2023-12-12 13:07:31.091    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.ClientQueued
+2023-12-12 13:07:31.091    app     info:    [client-queue] No clients running for tranquility, copying files before starting a client
+2023-12-12 13:07:31.094    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesStarted
+2023-12-12 13:07:31.094    app     info:    [binary-copier] Copying 194 files (216 MB) to 'C:\CCP\EVE Online\tq'
+2023-12-12 13:07:31.110    app     info:    [binary-copier] Removing old binaries
+2023-12-12 13:07:31.142    app     info:    [binary-copier] Copying binaries from ResFiles
+2023-12-12 13:07:31.226    app     info:    [binary-copier] Finished copying 194 files to 'C:\CCP\EVE Online\tq' in 0.133 seconds
+2023-12-12 13:07:31.228    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesFinished
+2023-12-12 13:07:31.233    app     info:    [client-manager] Starting EVE Online game client.    C:\CCP\EVE Online\tq\bin64\exefile.exe    Map(11) {
+  'noconsole' => '/noconsole',
+  'server' => '/server:tranquility.servers.eveonline.com',
+  'triplatform' => '/triplatform=dx12',
+  'ssotoken' => '/ssoToken=***',
+  'refreshtoken' => '/refreshToken=***',
+  'settingsprofile' => '/settingsprofile=Default',
+  'deviceid' => '/deviceID=4a436adb-4b99-40a7-85b0-42e206f41286',
+  'autoselectcharacter' => '/autoSelectCharacter:2119361891',
+  'language' => '/language=en',
+  'exp' => '1702387033',
+  'tokenExpires' => '2023-12-12 15:17:13.000'
+}    25218835
+2023-12-12 13:07:31.264    app     info:    [client-queue] Started client from group startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  characterId: 2119361891,
+  profile: '',
+  userId: 25218835
+}
+2023-12-12 13:07:31.345    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientStartRequested'
+2023-12-12 13:07:31.345    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessAdded'
+2023-12-12 13:07:31.790    app     info:    [client-manager] Found 'tranquility' client for '25218835' running:     {
+  processId: 7684,
+  createdDate: 1702386451307,
+  userId: 25218835,
+  characterId: 2119361891,
+  profile: 'Default',
+  dxVersion: 'dx12'
+}
+2023-12-12 13:07:31.888    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessMonitoringRetried'
+2023-12-12 13:07:31.888    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientStarted'
+2023-12-12 13:07:31.889    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessRemoved'
+2023-12-12 13:07:32.281    app     info:    [client-queue] Queue has stopped running, no more clients pending startup.
+2023-12-12 13:07:52.757    app     info:    [elg-events] ELG connection closed with ECONNRESET, restarting connection in 30s
+2023-12-12 13:09:41.562    app     info:    [self-update] Checking for a launcher update...
+2023-12-12 13:09:41.851    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-12 13:12:11.395    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2023-12-12 13:12:12.233    app     info:    [server-manager] Previous Tranquility build: 2450028, current build: 2450028
+2023-12-12 13:12:12.234    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-12 13:12:12.239    app     info:    [server-manager] Ready to play!
+2023-12-12 13:12:12.243    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-12 13:14:41.852    app     info:    [self-update] Checking for a launcher update...
+2023-12-12 13:14:42.204    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-12 13:15:26.846    app     info:    [client-manager] 'tranquility' for EVE game client for '25218835' exited with no errors.
+2023-12-12 13:15:26.860    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2023-12-12 13:15:26.962    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientExited'
+2023-12-12 13:15:27.053    app     info:    [server-manager] Previous Tranquility build: 2450028, current build: 2450028
+2023-12-12 13:15:27.054    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-12 13:15:27.059    app     info:    [server-manager] Ready to play!
+2023-12-12 13:15:27.063    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-12 13:15:31.256    app     info:    [authentication] Token for '17525312' on 'tranquility' is expired, refresh is required
+2023-12-12 13:15:31.256    app     info:    [authentication] Refreshing token for '17525312' on 'tranquility'
+2023-12-12 13:15:31.449    app     info:    [authentication] Token for '17525312' on 'tranquility' has been successfully refreshed
+2023-12-12 13:15:31.454    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.UserTokensRefreshed
+2023-12-12 13:15:31.457    app     info:    [customer-information] Getting character information for '17525312' on 'tranquility'
+2023-12-12 13:15:31.458    app     info:    [customer-information] Getting Omega status for '17525312' on 'tranquility'
+2023-12-12 13:15:31.458    app     info:    [virtual-goods] Getting Plex status for '17525312' on 'tranquility'
+2023-12-12 13:15:31.572    app     info:    [esi] Fetching character details for 2114656127, 2121178396
+2023-12-12 13:15:31.922    app     info:    [esi] Fetched 2 character details for 17525312
+2023-12-12 13:15:32.026    app     info:    [virtual-goods] Fetched Plex status for '17525312' on 'tranquility'
+2023-12-12 13:15:32.044    app     info:    [AuthenticationMiddleware] User information updated
+2023-12-12 13:15:32.550    app     info:    [AuthenticationMiddleware] Character information for '17525312' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:15:32.550    app     info:    [AuthenticationMiddleware] Plex information for '17525312' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:15:33.972    app     info:    [client-queue] Queued client startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  userId: 17525312,
+  characterId: 2114656127,
+  profile: ''
+}
+2023-12-12 13:15:33.974    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.ClientQueued
+2023-12-12 13:15:33.974    app     info:    [client-queue] No clients running for tranquility, copying files before starting a client
+2023-12-12 13:15:33.977    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesStarted
+2023-12-12 13:15:33.977    app     info:    [binary-copier] Copying 194 files (216 MB) to 'C:\CCP\EVE Online\tq'
+2023-12-12 13:15:33.991    app     info:    [binary-copier] Removing old binaries
+2023-12-12 13:15:34.027    app     info:    [binary-copier] Copying binaries from ResFiles
+2023-12-12 13:15:34.390    app     info:    [binary-copier] Finished copying 194 files to 'C:\CCP\EVE Online\tq' in 0.414 seconds
+2023-12-12 13:15:34.392    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesFinished
+2023-12-12 13:15:34.396    app     info:    [client-manager] Starting EVE Online game client.    C:\CCP\EVE Online\tq\bin64\exefile.exe    Map(11) {
+  'noconsole' => '/noconsole',
+  'server' => '/server:tranquility.servers.eveonline.com',
+  'triplatform' => '/triplatform=dx12',
+  'ssotoken' => '/ssoToken=***',
+  'refreshtoken' => '/refreshToken=***',
+  'settingsprofile' => '/settingsprofile=Default',
+  'deviceid' => '/deviceID=4a436adb-4b99-40a7-85b0-42e206f41286',
+  'autoselectcharacter' => '/autoSelectCharacter:2114656127',
+  'language' => '/language=en',
+  'exp' => '1702387530',
+  'tokenExpires' => '2023-12-12 15:25:30.000'
+}    17525312
+2023-12-12 13:15:34.432    app     info:    [client-queue] Started client from group startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  characterId: 2114656127,
+  profile: '',
+  userId: 17525312
+}
+2023-12-12 13:15:34.508    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientStartRequested'
+2023-12-12 13:15:34.509    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessAdded'
+2023-12-12 13:15:34.966    app     info:    [client-manager] Found 'tranquility' client for '17525312' running:     {
+  processId: 468,
+  createdDate: 1702386934472,
+  userId: 17525312,
+  characterId: 2114656127,
+  profile: 'Default',
+  dxVersion: 'dx12'
+}
+2023-12-12 13:15:35.056    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessMonitoringRetried'
+2023-12-12 13:15:35.057    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientStarted'
+2023-12-12 13:15:35.057    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessRemoved'
+2023-12-12 13:15:35.449    app     info:    [client-queue] Queue has stopped running, no more clients pending startup.
+2023-12-12 13:18:36.746    app     info:    [client-manager] 'tranquility' for EVE game client for '17525312' exited with no errors.
+2023-12-12 13:18:36.762    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2023-12-12 13:18:36.854    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientExited'
+2023-12-12 13:18:36.968    app     info:    [server-manager] Previous Tranquility build: 2450028, current build: 2450028
+2023-12-12 13:18:36.968    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-12 13:18:36.972    app     info:    [server-manager] Ready to play!
+2023-12-12 13:18:36.976    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-12 13:18:39.480    app     info:    [authentication] Token for '2110311' on 'tranquility' is expired, refresh is required
+2023-12-12 13:18:39.480    app     info:    [authentication] Refreshing token for '2110311' on 'tranquility'
+2023-12-12 13:18:39.641    app     info:    [authentication] Token for '2110311' on 'tranquility' has been successfully refreshed
+2023-12-12 13:18:39.644    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.UserTokensRefreshed
+2023-12-12 13:18:39.646    app     info:    [customer-information] Getting character information for '2110311' on 'tranquility'
+2023-12-12 13:18:39.646    app     info:    [customer-information] Getting Omega status for '2110311' on 'tranquility'
+2023-12-12 13:18:39.646    app     info:    [virtual-goods] Getting Plex status for '2110311' on 'tranquility'
+2023-12-12 13:18:39.748    app     info:    [virtual-goods] Fetched Plex status for '2110311' on 'tranquility'
+2023-12-12 13:18:39.759    app     info:    [esi] Fetching character details for 578564394, 2115457291
+2023-12-12 13:18:39.766    app     info:    [AuthenticationMiddleware] User information updated
+2023-12-12 13:18:40.160    app     info:    [esi] Fetched 2 character details for 2110311
+2023-12-12 13:18:40.784    app     info:    [AuthenticationMiddleware] Character information for '2110311' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:18:40.784    app     info:    [AuthenticationMiddleware] Plex information for '2110311' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:18:43.131    app     info:    [client-queue] Queued client startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  userId: 2110311,
+  characterId: 578564394,
+  profile: ''
+}
+2023-12-12 13:18:43.133    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.ClientQueued
+2023-12-12 13:18:43.133    app     info:    [client-queue] No clients running for tranquility, copying files before starting a client
+2023-12-12 13:18:43.137    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesStarted
+2023-12-12 13:18:43.137    app     info:    [binary-copier] Copying 194 files (216 MB) to 'C:\CCP\EVE Online\tq'
+2023-12-12 13:18:43.153    app     info:    [binary-copier] Removing old binaries
+2023-12-12 13:18:43.189    app     info:    [binary-copier] Copying binaries from ResFiles
+2023-12-12 13:18:43.558    app     info:    [binary-copier] Finished copying 194 files to 'C:\CCP\EVE Online\tq' in 0.423 seconds
+2023-12-12 13:18:43.559    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesFinished
+2023-12-12 13:18:43.564    app     info:    [client-manager] Starting EVE Online game client.    C:\CCP\EVE Online\tq\bin64\exefile.exe    Map(11) {
+  'noconsole' => '/noconsole',
+  'server' => '/server:tranquility.servers.eveonline.com',
+  'triplatform' => '/triplatform=dx12',
+  'ssotoken' => '/ssoToken=***',
+  'refreshtoken' => '/refreshToken=***',
+  'settingsprofile' => '/settingsprofile=Default',
+  'deviceid' => '/deviceID=4a436adb-4b99-40a7-85b0-42e206f41286',
+  'autoselectcharacter' => '/autoSelectCharacter:578564394',
+  'language' => '/language=en',
+  'exp' => '1702387718',
+  'tokenExpires' => '2023-12-12 15:28:38.000'
+}    2110311
+2023-12-12 13:18:43.596    app     info:    [client-queue] Started client from group startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  characterId: 578564394,
+  profile: '',
+  userId: 2110311
+}
+2023-12-12 13:18:43.667    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientStartRequested'
+2023-12-12 13:18:43.667    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessAdded'
+2023-12-12 13:18:44.119    app     info:    [client-manager] Found 'tranquility' client for '2110311' running:     {
+  processId: 6556,
+  createdDate: 1702387123630,
+  userId: 2110311,
+  characterId: 578564394,
+  profile: 'Default',
+  dxVersion: 'dx12'
+}
+2023-12-12 13:18:44.211    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessMonitoringRetried'
+2023-12-12 13:18:44.211    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientStarted'
+2023-12-12 13:18:44.211    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessRemoved'
+2023-12-12 13:18:44.617    app     info:    [client-queue] Queue has stopped running, no more clients pending startup.
+2023-12-12 13:19:42.218    app     info:    [self-update] Checking for a launcher update...
+2023-12-12 13:19:42.505    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-12 13:23:36.987    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2023-12-12 13:23:37.249    app     info:    [server-manager] Previous Tranquility build: 2450028, current build: 2450028
+2023-12-12 13:23:37.250    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-12 13:23:37.255    app     info:    [server-manager] Ready to play!
+2023-12-12 13:23:37.258    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-12 13:24:42.520    app     info:    [self-update] Checking for a launcher update...
+2023-12-12 13:24:42.806    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-12 13:26:06.011    app     info:    [client-manager] 'tranquility' for EVE game client for '2110311' exited with no errors.
+2023-12-12 13:26:06.020    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2023-12-12 13:26:06.120    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientExited'
+2023-12-12 13:26:06.294    app     info:    [server-manager] Previous Tranquility build: 2450028, current build: 2450028
+2023-12-12 13:26:06.294    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-12 13:26:06.299    app     info:    [server-manager] Ready to play!
+2023-12-12 13:26:06.303    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-12 13:26:09.310    app     info:    [AuthenticationMiddleware] Character information for '16492377' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:26:09.311    app     info:    [AuthenticationMiddleware] Plex information for '16492377' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:26:10.806    app     info:    [AuthenticationMiddleware] Character information for '16492377' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:26:10.806    app     info:    [AuthenticationMiddleware] Plex information for '16492377' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:26:18.278    app     info:    [AuthenticationMiddleware] Character information for '17525312' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:26:18.278    app     info:    [AuthenticationMiddleware] Plex information for '17525312' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:26:19.922    app     info:    [client-queue] Queued client startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  userId: 17525312,
+  characterId: 2114656127,
+  profile: ''
+}
+2023-12-12 13:26:19.924    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.ClientQueued
+2023-12-12 13:26:19.924    app     info:    [client-queue] No clients running for tranquility, copying files before starting a client
+2023-12-12 13:26:19.928    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesStarted
+2023-12-12 13:26:19.928    app     info:    [binary-copier] Copying 194 files (216 MB) to 'C:\CCP\EVE Online\tq'
+2023-12-12 13:26:19.943    app     info:    [binary-copier] Removing old binaries
+2023-12-12 13:26:19.980    app     info:    [binary-copier] Copying binaries from ResFiles
+2023-12-12 13:26:20.346    app     info:    [binary-copier] Finished copying 194 files to 'C:\CCP\EVE Online\tq' in 0.419 seconds
+2023-12-12 13:26:20.348    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesFinished
+2023-12-12 13:26:20.352    app     info:    [authentication] Token for '17525312' on 'tranquility' is expired, refresh is required
+2023-12-12 13:26:20.352    app     info:    [authentication] Refreshing token for '17525312' on 'tranquility'
+2023-12-12 13:26:20.494    app     info:    [authentication] Token for '17525312' on 'tranquility' has been successfully refreshed
+2023-12-12 13:26:20.496    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.UserTokensRefreshed
+2023-12-12 13:26:20.497    app     info:    [AuthenticationMiddleware] Character information for '17525312' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:26:20.497    app     info:    [AuthenticationMiddleware] Plex information for '17525312' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:26:20.515    app     info:    [client-manager] Starting EVE Online game client.    C:\CCP\EVE Online\tq\bin64\exefile.exe    Map(11) {
+  'noconsole' => '/noconsole',
+  'server' => '/server:tranquility.servers.eveonline.com',
+  'triplatform' => '/triplatform=dx12',
+  'ssotoken' => '/ssoToken=***',
+  'refreshtoken' => '/refreshToken=***',
+  'settingsprofile' => '/settingsprofile=Default',
+  'deviceid' => '/deviceID=4a436adb-4b99-40a7-85b0-42e206f41286',
+  'autoselectcharacter' => '/autoSelectCharacter:2114656127',
+  'language' => '/language=en',
+  'exp' => '1702388179',
+  'tokenExpires' => '2023-12-12 15:36:19.000'
+}    17525312
+2023-12-12 13:26:20.545    app     info:    [AuthenticationMiddleware] User information updated
+2023-12-12 13:26:20.545    app     info:    [client-queue] Started client from group startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  characterId: 2114656127,
+  profile: '',
+  userId: 17525312
+}
+2023-12-12 13:26:20.626    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientStartRequested'
+2023-12-12 13:26:20.627    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessAdded'
+2023-12-12 13:26:21.057    app     info:    [client-manager] Found 'tranquility' client for '17525312' running:     {
+  processId: 11988,
+  createdDate: 1702387580549,
+  userId: 17525312,
+  characterId: 2114656127,
+  profile: 'Default',
+  dxVersion: 'dx12'
+}
+2023-12-12 13:26:21.161    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessMonitoringRetried'
+2023-12-12 13:26:21.162    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientStarted'
+2023-12-12 13:26:21.162    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessRemoved'
+2023-12-12 13:26:21.558    app     info:    [client-queue] Queue has stopped running, no more clients pending startup.
+2023-12-12 13:29:10.684    app     info:    [client-manager] 'tranquility' for EVE game client for '17525312' exited with no errors.
+2023-12-12 13:29:10.694    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2023-12-12 13:29:10.791    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientExited'
+2023-12-12 13:29:10.886    app     info:    [server-manager] Previous Tranquility build: 2450028, current build: 2450028
+2023-12-12 13:29:10.886    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-12 13:29:10.891    app     info:    [server-manager] Ready to play!
+2023-12-12 13:29:10.894    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-12 13:29:13.406    app     info:    [AuthenticationMiddleware] Character information for '25218835' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:29:13.406    app     info:    [AuthenticationMiddleware] Plex information for '25218835' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:29:15.386    app     info:    [client-queue] Queued client startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  userId: 25218835,
+  characterId: 2119361891,
+  profile: ''
+}
+2023-12-12 13:29:15.388    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.ClientQueued
+2023-12-12 13:29:15.388    app     info:    [client-queue] No clients running for tranquility, copying files before starting a client
+2023-12-12 13:29:15.392    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesStarted
+2023-12-12 13:29:15.392    app     info:    [binary-copier] Copying 194 files (216 MB) to 'C:\CCP\EVE Online\tq'
+2023-12-12 13:29:15.407    app     info:    [binary-copier] Removing old binaries
+2023-12-12 13:29:15.436    app     info:    [binary-copier] Copying binaries from ResFiles
+2023-12-12 13:29:15.803    app     info:    [binary-copier] Finished copying 194 files to 'C:\CCP\EVE Online\tq' in 0.413 seconds
+2023-12-12 13:29:15.805    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesFinished
+2023-12-12 13:29:15.809    app     info:    [authentication] Token for '25218835' on 'tranquility' is expired, refresh is required
+2023-12-12 13:29:15.809    app     info:    [authentication] Refreshing token for '25218835' on 'tranquility'
+2023-12-12 13:29:15.937    app     info:    [authentication] Token for '25218835' on 'tranquility' has been successfully refreshed
+2023-12-12 13:29:15.939    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.UserTokensRefreshed
+2023-12-12 13:29:15.940    app     info:    [AuthenticationMiddleware] Character information for '25218835' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:29:15.940    app     info:    [AuthenticationMiddleware] Plex information for '25218835' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:29:15.951    app     info:    [client-manager] Starting EVE Online game client.    C:\CCP\EVE Online\tq\bin64\exefile.exe    Map(11) {
+  'noconsole' => '/noconsole',
+  'server' => '/server:tranquility.servers.eveonline.com',
+  'triplatform' => '/triplatform=dx12',
+  'ssotoken' => '/ssoToken=***',
+  'refreshtoken' => '/refreshToken=***',
+  'settingsprofile' => '/settingsprofile=Default',
+  'deviceid' => '/deviceID=4a436adb-4b99-40a7-85b0-42e206f41286',
+  'autoselectcharacter' => '/autoSelectCharacter:2119361891',
+  'language' => '/language=en',
+  'exp' => '1702388355',
+  'tokenExpires' => '2023-12-12 15:39:15.000'
+}    25218835
+2023-12-12 13:29:15.989    app     info:    [AuthenticationMiddleware] User information updated
+2023-12-12 13:29:15.990    app     info:    [client-queue] Started client from group startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  characterId: 2119361891,
+  profile: '',
+  userId: 25218835
+}
+2023-12-12 13:29:16.065    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientStartRequested'
+2023-12-12 13:29:16.066    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessAdded'
+2023-12-12 13:29:16.510    app     info:    [client-manager] Found 'tranquility' client for '25218835' running:     {
+  processId: 11624,
+  createdDate: 1702387755993,
+  userId: 25218835,
+  characterId: 2119361891,
+  profile: 'Default',
+  dxVersion: 'dx12'
+}
+2023-12-12 13:29:16.609    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessMonitoringRetried'
+2023-12-12 13:29:16.609    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientStarted'
+2023-12-12 13:29:16.610    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessRemoved'
+2023-12-12 13:29:17.002    app     info:    [client-queue] Queue has stopped running, no more clients pending startup.
+2023-12-12 13:29:42.810    app     info:    [self-update] Checking for a launcher update...
+2023-12-12 13:29:43.084    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-12 13:30:24.947    app     info:    [client-manager] 'tranquility' for EVE game client for '25218835' exited with no errors.
+2023-12-12 13:30:24.957    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2023-12-12 13:30:25.054    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientExited'
+2023-12-12 13:30:25.109    app     info:    [server-manager] Previous Tranquility build: 2450028, current build: 2450028
+2023-12-12 13:30:25.110    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-12 13:30:25.116    app     info:    [server-manager] Ready to play!
+2023-12-12 13:30:25.120    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-12 13:30:26.869    app     info:    [AuthenticationMiddleware] Character information for '16492377' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:30:26.869    app     info:    [AuthenticationMiddleware] Plex information for '16492377' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:30:28.154    app     info:    [client-queue] Queued client startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  userId: 16492377,
+  characterId: 2113875139,
+  profile: ''
+}
+2023-12-12 13:30:28.156    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.ClientQueued
+2023-12-12 13:30:28.156    app     info:    [client-queue] No clients running for tranquility, copying files before starting a client
+2023-12-12 13:30:28.160    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesStarted
+2023-12-12 13:30:28.160    app     info:    [binary-copier] Copying 194 files (216 MB) to 'C:\CCP\EVE Online\tq'
+2023-12-12 13:30:28.175    app     info:    [binary-copier] Removing old binaries
+2023-12-12 13:30:28.208    app     info:    [binary-copier] Copying binaries from ResFiles
+2023-12-12 13:30:28.571    app     info:    [binary-copier] Finished copying 194 files to 'C:\CCP\EVE Online\tq' in 0.412 seconds
+2023-12-12 13:30:28.573    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesFinished
+2023-12-12 13:30:28.578    app     info:    [authentication] Token for '16492377' on 'tranquility' is expired, refresh is required
+2023-12-12 13:30:28.578    app     info:    [authentication] Refreshing token for '16492377' on 'tranquility'
+2023-12-12 13:30:28.698    app     info:    [authentication] Token for '16492377' on 'tranquility' has been successfully refreshed
+2023-12-12 13:30:28.700    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.UserTokensRefreshed
+2023-12-12 13:30:28.701    app     info:    [AuthenticationMiddleware] Character information for '16492377' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:30:28.701    app     info:    [AuthenticationMiddleware] Plex information for '16492377' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:30:28.733    app     info:    [client-manager] Starting EVE Online game client.    C:\CCP\EVE Online\tq\bin64\exefile.exe    Map(11) {
+  'noconsole' => '/noconsole',
+  'server' => '/server:tranquility.servers.eveonline.com',
+  'triplatform' => '/triplatform=dx12',
+  'ssotoken' => '/ssoToken=***',
+  'refreshtoken' => '/refreshToken=***',
+  'settingsprofile' => '/settingsprofile=Default',
+  'deviceid' => '/deviceID=4a436adb-4b99-40a7-85b0-42e206f41286',
+  'autoselectcharacter' => '/autoSelectCharacter:2113875139',
+  'language' => '/language=en',
+  'exp' => '1702388427',
+  'tokenExpires' => '2023-12-12 15:40:27.000'
+}    16492377
+2023-12-12 13:30:28.764    app     info:    [AuthenticationMiddleware] User information updated
+2023-12-12 13:30:28.765    app     info:    [client-queue] Started client from group startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  characterId: 2113875139,
+  profile: '',
+  userId: 16492377
+}
+2023-12-12 13:30:28.835    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientStartRequested'
+2023-12-12 13:30:28.835    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessAdded'
+2023-12-12 13:30:29.275    app     info:    [client-manager] Found 'tranquility' client for '16492377' running:     {
+  processId: 1912,
+  createdDate: 1702387828768,
+  userId: 16492377,
+  characterId: 2113875139,
+  profile: 'Default',
+  dxVersion: 'dx12'
+}
+2023-12-12 13:30:29.378    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessMonitoringRetried'
+2023-12-12 13:30:29.379    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientStarted'
+2023-12-12 13:30:29.379    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessRemoved'
+2023-12-12 13:30:29.788    app     info:    [client-queue] Queue has stopped running, no more clients pending startup.
+2023-12-12 13:34:43.096    app     info:    [self-update] Checking for a launcher update...
+2023-12-12 13:34:43.389    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-12 13:35:25.122    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2023-12-12 13:35:25.280    app     info:    [server-manager] Previous Tranquility build: 2450028, current build: 2450028
+2023-12-12 13:35:25.280    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-12 13:35:25.285    app     info:    [server-manager] Ready to play!
+2023-12-12 13:35:25.288    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-12 13:38:04.950    app     info:    [AuthenticationMiddleware] Character information for '17525312' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:38:04.950    app     info:    [AuthenticationMiddleware] Plex information for '17525312' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:38:11.749    app     info:    [AuthenticationMiddleware] Character information for '2110311' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:38:11.749    app     info:    [AuthenticationMiddleware] Plex information for '2110311' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:38:37.376    app     info:    [AuthenticationMiddleware] Character information for '25218835' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:38:37.376    app     info:    [AuthenticationMiddleware] Plex information for '25218835' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:39:43.389    app     info:    [self-update] Checking for a launcher update...
+2023-12-12 13:39:43.671    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-12 13:40:01.443    app     info:    [AuthenticationMiddleware] Character information for '25218835' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:40:01.444    app     info:    [AuthenticationMiddleware] Plex information for '25218835' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:40:25.298    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2023-12-12 13:40:26.244    app     info:    [server-manager] Previous Tranquility build: 2450028, current build: 2450028
+2023-12-12 13:40:26.244    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-12 13:40:26.249    app     info:    [server-manager] Ready to play!
+2023-12-12 13:40:26.252    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-12 13:40:34.660    app     info:    [authentication] Token for '18034259' on 'tranquility' is expired, refresh is required
+2023-12-12 13:40:34.660    app     info:    [authentication] Refreshing token for '18034259' on 'tranquility'
+2023-12-12 13:40:34.797    app     info:    [authentication] Token for '18034259' on 'tranquility' has been successfully refreshed
+2023-12-12 13:40:34.798    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.UserTokensRefreshed
+2023-12-12 13:40:34.799    app     info:    [customer-information] Getting character information for '18034259' on 'tranquility'
+2023-12-12 13:40:34.799    app     info:    [customer-information] Getting Omega status for '18034259' on 'tranquility'
+2023-12-12 13:40:34.799    app     info:    [virtual-goods] Getting Plex status for '18034259' on 'tranquility'
+2023-12-12 13:40:34.909    app     info:    [esi] Fetching character details for 2115031890, 2121177973
+2023-12-12 13:40:35.089    app     info:    [virtual-goods] Fetched Plex status for '18034259' on 'tranquility'
+2023-12-12 13:40:35.101    app     info:    [AuthenticationMiddleware] User information updated
+2023-12-12 13:40:35.345    app     info:    [esi] Fetched 2 character details for 18034259
+2023-12-12 13:40:36.205    app     info:    [AuthenticationMiddleware] Character information for '18034259' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:40:36.205    app     info:    [AuthenticationMiddleware] Plex information for '18034259' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:40:44.232    app     info:    [client-manager] 'tranquility' for EVE game client for '16492377' exited with no errors.
+2023-12-12 13:40:44.243    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2023-12-12 13:40:44.347    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientExited'
+2023-12-12 13:40:44.384    app     info:    [server-manager] Previous Tranquility build: 2450028, current build: 2450028
+2023-12-12 13:40:44.385    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-12 13:40:44.389    app     info:    [server-manager] Ready to play!
+2023-12-12 13:40:44.392    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-12 13:40:45.707    app     info:    [AuthenticationMiddleware] Character information for '18034259' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:40:45.707    app     info:    [AuthenticationMiddleware] Plex information for '18034259' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:40:46.434    app     info:    [client-queue] Queued client startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  userId: 18034259,
+  characterId: 2115031890,
+  profile: ''
+}
+2023-12-12 13:40:46.435    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.ClientQueued
+2023-12-12 13:40:46.436    app     info:    [client-queue] No clients running for tranquility, copying files before starting a client
+2023-12-12 13:40:46.440    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesStarted
+2023-12-12 13:40:46.440    app     info:    [binary-copier] Copying 194 files (216 MB) to 'C:\CCP\EVE Online\tq'
+2023-12-12 13:40:46.455    app     info:    [binary-copier] Removing old binaries
+2023-12-12 13:40:46.491    app     info:    [binary-copier] Copying binaries from ResFiles
+2023-12-12 13:40:46.855    app     info:    [binary-copier] Finished copying 194 files to 'C:\CCP\EVE Online\tq' in 0.417 seconds
+2023-12-12 13:40:46.857    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesFinished
+2023-12-12 13:40:46.862    app     info:    [client-manager] Starting EVE Online game client.    C:\CCP\EVE Online\tq\bin64\exefile.exe    Map(11) {
+  'noconsole' => '/noconsole',
+  'server' => '/server:tranquility.servers.eveonline.com',
+  'triplatform' => '/triplatform=dx12',
+  'ssotoken' => '/ssoToken=***',
+  'refreshtoken' => '/refreshToken=***',
+  'settingsprofile' => '/settingsprofile=Default',
+  'deviceid' => '/deviceID=4a436adb-4b99-40a7-85b0-42e206f41286',
+  'autoselectcharacter' => '/autoSelectCharacter:2115031890',
+  'language' => '/language=en',
+  'exp' => '1702389034',
+  'tokenExpires' => '2023-12-12 15:50:34.000'
+}    18034259
+2023-12-12 13:40:46.894    app     info:    [client-queue] Started client from group startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  characterId: 2115031890,
+  profile: '',
+  userId: 18034259
+}
+2023-12-12 13:40:46.971    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientStartRequested'
+2023-12-12 13:40:46.971    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessAdded'
+2023-12-12 13:40:47.415    app     info:    [client-manager] Found 'tranquility' client for '18034259' running:     {
+  processId: 1576,
+  createdDate: 1702388446929,
+  userId: 18034259,
+  characterId: 2115031890,
+  profile: 'Default',
+  dxVersion: 'dx12'
+}
+2023-12-12 13:40:47.518    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessMonitoringRetried'
+2023-12-12 13:40:47.518    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientStarted'
+2023-12-12 13:40:47.518    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessRemoved'
+2023-12-12 13:40:47.910    app     info:    [client-queue] Queue has stopped running, no more clients pending startup.
+2023-12-12 13:43:52.283    app     info:    [client-manager] 'tranquility' for EVE game client for '18034259' exited with no errors.
+2023-12-12 13:43:52.293    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2023-12-12 13:43:52.390    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientExited'
+2023-12-12 13:43:52.452    app     info:    [server-manager] Previous Tranquility build: 2450028, current build: 2450028
+2023-12-12 13:43:52.452    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-12 13:43:52.457    app     info:    [server-manager] Ready to play!
+2023-12-12 13:43:52.461    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-12 13:44:00.286    app     info:    [authentication] Token for '23622903' on 'tranquility' is expired, refresh is required
+2023-12-12 13:44:00.286    app     info:    [authentication] Refreshing token for '23622903' on 'tranquility'
+2023-12-12 13:44:00.421    app     info:    [authentication] Token for '23622903' on 'tranquility' has been successfully refreshed
+2023-12-12 13:44:00.424    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.UserTokensRefreshed
+2023-12-12 13:44:00.426    app     info:    [customer-information] Getting character information for '23622903' on 'tranquility'
+2023-12-12 13:44:00.426    app     info:    [customer-information] Getting Omega status for '23622903' on 'tranquility'
+2023-12-12 13:44:00.426    app     info:    [virtual-goods] Getting Plex status for '23622903' on 'tranquility'
+2023-12-12 13:44:00.511    app     info:    [esi] Fetching character details for 2118248041, 2121175776
+2023-12-12 13:44:00.713    app     info:    [virtual-goods] Fetched Plex status for '23622903' on 'tranquility'
+2023-12-12 13:44:00.732    app     info:    [AuthenticationMiddleware] User information updated
+2023-12-12 13:44:00.895    app     info:    [esi] Fetched 2 character details for 23622903
+2023-12-12 13:44:01.634    app     info:    [AuthenticationMiddleware] Character information for '23622903' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:44:01.634    app     info:    [AuthenticationMiddleware] Plex information for '23622903' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:44:03.026    app     info:    [client-queue] Queued client startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  userId: 23622903,
+  characterId: 2118248041,
+  profile: ''
+}
+2023-12-12 13:44:03.027    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.ClientQueued
+2023-12-12 13:44:03.027    app     info:    [client-queue] No clients running for tranquility, copying files before starting a client
+2023-12-12 13:44:03.031    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesStarted
+2023-12-12 13:44:03.031    app     info:    [binary-copier] Copying 194 files (216 MB) to 'C:\CCP\EVE Online\tq'
+2023-12-12 13:44:03.046    app     info:    [binary-copier] Removing old binaries
+2023-12-12 13:44:03.081    app     info:    [binary-copier] Copying binaries from ResFiles
+2023-12-12 13:44:03.441    app     info:    [binary-copier] Finished copying 194 files to 'C:\CCP\EVE Online\tq' in 0.412 seconds
+2023-12-12 13:44:03.443    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesFinished
+2023-12-12 13:44:03.447    app     info:    [client-manager] Starting EVE Online game client.    C:\CCP\EVE Online\tq\bin64\exefile.exe    Map(11) {
+  'noconsole' => '/noconsole',
+  'server' => '/server:tranquility.servers.eveonline.com',
+  'triplatform' => '/triplatform=dx12',
+  'ssotoken' => '/ssoToken=***',
+  'refreshtoken' => '/refreshToken=***',
+  'settingsprofile' => '/settingsprofile=Default',
+  'deviceid' => '/deviceID=4a436adb-4b99-40a7-85b0-42e206f41286',
+  'autoselectcharacter' => '/autoSelectCharacter:2118248041',
+  'language' => '/language=en',
+  'exp' => '1702389239',
+  'tokenExpires' => '2023-12-12 15:53:59.000'
+}    23622903
+2023-12-12 13:44:03.479    app     info:    [client-queue] Started client from group startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  characterId: 2118248041,
+  profile: '',
+  userId: 23622903
+}
+2023-12-12 13:44:03.549    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientStartRequested'
+2023-12-12 13:44:03.549    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessAdded'
+2023-12-12 13:44:03.993    app     info:    [client-manager] Found 'tranquility' client for '23622903' running:     {
+  processId: 10488,
+  createdDate: 1702388643514,
+  userId: 23622903,
+  characterId: 2118248041,
+  profile: 'Default',
+  dxVersion: 'dx12'
+}
+2023-12-12 13:44:04.092    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessMonitoringRetried'
+2023-12-12 13:44:04.093    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientStarted'
+2023-12-12 13:44:04.093    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessRemoved'
+2023-12-12 13:44:04.496    app     info:    [client-queue] Queue has stopped running, no more clients pending startup.
+2023-12-12 13:44:43.682    app     info:    [self-update] Checking for a launcher update...
+2023-12-12 13:44:43.954    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-12 13:46:49.664    app     info:    [client-manager] 'tranquility' for EVE game client for '23622903' exited with no errors.
+2023-12-12 13:46:49.673    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2023-12-12 13:46:49.781    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientExited'
+2023-12-12 13:46:49.834    app     info:    [server-manager] Previous Tranquility build: 2450028, current build: 2450028
+2023-12-12 13:46:49.834    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-12 13:46:49.839    app     info:    [server-manager] Ready to play!
+2023-12-12 13:46:49.843    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-12 13:46:53.327    app     info:    [AuthenticationMiddleware] Character information for '25218835' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:46:53.327    app     info:    [AuthenticationMiddleware] Plex information for '25218835' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:46:55.377    app     info:    [client-queue] Queued client startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  userId: 25218835,
+  characterId: 2119361891,
+  profile: ''
+}
+2023-12-12 13:46:55.379    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.ClientQueued
+2023-12-12 13:46:55.379    app     info:    [client-queue] No clients running for tranquility, copying files before starting a client
+2023-12-12 13:46:55.382    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesStarted
+2023-12-12 13:46:55.382    app     info:    [binary-copier] Copying 194 files (216 MB) to 'C:\CCP\EVE Online\tq'
+2023-12-12 13:46:55.396    app     info:    [binary-copier] Removing old binaries
+2023-12-12 13:46:55.431    app     info:    [binary-copier] Copying binaries from ResFiles
+2023-12-12 13:46:55.790    app     info:    [binary-copier] Finished copying 194 files to 'C:\CCP\EVE Online\tq' in 0.409 seconds
+2023-12-12 13:46:55.791    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesFinished
+2023-12-12 13:46:55.795    app     info:    [authentication] Token for '25218835' on 'tranquility' is expired, refresh is required
+2023-12-12 13:46:55.795    app     info:    [authentication] Refreshing token for '25218835' on 'tranquility'
+2023-12-12 13:46:55.942    app     info:    [authentication] Token for '25218835' on 'tranquility' has been successfully refreshed
+2023-12-12 13:46:55.944    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.UserTokensRefreshed
+2023-12-12 13:46:55.945    app     info:    [AuthenticationMiddleware] Character information for '25218835' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:46:55.945    app     info:    [AuthenticationMiddleware] Plex information for '25218835' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:46:55.955    app     info:    [client-manager] Starting EVE Online game client.    C:\CCP\EVE Online\tq\bin64\exefile.exe    Map(11) {
+  'noconsole' => '/noconsole',
+  'server' => '/server:tranquility.servers.eveonline.com',
+  'triplatform' => '/triplatform=dx12',
+  'ssotoken' => '/ssoToken=***',
+  'refreshtoken' => '/refreshToken=***',
+  'settingsprofile' => '/settingsprofile=Default',
+  'deviceid' => '/deviceID=4a436adb-4b99-40a7-85b0-42e206f41286',
+  'autoselectcharacter' => '/autoSelectCharacter:2119361891',
+  'language' => '/language=en',
+  'exp' => '1702389415',
+  'tokenExpires' => '2023-12-12 15:56:55.000'
+}    25218835
+2023-12-12 13:46:55.984    app     info:    [AuthenticationMiddleware] User information updated
+2023-12-12 13:46:55.984    app     info:    [client-queue] Started client from group startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  characterId: 2119361891,
+  profile: '',
+  userId: 25218835
+}
+2023-12-12 13:46:56.064    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientStartRequested'
+2023-12-12 13:46:56.064    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessAdded'
+2023-12-12 13:46:56.501    app     info:    [client-manager] Found 'tranquility' client for '25218835' running:     {
+  processId: 8676,
+  createdDate: 1702388815988,
+  userId: 25218835,
+  characterId: 2119361891,
+  profile: 'Default',
+  dxVersion: 'dx12'
+}
+2023-12-12 13:46:56.607    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessMonitoringRetried'
+2023-12-12 13:46:56.608    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientStarted'
+2023-12-12 13:46:56.608    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessRemoved'
+2023-12-12 13:46:57.004    app     info:    [client-queue] Queue has stopped running, no more clients pending startup.
+2023-12-12 13:48:30.825    app     info:    [client-manager] 'tranquility' for EVE game client for '25218835' exited with no errors.
+2023-12-12 13:48:30.835    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2023-12-12 13:48:30.931    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientExited'
+2023-12-12 13:48:31.038    app     info:    [server-manager] Previous Tranquility build: 2450028, current build: 2450028
+2023-12-12 13:48:31.038    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-12 13:48:31.043    app     info:    [server-manager] Ready to play!
+2023-12-12 13:48:31.047    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-12 13:48:37.644    app     info:    [AuthenticationMiddleware] Character information for '17525312' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:48:37.644    app     info:    [AuthenticationMiddleware] Plex information for '17525312' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:48:38.778    app     info:    [AuthenticationMiddleware] Character information for '17525312' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:48:38.778    app     info:    [AuthenticationMiddleware] Plex information for '17525312' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:48:39.721    app     info:    [client-queue] Queued client startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  userId: 17525312,
+  characterId: 2114656127,
+  profile: ''
+}
+2023-12-12 13:48:39.723    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.ClientQueued
+2023-12-12 13:48:39.723    app     info:    [client-queue] No clients running for tranquility, copying files before starting a client
+2023-12-12 13:48:39.726    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesStarted
+2023-12-12 13:48:39.726    app     info:    [binary-copier] Copying 194 files (216 MB) to 'C:\CCP\EVE Online\tq'
+2023-12-12 13:48:39.741    app     info:    [binary-copier] Removing old binaries
+2023-12-12 13:48:39.773    app     info:    [binary-copier] Copying binaries from ResFiles
+2023-12-12 13:48:40.139    app     info:    [binary-copier] Finished copying 194 files to 'C:\CCP\EVE Online\tq' in 0.414 seconds
+2023-12-12 13:48:40.141    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesFinished
+2023-12-12 13:48:40.145    app     info:    [authentication] Token for '17525312' on 'tranquility' is expired, refresh is required
+2023-12-12 13:48:40.145    app     info:    [authentication] Refreshing token for '17525312' on 'tranquility'
+2023-12-12 13:48:40.316    app     info:    [authentication] Token for '17525312' on 'tranquility' has been successfully refreshed
+2023-12-12 13:48:40.324    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.UserTokensRefreshed
+2023-12-12 13:48:40.328    app     info:    [AuthenticationMiddleware] Character information for '17525312' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:48:40.329    app     info:    [AuthenticationMiddleware] Plex information for '17525312' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:48:40.345    app     info:    [client-manager] Starting EVE Online game client.    C:\CCP\EVE Online\tq\bin64\exefile.exe    Map(11) {
+  'noconsole' => '/noconsole',
+  'server' => '/server:tranquility.servers.eveonline.com',
+  'triplatform' => '/triplatform=dx12',
+  'ssotoken' => '/ssoToken=***',
+  'refreshtoken' => '/refreshToken=***',
+  'settingsprofile' => '/settingsprofile=Default',
+  'deviceid' => '/deviceID=4a436adb-4b99-40a7-85b0-42e206f41286',
+  'autoselectcharacter' => '/autoSelectCharacter:2114656127',
+  'language' => '/language=en',
+  'exp' => '1702389519',
+  'tokenExpires' => '2023-12-12 15:58:39.000'
+}    17525312
+2023-12-12 13:48:40.379    app     info:    [AuthenticationMiddleware] User information updated
+2023-12-12 13:48:40.380    app     info:    [client-queue] Started client from group startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  characterId: 2114656127,
+  profile: '',
+  userId: 17525312
+}
+2023-12-12 13:48:40.450    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientStartRequested'
+2023-12-12 13:48:40.451    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessAdded'
+2023-12-12 13:48:40.898    app     info:    [client-manager] Found 'tranquility' client for '17525312' running:     {
+  processId: 11956,
+  createdDate: 1702388920383,
+  userId: 17525312,
+  characterId: 2114656127,
+  profile: 'Default',
+  dxVersion: 'dx12'
+}
+2023-12-12 13:48:40.993    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessMonitoringRetried'
+2023-12-12 13:48:40.993    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientStarted'
+2023-12-12 13:48:40.994    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessRemoved'
+2023-12-12 13:48:41.398    app     info:    [client-queue] Queue has stopped running, no more clients pending startup.
+2023-12-12 13:49:16.937    app     info:    [client-manager] 'tranquility' for EVE game client for '17525312' exited with no errors.
+2023-12-12 13:49:16.947    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2023-12-12 13:49:17.053    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientExited'
+2023-12-12 13:49:17.139    app     info:    [server-manager] Previous Tranquility build: 2450028, current build: 2450028
+2023-12-12 13:49:17.139    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-12 13:49:17.143    app     info:    [server-manager] Ready to play!
+2023-12-12 13:49:17.147    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-12 13:49:19.540    app     info:    [AuthenticationMiddleware] Character information for '2110311' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:49:19.540    app     info:    [AuthenticationMiddleware] Plex information for '2110311' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:49:20.906    app     info:    [AuthenticationMiddleware] Character information for '2110311' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:49:20.906    app     info:    [AuthenticationMiddleware] Plex information for '2110311' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:49:21.609    app     info:    [client-queue] Queued client startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  userId: 2110311,
+  characterId: 578564394,
+  profile: ''
+}
+2023-12-12 13:49:21.610    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.ClientQueued
+2023-12-12 13:49:21.611    app     info:    [client-queue] No clients running for tranquility, copying files before starting a client
+2023-12-12 13:49:21.615    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesStarted
+2023-12-12 13:49:21.615    app     info:    [binary-copier] Copying 194 files (216 MB) to 'C:\CCP\EVE Online\tq'
+2023-12-12 13:49:21.629    app     info:    [binary-copier] Removing old binaries
+2023-12-12 13:49:21.660    app     info:    [binary-copier] Copying binaries from ResFiles
+2023-12-12 13:49:21.751    app     info:    [binary-copier] Finished copying 194 files to 'C:\CCP\EVE Online\tq' in 0.137 seconds
+2023-12-12 13:49:21.753    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesFinished
+2023-12-12 13:49:21.757    app     info:    [authentication] Token for '2110311' on 'tranquility' is expired, refresh is required
+2023-12-12 13:49:21.758    app     info:    [authentication] Refreshing token for '2110311' on 'tranquility'
+2023-12-12 13:49:21.868    app     info:    [authentication] Token for '2110311' on 'tranquility' has been successfully refreshed
+2023-12-12 13:49:21.871    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.UserTokensRefreshed
+2023-12-12 13:49:21.872    app     info:    [AuthenticationMiddleware] Character information for '2110311' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:49:21.872    app     info:    [AuthenticationMiddleware] Plex information for '2110311' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:49:21.883    app     info:    [client-manager] Starting EVE Online game client.    C:\CCP\EVE Online\tq\bin64\exefile.exe    Map(11) {
+  'noconsole' => '/noconsole',
+  'server' => '/server:tranquility.servers.eveonline.com',
+  'triplatform' => '/triplatform=dx12',
+  'ssotoken' => '/ssoToken=***',
+  'refreshtoken' => '/refreshToken=***',
+  'settingsprofile' => '/settingsprofile=Default',
+  'deviceid' => '/deviceID=4a436adb-4b99-40a7-85b0-42e206f41286',
+  'autoselectcharacter' => '/autoSelectCharacter:578564394',
+  'language' => '/language=en',
+  'exp' => '1702389561',
+  'tokenExpires' => '2023-12-12 15:59:21.000'
+}    2110311
+2023-12-12 13:49:21.915    app     info:    [AuthenticationMiddleware] User information updated
+2023-12-12 13:49:21.915    app     info:    [client-queue] Started client from group startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  characterId: 578564394,
+  profile: '',
+  userId: 2110311
+}
+2023-12-12 13:49:21.990    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientStartRequested'
+2023-12-12 13:49:21.990    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessAdded'
+2023-12-12 13:49:22.431    app     info:    [client-manager] Found 'tranquility' client for '2110311' running:     {
+  processId: 7148,
+  createdDate: 1702388961919,
+  userId: 2110311,
+  characterId: 578564394,
+  profile: 'Default',
+  dxVersion: 'dx12'
+}
+2023-12-12 13:49:22.531    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessMonitoringRetried'
+2023-12-12 13:49:22.532    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientStarted'
+2023-12-12 13:49:22.532    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessRemoved'
+2023-12-12 13:49:22.939    app     info:    [client-queue] Queue has stopped running, no more clients pending startup.
+2023-12-12 13:49:37.403    app     info:    [creatives] Requesting creatives
+2023-12-12 13:49:37.515    app     info:    [creatives] Received 3 creatives
+2023-12-12 13:49:40.822    app     info:    [elg-events] ELG connection closed with ECONNRESET, restarting connection in 30s
+2023-12-12 13:49:43.961    app     info:    [self-update] Checking for a launcher update...
+2023-12-12 13:49:44.246    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-12 13:49:56.629    app     info:    [client-manager] 'tranquility' for EVE game client for '2110311' exited with no errors.
+2023-12-12 13:49:56.639    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2023-12-12 13:49:56.746    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientExited'
+2023-12-12 13:49:56.798    app     info:    [server-manager] Previous Tranquility build: 2450028, current build: 2450028
+2023-12-12 13:49:56.799    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-12 13:49:56.803    app     info:    [server-manager] Ready to play!
+2023-12-12 13:49:56.807    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-12 13:49:58.229    app     info:    [AuthenticationMiddleware] Character information for '16492377' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:49:58.229    app     info:    [AuthenticationMiddleware] Plex information for '16492377' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:49:59.716    app     info:    [AuthenticationMiddleware] Character information for '16492377' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:49:59.716    app     info:    [AuthenticationMiddleware] Plex information for '16492377' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:50:00.961    app     info:    [client-queue] Queued client startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  userId: 16492377,
+  characterId: 2113875139,
+  profile: ''
+}
+2023-12-12 13:50:00.962    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.ClientQueued
+2023-12-12 13:50:00.963    app     info:    [client-queue] No clients running for tranquility, copying files before starting a client
+2023-12-12 13:50:00.966    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesStarted
+2023-12-12 13:50:00.967    app     info:    [binary-copier] Copying 194 files (216 MB) to 'C:\CCP\EVE Online\tq'
+2023-12-12 13:50:00.982    app     info:    [binary-copier] Removing old binaries
+2023-12-12 13:50:01.013    app     info:    [binary-copier] Copying binaries from ResFiles
+2023-12-12 13:50:01.099    app     info:    [binary-copier] Finished copying 194 files to 'C:\CCP\EVE Online\tq' in 0.134 seconds
+2023-12-12 13:50:01.101    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesFinished
+2023-12-12 13:50:01.105    app     info:    [authentication] Token for '16492377' on 'tranquility' is expired, refresh is required
+2023-12-12 13:50:01.105    app     info:    [authentication] Refreshing token for '16492377' on 'tranquility'
+2023-12-12 13:50:01.233    app     info:    [authentication] Token for '16492377' on 'tranquility' has been successfully refreshed
+2023-12-12 13:50:01.235    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.UserTokensRefreshed
+2023-12-12 13:50:01.236    app     info:    [AuthenticationMiddleware] Character information for '16492377' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:50:01.236    app     info:    [AuthenticationMiddleware] Plex information for '16492377' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:50:01.247    app     info:    [client-manager] Starting EVE Online game client.    C:\CCP\EVE Online\tq\bin64\exefile.exe    Map(11) {
+  'noconsole' => '/noconsole',
+  'server' => '/server:tranquility.servers.eveonline.com',
+  'triplatform' => '/triplatform=dx12',
+  'ssotoken' => '/ssoToken=***',
+  'refreshtoken' => '/refreshToken=***',
+  'settingsprofile' => '/settingsprofile=Default',
+  'deviceid' => '/deviceID=4a436adb-4b99-40a7-85b0-42e206f41286',
+  'autoselectcharacter' => '/autoSelectCharacter:2113875139',
+  'language' => '/language=en',
+  'exp' => '1702389600',
+  'tokenExpires' => '2023-12-12 16:00:00.000'
+}    16492377
+2023-12-12 13:50:01.277    app     info:    [AuthenticationMiddleware] User information updated
+2023-12-12 13:50:01.277    app     info:    [client-queue] Started client from group startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  characterId: 2113875139,
+  profile: '',
+  userId: 16492377
+}
+2023-12-12 13:50:01.351    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientStartRequested'
+2023-12-12 13:50:01.351    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessAdded'
+2023-12-12 13:50:01.802    app     info:    [client-manager] Found 'tranquility' client for '16492377' running:     {
+  processId: 10836,
+  createdDate: 1702389001281,
+  userId: 16492377,
+  characterId: 2113875139,
+  profile: 'Default',
+  dxVersion: 'dx12'
+}
+2023-12-12 13:50:01.907    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessMonitoringRetried'
+2023-12-12 13:50:01.908    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientStarted'
+2023-12-12 13:50:01.908    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessRemoved'
+2023-12-12 13:50:02.300    app     info:    [client-queue] Queue has stopped running, no more clients pending startup.
+2023-12-12 13:51:57.149    app     info:    [client-manager] 'tranquility' for EVE game client for '16492377' exited with no errors.
+2023-12-12 13:51:57.164    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2023-12-12 13:51:57.257    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientExited'
+2023-12-12 13:51:57.303    app     info:    [server-manager] Previous Tranquility build: 2450028, current build: 2450028
+2023-12-12 13:51:57.303    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-12 13:51:57.308    app     info:    [server-manager] Ready to play!
+2023-12-12 13:51:57.310    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-12 13:51:59.267    app     info:    [AuthenticationMiddleware] Character information for '18034259' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:51:59.267    app     info:    [AuthenticationMiddleware] Plex information for '18034259' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:52:00.281    app     info:    [AuthenticationMiddleware] Character information for '18034259' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:52:00.281    app     info:    [AuthenticationMiddleware] Plex information for '18034259' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:52:01.152    app     info:    [client-queue] Queued client startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  userId: 18034259,
+  characterId: 2115031890,
+  profile: ''
+}
+2023-12-12 13:52:01.154    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.ClientQueued
+2023-12-12 13:52:01.154    app     info:    [client-queue] No clients running for tranquility, copying files before starting a client
+2023-12-12 13:52:01.158    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesStarted
+2023-12-12 13:52:01.158    app     info:    [binary-copier] Copying 194 files (216 MB) to 'C:\CCP\EVE Online\tq'
+2023-12-12 13:52:01.171    app     info:    [binary-copier] Removing old binaries
+2023-12-12 13:52:01.200    app     info:    [binary-copier] Copying binaries from ResFiles
+2023-12-12 13:52:01.563    app     info:    [binary-copier] Finished copying 194 files to 'C:\CCP\EVE Online\tq' in 0.407 seconds
+2023-12-12 13:52:01.565    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesFinished
+2023-12-12 13:52:01.569    app     info:    [authentication] Token for '18034259' on 'tranquility' is expired, refresh is required
+2023-12-12 13:52:01.569    app     info:    [authentication] Refreshing token for '18034259' on 'tranquility'
+2023-12-12 13:52:01.787    app     info:    [authentication] Token for '18034259' on 'tranquility' has been successfully refreshed
+2023-12-12 13:52:01.789    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.UserTokensRefreshed
+2023-12-12 13:52:01.790    app     info:    [AuthenticationMiddleware] Character information for '18034259' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:52:01.790    app     info:    [AuthenticationMiddleware] Plex information for '18034259' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:52:01.800    app     info:    [client-manager] Starting EVE Online game client.    C:\CCP\EVE Online\tq\bin64\exefile.exe    Map(11) {
+  'noconsole' => '/noconsole',
+  'server' => '/server:tranquility.servers.eveonline.com',
+  'triplatform' => '/triplatform=dx12',
+  'ssotoken' => '/ssoToken=***',
+  'refreshtoken' => '/refreshToken=***',
+  'settingsprofile' => '/settingsprofile=Default',
+  'deviceid' => '/deviceID=4a436adb-4b99-40a7-85b0-42e206f41286',
+  'autoselectcharacter' => '/autoSelectCharacter:2115031890',
+  'language' => '/language=en',
+  'exp' => '1702389721',
+  'tokenExpires' => '2023-12-12 16:02:01.000'
+}    18034259
+2023-12-12 13:52:01.831    app     info:    [AuthenticationMiddleware] User information updated
+2023-12-12 13:52:01.831    app     info:    [client-queue] Started client from group startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  characterId: 2115031890,
+  profile: '',
+  userId: 18034259
+}
+2023-12-12 13:52:01.910    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientStartRequested'
+2023-12-12 13:52:01.910    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessAdded'
+2023-12-12 13:52:02.353    app     info:    [client-manager] Found 'tranquility' client for '18034259' running:     {
+  processId: 6568,
+  createdDate: 1702389121835,
+  userId: 18034259,
+  characterId: 2115031890,
+  profile: 'Default',
+  dxVersion: 'dx12'
+}
+2023-12-12 13:52:02.453    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessMonitoringRetried'
+2023-12-12 13:52:02.454    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientStarted'
+2023-12-12 13:52:02.454    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessRemoved'
+2023-12-12 13:52:02.844    app     info:    [client-queue] Queue has stopped running, no more clients pending startup.
+2023-12-12 13:52:48.372    app     info:    [elg-events] ELG connection closed with ECONNRESET, restarting connection in 30s
+2023-12-12 13:53:42.482    app     info:    [client-manager] 'tranquility' for EVE game client for '18034259' exited with no errors.
+2023-12-12 13:53:42.493    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2023-12-12 13:53:42.596    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientExited'
+2023-12-12 13:53:42.655    app     info:    [server-manager] Previous Tranquility build: 2450028, current build: 2450028
+2023-12-12 13:53:42.655    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-12 13:53:42.660    app     info:    [server-manager] Ready to play!
+2023-12-12 13:53:42.663    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-12 13:53:45.587    app     info:    [AuthenticationMiddleware] Character information for '23622903' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:53:45.587    app     info:    [AuthenticationMiddleware] Plex information for '23622903' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:53:47.362    app     info:    [AuthenticationMiddleware] Character information for '23622903' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:53:47.363    app     info:    [AuthenticationMiddleware] Plex information for '23622903' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:53:47.936    app     info:    [client-queue] Queued client startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  userId: 23622903,
+  characterId: 2118248041,
+  profile: ''
+}
+2023-12-12 13:53:47.938    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.ClientQueued
+2023-12-12 13:53:47.938    app     info:    [client-queue] No clients running for tranquility, copying files before starting a client
+2023-12-12 13:53:47.941    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesStarted
+2023-12-12 13:53:47.941    app     info:    [binary-copier] Copying 194 files (216 MB) to 'C:\CCP\EVE Online\tq'
+2023-12-12 13:53:47.954    app     info:    [binary-copier] Removing old binaries
+2023-12-12 13:53:47.984    app     info:    [binary-copier] Copying binaries from ResFiles
+2023-12-12 13:53:48.347    app     info:    [binary-copier] Finished copying 194 files to 'C:\CCP\EVE Online\tq' in 0.407 seconds
+2023-12-12 13:53:48.349    app     info:    [elg-events] Sending event    eve_launcher.electron.eve_client.CopyingFilesFinished
+2023-12-12 13:53:48.353    app     info:    [authentication] Token for '23622903' on 'tranquility' is expired, refresh is required
+2023-12-12 13:53:48.353    app     info:    [authentication] Refreshing token for '23622903' on 'tranquility'
+2023-12-12 13:53:48.518    app     info:    [authentication] Token for '23622903' on 'tranquility' has been successfully refreshed
+2023-12-12 13:53:48.526    app     info:    [elg-events] Sending event    eve_launcher.electron.authentication.UserTokensRefreshed
+2023-12-12 13:53:48.531    app     info:    [AuthenticationMiddleware] Character information for '23622903' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:53:48.531    app     info:    [AuthenticationMiddleware] Plex information for '23622903' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:53:48.548    app     info:    [client-manager] Starting EVE Online game client.    C:\CCP\EVE Online\tq\bin64\exefile.exe    Map(11) {
+  'noconsole' => '/noconsole',
+  'server' => '/server:tranquility.servers.eveonline.com',
+  'triplatform' => '/triplatform=dx12',
+  'ssotoken' => '/ssoToken=***',
+  'refreshtoken' => '/refreshToken=***',
+  'settingsprofile' => '/settingsprofile=Default',
+  'deviceid' => '/deviceID=4a436adb-4b99-40a7-85b0-42e206f41286',
+  'autoselectcharacter' => '/autoSelectCharacter:2118248041',
+  'language' => '/language=en',
+  'exp' => '1702389827',
+  'tokenExpires' => '2023-12-12 16:03:47.000'
+}    23622903
+2023-12-12 13:53:48.583    app     info:    [AuthenticationMiddleware] User information updated
+2023-12-12 13:53:48.583    app     info:    [client-queue] Started client from group startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  characterId: 2118248041,
+  profile: '',
+  userId: 23622903
+}
+2023-12-12 13:53:48.663    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientStartRequested'
+2023-12-12 13:53:48.663    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessAdded'
+2023-12-12 13:53:49.092    app     info:    [client-manager] Found 'tranquility' client for '23622903' running:     {
+  processId: 2616,
+  createdDate: 1702389228588,
+  userId: 23622903,
+  characterId: 2118248041,
+  profile: 'Default',
+  dxVersion: 'dx12'
+}
+2023-12-12 13:53:49.195    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessMonitoringRetried'
+2023-12-12 13:53:49.196    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientStarted'
+2023-12-12 13:53:49.196    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.TemporaryClientProcessRemoved'
+2023-12-12 13:53:49.600    app     info:    [client-queue] Queue has stopped running, no more clients pending startup.
+2023-12-12 13:54:44.255    app     info:    [self-update] Checking for a launcher update...
+2023-12-12 13:54:44.543    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-12 13:55:03.072    app     info:    [client-manager] 'tranquility' for EVE game client for '23622903' exited with no errors.
+2023-12-12 13:55:03.083    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2023-12-12 13:55:03.187    app     info:    [quasar-events] Sent 'eve_launcher.electron.eve_client.GameClientExited'
+2023-12-12 13:55:03.269    app     info:    [server-manager] Previous Tranquility build: 2450028, current build: 2450028
+2023-12-12 13:55:03.269    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-12 13:55:03.274    app     info:    [server-manager] Ready to play!
+2023-12-12 13:55:03.278    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-12 13:55:10.908    app     info:    [AuthenticationMiddleware] Character information for '18034259' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:55:10.908    app     info:    [AuthenticationMiddleware] Plex information for '18034259' on 'tranquility' was loaded recently, skipping refresh.
+2023-12-12 13:55:16.393    app     info:    [main-window] Main window minimized to tray    { windowId: 2 }
+2023-12-12 13:55:16.409    app     info:    [main-window] Sent notification that the application is minimized to tray    { windowId: 2 }
+2023-12-12 13:55:16.415    app     info:    [ipc-requests] Handling requests in the background
+2023-12-12 13:55:17.422    app     info:    [ipc-requests] No longer handling requests in the background
+2023-12-12 13:55:20.237    app     info:    [tray] Quitting application from tray
+2023-12-12 13:55:20.239    app     info:    Application quitting. Cleanup needed: true
+2023-12-12 13:55:20.240    app     info:    [elg-events] Sending event    eve_launcher.electron.application.LauncherShutdown
+2023-12-12 13:55:20.242    app     info:    app.quit called, but we are still sending ELG events.
+2023-12-12 13:55:20.871    app     info:    ELG stream closed, quitting.
+2023-12-12 13:55:20.873    app     info:    [main-window] Main window closing    { windowId: 2 }
+2023-12-12 13:55:20.887    app     info:    Application closed    0
