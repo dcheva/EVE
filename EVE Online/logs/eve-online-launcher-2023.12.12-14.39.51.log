@@ -436,3 +436,10 @@
 2023-12-12 16:29:32.968    app     info:    [main-window] Sent notification that the application is minimized to tray    { windowId: 2 }
 2023-12-12 16:29:32.974    app     info:    [ipc-requests] Handling requests in the background
 2023-12-12 16:29:33.987    app     info:    [ipc-requests] No longer handling requests in the background
+2023-12-12 16:29:49.579    app     info:    [tray] Quitting application from tray
+2023-12-12 16:29:49.581    app     info:    Application quitting. Cleanup needed: true
+2023-12-12 16:29:49.583    app     info:    [elg-events] Sending event    eve_launcher.electron.application.LauncherShutdown
+2023-12-12 16:29:49.585    app     info:    app.quit called, but we are still sending ELG events.
+2023-12-12 16:29:50.200    app     info:    ELG stream closed, quitting.
+2023-12-12 16:29:50.202    app     info:    [main-window] Main window closing    { windowId: 2 }
+2023-12-12 16:29:50.219    app     info:    Application closed    0
