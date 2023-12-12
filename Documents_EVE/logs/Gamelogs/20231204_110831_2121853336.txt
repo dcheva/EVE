@@ -1,0 +1,570 @@
+------------------------------------------------------------
+  Игровой журнал
+  Слушатель: Worm Holera
+  Сеанс начат: 2023.12.04 11:08:31
+------------------------------------------------------------
+[ 2023.12.04 11:08:33 ] (hint) Попытка присоединиться к каналу
+[ 2023.12.04 11:11:44 ] (notify) Предмет добавлен в грузовой отсек, но не будет включен в оснастку
+[ 2023.12.04 11:11:46 ] (notify) Предмет добавлен в грузовой отсек, но не будет включен в оснастку
+[ 2023.12.04 11:16:06 ] (notify) Для освоения навыков требуется вначале освоить навыки, предшествующие им по иерархии
+[ 2023.12.04 11:17:33 ] (question) Следующие предметы будут получены, активированы и использованы пилотом Worm Holera <br><a href="showinfo:52996"><localized hint="InterStellar Kredits (ISK)">InterStellar Kredits (ISK)*</a>.<br> Вы уверены, что хотите продолжить?
+[ 2023.12.04 11:21:09 ] (question) Вы действительно хотите удалить этот комплект оснастки?
+[ 2023.12.04 11:21:34 ] (info) Для выполнения данного ордера требуется 881 084,00 ISK (из которых 0,00 ISK сборы), а ваш текущий баланс составляет всего 803 522,83 ISK.
+[ 2023.12.04 11:21:45 ] (info) Для выполнения данного ордера требуется 881 084,00 ISK (из которых 0,00 ISK сборы), а ваш текущий баланс составляет всего 803 522,83 ISK.
+[ 2023.12.04 11:21:58 ] (warning) Вы собираетесь уничтожить следующие предметы: <t>- 1 x <localized hint="1MN Civilian Afterburner">1MN Civilian Afterburner*<br><t>- 1 x <localized hint="Civilian Miner">Civilian Miner*<br><t>- 1 x <localized hint="Civilian Gatling Railgun">Civilian Gatling Railgun*<br> <b>Вы уверены в том, что хотите это сделать?</b>
+[ 2023.12.04 11:25:37 ] (notify) Предмет добавлен в грузовой отсек, но не будет включен в оснастку
+[ 2023.12.04 11:25:37 ] (notify) Предмет добавлен в грузовой отсек, но не будет включен в оснастку
+[ 2023.12.04 11:33:19 ] (None) Выход из дока <localized hint="Jita IV - Moon 4 - Сборочный комплекс Caldari Navy">Jita IV - Moon 4 - Caldari Navy Assembly Plant* в звездную систему <localized hint="Jita">Jita*.
+[ 2023.12.04 11:33:48 ] (notify) Эта команда будет доступна лишь после выхода из варп-режима.
+[ 2023.12.04 11:33:48 ] (notify) Скорость изменена до 354 м/с
+[ 2023.12.04 11:33:54 ] (notify) Скорость изменена до 2189 м/с
+[ 2023.12.04 11:33:55 ] (notify) Скорость изменена до 2189 м/с
+[ 2023.12.04 11:33:55 ] (notify) Скорость изменена до 2189 м/с
+[ 2023.12.04 11:33:55 ] (notify) Скорость изменена до 2189 м/с
+[ 2023.12.04 11:33:55 ] (notify) Скорость изменена до 2189 м/с
+[ 2023.12.04 11:33:56 ] (notify) Пожалуйста, подождите...
+[ 2023.12.04 11:34:33 ] (notify) NecroGig, вы являетесь врагом нашей нации! Немедленно покиньте данную территорию, или вы будете уничтожены!
+[ 2023.12.04 11:35:10 ] (notify) Для <localized hint="5MN Microwarpdrive I">5MN Microwarpdrive I* требуется 38,3 единиц заряда. Текущий заряд конденсатора составляет всего 27,0 единиц.
+[ 2023.12.04 11:35:55 ] (None) Осуществляется прыжок из <localized hint="Jita">Jita* в <localized hint="New Caldari">New Caldari*
+[ 2023.12.04 11:36:57 ] (None) Осуществляется прыжок из <localized hint="New Caldari">New Caldari* в <localized hint="Josameto">Josameto*
+[ 2023.12.04 11:37:50 ] (notify) Скорость изменена до 354 м/с
+[ 2023.12.04 11:37:52 ] (notify) Корабль останавливается
+[ 2023.12.04 11:48:07 ] (question) Вы уверены, что хотите удалить это место (точка в системе Josameto*)?
+[ 2023.12.04 11:53:48 ] (question) Вы уверены, что хотите отменить все изменения выбранного фильтра?
+[ 2023.12.04 12:00:05 ] (notify) Корабль останавливается
+[ 2023.12.04 12:00:05 ] (notify) Эта команда будет доступна лишь после выхода из варп-режима.
+[ 2023.12.04 12:04:50 ] (notify) К сожалению, награду могут получить не более 10 наиболее отличившихся пилотов.
+[ 2023.12.04 12:05:45 ] (info)  Эти разгонные ворота не предназначены для использования кораблями типа «<localized hint="Ibis">Ibis*».<br> Ими могут воспользоваться корабли следующих типов:<br> <localized hint="Bantam">Bantam*<br><localized hint="Condor">Condor*<br><localized hint="Griffin">Griffin*<br><localized hint="Slasher">Slasher*<br><localized hint="Probe">Probe*<br><localized hint="Rifter">Rifter*<br><localized hint="Executioner">Executioner*<br><localized hint="Inquisitor">Inquisitor*<br><localized hint="Tormentor">Tormentor*<br><localized hint="Navitas">Navitas*<br><localized hint="Tristan">Tristan*<br><localized hint="Incursus">Incursus*<br><localized hint="Gallente Police Ship">Gallente Police Ship*<br><localized hint="Punisher">Punisher*<br><localized hint="Breacher">Breacher*<br><localized hint="Burst">Burst*<br><localized hint="Minmatar Peacekeeper Ship">Minmatar Peacekeeper Ship*<br><localized hint="Kestrel">Kestrel*<br><localized hint="Merlin">Merlin*<br><localized hint="Heron">Heron*<br><localized hint="Imicus">Imicus*<br><localized hint="Atron">Atron*<br><localized hint="Maulus">Maulus*<br><localized hint="Devourer">Devourer*<br><localized hint="Fury">Fury*<br><localized hint="Medusa">Medusa*<br><localized hint="Lynx">Lynx*<br><localized hint="Swordspine">Swordspine*<br><localized hint="Osprey">Osprey*<br><localized hint="Caracal">Caracal*<br><localized hint="Stabber">Stabber*<br><localized hint="Moa">Moa*<br><localized hint="Maller">Maller*<br><localized hint="Augoror">Augoror*<br><localized hint="Vexor">Vexor*<br><localized hint="Thorax">Thorax*<br><localized hint="Arbitrator">Arbitrator*<br><localized hint="Rupture">Rupture*<br><localized hint="Bellicose">Bellicose*<br><localized hint="Scythe">Scythe*<br><localized hint="Blackbird">Blackbird*<br><localized hint="Celestis">Celestis*<br><localized hint="Exequror">Exequror*<br><localized hint="Opux Luxury Yacht">Opux Luxury Yacht*<br><localized hint="Badger">Badger*<br><localized hint="Tayra">Tayra*<br><localized hint="Nereus">Nereus*<br><localized hint="Hoarder">Hoarder*<br><localized hint="Mammoth">Mammoth*<br><localized hint="Wreathe">Wreathe*<br><localized hint="Kryos">Kryos*<br><localized hint="Epithal">Epithal*<br><localized hint="Miasmos">Miasmos*<br><localized hint="Iteron Mark V">Iteron Mark V*<br><localized hint="Concord Police Frigate">Concord Police Frigate*<br><localized hint="Concord SWAT Frigate">Concord SWAT Frigate*<br><localized hint="Concord Army Frigate">Concord Army Frigate*<br><localized hint="Concord Special Ops Frigate">Concord Special Ops Frigate*<br><localized hint="Concord Police Cruiser">Concord Police Cruiser*<br><localized hint="Bestower">Bestower*<br><localized hint="Omen">Omen*<br><localized hint="Crucifier">Crucifier*<br><localized hint="Primae">Primae*<br><localized hint="Noctis">Noctis*<br><localized hint="Echelon">Echelon*<br><localized hint="SOCT 1">SOCT 1*<br><localized hint="SOCT 2">SOCT 2*<br><localized hint="Vigil">Vigil*<br><localized hint="Amarr Police Frigate">Amarr Police Frigate*<br><localized hint="Miasmos Quafe Ultra Edition">Miasmos Quafe Ultra Edition*<br><localized hint="Miasmos Quafe Ultramarine Edition">Miasmos Quafe Ultramarine Edition*<br><localized hint="Guardian-Vexor">Guardian-Vexor*<br><localized hint="Cockroach">Cockroach*<br><localized hint="Gold Magnate">Gold Magnate*<br><localized hint="Silver Magnate">Silver Magnate*<br><localized hint="Coercer">Coercer*<br><localized hint="Cormorant">Cormorant*<br><localized hint="Catalyst">Catalyst*<br><localized hint="Thrasher">Thrasher*<br><localized hint="Immovable Enigma">Immovable Enigma*<br><localized hint="Caldari Navy Hookbill">Caldari Navy Hookbill*<br><localized hint="Caracal Navy Issue">Caracal Navy Issue*<br><localized hint="Imperial Navy Slicer">Imperial Navy Slicer*<br><localized hint="Khanid Navy Frigate">Khanid Navy Frigate*<br><localized hint="Mordus Frigate">Mordus Frigate*<br><localized hint="Omen Navy Issue">Omen Navy Issue*<br><localized hint="Stabber Fleet Issue">Stabber Fleet Issue*<br><localized hint="Republic Fleet Firetail">Republic Fleet Firetail*<br><localized hint="Federation Navy Comet">Federation Navy Comet*<br><localized hint="Vexor Navy Issue">Vexor Navy Issue*<br><localized hint="Succubus">Succubus*<br><localized hint="Cruor">Cruor*<br><localized hint="Daredevil">Daredevil*<br><localized hint="Worm">Worm*<br><localized hint="Dramiel">Dramiel*<br><localized hint="Sigil">Sigil*<br><localized hint="Opux Dragoon Yacht">Opux Dragoon Yacht*<br><localized hint="Magnate">Magnate*<br><localized hint="Scythe Fleet Issue">Scythe Fleet Issue*<br><localized hint="Augoror Navy Issue">Augoror Navy Issue*<br><localized hint="Osprey Navy Issue">Osprey Navy Issue*<br><localized hint="Exequror Navy Issue">Exequror Navy Issue*<br><localized hint="Miasmos Amastris Edition">Miasmos Amastris Edition*<br><localized hint="InterBus Catalyst">InterBus Catalyst*<br><localized hint="Intaki Syndicate Catalyst">Intaki Syndicate Catalyst*<br><localized hint="Inner Zone Shipping Catalyst">Inner Zone Shipping Catalyst*<br><localized hint="Quafe Catalyst">Quafe Catalyst*<br><localized hint="Aliastra Catalyst">Aliastra Catalyst*<br><localized hint="Algos">Algos*<br><localized hint="Dragoon">Dragoon*<br><localized hint="Corax">Corax*<br><localized hint="Talwar">Talwar*<br><localized hint="Venture">Venture*<br><localized hint="Sukuuvestaa Heron">Sukuuvestaa Heron*<br><localized hint="Inner Zone Shipping Imicus">Inner Zone Shipping Imicus*<br><localized hint="Sarum Magnate">Sarum Magnate*<br><localized hint="Vherokior Probe">Vherokior Probe*<br><localized hint="Nefantar Thrasher">Nefantar Thrasher*<br><localized hint="Tash-Murkon Magnate">Tash-Murkon Magnate*<br><localized hint="Astero">Astero*<br><localized hint="Omen Kador Edition">Omen Kador Edition*<br><localized hint="Omen Tash-Murkon Edition">Omen Tash-Murkon Edition*<br><localized hint="Caracal Nugoeihuvi Edition">Caracal Nugoeihuvi Edition*<br><localized hint="Caracal Wiyrkomi Edition">Caracal Wiyrkomi Edition*<br><localized hint="Stabber Nefantar Edition">Stabber Nefantar Edition*<br><localized hint="Stabber Krusual Edition">Stabber Krusual Edition*<br><localized hint="Thorax Aliastra Edition">Thorax Aliastra Edition*<br><localized hint="Inner Zone Shipping Edition">Thorax Inner Zone Shipping Edition*<br><localized hint="Punisher Kador Edition">Punisher Kador Edition*<br><localized hint="Punisher Tash-Murkon Edition">Punisher Tash-Murkon Edition*<br><localized hint="Merlin Nugoeihuvi Edition">Merlin Nugoeihuvi Edition*<br><localized hint="Merlin Wiyrkomi Edition">Merlin Wiyrkomi Edition*<br><localized hint="Rifter Nefantar Edition">Rifter Nefantar Edition*<br><localized hint="Rifter Krusual Edition">Rifter Krusual Edition*<br><localized hint="Incursus Aliastra Edition">Incursus Aliastra Edition*<br><localized hint="Zone Shipping Edition">Incursus Inner Zone Shipping Edition*<br><localized hint="Police Pursuit Comet">Police Pursuit Comet*<br><localized hint="Iteron Inner Zone Shipping Edition">Iteron Inner Zone Shipping Edition*<br><localized hint="Tayra Wiyrkomi Edition">Tayra Wiyrkomi Edition*<br><localized hint="Mammoth Nefantar Edition">Mammoth Nefantar Edition*<br><localized hint="Bestower Tash-Murkon Edition">Bestower Tash-Murkon Edition*<br><localized hint="Garmur">Garmur*<br><localized hint="Catalyst Serpentis Edition">Catalyst Serpentis Edition*<br><localized hint="Coercer Blood Raiders Edition">Coercer Blood Raiders Edition*<br><localized hint="Cormorant Guristas Edition">Cormorant Guristas Edition*<br><localized hint="Thrasher Thukker Tribe Edition">Thrasher Thukker Tribe Edition*<br><localized hint="Tristan Quafe Edition">Tristan Quafe Edition*<br><localized hint="Vexor Quafe Edition">Vexor Quafe Edition*<br><localized hint="毒蜥级YC117年特别版">毒蜥级YC117年特别版*<br><localized hint="Victorieux Luxury Yacht">Victorieux Luxury Yacht*<br><localized hint="Crucifier Navy Issue">Crucifier Navy Issue*<br><localized hint="Vigil Fleet Issue">Vigil Fleet Issue*<br><localized hint="Griffin Navy Issue">Griffin Navy Issue*<br><localized hint="Maulus Navy Issue">Maulus Navy Issue*<br><localized hint="Sunesis">Sunesis*<br><localized hint="Damavik">Damavik*<br><localized hint="Kikimora">Kikimora*<br><localized hint="Test Site Maller">Test Site Maller*<br><localized hint="Skybreaker">Skybreaker*<br><localized hint="AIR Civilian Astero">AIR Civilian Astero*<br><localized hint="Probe Fleet Issue">Probe Fleet Issue*<br><localized hint="Heron Navy Issue">Heron Navy Issue*<br><localized hint="Magnate Navy Issue">Magnate Navy Issue*<br><localized hint="Imicus Navy Issue">Imicus Navy Issue*<br><localized hint="Coercer Navy Issue">Coercer Navy Issue*<br><localized hint="Thrasher Fleet Issue">Thrasher Fleet Issue*<br><localized hint="Cormorant Navy Issue">Cormorant Navy Issue*<br><localized hint="Catalyst Navy Issue">Catalyst Navy Issue*<br><localized hint="Metamorphosis">Metamorphosis*<br><localized hint="Mekubal">Mekubal*<br><localized hint="Mamba">Mamba*
+[ 2023.12.04 12:05:59 ] (question) <a href="showinfo:1376//147363271">PanzarGun</a> хочет видеть вас в составе своего флота. Вы согласны? <br><br> ПРИМЕЧАНИЕ: враждебные действия против пилотов, с которыми вы состоите в одном флоте, не ратифицированы КОНКОРДом и могут привести к снижению статуса безопасности, а также привлечь внимание полиции.
+
+
+[ 2023.12.04 12:06:30 ] (info) Вы не можете выполнить эту команду в вашем флоте.
+[ 2023.12.04 12:11:22 ] (notify) Получатели сигналов флота: <b>Моя группа</b>
+[ 2023.12.04 12:11:38 ] (notify) Корабль останавливается
+[ 2023.12.04 12:14:41 ] (notify) Переход в варп-режим по приказу PanzarGun
+[ 2023.12.04 12:20:23 ] (notify) Переход в варп-режим по приказу PanzarGun
+[ 2023.12.04 12:21:23 ] (notify) Переход в варп-режим по приказу PanzarGun
+[ 2023.12.04 12:27:15 ] (notify) Переход в варп-режим по приказу PanzarGun
+[ 2023.12.04 12:30:26 ] (notify) Переход в варп-режим по приказу PanzarGun
+[ 2023.12.04 12:30:28 ] (notify) Эта команда будет доступна лишь после выхода из варп-режима.
+[ 2023.12.04 12:31:27 ] (notify) Переход в варп-режим по приказу PanzarGun
+[ 2023.12.04 12:32:37 ] (notify) Переход в варп-режим по приказу PanzarGun
+[ 2023.12.04 12:34:44 ] (notify) Переход в варп-режим по приказу PanzarGun
+[ 2023.12.04 12:35:45 ] (notify) Переход в варп-режим по приказу PanzarGun
+[ 2023.12.04 12:35:45 ] (notify) Эта команда будет доступна лишь после выхода из варп-режима.
+[ 2023.12.04 12:35:46 ] (combat) Raznaborg Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 12:35:46 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 12:39:35 ] (notify) Переход в варп-режим по приказу PanzarGun
+[ 2023.12.04 12:42:28 ] (notify) Переход в варп-режим по приказу PanzarGun
+[ 2023.12.04 12:49:23 ] (notify) Переход в варп-режим по приказу PanzarGun
+[ 2023.12.04 12:51:37 ] (notify) Скорость изменена до 354 м/с
+[ 2023.12.04 12:52:08 ] (notify) Переход в варп-режим по приказу PanzarGun
+[ 2023.12.04 12:52:08 ] (notify) Эта команда будет доступна лишь после выхода из варп-режима.
+[ 2023.12.04 12:52:08 ] (notify) Корабль останавливается
+[ 2023.12.04 12:52:38 ] (notify) Переход в варп-режим по приказу PanzarGun
+[ 2023.12.04 12:52:38 ] (notify) Эта команда будет доступна лишь после выхода из варп-режима.
+[ 2023.12.04 12:53:35 ] (notify) Переход в варп-режим по приказу PanzarGun
+[ 2023.12.04 12:56:39 ] (notify) Корабль направляется в док
+[ 2023.12.04 12:57:29 ] (None) Выход из дока <localized hint="Angymonne V - Moon 6 - Театр семиозиса Велесова клада">Angymonne V - Moon 6 - Veles Clade Semiosis Theater* в звездную систему <localized hint="Angymonne">Angymonne*.
+[ 2023.12.04 12:58:29 ] (notify) Эта команда будет доступна лишь после выхода из варп-режима.
+[ 2023.12.04 12:58:31 ] (notify) Помехи от работы варп-двигателя вашего корабля препятствуют нормальному функционированию данного модуля.
+[ 2023.12.04 12:58:35 ] (notify) Груз слишком далеко. Корабль автоматически приближается к грузу.
+[ 2023.12.04 13:00:49 ] (notify) Переход в варп-режим по приказу PanzarGun
+[ 2023.12.04 13:03:45 ] (notify) Переход в варп-режим по приказу PanzarGun
+[ 2023.12.04 13:06:09 ] (notify) Переход в варп-режим по приказу PanzarGun
+[ 2023.12.04 13:07:22 ] (notify) Переход в варп-режим по приказу PanzarGun
+[ 2023.12.04 13:08:13 ] (combat) <color=0xffffffff><b>Попытка варп-глушения:</b> <color=0x77ffffff><font size=10>источник</font> <color=0xffffffff><b><localized hint="Anchoring Damavik">Anchoring Damavik*,</b> <color=0x77ffffff><font size=10>цель <b><color=0xffffffff></font><localized hint="Exalted Imperial Navy Zealot">Exalted Imperial Navy Zealot*
+[ 2023.12.04 13:08:21 ] (notify) Переход в варп-режим по приказу PanzarGun
+[ 2023.12.04 13:08:21 ] (notify) Варп-режим недоступен — слишком много природных помех.
+[ 2023.12.04 13:08:24 ] (combat) <color=0xffffffff><b>Попытка варп-глушения:</b> <color=0x77ffffff><font size=10>источник</font> <color=0xffffffff><b><localized hint="Hospodar Anchoring Damavik">Hospodar Anchoring Damavik*,</b> <color=0x77ffffff><font size=10>цель <b><color=0xffffffff></font><localized hint="Exalted Imperial Navy Armageddon">Exalted Imperial Navy Armageddon*
+[ 2023.12.04 13:08:24 ] (combat) <color=0xffffffff><b>Попытка варп-глушения:</b> <color=0x77ffffff><font size=10>источник</font> <color=0xffffffff><b><localized hint="Anchoring Damavik">Anchoring Damavik*,</b> <color=0x77ffffff><font size=10>цель <b><color=0xffffffff></font><localized hint="Exalted Imperial Navy Armageddon">Exalted Imperial Navy Armageddon*
+[ 2023.12.04 13:08:35 ] (notify) Переход в варп-режим по приказу PanzarGun
+[ 2023.12.04 13:08:35 ] (notify) Варп-режим недоступен — слишком много природных помех.
+[ 2023.12.04 13:09:04 ] (notify) Варп-режим недоступен — слишком много природных помех.
+[ 2023.12.04 13:09:13 ] (combat) <color=0xffffffff><b>Попытка варп-глушения:</b> <color=0x77ffffff><font size=10>источник</font> <color=0xffffffff><b><localized hint="Hospodar Anchoring Damavik">Hospodar Anchoring Damavik*,</b> <color=0x77ffffff><font size=10>цель <b><color=0xffffffff></font><localized hint="Elite Imperial Navy Harbinger">Elite Imperial Navy Harbinger*
+[ 2023.12.04 13:09:13 ] (combat) <color=0xffffffff><b>Попытка варп-глушения:</b> <color=0x77ffffff><font size=10>источник</font> <color=0xffffffff><b><localized hint="Anchoring Damavik">Anchoring Damavik*,</b> <color=0x77ffffff><font size=10>цель <b><color=0xffffffff></font><localized hint="Elite Imperial Navy Harbinger">Elite Imperial Navy Harbinger*
+[ 2023.12.04 13:09:28 ] (combat) <color=0xffffffff><b>Попытка варп-глушения:</b> <color=0x77ffffff><font size=10>источник</font> <color=0xffffffff><b><localized hint="Hospodar Anchoring Damavik">Hospodar Anchoring Damavik*,</b> <color=0x77ffffff><font size=10>цель <b><color=0xffffffff></font><localized hint="Exalted Imperial Navy Armageddon">Exalted Imperial Navy Armageddon*
+[ 2023.12.04 13:09:42 ] (notify) Корабль останавливается
+[ 2023.12.04 13:09:51 ] (combat) <color=0xffffffff><b>Попытка варп-глушения:</b> <color=0x77ffffff><font size=10>источник</font> <color=0xffffffff><b><localized hint="Anchoring Damavik">Anchoring Damavik*,</b> <color=0x77ffffff><font size=10>цель <b><color=0xffffffff></font><localized hint="Exalted Imperial Navy Armageddon">Exalted Imperial Navy Armageddon*
+[ 2023.12.04 13:10:13 ] (combat) <color=0xffffffff><b>Попытка варп-глушения:</b> <color=0x77ffffff><font size=10>источник</font> <color=0xffffffff><b><localized hint="Anchoring Damavik">Anchoring Damavik*,</b> <color=0x77ffffff><font size=10>цель <b><color=0xffffffff></font><localized hint="Elite Imperial Navy Harbinger">Elite Imperial Navy Harbinger*
+[ 2023.12.04 13:10:22 ] (combat) <color=0xffffffff><b>Попытка варп-глушения:</b> <color=0x77ffffff><font size=10>источник</font> <color=0xffffffff><b><localized hint="Hospodar Anchoring Damavik">Hospodar Anchoring Damavik*,</b> <color=0x77ffffff><font size=10>цель <b><color=0xffffffff></font><localized hint="Elite Imperial Navy Harbinger">Elite Imperial Navy Harbinger*
+[ 2023.12.04 13:10:48 ] (combat) <color=0xffffffff><b>Попытка варп-глушения:</b> <color=0x77ffffff><font size=10>источник</font> <color=0xffffffff><b><localized hint="Anchoring Damavik">Anchoring Damavik*,</b> <color=0x77ffffff><font size=10>цель <b><color=0xffffffff></font><localized hint="Elite Imperial Navy Armageddon">Elite Imperial Navy Armageddon*
+[ 2023.12.04 13:10:53 ] (combat) <color=0xffffffff><b>Попытка варп-глушения:</b> <color=0x77ffffff><font size=10>источник</font> <color=0xffffffff><b><localized hint="Hospodar Anchoring Damavik">Hospodar Anchoring Damavik*,</b> <color=0x77ffffff><font size=10>цель <b><color=0xffffffff></font><localized hint="Elite Imperial Navy Armageddon">Elite Imperial Navy Armageddon*
+[ 2023.12.04 13:11:33 ] (combat) <color=0xffffffff><b>Попытка варп-глушения:</b> <color=0x77ffffff><font size=10>источник</font> <color=0xffffffff><b><localized hint="Hospodar Anchoring Damavik">Hospodar Anchoring Damavik*,</b> <color=0x77ffffff><font size=10>цель <b><color=0xffffffff></font><localized hint="Exalted Imperial Navy Sentinel">Exalted Imperial Navy Sentinel*
+[ 2023.12.04 13:11:33 ] (combat) <color=0xffffffff><b>Попытка варп-глушения:</b> <color=0x77ffffff><font size=10>источник</font> <color=0xffffffff><b><localized hint="Anchoring Damavik">Anchoring Damavik*,</b> <color=0x77ffffff><font size=10>цель <b><color=0xffffffff></font><localized hint="Exalted Imperial Navy Sentinel">Exalted Imperial Navy Sentinel*
+[ 2023.12.04 13:16:29 ] (notify) Варп-режим недоступен — слишком много природных помех.
+[ 2023.12.04 13:17:21 ] (notify) Груз слишком далеко. Корабль автоматически приближается к грузу.
+[ 2023.12.04 13:17:21 ] (notify) Варп-режим недоступен — слишком много природных помех.
+[ 2023.12.04 13:18:25 ] (notify) Груз слишком далеко. Корабль автоматически приближается к грузу.
+[ 2023.12.04 13:18:52 ] (notify) Груз слишком далеко. Корабль автоматически приближается к грузу.
+[ 2023.12.04 13:19:02 ] (notify) Груз слишком далеко. Корабль автоматически приближается к грузу.
+[ 2023.12.04 13:19:15 ] (notify) Для получения доступа к контейнеру вы должны находиться на расстоянии не более 2500 метров от него.
+[ 2023.12.04 13:19:17 ] (notify) Для получения доступа к контейнеру вы должны находиться на расстоянии не более 2500 метров от него.
+[ 2023.12.04 13:19:18 ] (notify) Для получения доступа к контейнеру вы должны находиться на расстоянии не более 2500 метров от него.
+[ 2023.12.04 13:19:18 ] (notify) Для получения доступа к контейнеру вы должны находиться на расстоянии не более 2500 метров от него.
+[ 2023.12.04 13:19:19 ] (notify) Для получения доступа к контейнеру вы должны находиться на расстоянии не более 2500 метров от него.
+[ 2023.12.04 13:19:24 ] (notify) Груз слишком далеко. Корабль автоматически приближается к грузу.
+[ 2023.12.04 13:19:35 ] (question) Вы уверены?
+[ 2023.12.04 13:19:46 ] (notify) Груз слишком далеко. Корабль автоматически приближается к грузу.
+[ 2023.12.04 13:20:45 ] (notify) Корабль направляется в док
+[ 2023.12.04 13:21:59 ] (None) Выход из дока <localized hint="Kaunokka II - Moon 1 - Ферма мутаплазмидов Велесова клада">Kaunokka II - Moon 1 - Veles Clade Mutaplasmid Farm* в звездную систему <localized hint="Kaunokka">Kaunokka*.
+[ 2023.12.04 13:23:11 ] (question) Вы уверены в том, что хотите упаковать этот предмет, подготовив его к продаже?
+[ 2023.12.04 13:23:57 ] (None) Выход из дока <localized hint="Kaunokka II - Moon 1 - Ферма мутаплазмидов Велесова клада">Kaunokka II - Moon 1 - Veles Clade Mutaplasmid Farm* в звездную систему <localized hint="Kaunokka">Kaunokka*.
+[ 2023.12.04 13:24:13 ] (notify) Переход в варп-режим по приказу PanzarGun
+[ 2023.12.04 13:26:39 ] (question) Вы уверены, что хотите удалить выбранные координаты (7)?
+[ 2023.12.04 13:26:46 ] (question) Вы уверены, что хотите удалить выбранные координаты (6)?
+[ 2023.12.04 13:26:52 ] (question) Вы уверены, что хотите удалить это место (`Expa`)?
+[ 2023.12.04 13:27:08 ] (notify) Цель неуязвима.
+[ 2023.12.04 13:27:11 ] (notify) Корабль останавливается
+[ 2023.12.04 13:30:44 ] (notify) Вы не можете выполнить данное действие во время входа корабля в док.
+[ 2023.12.04 13:30:46 ] (notify) Вы не можете выполнить данное действие во время входа корабля в док.
+[ 2023.12.04 13:30:46 ] (notify) Корабль останавливается
+[ 2023.12.04 13:30:59 ] (None) Выход из дока <localized hint="Arvasaras IV - Moon 15 - Театр семиозиса Велесова клада">Arvasaras IV - Moon 15 - Veles Clade Semiosis Theater* в звездную систему <localized hint="Arvasaras">Arvasaras*.
+[ 2023.12.04 13:32:04 ] (notify) Корабль останавливается
+[ 2023.12.04 13:32:05 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:32:09 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:32:13 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:32:17 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:32:21 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:32:25 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:32:29 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:32:33 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:32:37 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:32:41 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:32:45 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:32:49 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:32:54 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:32:58 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:33:02 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:33:06 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:33:10 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:33:14 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:33:18 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:33:22 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:33:26 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:33:30 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:33:34 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:33:38 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:33:42 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:33:46 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:33:50 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:33:54 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:33:58 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:34:02 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:34:06 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:34:10 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:34:14 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:34:18 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:34:22 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:34:26 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:34:30 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:34:34 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:34:38 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:34:42 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:34:46 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:34:50 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:34:54 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:34:58 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:35:02 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:35:06 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:35:10 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:35:14 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:35:18 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:35:22 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:35:25 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:35:25 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:35:26 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:35:26 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:35:29 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:35:29 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:35:30 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:35:30 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:35:33 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:35:33 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:35:34 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:35:34 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:35:37 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:35:37 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:35:38 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:35:38 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:35:41 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:35:41 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:35:42 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:35:42 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:35:45 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:35:45 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:35:46 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:35:46 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:35:49 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:35:49 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:35:50 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:35:50 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:35:53 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:35:53 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:35:54 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:35:54 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:35:57 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:35:57 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:35:58 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:35:58 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:36:01 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:36:01 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:36:02 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:36:02 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:36:05 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:36:05 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:36:06 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:36:06 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:36:09 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:36:09 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:36:10 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:36:10 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:36:13 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:36:13 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:36:14 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:36:15 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:36:17 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:36:17 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:36:18 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:36:19 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:36:21 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:36:21 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:36:22 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:36:23 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:36:25 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:36:25 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:36:26 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:36:27 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:36:29 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:36:29 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:36:30 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:36:31 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:36:33 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:36:33 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:36:34 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:36:35 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:36:37 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:36:37 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:36:38 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:36:39 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:36:41 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:36:41 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:36:42 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:36:43 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:36:45 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:36:45 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:36:46 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:36:47 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:36:49 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:36:49 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:36:50 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:36:51 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:36:53 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:36:53 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:36:54 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:36:55 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:36:57 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:36:57 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:36:58 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:36:59 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:37:01 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:37:01 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:37:02 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:37:03 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:37:05 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:37:05 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:37:06 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:37:07 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:37:09 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:37:09 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:37:10 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:37:11 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:37:13 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:37:13 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:37:14 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:37:15 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:37:17 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:37:17 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:37:18 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:37:19 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:37:21 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:37:21 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:37:22 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:37:23 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:37:25 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:37:25 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:37:26 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:37:27 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:37:29 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:37:29 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:37:30 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:37:31 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:37:33 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:37:33 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:37:34 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:37:35 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:37:37 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:37:37 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:37:38 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:37:39 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:37:41 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:37:41 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:37:42 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:37:43 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:37:45 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:37:45 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:37:46 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:37:47 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:37:49 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:37:49 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:37:50 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:37:51 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:37:53 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:37:53 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:37:54 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:37:55 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:37:57 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:37:57 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:37:58 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:37:59 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:38:01 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:38:01 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:38:02 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:38:03 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:38:05 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:38:05 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:38:06 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:38:07 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:38:09 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:38:09 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:38:10 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:38:11 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:38:13 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:38:13 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:38:14 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:38:15 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:38:17 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:38:17 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:38:18 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:38:19 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:38:21 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:38:21 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:38:22 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:38:23 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:38:25 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:38:25 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:38:26 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:38:27 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:38:29 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:38:29 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:38:30 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:38:31 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:38:33 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:38:33 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:38:34 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:38:35 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:38:38 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:38:38 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:38:38 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:38:39 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:38:42 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:38:42 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:38:42 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:38:43 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:38:46 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:38:46 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:38:46 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:38:47 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:38:50 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:38:50 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:38:50 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:38:51 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:38:54 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:38:54 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:38:54 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:38:55 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:38:58 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:38:58 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:38:58 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:38:59 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:39:02 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:39:02 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:39:02 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:39:03 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:39:06 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:39:06 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:39:07 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:39:07 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:39:10 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:39:10 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:39:11 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:39:11 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:39:14 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:39:14 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:39:15 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:39:15 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:39:18 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:39:18 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:39:19 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:39:19 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:39:22 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:39:22 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:39:23 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:39:23 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:39:26 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:39:26 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:39:27 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:39:27 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:39:30 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:39:30 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:39:31 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:39:31 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:39:34 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:39:34 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:39:35 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:39:35 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:39:38 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:39:38 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:39:39 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:39:39 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:39:42 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:39:42 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:39:43 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:39:43 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:39:46 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:39:46 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:39:47 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:39:47 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:39:50 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:39:50 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:39:51 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:39:51 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:39:54 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:39:54 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:39:55 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:39:55 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:39:58 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:39:58 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:39:59 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:39:59 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:40:02 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:40:02 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:40:03 ] (notify) Груз слишком далеко. Корабль автоматически приближается к грузу.
+[ 2023.12.04 13:40:03 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:40:03 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:40:06 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:40:06 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:40:07 ] (combat) Raznaborg Renewing Drekavac*: промах мимо вашего корабля
+[ 2023.12.04 13:40:07 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:40:41 ] (combat) Raznaborg Starving Vedmak*: промах мимо вашего корабля
+[ 2023.12.04 13:40:41 ] (combat) Raznaborg Harrowing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:40:41 ] (combat) Raznaborg Renewing Rodiva*: промах мимо вашего корабля
+[ 2023.12.04 13:41:09 ] (notify) Эта команда будет доступна лишь после выхода из варп-режима.
+[ 2023.12.04 13:41:09 ] (notify) Корабль останавливается
+[ 2023.12.04 13:42:30 ] (combat) Faded Hypnosian Watcher*: промах мимо вашего корабля
+[ 2023.12.04 13:42:30 ] (combat) Faded Hypnosian Watcher*: промах мимо вашего корабля
+[ 2023.12.04 13:42:57 ] (notify) Груз слишком далеко. Корабль автоматически приближается к грузу.
+[ 2023.12.04 13:43:22 ] (notify) Груз слишком далеко. Корабль автоматически приближается к грузу.
+[ 2023.12.04 13:43:56 ] (notify) Для получения доступа к контейнеру вы должны находиться на расстоянии не более 2500 метров от него.
+[ 2023.12.04 13:43:57 ] (notify) Для получения доступа к контейнеру вы должны находиться на расстоянии не более 2500 метров от него.
+[ 2023.12.04 13:43:58 ] (notify) Для получения доступа к контейнеру вы должны находиться на расстоянии не более 2500 метров от него.
+[ 2023.12.04 13:43:59 ] (notify) Для получения доступа к контейнеру вы должны находиться на расстоянии не более 2500 метров от него.
+[ 2023.12.04 13:44:00 ] (notify) Для получения доступа к контейнеру вы должны находиться на расстоянии не более 2500 метров от него.
+[ 2023.12.04 13:44:01 ] (notify) Для получения доступа к контейнеру вы должны находиться на расстоянии не более 2500 метров от него.
+[ 2023.12.04 13:44:02 ] (notify) Для получения доступа к контейнеру вы должны находиться на расстоянии не более 2500 метров от него.
+[ 2023.12.04 13:44:03 ] (notify) Для получения доступа к контейнеру вы должны находиться на расстоянии не более 2500 метров от него.
+[ 2023.12.04 13:44:04 ] (notify) Для получения доступа к контейнеру вы должны находиться на расстоянии не более 2500 метров от него.
+[ 2023.12.04 13:44:05 ] (notify) Для получения доступа к контейнеру вы должны находиться на расстоянии не более 2500 метров от него.
+[ 2023.12.04 13:44:06 ] (notify) Для получения доступа к контейнеру вы должны находиться на расстоянии не более 2500 метров от него.
+[ 2023.12.04 13:44:07 ] (notify) Для получения доступа к контейнеру вы должны находиться на расстоянии не более 2500 метров от него.
+[ 2023.12.04 13:44:08 ] (notify) Для получения доступа к контейнеру вы должны находиться на расстоянии не более 2500 метров от него.
+[ 2023.12.04 13:44:09 ] (notify) Для получения доступа к контейнеру вы должны находиться на расстоянии не более 2500 метров от него.
+[ 2023.12.04 13:44:15 ] (notify) Груз слишком далеко. Корабль автоматически приближается к грузу.
+[ 2023.12.04 13:45:39 ] (question) Вы уверены, что хотите удалить это место (0)?
+[ 2023.12.04 13:48:57 ] (notify) Переход в варп-режим по приказу PanzarGun
+[ 2023.12.04 13:49:01 ] (question) Вы уверены, что хотите удалить выбранные координаты (4)?
+[ 2023.12.04 13:49:17 ] (question) Вы уверены, что хотите удалить выбранные координаты (2)?
+[ 2023.12.04 13:49:25 ] (question) Вы уверены, что хотите удалить выбранные координаты (5)?
+[ 2023.12.04 13:49:29 ] (question) Вы уверены, что хотите удалить выбранные координаты (2)?
+[ 2023.12.04 13:49:38 ] (question) Вы уверены, что хотите удалить выбранные координаты (2)?
+[ 2023.12.04 13:50:53 ] (notify) Груз слишком далеко. Корабль автоматически приближается к грузу.
+[ 2023.12.04 14:04:44 ] (notify) Переход в варп-режим по приказу PanzarGun
+[ 2023.12.04 14:06:45 ] (notify) Переход в варп-режим по приказу PanzarGun
+[ 2023.12.04 14:08:50 ] (notify) Корабль направляется в док
+[ 2023.12.04 14:08:52 ] (notify) Корабль направляется в док
+[ 2023.12.04 14:11:15 ] (None) Выход из дока <localized hint="Kaunokka II - Moon 1 - Ферма мутаплазмидов Велесова клада">Kaunokka II - Moon 1 - Veles Clade Mutaplasmid Farm* в звездную систему <localized hint="Kaunokka">Kaunokka*.
+[ 2023.12.04 14:15:11 ] (notify) Корабль останавливается
+[ 2023.12.04 14:17:27 ] (notify) Корабль останавливается
+[ 2023.12.04 14:22:16 ] (notify) Эта команда будет доступна лишь после выхода из варп-режима.
+[ 2023.12.04 14:22:21 ] (notify) Помехи от работы варп-двигателя вашего корабля препятствуют нормальному функционированию данного модуля.
+[ 2023.12.04 14:23:58 ] (notify) Корабль останавливается
+[ 2023.12.04 14:24:14 ] (notify) Груз слишком далеко. Корабль автоматически приближается к грузу.
+[ 2023.12.04 14:24:50 ] (notify) Груз слишком далеко. Корабль автоматически приближается к грузу.
+[ 2023.12.04 14:25:16 ] (notify) Груз слишком далеко. Корабль автоматически приближается к грузу.
+[ 2023.12.04 14:25:42 ] (notify) Груз слишком далеко. Корабль автоматически приближается к грузу.
+[ 2023.12.04 14:26:12 ] (notify) Для получения доступа к контейнеру вы должны находиться на расстоянии не более 2500 метров от него.
+[ 2023.12.04 14:26:29 ] (notify) Груз слишком далеко. Корабль автоматически приближается к грузу.
+[ 2023.12.04 14:28:19 ] (notify) Цель <b><localized hint="Hypnosian Preserver">Hypnosian Preserver*</b> слишком далеко. Она должна находиться в пределах <b>31 км</b>.
+[ 2023.12.04 14:29:19 ] (notify) Корабль останавливается
+[ 2023.12.04 14:34:00 ] (info) Этот человек не входит в состав вашего флота, или его нет в этой солнечной системе.
+[ 2023.12.04 14:35:10 ] (notify) Смена сеанса уже идет.
+[ 2023.12.04 14:39:16 ] (notify) Корабль направляется в док
+[ 2023.12.04 14:41:49 ] (None) Выход из дока <localized hint="Kaunokka II - Moon 1 - Ферма мутаплазмидов Велесова клада">Kaunokka II - Moon 1 - Veles Clade Mutaplasmid Farm* в звездную систему <localized hint="Kaunokka">Kaunokka*.
+[ 2023.12.04 14:50:26 ] (None) Выход из дока <localized hint="Kaunokka II - Moon 1 - Ферма мутаплазмидов Велесова клада">Kaunokka II - Moon 1 - Veles Clade Mutaplasmid Farm* в звездную систему <localized hint="Kaunokka">Kaunokka*.
+[ 2023.12.04 14:53:01 ] (question) Вы уверены, что хотите удалить выбранные координаты (4)?
+[ 2023.12.04 14:55:46 ] (notify) Цель <b><localized hint="Raznaborg Anchoring Damavik">Raznaborg Anchoring Damavik*</b> слишком далеко. Она должна находиться в пределах <b>31 км</b>.
+[ 2023.12.04 15:01:59 ] (notify) Груз слишком далеко. Корабль автоматически приближается к грузу.
+[ 2023.12.04 15:07:11 ] (combat) <color=0xffffffff><b>Попытка варп-глушения:</b> <color=0x77ffffff><font size=10>источник</font> <color=0xffffffff><b><localized hint="Aroused Hypnosian Sentinel">Aroused Hypnosian Sentinel*,</b> <color=0x77ffffff><font size=10>цель <b><color=0xffffffff></font><localized hint="Overmind Interruptor Lambda">Overmind Interruptor Lambda*
+[ 2023.12.04 15:07:13 ] (combat) <color=0xffffffff><b>Попытка варп-глушения:</b> <color=0x77ffffff><font size=10>источник</font> <color=0xffffffff><b><localized hint="Aroused Hypnosian Watcher">Aroused Hypnosian Watcher*,</b> <color=0x77ffffff><font size=10>цель <b><color=0xffffffff></font><localized hint="Overmind Interruptor Lambda">Overmind Interruptor Lambda*
+[ 2023.12.04 15:07:13 ] (combat) <color=0xffffffff><b>Попытка варп-глушения:</b> <color=0x77ffffff><font size=10>источник</font> <color=0xffffffff><b><localized hint="Faded Hypnosian Watcher">Faded Hypnosian Watcher*,</b> <color=0x77ffffff><font size=10>цель <b><color=0xffffffff></font><localized hint="Overmind Interruptor Lambda">Overmind Interruptor Lambda*
+[ 2023.12.04 15:08:49 ] (combat) <color=0xffffffff><b>Попытка варп-глушения:</b> <color=0x77ffffff><font size=10>источник</font> <color=0xffffffff><b><localized hint="Агрей Тиран">Agreus Tyrannos*,</b> <color=0x77ffffff><font size=10>цель <b><color=0xffffffff></font><localized hint="Interfering Phase-III Legionary">Interfering Phase-III Legionary*
+[ 2023.12.04 15:08:58 ] (combat) <color=0xffffffff><b>Попытка варп-глушения:</b> <color=0x77ffffff><font size=10>источник</font> <color=0xffffffff><b><localized hint="Aroused Hypnosian Sentinel">Aroused Hypnosian Sentinel*,</b> <color=0x77ffffff><font size=10>цель <b><color=0xffffffff></font><localized hint="Interfering Phase-III Legionary">Interfering Phase-III Legionary*
+[ 2023.12.04 15:09:00 ] (notify) Корабль останавливается
+[ 2023.12.04 15:09:07 ] (combat) <color=0xffffffff><b>Попытка варп-глушения:</b> <color=0x77ffffff><font size=10>источник</font> <color=0xffffffff><b><localized hint="Агрей Тиран">Agreus Tyrannos*,</b> <color=0x77ffffff><font size=10>цель <b><color=0xffffffff></font><localized hint="Vexing Phase-III Legionary">Vexing Phase-III Legionary*
+[ 2023.12.04 15:09:22 ] (combat) <color=0xffffffff><b>Попытка варп-глушения:</b> <color=0x77ffffff><font size=10>источник</font> <color=0xffffffff><b><localized hint="Агрей Тиран">Agreus Tyrannos*,</b> <color=0x77ffffff><font size=10>цель <b><color=0xffffffff></font><localized hint="Interfering Phase-IV Legionary">Interfering Phase-IV Legionary*
+[ 2023.12.04 15:09:33 ] (combat) <color=0xffffffff><b>Попытка варп-глушения:</b> <color=0x77ffffff><font size=10>источник</font> <color=0xffffffff><b><localized hint="Агрей Тиран">Agreus Tyrannos*,</b> <color=0x77ffffff><font size=10>цель <b><color=0xffffffff></font><localized hint="Vexing Phase-IV Legionary">Vexing Phase-IV Legionary*
+[ 2023.12.04 15:09:43 ] (combat) <color=0xffffffff><b>Попытка варп-глушения:</b> <color=0x77ffffff><font size=10>источник</font> <color=0xffffffff><b><localized hint="Aroused Hypnosian Watcher">Aroused Hypnosian Watcher*,</b> <color=0x77ffffff><font size=10>цель <b><color=0xffffffff></font><localized hint="Obstructing Phase-IV Legionary">Obstructing Phase-IV Legionary*
+[ 2023.12.04 15:09:50 ] (combat) <color=0xffffffff><b>Попытка варп-глушения:</b> <color=0x77ffffff><font size=10>источник</font> <color=0xffffffff><b><localized hint="Aroused Hypnosian Watcher">Aroused Hypnosian Watcher*,</b> <color=0x77ffffff><font size=10>цель <b><color=0xffffffff></font><localized hint="Punishing Phase-I Swarmer">Punishing Phase-I Swarmer*
+[ 2023.12.04 15:09:56 ] (combat) <color=0xffffffff><b>Попытка варп-глушения:</b> <color=0x77ffffff><font size=10>источник</font> <color=0xffffffff><b><localized hint="Aroused Hypnosian Watcher">Aroused Hypnosian Watcher*,</b> <color=0x77ffffff><font size=10>цель <b><color=0xffffffff></font><localized hint="Interfering Phase-III Legionary">Interfering Phase-III Legionary*
+[ 2023.12.04 15:10:02 ] (combat) <color=0xffffffff><b>Попытка варп-глушения:</b> <color=0x77ffffff><font size=10>источник</font> <color=0xffffffff><b><localized hint="Агрей Тиран">Agreus Tyrannos*,</b> <color=0x77ffffff><font size=10>цель <b><color=0xffffffff></font><localized hint="Interfering Phase-III Legionary">Interfering Phase-III Legionary*
+[ 2023.12.04 15:10:09 ] (combat) <color=0xffffffff><b>Попытка варп-глушения:</b> <color=0x77ffffff><font size=10>источник</font> <color=0xffffffff><b><localized hint="Aroused Hypnosian Watcher">Aroused Hypnosian Watcher*,</b> <color=0x77ffffff><font size=10>цель <b><color=0xffffffff></font><localized hint="Obstructing Phase-II Legionary">Obstructing Phase-II Legionary*
+[ 2023.12.04 15:10:17 ] (combat) <color=0xffffffff><b>Попытка варп-глушения:</b> <color=0x77ffffff><font size=10>источник</font> <color=0xffffffff><b><localized hint="Aroused Hypnosian Watcher">Aroused Hypnosian Watcher*,</b> <color=0x77ffffff><font size=10>цель <b><color=0xffffffff></font><localized hint="Interfering Phase-II Legionary">Interfering Phase-II Legionary*
+[ 2023.12.04 15:10:24 ] (combat) <color=0xffffffff><b>Попытка варп-глушения:</b> <color=0x77ffffff><font size=10>источник</font> <color=0xffffffff><b><localized hint="Aroused Hypnosian Watcher">Aroused Hypnosian Watcher*,</b> <color=0x77ffffff><font size=10>цель <b><color=0xffffffff></font><localized hint="Interfering Phase-II Legionary">Interfering Phase-II Legionary*
+[ 2023.12.04 15:10:24 ] (combat) <color=0xffffffff><b>Попытка варп-глушения:</b> <color=0x77ffffff><font size=10>источник</font> <color=0xffffffff><b><localized hint="Faded Hypnosian Watcher">Faded Hypnosian Watcher*,</b> <color=0x77ffffff><font size=10>цель <b><color=0xffffffff></font><localized hint="Interfering Phase-II Legionary">Interfering Phase-II Legionary*
+[ 2023.12.04 15:11:05 ] (notify) Корабль останавливается
+[ 2023.12.04 15:11:54 ] (notify) Корабль останавливается
+[ 2023.12.04 15:15:38 ] (notify) Груз слишком далеко. Корабль автоматически приближается к грузу.
+[ 2023.12.04 15:15:46 ] (notify) Груз слишком далеко. Корабль автоматически приближается к грузу.
+[ 2023.12.04 15:16:03 ] (notify) Груз слишком далеко. Корабль автоматически приближается к грузу.
+[ 2023.12.04 15:16:49 ] (combat) Faded Hypnosian Preserver*: промах мимо вашего корабля
+[ 2023.12.04 15:16:49 ] (combat) Aroused Hypnosian Watcher*: промах мимо вашего корабля
+[ 2023.12.04 15:16:49 ] (combat) Faded Hypnosian Agonizer*: промах мимо вашего корабля
+[ 2023.12.04 15:16:49 ] (combat) Faded Hypnosian Watcher*: промах мимо вашего корабля
+[ 2023.12.04 15:16:49 ] (notify) Корабль останавливается
+[ 2023.12.04 15:16:51 ] (combat) Aroused Hypnosian Avenger*: промах мимо вашего корабля
+[ 2023.12.04 15:16:51 ] (combat) <localized hint="Агрей Тиран">Agreus Tyrannos*: промах мимо вашего корабля
+[ 2023.12.04 15:16:54 ] (combat) Faded Hypnosian Preserver*: промах мимо вашего корабля
+[ 2023.12.04 15:16:54 ] (combat) Faded Hypnosian Agonizer*: промах мимо вашего корабля
+[ 2023.12.04 15:16:54 ] (combat) Faded Hypnosian Watcher*: промах мимо вашего корабля
+[ 2023.12.04 15:16:54 ] (combat) Aroused Hypnosian Watcher*: промах мимо вашего корабля
+[ 2023.12.04 15:16:56 ] (combat) <localized hint="Агрей Тиран">Agreus Tyrannos*: промах мимо вашего корабля
+[ 2023.12.04 15:16:56 ] (combat) Aroused Hypnosian Avenger*: промах мимо вашего корабля
+[ 2023.12.04 15:16:56 ] (combat) <color=0xffcc0000><b>419</b> <color=0x77ffffff><font size=10>из</font> <b><color=0xffffffff><localized hint="Aroused Hypnosian Sentinel">Aroused Hypnosian Sentinel*</b><font size=10><color=0x77ffffff> - Царапнул
+[ 2023.12.04 15:16:56 ] (combat) <color=0xffcc0000><b>272</b> <color=0x77ffffff><font size=10>из</font> <b><color=0xffffffff><localized hint="Aroused Hypnosian Psychopomp">Aroused Hypnosian Psychopomp*</b><font size=10><color=0x77ffffff> - Попал
+[ 2023.12.04 15:16:59 ] (combat) Faded Hypnosian Preserver*: промах мимо вашего корабля
+[ 2023.12.04 15:16:59 ] (combat) Faded Hypnosian Agonizer*: промах мимо вашего корабля
+[ 2023.12.04 15:16:59 ] (combat) Faded Hypnosian Watcher*: промах мимо вашего корабля
+[ 2023.12.04 15:16:59 ] (combat) Aroused Hypnosian Watcher*: промах мимо вашего корабля
+[ 2023.12.04 15:17:16 ] (notify) Эта команда будет доступна лишь после выхода из варп-режима.
+[ 2023.12.04 15:17:33 ] (combat) Faded Hypnosian Preserver*: промах мимо вашего корабля
+[ 2023.12.04 15:17:33 ] (combat) Aroused Hypnosian Watcher*: промах мимо вашего корабля
+[ 2023.12.04 15:17:33 ] (combat) Faded Hypnosian Agonizer*: промах мимо вашего корабля
+[ 2023.12.04 15:17:33 ] (combat) Faded Hypnosian Watcher*: промах мимо вашего корабля
+[ 2023.12.04 15:17:37 ] (combat) Aroused Hypnosian Avenger*: промах мимо вашего корабля
+[ 2023.12.04 15:17:37 ] (combat) <localized hint="Агрей Тиран">Agreus Tyrannos*: промах мимо вашего корабля
+[ 2023.12.04 15:17:38 ] (combat) Faded Hypnosian Preserver*: промах мимо вашего корабля
+[ 2023.12.04 15:17:38 ] (combat) Faded Hypnosian Agonizer*: промах мимо вашего корабля
+[ 2023.12.04 15:17:38 ] (combat) Faded Hypnosian Watcher*: промах мимо вашего корабля
+[ 2023.12.04 15:17:38 ] (combat) Aroused Hypnosian Watcher*: промах мимо вашего корабля
+[ 2023.12.04 15:18:55 ] (notify) Корабль останавливается
+[ 2023.12.04 15:18:55 ] (notify) Эта команда будет доступна лишь после выхода из варп-режима.
