@@ -564,3 +564,9 @@
 2023-12-12 22:34:16.045    app     info:    [server-manager] Finished refresh cycle for Tranquility
 2023-12-12 22:35:03.574    app     info:    [self-update] Checking for a launcher update...
 2023-12-12 22:35:03.888    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-12 22:37:22.200    app     info:    [creatives] Requesting creatives
+2023-12-12 22:37:22.318    app     info:    [creatives] Received 3 creatives
+2023-12-12 22:37:23.769    app     info:    [main-window] Main window minimized to tray    { windowId: 2 }
+2023-12-12 22:37:23.791    app     info:    [main-window] Sent notification that the application is minimized to tray    { windowId: 2 }
+2023-12-12 22:37:23.798    app     info:    [ipc-requests] Handling requests in the background
+2023-12-12 22:37:24.812    app     info:    [ipc-requests] No longer handling requests in the background
