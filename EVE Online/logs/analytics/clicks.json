@@ -1,124 +1,12 @@
 [
   {
     "window": {
-      "width": 1400,
-      "height": 1080
-    },
-    "click": {
-      "x": 690,
-      "y": 896,
-      "tagName": "DIV",
-      "id": "root",
-      "className": "",
-      "innerText": ""
-    }
-  },
-  {
-    "window": {
-      "width": 1400,
-      "height": 1080
-    },
-    "click": {
-      "x": 946,
-      "y": 395,
-      "tagName": "BUTTON",
-      "id": "",
-      "className": "mantine-UnstyledButton-root mantine-Button-root ___ref-play-button-the-button mantine-fnk0ba",
-      "innerText": "PLAY NOW"
-    }
-  },
-  {
-    "window": {
-      "width": 1400,
-      "height": 1080
-    },
-    "click": {
-      "x": 931,
-      "y": 408,
-      "tagName": "BUTTON",
-      "id": "",
-      "className": "mantine-UnstyledButton-root mantine-Button-root ___ref-play-button-the-button mantine-fnk0ba",
-      "innerText": "PLAY NOW"
-    }
-  },
-  {
-    "window": {
-      "width": 1400,
-      "height": 1080
-    },
-    "click": {
-      "x": 493,
-      "y": 781,
-      "tagName": "DIV",
-      "id": "root",
-      "className": "",
-      "innerText": ""
-    }
-  },
-  {
-    "window": {
-      "width": 1400,
-      "height": 1080
-    },
-    "click": {
-      "x": 479,
-      "y": 643,
-      "tagName": "DIV",
-      "id": "root",
-      "className": "",
-      "innerText": ""
-    }
-  },
-  {
-    "window": {
-      "width": 1400,
-      "height": 1080
-    },
-    "click": {
-      "x": 928,
-      "y": 416,
-      "tagName": "BUTTON",
-      "id": "",
-      "className": "mantine-UnstyledButton-root mantine-Button-root ___ref-play-button-the-button mantine-fnk0ba",
-      "innerText": "PLAY NOW"
-    }
-  },
-  {
-    "window": {
-      "width": 1400,
-      "height": 1080
-    },
-    "click": {
-      "x": 556,
-      "y": 881,
-      "tagName": "DIV",
-      "id": "root",
-      "className": "",
-      "innerText": ""
-    }
-  },
-  {
-    "window": {
-      "width": 1400,
-      "height": 1080
-    },
-    "click": {
-      "x": 474,
-      "y": 734,
-      "tagName": "DIV",
-      "id": "root",
-      "className": "",
-      "innerText": ""
-    }
-  },
-  {
-    "window": {
       "width": 1412,
       "height": 1080
     },
     "click": {
-      "x": 979,
-      "y": 413,
+      "x": 983,
+      "y": 397,
       "tagName": "BUTTON",
       "id": "",
       "className": "mantine-UnstyledButton-root mantine-Button-root ___ref-play-button-the-button mantine-fnk0ba",
@@ -131,8 +19,8 @@
       "height": 1080
     },
     "click": {
-      "x": 472,
-      "y": 645,
+      "x": 484,
+      "y": 433,
       "tagName": "DIV",
       "id": "root",
       "className": "",
@@ -145,22 +33,8 @@
       "height": 1080
     },
     "click": {
-      "x": 945,
-      "y": 399,
-      "tagName": "BUTTON",
-      "id": "",
-      "className": "mantine-UnstyledButton-root mantine-Button-root ___ref-play-button-the-button mantine-fnk0ba",
-      "innerText": "PLAY NOW"
-    }
-  },
-  {
-    "window": {
-      "width": 1412,
-      "height": 1080
-    },
-    "click": {
-      "x": 526,
-      "y": 552,
+      "x": 571,
+      "y": 571,
       "tagName": "DIV",
       "id": "root",
       "className": "",
@@ -173,8 +47,8 @@
       "height": 1080
     },
     "click": {
-      "x": 563,
-      "y": 253,
+      "x": 561,
+      "y": 345,
       "tagName": "DIV",
       "id": "root",
       "className": "",
@@ -187,8 +61,8 @@
       "height": 1080
     },
     "click": {
-      "x": 481,
-      "y": 246,
+      "x": 601,
+      "y": 636,
       "tagName": "DIV",
       "id": "root",
       "className": "",
@@ -201,22 +75,8 @@
       "height": 1080
     },
     "click": {
-      "x": 1011,
-      "y": 406,
-      "tagName": "BUTTON",
-      "id": "",
-      "className": "mantine-UnstyledButton-root mantine-Button-root ___ref-play-button-the-button mantine-fnk0ba",
-      "innerText": "PLAY NOW"
-    }
-  },
-  {
-    "window": {
-      "width": 1412,
-      "height": 1080
-    },
-    "click": {
-      "x": 545,
-      "y": 878,
+      "x": 641,
+      "y": 651,
       "tagName": "DIV",
       "id": "root",
       "className": "",
@@ -229,8 +89,8 @@
       "height": 1080
     },
     "click": {
-      "x": 459,
-      "y": 735,
+      "x": 594,
+      "y": 614,
       "tagName": "DIV",
       "id": "root",
       "className": "",
@@ -243,22 +103,8 @@
       "height": 1080
     },
     "click": {
-      "x": 891,
-      "y": 419,
-      "tagName": "BUTTON",
-      "id": "",
-      "className": "mantine-UnstyledButton-root mantine-Button-root ___ref-play-button-the-button mantine-fnk0ba",
-      "innerText": "PLAY NOW"
-    }
-  },
-  {
-    "window": {
-      "width": 1412,
-      "height": 1080
-    },
-    "click": {
-      "x": 538,
-      "y": 258,
+      "x": 584,
+      "y": 718,
       "tagName": "DIV",
       "id": "root",
       "className": "",
@@ -271,8 +117,8 @@
       "height": 1080
     },
     "click": {
-      "x": 479,
-      "y": 254,
+      "x": 576,
+      "y": 784,
       "tagName": "DIV",
       "id": "root",
       "className": "",
@@ -285,138 +131,12 @@
       "height": 1080
     },
     "click": {
-      "x": 945,
-      "y": 393,
-      "tagName": "BUTTON",
-      "id": "",
-      "className": "mantine-UnstyledButton-root mantine-Button-root ___ref-play-button-the-button mantine-fnk0ba",
-      "innerText": "PLAY NOW"
-    }
-  },
-  {
-    "window": {
-      "width": 1412,
-      "height": 1080
-    },
-    "click": {
-      "x": 475,
-      "y": 742,
+      "x": 1056,
+      "y": 936,
       "tagName": "DIV",
       "id": "root",
       "className": "",
       "innerText": ""
-    }
-  },
-  {
-    "window": {
-      "width": 1412,
-      "height": 1080
-    },
-    "click": {
-      "x": 998,
-      "y": 406,
-      "tagName": "BUTTON",
-      "id": "",
-      "className": "mantine-UnstyledButton-root mantine-Button-root ___ref-play-button-the-button mantine-fnk0ba",
-      "innerText": "PLAY NOW"
-    }
-  },
-  {
-    "window": {
-      "width": 1412,
-      "height": 1080
-    },
-    "click": {
-      "x": 574,
-      "y": 335,
-      "tagName": "DIV",
-      "id": "root",
-      "className": "",
-      "innerText": ""
-    }
-  },
-  {
-    "window": {
-      "width": 1412,
-      "height": 1080
-    },
-    "click": {
-      "x": 442,
-      "y": 414,
-      "tagName": "DIV",
-      "id": "root",
-      "className": "",
-      "innerText": ""
-    }
-  },
-  {
-    "window": {
-      "width": 1412,
-      "height": 1080
-    },
-    "click": {
-      "x": 969,
-      "y": 400,
-      "tagName": "BUTTON",
-      "id": "",
-      "className": "mantine-UnstyledButton-root mantine-Button-root ___ref-play-button-the-button mantine-fnk0ba",
-      "innerText": "PLAY NOW"
-    }
-  },
-  {
-    "window": {
-      "width": 1412,
-      "height": 1080
-    },
-    "click": {
-      "x": 491,
-      "y": 246,
-      "tagName": "DIV",
-      "id": "root",
-      "className": "",
-      "innerText": ""
-    }
-  },
-  {
-    "window": {
-      "width": 1412,
-      "height": 1080
-    },
-    "click": {
-      "x": 959,
-      "y": 403,
-      "tagName": "BUTTON",
-      "id": "",
-      "className": "mantine-UnstyledButton-root mantine-Button-root ___ref-play-button-the-button mantine-fnk0ba",
-      "innerText": "PLAY NOW"
-    }
-  },
-  {
-    "window": {
-      "width": 1412,
-      "height": 1080
-    },
-    "click": {
-      "x": 475,
-      "y": 742,
-      "tagName": "DIV",
-      "id": "root",
-      "className": "",
-      "innerText": ""
-    }
-  },
-  {
-    "window": {
-      "width": 1412,
-      "height": 1080
-    },
-    "click": {
-      "x": 911,
-      "y": 398,
-      "tagName": "BUTTON",
-      "id": "",
-      "className": "mantine-UnstyledButton-root mantine-Button-root ___ref-play-button-the-button mantine-fnk0ba",
-      "innerText": "PLAY NOW"
     }
   }
 ]
