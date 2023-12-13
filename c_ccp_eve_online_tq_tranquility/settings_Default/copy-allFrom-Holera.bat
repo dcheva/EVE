@@ -25,16 +25,3 @@ copy core_char_2121853336.dat core_char_2121178396.dat /Y
 copy core_char_2121853336.dat core_char_2121853336.dat /Y
 copy core_char_2121853336.dat core_char_2121878074.dat /Y
 copy core_char_2121853336.dat core_char_2121891348.dat /Y
-
-copy core_user_29280260.dat core_user_2110311.dat /Y
-copy core_user_29280260.dat core_user_16492377.dat /Y
-copy core_user_29280260.dat core_user_17525312.dat /Y
-copy core_user_29280260.dat core_user_18000247.dat /Y
-copy core_user_29280260.dat core_user_18034259.dat /Y
-copy core_user_29280260.dat core_user_18922386.dat /Y
-copy core_user_29280260.dat core_user_23622903.dat /Y
-copy core_user_29280260.dat core_user_25218835.dat /Y
-copy core_user_29280260.dat core_user_26239201.dat /Y
-copy core_user_29280260.dat core_user_28182799.dat /Y
-copy core_user_29280260.dat core_user_29280260.dat /Y
-copy core_user_29280260.dat core_user_29285645.dat /Y
