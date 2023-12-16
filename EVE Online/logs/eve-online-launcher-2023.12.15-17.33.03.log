@@ -749,3 +749,8 @@
 2023-12-15 23:15:06.001    app     info:    [server-manager] Finished refresh cycle for Tranquility
 2023-12-15 23:18:26.378    app     info:    [self-update] Checking for a launcher update...
 2023-12-15 23:18:26.645    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-15 23:20:06.006    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2023-12-15 23:20:06.189    app     info:    [server-manager] Previous Tranquility build: 2452938, current build: 2452938
+2023-12-15 23:20:06.189    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-15 23:20:06.193    app     info:    [server-manager] Ready to play!
+2023-12-15 23:20:06.196    app     info:    [server-manager] Finished refresh cycle for Tranquility
