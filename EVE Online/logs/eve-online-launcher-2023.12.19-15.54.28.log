@@ -489,3 +489,11 @@
 2023-12-19 18:49:37.485    app     info:    [server-manager] Tranquility build is unchanged.
 2023-12-19 18:49:37.492    app     info:    [server-manager] Ready to play!
 2023-12-19 18:49:37.495    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-19 18:54:18.456    app     info:    [tray] Quitting application from tray
+2023-12-19 18:54:18.458    app     info:    Application quitting. Cleanup needed: true
+2023-12-19 18:54:18.460    app     info:    [elg-events] Sending event    eve_launcher.electron.application.LauncherShutdown
+2023-12-19 18:54:18.461    app     info:    app.quit called, but we are still sending ELG events.
+2023-12-19 18:54:20.469    app     info:    [elg-events] Launcher is quitting, ELG could not send 1 events because of timeout
+2023-12-19 18:54:20.469    app     info:    ELG stream closed, quitting.
+2023-12-19 18:54:20.470    app     info:    [main-window] Main window closing    { windowId: 2 }
+2023-12-19 18:54:20.478    app     info:    Application closed    0
