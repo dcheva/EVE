@@ -2683,21 +2683,26 @@
 		<fitting name="Merlin PvE 4m">
 			<description value=""/>
 			<shipType value="&lt;localized hint=&quot;Merlin&quot;&gt;Merlin*&lt;/localized&gt;"/>
-			<hardware slot="low slot 0" type="&lt;localized hint=&quot;IFFA Compact Damage Control&quot;&gt;IFFA Compact Damage Control*&lt;/localized&gt;"/>
 			<hardware slot="med slot 0" type="&lt;localized hint=&quot;5MN Y-T8 Compact Microwarpdrive&quot;&gt;5MN Y-T8 Compact Microwarpdrive*&lt;/localized&gt;"/>
-			<hardware slot="med slot 3" type="&lt;localized hint=&quot;Optical Compact Tracking Computer&quot;&gt;Optical Compact Tracking Computer*&lt;/localized&gt;"/>
-			<hardware slot="low slot 1" type="&lt;localized hint=&quot;Fourier Compact Tracking Enhancer&quot;&gt;Fourier Compact Tracking Enhancer*&lt;/localized&gt;"/>
 			<hardware slot="hi slot 0" type="&lt;localized hint=&quot;150mm Compressed Coil Gun I&quot;&gt;150mm Compressed Coil Gun I*&lt;/localized&gt;"/>
+			<hardware slot="rig slot 0" type="&lt;localized hint=&quot;Small EM Shield Reinforcer I&quot;&gt;Small EM Shield Reinforcer I*&lt;/localized&gt;"/>
+			<hardware slot="med slot 2" type="&lt;localized hint=&quot;Small Azeotropic Restrained Shield Extender&quot;&gt;Small Azeotropic Restrained Shield Extender*&lt;/localized&gt;"/>
+			<hardware slot="low slot 2" type="&lt;localized hint=&quot;Magnetic Field Stabilizer I&quot;&gt;Magnetic Field Stabilizer I*&lt;/localized&gt;"/>
+			<hardware slot="low slot 0" type="&lt;localized hint=&quot;Damage Control I&quot;&gt;Damage Control I*&lt;/localized&gt;"/>
+			<hardware slot="rig slot 1" type="&lt;localized hint=&quot;Small Thermal Shield Reinforcer I&quot;&gt;Small Thermal Shield Reinforcer I*&lt;/localized&gt;"/>
 			<hardware slot="hi slot 1" type="&lt;localized hint=&quot;150mm Compressed Coil Gun I&quot;&gt;150mm Compressed Coil Gun I*&lt;/localized&gt;"/>
+			<hardware slot="med slot 1" type="&lt;localized hint=&quot;Small Azeotropic Restrained Shield Extender&quot;&gt;Small Azeotropic Restrained Shield Extender*&lt;/localized&gt;"/>
+			<hardware slot="med slot 3" type="&lt;localized hint=&quot;Optical Compact Tracking Computer&quot;&gt;Optical Compact Tracking Computer*&lt;/localized&gt;"/>
+			<hardware slot="rig slot 2" type="&lt;localized hint=&quot;Small Capacitor Control Circuit I&quot;&gt;Small Capacitor Control Circuit I*&lt;/localized&gt;"/>
+			<hardware slot="low slot 1" type="&lt;localized hint=&quot;Magnetic Field Stabilizer I&quot;&gt;Magnetic Field Stabilizer I*&lt;/localized&gt;"/>
 			<hardware slot="hi slot 2" type="&lt;localized hint=&quot;150mm Compressed Coil Gun I&quot;&gt;150mm Compressed Coil Gun I*&lt;/localized&gt;"/>
-			<hardware slot="med slot 1" type="&lt;localized hint=&quot;Small F-S9 Regolith Compact Shield Extender&quot;&gt;Small F-S9 Regolith Compact Shield Extender*&lt;/localized&gt;"/>
-			<hardware slot="med slot 2" type="&lt;localized hint=&quot;Small F-S9 Regolith Compact Shield Extender&quot;&gt;Small F-S9 Regolith Compact Shield Extender*&lt;/localized&gt;"/>
-			<hardware slot="low slot 2" type="&lt;localized hint=&quot;Vortex Compact Magnetic Field Stabilizer&quot;&gt;Vortex Compact Magnetic Field Stabilizer*&lt;/localized&gt;"/>
 			<hardware qty="1" slot="cargo" type="&lt;localized hint=&quot;Optimal Range Script&quot;&gt;Optimal Range Script*&lt;/localized&gt;"/>
 			<hardware qty="1" slot="cargo" type="&lt;localized hint=&quot;Tracking Speed Script&quot;&gt;Tracking Speed Script*&lt;/localized&gt;"/>
-			<hardware slot="rig slot 0" type="&lt;localized hint=&quot;Small Capacitor Control Circuit I&quot;&gt;Small Capacitor Control Circuit I*&lt;/localized&gt;"/>
-			<hardware slot="rig slot 2" type="&lt;localized hint=&quot;Small EM Shield Reinforcer I&quot;&gt;Small EM Shield Reinforcer I*&lt;/localized&gt;"/>
-			<hardware slot="rig slot 1" type="&lt;localized hint=&quot;Small Core Defense Operational Solidifier I&quot;&gt;Small Core Defense Operational Solidifier I*&lt;/localized&gt;"/>
+			<hardware qty="2000" slot="cargo" type="&lt;localized hint=&quot;Federation Navy Antimatter Charge S&quot;&gt;Federation Navy Antimatter Charge S*&lt;/localized&gt;"/>
+			<hardware qty="5000" slot="cargo" type="&lt;localized hint=&quot;Lead Charge S&quot;&gt;Lead Charge S*&lt;/localized&gt;"/>
+			<hardware qty="20" slot="cargo" type="&lt;localized hint=&quot;Nanite Repair Paste&quot;&gt;Nanite Repair Paste*&lt;/localized&gt;"/>
+			<hardware qty="2000" slot="cargo" type="&lt;localized hint=&quot;Federation Navy Iron Charge S&quot;&gt;Federation Navy Iron Charge S*&lt;/localized&gt;"/>
+			<hardware qty="1" slot="cargo" type="&lt;localized hint=&quot;Fourier Compact Tracking Enhancer&quot;&gt;Fourier Compact Tracking Enhancer*&lt;/localized&gt;"/>
 		</fitting>
 		<fitting name="Merlin PvP - ДД + перехват ArimPro">
 			<description value=""/>
@@ -2716,6 +2721,29 @@
 			<hardware slot="rig slot 2" type="&lt;localized hint=&quot;Small Processor Overclocking Unit I&quot;&gt;Small Processor Overclocking Unit I*&lt;/localized&gt;"/>
 			<hardware slot="rig slot 0" type="&lt;localized hint=&quot;Small Core Defense Operational Solidifier I&quot;&gt;Small Core Defense Operational Solidifier I*&lt;/localized&gt;"/>
 			<hardware slot="rig slot 1" type="&lt;localized hint=&quot;Small Core Defense Operational Solidifier I&quot;&gt;Small Core Defense Operational Solidifier I*&lt;/localized&gt;"/>
+		</fitting>
+		<fitting name="Merlin SoE Arc 1 2m">
+			<description value=""/>
+			<shipType value="&lt;localized hint=&quot;Merlin&quot;&gt;Merlin*&lt;/localized&gt;"/>
+			<hardware qty="10000" slot="cargo" type="&lt;localized hint=&quot;Iron Charge S&quot;&gt;Iron Charge S*&lt;/localized&gt;"/>
+			<hardware qty="10000" slot="cargo" type="&lt;localized hint=&quot;Lead Charge S&quot;&gt;Lead Charge S*&lt;/localized&gt;"/>
+			<hardware qty="10000" slot="cargo" type="&lt;localized hint=&quot;Antimatter Charge S&quot;&gt;Antimatter Charge S*&lt;/localized&gt;"/>
+			<hardware slot="low slot 0" type="&lt;localized hint=&quot;Damage Control I&quot;&gt;Damage Control I*&lt;/localized&gt;"/>
+			<hardware slot="med slot 0" type="&lt;localized hint=&quot;5MN Y-T8 Compact Microwarpdrive&quot;&gt;5MN Y-T8 Compact Microwarpdrive*&lt;/localized&gt;"/>
+			<hardware slot="med slot 3" type="&lt;localized hint=&quot;Optical Compact Tracking Computer&quot;&gt;Optical Compact Tracking Computer*&lt;/localized&gt;"/>
+			<hardware qty="1" slot="cargo" type="&lt;localized hint=&quot;Fourier Compact Tracking Enhancer&quot;&gt;Fourier Compact Tracking Enhancer*&lt;/localized&gt;"/>
+			<hardware slot="hi slot 0" type="&lt;localized hint=&quot;150mm Compressed Coil Gun I&quot;&gt;150mm Compressed Coil Gun I*&lt;/localized&gt;"/>
+			<hardware slot="hi slot 1" type="&lt;localized hint=&quot;150mm Compressed Coil Gun I&quot;&gt;150mm Compressed Coil Gun I*&lt;/localized&gt;"/>
+			<hardware slot="hi slot 2" type="&lt;localized hint=&quot;150mm Compressed Coil Gun I&quot;&gt;150mm Compressed Coil Gun I*&lt;/localized&gt;"/>
+			<hardware slot="med slot 1" type="&lt;localized hint=&quot;Small Azeotropic Restrained Shield Extender&quot;&gt;Small Azeotropic Restrained Shield Extender*&lt;/localized&gt;"/>
+			<hardware slot="med slot 2" type="&lt;localized hint=&quot;Small Azeotropic Restrained Shield Extender&quot;&gt;Small Azeotropic Restrained Shield Extender*&lt;/localized&gt;"/>
+			<hardware slot="low slot 1" type="&lt;localized hint=&quot;Magnetic Field Stabilizer I&quot;&gt;Magnetic Field Stabilizer I*&lt;/localized&gt;"/>
+			<hardware slot="low slot 2" type="&lt;localized hint=&quot;Magnetic Field Stabilizer I&quot;&gt;Magnetic Field Stabilizer I*&lt;/localized&gt;"/>
+			<hardware qty="1" slot="cargo" type="&lt;localized hint=&quot;Optimal Range Script&quot;&gt;Optimal Range Script*&lt;/localized&gt;"/>
+			<hardware qty="1" slot="cargo" type="&lt;localized hint=&quot;Tracking Speed Script&quot;&gt;Tracking Speed Script*&lt;/localized&gt;"/>
+			<hardware slot="rig slot 2" type="&lt;localized hint=&quot;Small Capacitor Control Circuit I&quot;&gt;Small Capacitor Control Circuit I*&lt;/localized&gt;"/>
+			<hardware slot="rig slot 0" type="&lt;localized hint=&quot;Small EM Shield Reinforcer I&quot;&gt;Small EM Shield Reinforcer I*&lt;/localized&gt;"/>
+			<hardware slot="rig slot 1" type="&lt;localized hint=&quot;Small Thermal Shield Reinforcer I&quot;&gt;Small Thermal Shield Reinforcer I*&lt;/localized&gt;"/>
 		</fitting>
 		<fitting name="Miasmos - руда">
 			<description value=""/>
@@ -3965,37 +3993,6 @@
 		<fitting name="Subrat 80C Explorer">
 			<description value=""/>
 			<shipType value="&lt;localized hint=&quot;Corax&quot;&gt;Corax*&lt;/localized&gt;"/>
-			<hardware qty="12808" slot="cargo" type="&lt;localized hint=&quot;Scourge Light Missile&quot;&gt;Scourge Light Missile*&lt;/localized&gt;"/>
-			<hardware qty="100" slot="cargo" type="&lt;localized hint=&quot;Inferno Light Missile&quot;&gt;Inferno Light Missile*&lt;/localized&gt;"/>
-			<hardware qty="3684" slot="cargo" type="&lt;localized hint=&quot;Mjolnir Light Missile&quot;&gt;Mjolnir Light Missile*&lt;/localized&gt;"/>
-			<hardware qty="100" slot="cargo" type="&lt;localized hint=&quot;Nova Light Missile&quot;&gt;Nova Light Missile*&lt;/localized&gt;"/>
-			<hardware slot="med slot 0" type="&lt;localized hint=&quot;5MN Y-T8 Compact Microwarpdrive&quot;&gt;5MN Y-T8 Compact Microwarpdrive*&lt;/localized&gt;"/>
-			<hardware slot="med slot 2" type="&lt;localized hint=&quot;F-90 Compact Sensor Booster&quot;&gt;F-90 Compact Sensor Booster*&lt;/localized&gt;"/>
-			<hardware slot="med slot 3" type="&lt;localized hint=&quot;F-90 Compact Sensor Booster&quot;&gt;F-90 Compact Sensor Booster*&lt;/localized&gt;"/>
-			<hardware slot="hi slot 0" type="&lt;localized hint=&quot;Arbalest Compact Light Missile Launcher&quot;&gt;Arbalest Compact Light Missile Launcher*&lt;/localized&gt;"/>
-			<hardware slot="hi slot 1" type="&lt;localized hint=&quot;Arbalest Compact Light Missile Launcher&quot;&gt;Arbalest Compact Light Missile Launcher*&lt;/localized&gt;"/>
-			<hardware slot="hi slot 2" type="&lt;localized hint=&quot;Arbalest Compact Light Missile Launcher&quot;&gt;Arbalest Compact Light Missile Launcher*&lt;/localized&gt;"/>
-			<hardware slot="hi slot 3" type="&lt;localized hint=&quot;Arbalest Compact Light Missile Launcher&quot;&gt;Arbalest Compact Light Missile Launcher*&lt;/localized&gt;"/>
-			<hardware slot="hi slot 4" type="&lt;localized hint=&quot;Arbalest Compact Light Missile Launcher&quot;&gt;Arbalest Compact Light Missile Launcher*&lt;/localized&gt;"/>
-			<hardware slot="hi slot 5" type="&lt;localized hint=&quot;Arbalest Compact Light Missile Launcher&quot;&gt;Arbalest Compact Light Missile Launcher*&lt;/localized&gt;"/>
-			<hardware slot="low slot 0" type="&lt;localized hint=&quot;Ballistic Control System I&quot;&gt;Ballistic Control System I*&lt;/localized&gt;"/>
-			<hardware slot="low slot 1" type="&lt;localized hint=&quot;Ballistic Control System I&quot;&gt;Ballistic Control System I*&lt;/localized&gt;"/>
-			<hardware slot="hi slot 6" type="&lt;localized hint=&quot;Core Probe Launcher I&quot;&gt;Core Probe Launcher I*&lt;/localized&gt;"/>
-			<hardware qty="480" slot="cargo" type="&lt;localized hint=&quot;Caldari Navy Inferno Light Missile&quot;&gt;Caldari Navy Inferno Light Missile*&lt;/localized&gt;"/>
-			<hardware qty="1000" slot="cargo" type="&lt;localized hint=&quot;Guristas Mjolnir Light Missile&quot;&gt;Guristas Mjolnir Light Missile*&lt;/localized&gt;"/>
-			<hardware qty="240" slot="cargo" type="&lt;localized hint=&quot;Caldari Navy Mjolnir Light Missile&quot;&gt;Caldari Navy Mjolnir Light Missile*&lt;/localized&gt;"/>
-			<hardware qty="3" slot="cargo" type="&lt;localized hint=&quot;Targeting Range Script&quot;&gt;Targeting Range Script*&lt;/localized&gt;"/>
-			<hardware qty="3" slot="cargo" type="&lt;localized hint=&quot;Scan Resolution Script&quot;&gt;Scan Resolution Script*&lt;/localized&gt;"/>
-			<hardware qty="8" slot="cargo" type="&lt;localized hint=&quot;Core Scanner Probe I&quot;&gt;Core Scanner Probe I*&lt;/localized&gt;"/>
-			<hardware slot="rig slot 1" type="&lt;localized hint=&quot;Small Hydraulic Bay Thrusters I&quot;&gt;Small Hydraulic Bay Thrusters I*&lt;/localized&gt;"/>
-			<hardware slot="rig slot 2" type="&lt;localized hint=&quot;Small Hydraulic Bay Thrusters I&quot;&gt;Small Hydraulic Bay Thrusters I*&lt;/localized&gt;"/>
-			<hardware slot="rig slot 0" type="&lt;localized hint=&quot;Small Rocket Fuel Cache Partition I&quot;&gt;Small Rocket Fuel Cache Partition I*&lt;/localized&gt;"/>
-			<hardware slot="med slot 1" type="&lt;localized hint=&quot;Missile Guidance Computer I&quot;&gt;Missile Guidance Computer I*&lt;/localized&gt;"/>
-			<hardware qty="3" slot="cargo" type="&lt;localized hint=&quot;Missile Range Script&quot;&gt;Missile Range Script*&lt;/localized&gt;"/>
-		</fitting>
-		<fitting name="Subrat 80C Explorer">
-			<description value=""/>
-			<shipType value="&lt;localized hint=&quot;Corax&quot;&gt;Corax*&lt;/localized&gt;"/>
 			<hardware qty="3000" slot="cargo" type="&lt;localized hint=&quot;Scourge Light Missile&quot;&gt;Scourge Light Missile*&lt;/localized&gt;"/>
 			<hardware qty="3000" slot="cargo" type="&lt;localized hint=&quot;Inferno Light Missile&quot;&gt;Inferno Light Missile*&lt;/localized&gt;"/>
 			<hardware qty="3000" slot="cargo" type="&lt;localized hint=&quot;Mjolnir Light Missile&quot;&gt;Mjolnir Light Missile*&lt;/localized&gt;"/>
@@ -4019,6 +4016,37 @@
 			<hardware qty="4" slot="cargo" type="&lt;localized hint=&quot;Targeting Range Script&quot;&gt;Targeting Range Script*&lt;/localized&gt;"/>
 			<hardware qty="4" slot="cargo" type="&lt;localized hint=&quot;Scan Resolution Script&quot;&gt;Scan Resolution Script*&lt;/localized&gt;"/>
 			<hardware qty="16" slot="cargo" type="&lt;localized hint=&quot;Core Scanner Probe I&quot;&gt;Core Scanner Probe I*&lt;/localized&gt;"/>
+			<hardware slot="rig slot 1" type="&lt;localized hint=&quot;Small Hydraulic Bay Thrusters I&quot;&gt;Small Hydraulic Bay Thrusters I*&lt;/localized&gt;"/>
+			<hardware slot="rig slot 2" type="&lt;localized hint=&quot;Small Hydraulic Bay Thrusters I&quot;&gt;Small Hydraulic Bay Thrusters I*&lt;/localized&gt;"/>
+			<hardware slot="rig slot 0" type="&lt;localized hint=&quot;Small Rocket Fuel Cache Partition I&quot;&gt;Small Rocket Fuel Cache Partition I*&lt;/localized&gt;"/>
+			<hardware slot="med slot 1" type="&lt;localized hint=&quot;Missile Guidance Computer I&quot;&gt;Missile Guidance Computer I*&lt;/localized&gt;"/>
+			<hardware qty="3" slot="cargo" type="&lt;localized hint=&quot;Missile Range Script&quot;&gt;Missile Range Script*&lt;/localized&gt;"/>
+		</fitting>
+		<fitting name="Subrat 80C Explorer">
+			<description value=""/>
+			<shipType value="&lt;localized hint=&quot;Corax&quot;&gt;Corax*&lt;/localized&gt;"/>
+			<hardware qty="12808" slot="cargo" type="&lt;localized hint=&quot;Scourge Light Missile&quot;&gt;Scourge Light Missile*&lt;/localized&gt;"/>
+			<hardware qty="100" slot="cargo" type="&lt;localized hint=&quot;Inferno Light Missile&quot;&gt;Inferno Light Missile*&lt;/localized&gt;"/>
+			<hardware qty="3684" slot="cargo" type="&lt;localized hint=&quot;Mjolnir Light Missile&quot;&gt;Mjolnir Light Missile*&lt;/localized&gt;"/>
+			<hardware qty="100" slot="cargo" type="&lt;localized hint=&quot;Nova Light Missile&quot;&gt;Nova Light Missile*&lt;/localized&gt;"/>
+			<hardware slot="med slot 0" type="&lt;localized hint=&quot;5MN Y-T8 Compact Microwarpdrive&quot;&gt;5MN Y-T8 Compact Microwarpdrive*&lt;/localized&gt;"/>
+			<hardware slot="med slot 2" type="&lt;localized hint=&quot;F-90 Compact Sensor Booster&quot;&gt;F-90 Compact Sensor Booster*&lt;/localized&gt;"/>
+			<hardware slot="med slot 3" type="&lt;localized hint=&quot;F-90 Compact Sensor Booster&quot;&gt;F-90 Compact Sensor Booster*&lt;/localized&gt;"/>
+			<hardware slot="hi slot 0" type="&lt;localized hint=&quot;Arbalest Compact Light Missile Launcher&quot;&gt;Arbalest Compact Light Missile Launcher*&lt;/localized&gt;"/>
+			<hardware slot="hi slot 1" type="&lt;localized hint=&quot;Arbalest Compact Light Missile Launcher&quot;&gt;Arbalest Compact Light Missile Launcher*&lt;/localized&gt;"/>
+			<hardware slot="hi slot 2" type="&lt;localized hint=&quot;Arbalest Compact Light Missile Launcher&quot;&gt;Arbalest Compact Light Missile Launcher*&lt;/localized&gt;"/>
+			<hardware slot="hi slot 3" type="&lt;localized hint=&quot;Arbalest Compact Light Missile Launcher&quot;&gt;Arbalest Compact Light Missile Launcher*&lt;/localized&gt;"/>
+			<hardware slot="hi slot 4" type="&lt;localized hint=&quot;Arbalest Compact Light Missile Launcher&quot;&gt;Arbalest Compact Light Missile Launcher*&lt;/localized&gt;"/>
+			<hardware slot="hi slot 5" type="&lt;localized hint=&quot;Arbalest Compact Light Missile Launcher&quot;&gt;Arbalest Compact Light Missile Launcher*&lt;/localized&gt;"/>
+			<hardware slot="low slot 0" type="&lt;localized hint=&quot;Ballistic Control System I&quot;&gt;Ballistic Control System I*&lt;/localized&gt;"/>
+			<hardware slot="low slot 1" type="&lt;localized hint=&quot;Ballistic Control System I&quot;&gt;Ballistic Control System I*&lt;/localized&gt;"/>
+			<hardware slot="hi slot 6" type="&lt;localized hint=&quot;Core Probe Launcher I&quot;&gt;Core Probe Launcher I*&lt;/localized&gt;"/>
+			<hardware qty="480" slot="cargo" type="&lt;localized hint=&quot;Caldari Navy Inferno Light Missile&quot;&gt;Caldari Navy Inferno Light Missile*&lt;/localized&gt;"/>
+			<hardware qty="1000" slot="cargo" type="&lt;localized hint=&quot;Guristas Mjolnir Light Missile&quot;&gt;Guristas Mjolnir Light Missile*&lt;/localized&gt;"/>
+			<hardware qty="240" slot="cargo" type="&lt;localized hint=&quot;Caldari Navy Mjolnir Light Missile&quot;&gt;Caldari Navy Mjolnir Light Missile*&lt;/localized&gt;"/>
+			<hardware qty="3" slot="cargo" type="&lt;localized hint=&quot;Targeting Range Script&quot;&gt;Targeting Range Script*&lt;/localized&gt;"/>
+			<hardware qty="3" slot="cargo" type="&lt;localized hint=&quot;Scan Resolution Script&quot;&gt;Scan Resolution Script*&lt;/localized&gt;"/>
+			<hardware qty="8" slot="cargo" type="&lt;localized hint=&quot;Core Scanner Probe I&quot;&gt;Core Scanner Probe I*&lt;/localized&gt;"/>
 			<hardware slot="rig slot 1" type="&lt;localized hint=&quot;Small Hydraulic Bay Thrusters I&quot;&gt;Small Hydraulic Bay Thrusters I*&lt;/localized&gt;"/>
 			<hardware slot="rig slot 2" type="&lt;localized hint=&quot;Small Hydraulic Bay Thrusters I&quot;&gt;Small Hydraulic Bay Thrusters I*&lt;/localized&gt;"/>
 			<hardware slot="rig slot 0" type="&lt;localized hint=&quot;Small Rocket Fuel Cache Partition I&quot;&gt;Small Rocket Fuel Cache Partition I*&lt;/localized&gt;"/>

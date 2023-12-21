@@ -1,9 +1,0 @@
-2023-12-06 13:18:40.601    app     info:    Startup arguments    [ '--squirrel-updated', '1.0.2' ]
-2023-12-06 13:18:40.608    app     info:    EVE Online Launcher is already running. This instance will now be closed.
-2023-12-06 13:18:40.609    app     info:    Application quitting. Cleanup needed: true
-2023-12-06 13:18:40.614    app     info:    [elg-events] Sending event    eve_launcher.electron.application.LauncherShutdown
-2023-12-06 13:18:40.653    app     info:    [shortcuts] Shortcut 'C:\Users\Dmytro\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\CCP Games\EVE Online.lnk' updated
-2023-12-06 13:18:40.655    app     info:    Application quitting. Cleanup needed: false
-2023-12-06 13:18:40.655    app     info:    app.quit called, but cleanup has already been performed. Quitting.
-2023-12-06 13:18:40.659    app     info:    app.quit called, but we are still sending ELG events.
-2023-12-06 13:18:40.684    app     info:    [i18next] Changed language    en

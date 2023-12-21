@@ -1,51 +1,51 @@
 audio:
-  audioEnabled: [133475092766019750, 1]
-  eveampGain: [133475092854608021, 0.0]
-  evevoiceGain: [133475092854608021, 0.5072463768115942]
-  forceEnglishVoice: [133475092761778583, 1]
-  masterVolume: [133475092854608021, 0.75]
-  suppressTurret: [133475092854608021, 1]
-  uiGain: [133475092854608021, 1.0]
-  useCombatMusic: [133475092854608021, 0]
-  useOldJukeboxOverride: [133475092854608021, 0]
-  worldVolume: [133475092854608021, 0.5072463768115942]
+  audioEnabled: [133476375274208324, 1]
+  eveampGain: [133476375366103375, 0.0]
+  evevoiceGain: [133476375366103375, 0.5072463768115942]
+  forceEnglishVoice: [133476375273011622, 1]
+  masterVolume: [133476375366103375, 0.75]
+  suppressTurret: [133476375366103375, 1]
+  uiGain: [133476375366103375, 1.0]
+  useCombatMusic: [133476375366103375, 0]
+  useOldJukeboxOverride: [133476375366103375, 0]
+  worldVolume: [133476375366103375, 0.5072463768115942]
 device:
-  DeviceSettings: [133475092761778583, null]
-  FixedWindow: [133475092761778583, 0]
+  DeviceSettings: [133476375273011622, null]
+  FixedWindow: [133476375273011622, 0]
   FixedWindowSettings:
-  - 133475092793080004
+  - 133476375304402080
   - {adapter: 0, height: 1080, presentInterval: 1, width: 1920}
-  FullScreenResolution: [133475092761778583, null]
+  FullScreenResolution: [133476375273011622, null]
   FullScreenSettings:
-  - 133475092793080004
+  - 133476375304402080
   - {adapter: 0, height: 1080, presentInterval: 1, width: 1920}
-  UIScaleFullscreen: [133475092795176599, 1.0]
-  UIScaleFullscreenSetAutomatically: [133475092795176599, false]
-  UIScaleWindowed: [133475092761778583, 1.0]
-  UIScaleWindowedSetAutomatically: [133475092761778583, false]
-  WindowMode: [133475092793080004, 0]
-  WindowedResolution: [133475092761778583, null]
+  UIScaleFullscreen: [133476375306143101, 1.0]
+  UIScaleFullscreenSetAutomatically: [133476375306143101, false]
+  UIScaleWindowed: [133476375273011622, 1.0]
+  UIScaleWindowedSetAutomatically: [133476375273011622, false]
+  WindowMode: [133476375304402080, 0]
+  WindowedResolution: [133476375273011622, null]
   WindowedSettings:
-  - 133475092793080004
+  - 133476375304402080
   - {adapter: 0, height: 1057, left: 784, presentInterval: 1, showState: 1, top: 1,
     width: 1858}
-  antiAliasing: [133475092795176599, 0]
-  aoQuality: [133475092795176599, 3]
-  brightness: [133475092761778583, 1.1275510204081631]
-  charClothSimulation: [133475092761778583, 1]
-  charTextureQuality: [133475092761778583, 0]
-  dofEnabled: [133475092795176599, true]
-  fastCharacterCreation: [133475092761778583, 0]
-  fsrMode: [133475092795176599, 0]
-  lodQuality: [133475092761778583, 3]
-  postProcessingQuality: [133475092795176599, 2]
-  reflectionQuality: [133475092795176599, 3]
+  antiAliasing: [133476375306143101, 0]
+  aoQuality: [133476375306143101, 3]
+  brightness: [133476375273011622, 1.1275510204081631]
+  charClothSimulation: [133476375273011622, 1]
+  charTextureQuality: [133476375273011622, 0]
+  dofEnabled: [133476375306143101, true]
+  fastCharacterCreation: [133476375273011622, 0]
+  fsrMode: [133476375306143101, 0]
+  lodQuality: [133476375273011622, 3]
+  postProcessingQuality: [133476375306143101, 2]
+  reflectionQuality: [133476375306143101, 3]
   resourceCacheEnabled: [133034272278928005, 1]
-  shaderQuality: [133475092854608021, 2]
-  shadowQuality: [133475092795176599, 2]
-  textureQuality: [133475092761778583, 0]
-  volumetricQuality: [133475092795176599, 2]
+  shaderQuality: [133476375366103375, 2]
+  shadowQuality: [133476375306143101, 2]
+  textureQuality: [133476375273011622, 0]
+  volumetricQuality: [133476375306143101, 2]
 generic: {}
 ui:
-  __migrate_existing_font_size_settings_down_one_size__: [133475092854608021, true]
-  clientFontSize: [133475092795726877, 2]
+  __migrate_existing_font_size_settings_down_one_size__: [133476375366103375, true]
+  clientFontSize: [133476375306623448, 2]
