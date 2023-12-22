@@ -515,3 +515,1085 @@
 0d 0h 20m 08s > EveMonClient.OnCharacterListUpdated - 133464838339803886 (Lordessa)
 0d 0h 20m 08s > EveMonClient.OnESIKeyCollectionChanged
 0d 0h 20m 08s > EveMonClient.OnESIKeyInfoUpdated - 133464838339803886 (Lordessa)
+0d 0h 21m 40s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 21m 40s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 21m 40s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 21m 40s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 21m 40s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 21m 40s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 21m 40s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 21m 40s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 21m 40s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 21m 40s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 21m 42s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 21m 42s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 21m 42s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 21m 42s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 21m 42s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 21m 42s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 21m 42s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 21m 43s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 23m 40s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 23m 40s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 23m 40s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 23m 40s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 23m 40s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 23m 40s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 23m 40s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 23m 40s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 23m 40s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 23m 40s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 23m 42s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 23m 42s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 23m 42s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 23m 42s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 23m 42s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 23m 42s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 23m 42s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 23m 43s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 25m 00s > EveMonClient.OnCharacterKillLogUpdated - DeeBladina
+0d 0h 25m 00s > EveMonClient.OnCharacterKillLogUpdated - Caldarynka
+0d 0h 25m 00s > EveMonClient.OnCharacterKillLogUpdated - VeeDeeCovan
+0d 0h 25m 00s > EveMonClient.OnCharacterKillLogUpdated - Lordessa
+0d 0h 25m 00s > EveMonClient.OnCharacterKillLogUpdated - Gallenteria
+0d 0h 25m 00s > EveMonClient.OnCharacterContactsUpdated - DeeBladina
+0d 0h 25m 01s > EveMonClient.OnEveIDToNameUpdated
+0d 0h 25m 01s > EveMonClient.OnCharacterContactsUpdated - VeeDeeCovan
+0d 0h 25m 01s > EveMonClient.OnCharacterKillLogUpdated - Dee Galla
+0d 0h 25m 01s > EveMonClient.OnCharacterKillLogUpdated - Steamaha
+0d 0h 25m 01s > EveMonClient.OnCharacterContractsUpdated - Smart Eggs
+0d 0h 25m 01s > EveMonClient.OnCharacterContractsUpdated - Steamaha
+0d 0h 25m 01s > EveMonClient.OnCharacterContractsUpdated - Gallenteria
+0d 0h 25m 01s > EveMonClient.OnCharacterKillLogUpdated - Deem Matar
+0d 0h 25m 01s > EveMonClient.OnCharacterKillLogUpdated - Abyssette
+0d 0h 25m 01s > EveMonClient.OnCharacterSkillQueueUpdated - Abyssette
+0d 0h 25m 01s > EveMonClient.OnCharacterSkillQueueUpdated - Steamaha
+0d 0h 25m 01s > EveMonClient.OnCharacterContactsUpdated - Gallenteria
+0d 0h 25m 01s > EveMonClient.OnCharacterContactsUpdated - Abyssette
+0d 0h 25m 01s > EveMonClient.OnCharacterContractsUpdated - VeeDeeCovan
+0d 0h 25m 01s > EveMonClient.OnCharacterContractsUpdated - Lordessa
+0d 0h 25m 01s > EveMonClient.OnCharacterContactsUpdated - Steamaha
+0d 0h 25m 01s > EveMonClient.OnCharacterContactsUpdated - Gallentiada
+0d 0h 25m 01s > EveMonClient.OnCharacterContractsUpdated - DeeBladina
+0d 0h 25m 01s > EveMonClient.OnCharacterContractsUpdated - Dee Galla
+0d 0h 25m 01s > EveMonClient.OnCharacterSkillQueueUpdated - Dee Galla
+0d 0h 25m 01s > EveMonClient.OnCharacterKillLogUpdated - Smart Eggs
+0d 0h 25m 01s > EveMonClient.OnCharacterKillLogUpdated - Gallentiada
+0d 0h 25m 01s > EveMonClient.OnCharacterContractsUpdated - Worm Holera
+0d 0h 25m 01s > EveMonClient.OnCharacterContactsUpdated - Deem Matar
+0d 0h 25m 01s > EveMonClient.OnCharacterContactsUpdated - Caldarynka
+0d 0h 25m 01s > EveMonClient.OnCharacterSkillQueueUpdated - Gallentiada
+0d 0h 25m 01s > EveMonClient.OnCharacterSkillQueueUpdated - Deem Matar
+0d 0h 25m 01s > EveMonClient.OnCharacterContactsUpdated - Worm Holera
+0d 0h 25m 01s > EveMonClient.OnCharacterContractsUpdated - Abyssette
+0d 0h 25m 01s > EveMonClient.OnCharacterContactsUpdated - Smart Eggs
+0d 0h 25m 01s > EveMonClient.OnCharacterKillLogUpdated - Worm Holera
+0d 0h 25m 01s > EveMonClient.OnCharacterSkillQueueUpdated - DeeBladina
+0d 0h 25m 01s > EveMonClient.OnCharacterContactsUpdated - Lordessa
+0d 0h 25m 01s > EveMonClient.OnCharacterContractsUpdated - Deem Matar
+0d 0h 25m 01s > EveMonClient.OnCharacterSkillQueueUpdated - Worm Holera
+0d 0h 25m 01s > EveMonClient.OnCharacterSkillQueueUpdated - Smart Eggs
+0d 0h 25m 01s > EveMonClient.OnCharacterSkillQueueUpdated - Caldarynka
+0d 0h 25m 01s > EveMonClient.OnCharacterContractsUpdated - Caldarynka
+0d 0h 25m 01s > EveMonClient.OnNotificationSent - CPU Management V completed.
+0d 0h 25m 01s > EveMonClient.OnCharacterQueuedSkillsCompleted - Lordessa
+0d 0h 25m 01s > EveMonClient.OnCharacterSkillQueueUpdated - Lordessa
+0d 0h 25m 01s > EveMonClient.OnCharacterContractsUpdated - Gallentiada
+0d 0h 25m 01s > EveMonClient.OnCharacterContactsUpdated - Dee Galla
+0d 0h 25m 01s > EveMonClient.OnCorporationContractsUpdated - Dee Cartel
+0d 0h 25m 01s > EveMonClient.OnContractsUpdated - Gallenteria
+0d 0h 25m 01s > EveMonClient.OnCharacterSkillQueueUpdated - VeeDeeCovan
+0d 0h 25m 01s > EveMonClient.OnCharacterSkillQueueUpdated - Gallenteria
+0d 0h 25m 01s > EveMonClient.OnCorporationContractsUpdated - Dee Cartel
+0d 0h 25m 01s > EveMonClient.OnContractsUpdated - Dee Galla
+0d 0h 25m 01s > EveMonClient.OnCorporationContractsUpdated - Dee Cartel
+0d 0h 25m 01s > EveMonClient.OnContractsUpdated - Abyssette
+0d 0h 25m 01s > EveMonClient.OnCorporationIndustryJobsUpdated - DeeBladina
+0d 0h 25m 01s > EveMonClient.OnIndustryJobsUpdated - DeeBladina
+0d 0h 25m 01s > EveMonClient.OnCorporationMarketOrdersUpdated - Heirs of Holes
+0d 0h 25m 01s > EveMonClient.OnMarketOrdersUpdated - Worm Holera
+0d 0h 25m 01s > EveMonClient.OnCorporationMarketOrdersUpdated - Dee Cartel
+0d 0h 25m 01s > EveMonClient.OnMarketOrdersUpdated - DeeBladina
+0d 0h 25m 01s > EveMonClient.OnCharacterAssetsUpdated - VeeDeeCovan
+0d 0h 25m 01s > EveMonClient.OnCorporationIndustryJobsUpdated - Deem Matar
+0d 0h 25m 01s > EveMonClient.OnIndustryJobsUpdated - Deem Matar
+0d 0h 25m 01s > EveMonClient.OnCorporationContractsUpdated - Dee Cartel
+0d 0h 25m 01s > EveMonClient.OnContractsUpdated - DeeBladina
+0d 0h 25m 01s > EveMonClient.OnCorporationContractsUpdated - Heirs of Holes
+0d 0h 25m 01s > EveMonClient.OnContractsUpdated - Caldarynka
+0d 0h 25m 01s > EveMonClient.OnCorporationContractsUpdated - Dee Cartel
+0d 0h 25m 01s > EveMonClient.OnContractsUpdated - Deem Matar
+0d 0h 25m 01s > EveMonClient.OnCorporationContractsUpdated - Heirs of Holes
+0d 0h 25m 01s > EveMonClient.OnContractsUpdated - Lordessa
+0d 0h 25m 01s > EveMonClient.OnCorporationContractsUpdated - Heirs of Holes
+0d 0h 25m 01s > EveMonClient.OnContractsUpdated - Worm Holera
+0d 0h 25m 01s > EveMonClient.OnCorporationContractsUpdated - Haidamaky
+0d 0h 25m 01s > EveMonClient.OnContractsUpdated - VeeDeeCovan
+0d 0h 25m 01s > EveMonClient.OnCorporationContractsUpdated - Heirs of Holes
+0d 0h 25m 01s > EveMonClient.OnContractsUpdated - Steamaha
+0d 0h 25m 01s > EveMonClient.OnCharacterKillLogUpdated - Dee Galla
+0d 0h 25m 01s > EveMonClient.OnCorporationContractsUpdated - Heirs of Holes
+0d 0h 25m 01s > EveMonClient.OnContractsUpdated - Gallentiada
+0d 0h 25m 01s > EveMonClient.OnCorporationMarketOrdersUpdated - Dee Cartel
+0d 0h 25m 01s > EveMonClient.OnMarketOrdersUpdated - Deem Matar
+0d 0h 25m 01s > EveMonClient.OnCorporationContractsUpdated - Heirs of Holes
+0d 0h 25m 01s > EveMonClient.OnContractsUpdated - Smart Eggs
+0d 0h 25m 01s > EveMonClient.OnCharacterKillLogUpdated - Smart Eggs
+0d 0h 25m 01s > EveMonClient.OnCharacterKillLogUpdated - Worm Holera
+0d 0h 25m 01s > EveMonClient.OnCorporationIndustryJobsUpdated - Worm Holera
+0d 0h 25m 01s > EveMonClient.OnIndustryJobsUpdated - Worm Holera
+0d 0h 25m 02s > EveMonClient.OnEveIDToNameUpdated
+0d 0h 25m 02s > EveFlag.Import - begin
+0d 0h 25m 02s > EveFlag.OnDownloaded - done
+0d 0h 25m 02s > EveMonClient.OnEveFlagsUpdated
+0d 0h 25m 04s > EveMonClient.OnServerStatusUpdated
+0d 0h 25m 04s > CitadelStationProvider.FetchIDs - ESI lookup for 1039723362469 using 133463128749152987 (Abyssette)
+0d 0h 25m 04s > EveMonClient.OnCharacterWalletTransactionsUpdated - Abyssette
+0d 0h 25m 04s > EveMonClient.OnCharacterWalletTransactionsUpdated - Lordessa
+0d 0h 25m 04s > EveMonClient.OnCharacterStandingsUpdated - Caldarynka
+0d 0h 25m 04s > EveMonClient.OnCharacterStandingsUpdated - Deem Matar
+0d 0h 25m 04s > EveMonClient.OnCharacterStandingsUpdated - Gallenteria
+0d 0h 25m 04s > EveMonClient.OnCharacterStandingsUpdated - Abyssette
+0d 0h 25m 04s > EveMonClient.OnCharacterAssetsUpdated - Abyssette
+0d 0h 25m 04s > EveMonClient.OnCharacterStandingsUpdated - Lordessa
+0d 0h 25m 04s > EveMonClient.OnCharacterStandingsUpdated - VeeDeeCovan
+0d 0h 25m 04s > EveMonClient.OnCharacterStandingsUpdated - Gallentiada
+0d 0h 25m 04s > EveMonClient.OnCharacterWalletTransactionsUpdated - Steamaha
+0d 0h 25m 04s > EveMonClient.OnCharacterWalletJournalUpdated - Steamaha
+0d 0h 25m 04s > EveMonClient.OnCharacterStandingsUpdated - Dee Galla
+0d 0h 25m 04s > EveMonClient.OnCharacterStandingsUpdated - DeeBladina
+0d 0h 25m 04s > EveMonClient.OnCharacterStandingsUpdated - Steamaha
+0d 0h 25m 04s > EveMonClient.OnCharacterStandingsUpdated - Worm Holera
+0d 0h 25m 04s > EveMonClient.OnCharacterAssetsUpdated - Gallenteria
+0d 0h 25m 04s > EveMonClient.OnCharacterAssetsUpdated - Smart Eggs
+0d 0h 25m 04s > EveMonClient.OnCharacterAssetsUpdated - Caldarynka
+0d 0h 25m 04s > EveMonClient.OnCharacterStandingsUpdated - Smart Eggs
+0d 0h 25m 04s > EveMonClient.OnCharacterWalletJournalUpdated - Gallentiada
+0d 0h 25m 04s > EveMonClient.OnCharacterWalletJournalUpdated - Gallenteria
+0d 0h 25m 04s > EveMonClient.OnCharacterAssetsUpdated - Steamaha
+0d 0h 25m 04s > EveMonClient.OnCharacterWalletTransactionsUpdated - Gallenteria
+0d 0h 25m 04s > EveMonClient.OnCharacterAssetsUpdated - Lordessa
+0d 0h 25m 04s > EveMonClient.OnCharacterWalletTransactionsUpdated - Caldarynka
+0d 0h 25m 04s > EveMonClient.OnCharacterWalletJournalUpdated - Lordessa
+0d 0h 25m 04s > EveMonClient.OnCharacterAssetsUpdated - Gallentiada
+0d 0h 25m 04s > EveMonClient.OnCharacterAssetsUpdated - Dee Galla
+0d 0h 25m 04s > EveMonClient.OnCharacterWalletTransactionsUpdated - DeeBladina
+0d 0h 25m 04s > EveMonClient.OnCharacterAssetsUpdated - DeeBladina
+0d 0h 25m 04s > EveMonClient.OnCharacterWalletJournalUpdated - Smart Eggs
+0d 0h 25m 04s > EveMonClient.OnCharacterWalletTransactionsUpdated - Deem Matar
+0d 0h 25m 04s > EveMonClient.OnCharacterWalletTransactionsUpdated - Gallentiada
+0d 0h 25m 04s > EveMonClient.OnCharacterWalletTransactionsUpdated - Worm Holera
+0d 0h 25m 04s > EveMonClient.OnCharacterWalletTransactionsUpdated - Dee Galla
+0d 0h 25m 04s > EveMonClient.OnCharacterWalletTransactionsUpdated - Smart Eggs
+0d 0h 25m 04s > EveMonClient.OnCharacterWalletJournalUpdated - DeeBladina
+0d 0h 25m 04s > EveMonClient.OnCharacterWalletJournalUpdated - VeeDeeCovan
+0d 0h 25m 04s > EveMonClient.OnCharacterWalletJournalUpdated - Abyssette
+0d 0h 25m 04s > EveMonClient.OnCharacterWalletTransactionsUpdated - VeeDeeCovan
+0d 0h 25m 04s > CitadelStationProvider.FetchIDs - ESI lookup for 1029036975486 using 133459197273928343 (Worm Holera)
+0d 0h 25m 04s > EveMonClient.OnCharacterWalletJournalUpdated - Caldarynka
+0d 0h 25m 05s > CitadelStationProvider.FetchIDs - ESI lookup for 1031058135975 using 133464863970014042 (Smart Eggs)
+0d 0h 25m 05s > CitadelStationProvider.FetchIDs - ESI lookup for 1032478997930 using 133459197273928343 (Worm Holera)
+0d 0h 25m 05s > CitadelStationProvider.FetchIDs - ESI lookup for 1042508032148 using 133459197273928343 (Worm Holera)
+0d 0h 25m 05s > EveMonClient.OnConquerableStationListUpdated
+0d 0h 25m 05s > EveMonClient.OnEveIDToNameUpdated
+0d 0h 25m 05s > EveMonClient.OnCharacterAssetsUpdated - Worm Holera
+0d 0h 25m 05s > EveMonClient.OnCharacterAssetsUpdated - Deem Matar
+0d 0h 25m 05s > EveMonClient.OnCharacterWalletJournalUpdated - Deem Matar
+0d 0h 25m 06s > EveMonClient.OnCharacterWalletJournalUpdated - Dee Galla
+0d 0h 25m 08s > EveMonClient.OnCharacterWalletJournalUpdated - Worm Holera
+0d 0h 25m 41s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 25m 41s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 25m 41s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 25m 41s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 25m 41s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 25m 41s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 25m 41s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 25m 41s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 25m 41s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 25m 41s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 25m 43s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 25m 43s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 25m 43s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 25m 43s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 25m 43s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 25m 43s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 25m 43s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 25m 44s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 27m 41s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 27m 41s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 27m 41s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 27m 41s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 27m 41s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 27m 41s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 27m 41s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 27m 41s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 27m 41s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 27m 41s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 27m 43s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 27m 43s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 27m 43s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 27m 43s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 27m 43s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 27m 43s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 27m 43s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 27m 44s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 29m 42s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 29m 42s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 29m 42s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 29m 42s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 29m 42s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 29m 42s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 29m 42s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 29m 42s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 29m 42s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 29m 42s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 29m 44s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 29m 44s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 29m 44s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 29m 44s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 29m 44s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 29m 44s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 29m 44s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 29m 45s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 30m 05s > EveMonClient.OnServerStatusUpdated
+0d 0h 31m 42s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 31m 42s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 31m 42s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 31m 42s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 31m 42s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 31m 42s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 31m 42s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 31m 42s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 31m 42s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 31m 42s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 31m 44s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 31m 44s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 31m 44s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 31m 44s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 31m 44s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 31m 44s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 31m 44s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 31m 45s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 33m 43s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 33m 43s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 33m 43s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 33m 43s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 33m 43s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 33m 43s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 33m 43s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 33m 43s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 33m 43s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 33m 43s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 33m 45s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 33m 45s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 33m 45s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 33m 45s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 33m 45s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 33m 45s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 33m 45s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 33m 46s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 35m 06s > EveMonClient.OnServerStatusUpdated
+0d 0h 35m 43s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 35m 43s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 35m 43s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 35m 43s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 35m 43s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 35m 43s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 35m 43s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 35m 43s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 35m 43s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 35m 43s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 35m 45s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 35m 45s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 35m 45s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 35m 45s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 35m 45s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 35m 45s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 35m 45s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 35m 46s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 37m 44s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 37m 44s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 37m 44s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 37m 44s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 37m 44s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 37m 44s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 37m 44s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 37m 44s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 37m 44s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 37m 44s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 37m 46s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 37m 46s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 37m 46s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 37m 46s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 37m 46s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 37m 46s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 37m 46s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 37m 47s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 39m 44s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 39m 44s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 39m 44s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 39m 44s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 39m 44s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 39m 44s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 39m 44s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 39m 44s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 39m 44s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 39m 44s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 39m 46s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 39m 46s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 39m 46s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 39m 46s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 39m 46s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 39m 46s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 39m 46s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 39m 47s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 40m 07s > EveMonClient.OnServerStatusUpdated
+0d 0h 40m 07s > EveMonClient.OnCharacterUpdated - Deem Matar
+0d 0h 40m 07s > EveMonClient.OnCharacterListUpdated - 133456443912618197 (Deem Matar)
+0d 0h 40m 07s > EveMonClient.OnESIKeyCollectionChanged
+0d 0h 40m 07s > EveMonClient.OnESIKeyInfoUpdated - 133456443912618197 (Deem Matar)
+0d 0h 40m 07s > EveMonClient.OnCharacterUpdated - Abyssette
+0d 0h 40m 07s > EveMonClient.OnCharacterListUpdated - 133463128749152987 (Abyssette)
+0d 0h 40m 07s > EveMonClient.OnESIKeyCollectionChanged
+0d 0h 40m 07s > EveMonClient.OnESIKeyInfoUpdated - 133463128749152987 (Abyssette)
+0d 0h 40m 07s > EveMonClient.OnCharacterUpdated - Smart Eggs
+0d 0h 40m 07s > EveMonClient.OnCharacterListUpdated - 133464863970014042 (Smart Eggs)
+0d 0h 40m 07s > EveMonClient.OnESIKeyCollectionChanged
+0d 0h 40m 07s > EveMonClient.OnESIKeyInfoUpdated - 133464863970014042 (Smart Eggs)
+0d 0h 40m 07s > EveMonClient.OnCharacterUpdated - Gallentiada
+0d 0h 40m 07s > EveMonClient.OnCharacterListUpdated - 133469435104900630 (Gallentiada)
+0d 0h 40m 07s > EveMonClient.OnESIKeyCollectionChanged
+0d 0h 40m 07s > EveMonClient.OnESIKeyInfoUpdated - 133469435104900630 (Gallentiada)
+0d 0h 40m 07s > EveMonClient.OnCharacterUpdated - Caldarynka
+0d 0h 40m 07s > EveMonClient.OnCharacterListUpdated - 133469312675876772 (Caldarynka)
+0d 0h 40m 07s > EveMonClient.OnESIKeyCollectionChanged
+0d 0h 40m 07s > EveMonClient.OnESIKeyInfoUpdated - 133469312675876772 (Caldarynka)
+0d 0h 40m 07s > EveMonClient.OnCharacterUpdated - VeeDeeCovan
+0d 0h 40m 07s > EveMonClient.OnCharacterListUpdated - 133463130195295669 (VeeDeeCovan)
+0d 0h 40m 07s > EveMonClient.OnESIKeyCollectionChanged
+0d 0h 40m 07s > EveMonClient.OnESIKeyInfoUpdated - 133463130195295669 (VeeDeeCovan)
+0d 0h 40m 07s > EveMonClient.OnCharacterUpdated - Lordessa
+0d 0h 40m 07s > EveMonClient.OnCharacterListUpdated - 133464838339803886 (Lordessa)
+0d 0h 40m 07s > EveMonClient.OnESIKeyCollectionChanged
+0d 0h 40m 07s > EveMonClient.OnESIKeyInfoUpdated - 133464838339803886 (Lordessa)
+0d 0h 40m 07s > EveMonClient.OnCharacterUpdated - Worm Holera
+0d 0h 40m 07s > EveMonClient.OnCharacterListUpdated - 133459197273928343 (Worm Holera)
+0d 0h 40m 07s > EveMonClient.OnESIKeyCollectionChanged
+0d 0h 40m 07s > EveMonClient.OnESIKeyInfoUpdated - 133459197273928343 (Worm Holera)
+0d 0h 40m 07s > EveMonClient.OnCharacterUpdated - VeeDeeCovan
+0d 0h 40m 07s > EveMonClient.OnCharacterListUpdated - 133456646896361497 (VeeDeeCovan)
+0d 0h 40m 07s > EveMonClient.OnESIKeyCollectionChanged
+0d 0h 40m 07s > EveMonClient.OnESIKeyInfoUpdated - 133456646896361497 (VeeDeeCovan)
+0d 0h 40m 07s > EveMonClient.OnCharacterUpdated - Steamaha
+0d 0h 40m 07s > EveMonClient.OnCharacterListUpdated - 133464838919305587 (Steamaha)
+0d 0h 40m 07s > EveMonClient.OnESIKeyCollectionChanged
+0d 0h 40m 07s > EveMonClient.OnESIKeyInfoUpdated - 133464838919305587 (Steamaha)
+0d 0h 40m 07s > EveMonClient.OnCharacterUpdated - DeeBladina
+0d 0h 40m 07s > EveMonClient.OnCharacterListUpdated - 133463129728316356 (DeeBladina)
+0d 0h 40m 07s > EveMonClient.OnESIKeyCollectionChanged
+0d 0h 40m 07s > EveMonClient.OnESIKeyInfoUpdated - 133463129728316356 (DeeBladina)
+0d 0h 40m 07s > EveMonClient.OnCharacterUpdated - Gallenteria
+0d 0h 40m 07s > EveMonClient.OnCharacterListUpdated - 133463127839046469 (Gallenteria)
+0d 0h 40m 07s > EveMonClient.OnESIKeyCollectionChanged
+0d 0h 40m 07s > EveMonClient.OnESIKeyInfoUpdated - 133463127839046469 (Gallenteria)
+0d 0h 40m 07s > EveMonClient.OnCharacterUpdated - Dee Galla
+0d 0h 40m 07s > EveMonClient.OnCharacterListUpdated - 133455576520758185 (Dee Galla)
+0d 0h 40m 07s > EveMonClient.OnESIKeyCollectionChanged
+0d 0h 40m 07s > EveMonClient.OnESIKeyInfoUpdated - 133455576520758185 (Dee Galla)
+0d 0h 41m 45s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 41m 45s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 41m 45s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 41m 45s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 41m 45s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 41m 45s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 41m 45s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 41m 45s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 41m 45s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 41m 45s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 41m 47s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 41m 47s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 41m 47s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 41m 47s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 41m 47s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 41m 47s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 41m 47s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 41m 48s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 43m 46s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 43m 46s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 43m 46s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 43m 46s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 43m 46s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 43m 46s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 43m 46s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 43m 46s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 43m 46s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 43m 46s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 43m 48s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 43m 48s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 43m 48s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 43m 48s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 43m 48s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 43m 48s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 43m 48s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 43m 49s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 45m 07s > EveMonClient.OnServerStatusUpdated
+0d 0h 45m 46s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 45m 46s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 45m 46s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 45m 46s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 45m 46s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 45m 46s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 45m 46s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 45m 46s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 45m 46s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 45m 46s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 45m 48s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 45m 48s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 45m 48s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 45m 48s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 45m 48s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 45m 48s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 45m 48s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 45m 49s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 47m 47s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 47m 47s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 47m 47s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 47m 47s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 47m 47s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 47m 47s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 47m 47s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 47m 47s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 47m 47s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 47m 47s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 47m 49s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 47m 49s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 47m 49s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 47m 49s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 47m 49s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 47m 49s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 47m 49s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 47m 50s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 49m 47s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 49m 47s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 49m 47s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 49m 47s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 49m 47s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 49m 47s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 49m 47s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 49m 47s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 49m 47s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 49m 49s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 49m 49s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 49m 49s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 49m 49s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 49m 49s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 49m 49s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 49m 49s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 49m 50s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 49m 52s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 504 (Gateway Timeout) with content: '{"error":"Timeout contacting tranquility","timeout":5}'.
+0d 0h 49m 52s > EveMonClient.OnNotificationSent - Error querying the market orders of Heirs of Holes.
+0d 0h 50m 08s > EveMonClient.OnServerStatusUpdated
+0d 0h 51m 48s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 51m 48s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 51m 48s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 51m 48s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 51m 48s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 51m 48s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 51m 48s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 51m 48s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 51m 48s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 51m 50s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 51m 50s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 51m 50s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 51m 50s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 51m 50s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 51m 50s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 51m 50s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 51m 51s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 51m 53s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 53m 48s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 53m 48s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 53m 48s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 53m 48s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 53m 48s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 53m 48s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 53m 48s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 53m 48s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 53m 48s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 53m 50s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 53m 50s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 53m 50s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 53m 50s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 53m 50s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 53m 50s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 53m 50s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 53m 51s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 53m 53s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 55m 09s > EveMonClient.OnServerStatusUpdated
+0d 0h 55m 49s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 55m 49s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 55m 49s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 55m 49s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 55m 49s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 55m 49s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 55m 49s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 55m 49s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 55m 49s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 55m 51s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 55m 51s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 55m 51s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 55m 51s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 55m 51s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 55m 51s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 55m 51s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 55m 52s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 55m 54s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 57m 49s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 57m 49s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 57m 49s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 57m 49s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 57m 49s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 57m 49s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 57m 49s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 57m 49s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 57m 49s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 57m 51s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 57m 51s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 57m 51s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 57m 51s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 57m 51s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 57m 51s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 57m 51s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 57m 52s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 57m 55s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 59m 50s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 59m 50s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 59m 50s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 59m 50s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 59m 50s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 59m 50s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 59m 50s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 59m 50s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 59m 50s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 59m 52s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 59m 52s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 59m 52s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 59m 52s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 59m 52s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 59m 52s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 59m 52s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 59m 53s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 59m 55s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 00m 06s > EveMonClient.OnCharacterUpdated - Abyssette
+0d 1h 00m 06s > EveMonClient.OnCharacterListUpdated - 133463128749152987 (Abyssette)
+0d 1h 00m 06s > EveMonClient.OnESIKeyCollectionChanged
+0d 1h 00m 06s > EveMonClient.OnESIKeyInfoUpdated - 133463128749152987 (Abyssette)
+0d 1h 00m 06s > EveMonClient.OnCharacterUpdated - DeeBladina
+0d 1h 00m 06s > EveMonClient.OnCharacterListUpdated - 133463129728316356 (DeeBladina)
+0d 1h 00m 06s > EveMonClient.OnESIKeyCollectionChanged
+0d 1h 00m 06s > EveMonClient.OnESIKeyInfoUpdated - 133463129728316356 (DeeBladina)
+0d 1h 00m 06s > EveMonClient.OnCharacterUpdated - Caldarynka
+0d 1h 00m 06s > EveMonClient.OnCharacterListUpdated - 133469312675876772 (Caldarynka)
+0d 1h 00m 06s > EveMonClient.OnESIKeyCollectionChanged
+0d 1h 00m 06s > EveMonClient.OnESIKeyInfoUpdated - 133469312675876772 (Caldarynka)
+0d 1h 00m 06s > EveMonClient.OnCharacterUpdated - Lordessa
+0d 1h 00m 06s > EveMonClient.OnCharacterListUpdated - 133464838339803886 (Lordessa)
+0d 1h 00m 06s > EveMonClient.OnESIKeyCollectionChanged
+0d 1h 00m 06s > EveMonClient.OnESIKeyInfoUpdated - 133464838339803886 (Lordessa)
+0d 1h 00m 06s > EveMonClient.OnCharacterUpdated - Dee Galla
+0d 1h 00m 06s > EveMonClient.OnCharacterListUpdated - 133455576520758185 (Dee Galla)
+0d 1h 00m 06s > EveMonClient.OnESIKeyCollectionChanged
+0d 1h 00m 06s > EveMonClient.OnESIKeyInfoUpdated - 133455576520758185 (Dee Galla)
+0d 1h 00m 06s > EveMonClient.OnCharacterUpdated - VeeDeeCovan
+0d 1h 00m 06s > EveMonClient.OnCharacterListUpdated - 133456646896361497 (VeeDeeCovan)
+0d 1h 00m 06s > EveMonClient.OnESIKeyCollectionChanged
+0d 1h 00m 06s > EveMonClient.OnESIKeyInfoUpdated - 133456646896361497 (VeeDeeCovan)
+0d 1h 00m 06s > EveMonClient.OnCharacterUpdated - Smart Eggs
+0d 1h 00m 06s > EveMonClient.OnCharacterListUpdated - 133464863970014042 (Smart Eggs)
+0d 1h 00m 06s > EveMonClient.OnESIKeyCollectionChanged
+0d 1h 00m 06s > EveMonClient.OnESIKeyInfoUpdated - 133464863970014042 (Smart Eggs)
+0d 1h 00m 06s > EveMonClient.OnCharacterUpdated - VeeDeeCovan
+0d 1h 00m 06s > EveMonClient.OnCharacterListUpdated - 133463130195295669 (VeeDeeCovan)
+0d 1h 00m 06s > EveMonClient.OnESIKeyCollectionChanged
+0d 1h 00m 06s > EveMonClient.OnESIKeyInfoUpdated - 133463130195295669 (VeeDeeCovan)
+0d 1h 00m 06s > EveMonClient.OnCharacterUpdated - Gallenteria
+0d 1h 00m 06s > EveMonClient.OnCharacterListUpdated - 133463127839046469 (Gallenteria)
+0d 1h 00m 06s > EveMonClient.OnESIKeyCollectionChanged
+0d 1h 00m 06s > EveMonClient.OnESIKeyInfoUpdated - 133463127839046469 (Gallenteria)
+0d 1h 00m 06s > EveMonClient.OnCharacterUpdated - Steamaha
+0d 1h 00m 06s > EveMonClient.OnCharacterListUpdated - 133464838919305587 (Steamaha)
+0d 1h 00m 06s > EveMonClient.OnESIKeyCollectionChanged
+0d 1h 00m 06s > EveMonClient.OnESIKeyInfoUpdated - 133464838919305587 (Steamaha)
+0d 1h 00m 06s > EveMonClient.OnCharacterUpdated - Deem Matar
+0d 1h 00m 06s > EveMonClient.OnCharacterListUpdated - 133456443912618197 (Deem Matar)
+0d 1h 00m 06s > EveMonClient.OnESIKeyCollectionChanged
+0d 1h 00m 06s > EveMonClient.OnESIKeyInfoUpdated - 133456443912618197 (Deem Matar)
+0d 1h 00m 06s > EveMonClient.OnCharacterUpdated - Gallentiada
+0d 1h 00m 06s > EveMonClient.OnCharacterListUpdated - 133469435104900630 (Gallentiada)
+0d 1h 00m 06s > EveMonClient.OnESIKeyCollectionChanged
+0d 1h 00m 06s > EveMonClient.OnESIKeyInfoUpdated - 133469435104900630 (Gallentiada)
+0d 1h 00m 06s > EveMonClient.OnCharacterUpdated - Worm Holera
+0d 1h 00m 06s > EveMonClient.OnCharacterListUpdated - 133459197273928343 (Worm Holera)
+0d 1h 00m 06s > EveMonClient.OnESIKeyCollectionChanged
+0d 1h 00m 06s > EveMonClient.OnESIKeyInfoUpdated - 133459197273928343 (Worm Holera)
+0d 1h 00m 09s > EveMonClient.OnServerStatusUpdated
+0d 1h 00m 12s > EveMonClient.OnCharacterEVENotificationsUpdated - Gallenteria
+0d 1h 00m 12s > EveMonClient.OnNotificationSent - 4 new EVE notifications.
+0d 1h 00m 12s > EveMonClient.OnCharacterEVEMailMessagesUpdated - Gallenteria
+0d 1h 00m 12s > EveMonClient.OnCharacterMarketOrdersUpdated - Gallenteria
+0d 1h 00m 12s > EveMonClient.OnMarketOrdersUpdated - Gallenteria
+0d 1h 01m 51s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 01m 51s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 01m 51s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 01m 51s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 01m 51s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 01m 51s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 01m 51s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 01m 51s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 01m 51s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 01m 53s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 01m 53s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 01m 53s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 01m 53s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 01m 53s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 01m 53s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 01m 53s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 01m 54s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 01m 56s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 03m 51s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 03m 51s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 03m 51s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 03m 51s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 03m 51s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 03m 51s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 03m 51s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 03m 52s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 03m 52s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 03m 53s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 03m 53s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 03m 53s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 03m 54s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 03m 54s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 03m 54s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 03m 54s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 03m 54s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 03m 57s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 05m 10s > EveMonClient.OnServerStatusUpdated
+0d 1h 05m 51s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 05m 51s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 05m 51s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 05m 51s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 05m 51s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 05m 51s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 05m 51s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 05m 52s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 05m 52s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 05m 53s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 05m 53s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 05m 53s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 05m 54s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 05m 54s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 05m 54s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 05m 54s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 05m 54s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 05m 57s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 07m 52s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 07m 52s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 07m 52s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 07m 52s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 07m 52s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 07m 52s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 07m 52s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 07m 53s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 07m 53s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 07m 54s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 07m 54s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 07m 54s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 07m 55s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 07m 55s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 07m 55s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 07m 55s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 07m 55s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 07m 58s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 09m 52s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 09m 52s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 09m 52s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 09m 52s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 09m 52s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 09m 52s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 09m 52s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 09m 53s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 09m 53s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 09m 54s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 09m 54s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 09m 54s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 09m 55s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 09m 55s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 09m 55s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 09m 55s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 09m 55s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 09m 58s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 10m 10s > EveMonClient.OnServerStatusUpdated
+0d 1h 11m 52s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 11m 52s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 11m 52s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 11m 52s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 11m 52s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 11m 52s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 11m 52s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 11m 53s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 11m 53s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 11m 54s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 11m 54s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 11m 54s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 11m 55s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 11m 55s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 11m 55s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 11m 55s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 11m 55s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 11m 58s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 13m 53s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 13m 53s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 13m 53s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 13m 53s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 13m 53s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 13m 53s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 13m 53s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 13m 54s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 13m 54s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 13m 55s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 13m 55s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 13m 55s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 13m 56s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 13m 56s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 13m 56s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 13m 56s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 13m 56s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 13m 59s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 15m 11s > EveMonClient.OnServerStatusUpdated
+0d 1h 15m 53s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 15m 53s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 15m 53s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 15m 53s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 15m 53s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 15m 53s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 15m 54s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 15m 54s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 15m 55s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 15m 55s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 15m 55s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 15m 55s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 15m 56s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 15m 56s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 15m 56s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 15m 56s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 15m 56s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 16m 00s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 17m 54s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 17m 54s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 17m 54s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 17m 54s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 17m 54s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 17m 54s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 17m 54s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 17m 55s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 17m 56s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 17m 56s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 17m 56s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 17m 56s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 17m 57s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 17m 57s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 17m 57s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 17m 57s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 17m 57s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 18m 00s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 19m 54s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 19m 54s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 19m 54s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 19m 54s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 19m 54s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 19m 54s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 19m 54s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 19m 55s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 19m 56s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 19m 56s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 19m 56s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 19m 56s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 19m 57s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 19m 57s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 19m 57s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 19m 57s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 19m 57s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 20m 00s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 20m 06s > EveMonClient.OnCharacterUpdated - VeeDeeCovan
+0d 1h 20m 06s > EveMonClient.OnCharacterListUpdated - 133463130195295669 (VeeDeeCovan)
+0d 1h 20m 06s > EveMonClient.OnESIKeyCollectionChanged
+0d 1h 20m 06s > EveMonClient.OnESIKeyInfoUpdated - 133463130195295669 (VeeDeeCovan)
+0d 1h 20m 06s > EveMonClient.OnCharacterUpdated - VeeDeeCovan
+0d 1h 20m 06s > EveMonClient.OnCharacterListUpdated - 133456646896361497 (VeeDeeCovan)
+0d 1h 20m 06s > EveMonClient.OnESIKeyCollectionChanged
+0d 1h 20m 06s > EveMonClient.OnESIKeyInfoUpdated - 133456646896361497 (VeeDeeCovan)
+0d 1h 20m 06s > EveMonClient.OnCharacterUpdated - Deem Matar
+0d 1h 20m 06s > EveMonClient.OnCharacterListUpdated - 133456443912618197 (Deem Matar)
+0d 1h 20m 06s > EveMonClient.OnESIKeyCollectionChanged
+0d 1h 20m 06s > EveMonClient.OnESIKeyInfoUpdated - 133456443912618197 (Deem Matar)
+0d 1h 20m 06s > EveMonClient.OnCharacterUpdated - Dee Galla
+0d 1h 20m 06s > EveMonClient.OnCharacterListUpdated - 133455576520758185 (Dee Galla)
+0d 1h 20m 06s > EveMonClient.OnESIKeyCollectionChanged
+0d 1h 20m 06s > EveMonClient.OnESIKeyInfoUpdated - 133455576520758185 (Dee Galla)
+0d 1h 20m 06s > EveMonClient.OnCharacterUpdated - Steamaha
+0d 1h 20m 06s > EveMonClient.OnCharacterListUpdated - 133464838919305587 (Steamaha)
+0d 1h 20m 06s > EveMonClient.OnESIKeyCollectionChanged
+0d 1h 20m 06s > EveMonClient.OnESIKeyInfoUpdated - 133464838919305587 (Steamaha)
+0d 1h 20m 06s > EveMonClient.OnCharacterUpdated - Lordessa
+0d 1h 20m 06s > EveMonClient.OnCharacterListUpdated - 133464838339803886 (Lordessa)
+0d 1h 20m 06s > EveMonClient.OnESIKeyCollectionChanged
+0d 1h 20m 06s > EveMonClient.OnESIKeyInfoUpdated - 133464838339803886 (Lordessa)
+0d 1h 20m 06s > EveMonClient.OnCharacterUpdated - Caldarynka
+0d 1h 20m 06s > EveMonClient.OnCharacterListUpdated - 133469312675876772 (Caldarynka)
+0d 1h 20m 06s > EveMonClient.OnESIKeyCollectionChanged
+0d 1h 20m 06s > EveMonClient.OnESIKeyInfoUpdated - 133469312675876772 (Caldarynka)
+0d 1h 20m 06s > EveMonClient.OnCharacterUpdated - Abyssette
+0d 1h 20m 06s > EveMonClient.OnCharacterListUpdated - 133463128749152987 (Abyssette)
+0d 1h 20m 06s > EveMonClient.OnESIKeyCollectionChanged
+0d 1h 20m 06s > EveMonClient.OnESIKeyInfoUpdated - 133463128749152987 (Abyssette)
+0d 1h 20m 06s > EveMonClient.OnCharacterUpdated - DeeBladina
+0d 1h 20m 06s > EveMonClient.OnCharacterListUpdated - 133463129728316356 (DeeBladina)
+0d 1h 20m 06s > EveMonClient.OnESIKeyCollectionChanged
+0d 1h 20m 06s > EveMonClient.OnESIKeyInfoUpdated - 133463129728316356 (DeeBladina)
+0d 1h 20m 06s > EveMonClient.OnCharacterUpdated - Worm Holera
+0d 1h 20m 06s > EveMonClient.OnCharacterListUpdated - 133459197273928343 (Worm Holera)
+0d 1h 20m 06s > EveMonClient.OnESIKeyCollectionChanged
+0d 1h 20m 06s > EveMonClient.OnESIKeyInfoUpdated - 133459197273928343 (Worm Holera)
+0d 1h 20m 06s > EveMonClient.OnCharacterUpdated - Smart Eggs
+0d 1h 20m 06s > EveMonClient.OnCharacterListUpdated - 133464863970014042 (Smart Eggs)
+0d 1h 20m 06s > EveMonClient.OnESIKeyCollectionChanged
+0d 1h 20m 06s > EveMonClient.OnESIKeyInfoUpdated - 133464863970014042 (Smart Eggs)
+0d 1h 20m 06s > EveMonClient.OnCharacterUpdated - Gallentiada
+0d 1h 20m 06s > EveMonClient.OnCharacterListUpdated - 133469435104900630 (Gallentiada)
+0d 1h 20m 06s > EveMonClient.OnESIKeyCollectionChanged
+0d 1h 20m 06s > EveMonClient.OnESIKeyInfoUpdated - 133469435104900630 (Gallentiada)
+0d 1h 20m 07s > EveMonClient.OnCharacterUpdated - Gallenteria
+0d 1h 20m 07s > EveMonClient.OnCharacterListUpdated - 133463127839046469 (Gallenteria)
+0d 1h 20m 07s > EveMonClient.OnESIKeyCollectionChanged
+0d 1h 20m 07s > EveMonClient.OnESIKeyInfoUpdated - 133463127839046469 (Gallenteria)
+0d 1h 20m 11s > EveMonClient.OnServerStatusUpdated
+0d 1h 21m 55s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 21m 55s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 21m 55s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 21m 55s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 21m 55s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 21m 55s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 21m 55s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 21m 56s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 21m 57s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 21m 57s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 21m 57s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 21m 57s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 21m 58s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 21m 58s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 21m 58s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 21m 58s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 21m 58s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 22m 01s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 23m 55s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 23m 55s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 23m 55s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 23m 55s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 23m 55s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 23m 55s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 23m 55s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 23m 56s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 23m 57s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 23m 57s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 23m 57s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 23m 57s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 23m 58s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 23m 58s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 23m 58s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 23m 58s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 23m 58s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 24m 01s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 25m 01s > EveMonClient.OnCharacterKillLogUpdated - Caldarynka
+0d 1h 25m 01s > EveMonClient.OnCharacterKillLogUpdated - Gallenteria
+0d 1h 25m 01s > EveMonClient.OnCharacterKillLogUpdated - Lordessa
+0d 1h 25m 01s > EveMonClient.OnCharacterKillLogUpdated - VeeDeeCovan
+0d 1h 25m 01s > EveMonClient.OnCharacterKillLogUpdated - DeeBladina
+0d 1h 25m 01s > EveMonClient.OnCharacterContactsUpdated - DeeBladina
+0d 1h 25m 02s > EveMonClient.OnCharacterKillLogUpdated - Abyssette
+0d 1h 25m 02s > EveMonClient.OnCharacterContactsUpdated - Abyssette
+0d 1h 25m 02s > EveMonClient.OnCharacterContractsUpdated - Abyssette
+0d 1h 25m 02s > EveMonClient.OnCharacterKillLogUpdated - Deem Matar
+0d 1h 25m 02s > EveMonClient.OnCharacterContractsUpdated - Gallenteria
+0d 1h 25m 02s > EveMonClient.OnCharacterKillLogUpdated - Dee Galla
+0d 1h 25m 02s > EveMonClient.OnCharacterContractsUpdated - Dee Galla
+0d 1h 25m 02s > EveMonClient.OnCharacterContractsUpdated - Gallentiada
+0d 1h 25m 02s > EveMonClient.OnCharacterKillLogUpdated - Worm Holera
+0d 1h 25m 02s > EveMonClient.OnCharacterContractsUpdated - VeeDeeCovan
+0d 1h 25m 02s > EveMonClient.OnCharacterContractsUpdated - Deem Matar
+0d 1h 25m 02s > EveMonClient.OnCharacterContractsUpdated - DeeBladina
+0d 1h 25m 02s > EveMonClient.OnCharacterContractsUpdated - Steamaha
+0d 1h 25m 02s > EveMonClient.OnCharacterContactsUpdated - VeeDeeCovan
+0d 1h 25m 02s > EveMonClient.OnCharacterContractsUpdated - Smart Eggs
+0d 1h 25m 02s > EveMonClient.OnCharacterContractsUpdated - Lordessa
+0d 1h 25m 02s > EveMonClient.OnCharacterContractsUpdated - Caldarynka
+0d 1h 25m 02s > EveMonClient.OnCharacterContactsUpdated - Lordessa
+0d 1h 25m 02s > EveMonClient.OnCharacterContractsUpdated - Worm Holera
+0d 1h 25m 02s > EveMonClient.OnCharacterContactsUpdated - Steamaha
+0d 1h 25m 02s > EveMonClient.OnCharacterContactsUpdated - Smart Eggs
+0d 1h 25m 02s > EveMonClient.OnCharacterKillLogUpdated - Gallentiada
+0d 1h 25m 02s > EveMonClient.OnCharacterContactsUpdated - Caldarynka
+0d 1h 25m 02s > EveMonClient.OnCharacterContactsUpdated - Gallentiada
+0d 1h 25m 02s > EveMonClient.OnCharacterKillLogUpdated - Steamaha
+0d 1h 25m 02s > EveMonClient.OnCharacterSkillQueueUpdated - Gallenteria
+0d 1h 25m 02s > EveMonClient.OnCharacterKillLogUpdated - Smart Eggs
+0d 1h 25m 02s > EveMonClient.OnCharacterContactsUpdated - Gallenteria
+0d 1h 25m 02s > EveMonClient.OnCharacterContactsUpdated - Worm Holera
+0d 1h 25m 02s > EveMonClient.OnCharacterContactsUpdated - Deem Matar
+0d 1h 25m 02s > EveMonClient.OnCorporationMarketOrdersUpdated - Dee Cartel
+0d 1h 25m 02s > EveMonClient.OnMarketOrdersUpdated - DeeBladina
+0d 1h 25m 02s > EveMonClient.OnCharacterContactsUpdated - Dee Galla
+0d 1h 25m 02s > EveMonClient.OnCorporationIndustryJobsUpdated - DeeBladina
+0d 1h 25m 02s > EveMonClient.OnIndustryJobsUpdated - DeeBladina
+0d 1h 25m 02s > EveMonClient.OnCorporationMarketOrdersUpdated - Dee Cartel
+0d 1h 25m 02s > EveMonClient.OnMarketOrdersUpdated - Deem Matar
+0d 1h 25m 02s > EveMonClient.OnCorporationIndustryJobsUpdated - Deem Matar
+0d 1h 25m 02s > EveMonClient.OnIndustryJobsUpdated - Deem Matar
+0d 1h 25m 02s > EveMonClient.OnCorporationMarketOrdersUpdated - Heirs of Holes
+0d 1h 25m 02s > EveMonClient.OnMarketOrdersUpdated - Worm Holera
+0d 1h 25m 02s > EveMonClient.OnCorporationContractsUpdated - Heirs of Holes
+0d 1h 25m 02s > EveMonClient.OnContractsUpdated - Steamaha
+0d 1h 25m 02s > EveMonClient.OnCorporationContractsUpdated - Dee Cartel
+0d 1h 25m 02s > EveMonClient.OnContractsUpdated - DeeBladina
+0d 1h 25m 02s > EveMonClient.OnCorporationIndustryJobsUpdated - Worm Holera
+0d 1h 25m 02s > EveMonClient.OnIndustryJobsUpdated - Worm Holera
+0d 1h 25m 02s > EveMonClient.OnCorporationContractsUpdated - Heirs of Holes
+0d 1h 25m 02s > EveMonClient.OnContractsUpdated - Caldarynka
+0d 1h 25m 02s > EveMonClient.OnCorporationContractsUpdated - Dee Cartel
+0d 1h 25m 02s > EveMonClient.OnContractsUpdated - Abyssette
+0d 1h 25m 02s > EveMonClient.OnCorporationContractsUpdated - Dee Cartel
+0d 1h 25m 02s > EveMonClient.OnContractsUpdated - Gallenteria
+0d 1h 25m 02s > EveMonClient.OnCorporationContractsUpdated - Dee Cartel
+0d 1h 25m 02s > EveMonClient.OnContractsUpdated - Deem Matar
+0d 1h 25m 02s > EveMonClient.OnCorporationContractsUpdated - Heirs of Holes
+0d 1h 25m 02s > EveMonClient.OnContractsUpdated - Gallentiada
+0d 1h 25m 02s > EveMonClient.OnCorporationContractsUpdated - Dee Cartel
+0d 1h 25m 02s > EveMonClient.OnContractsUpdated - Dee Galla
+0d 1h 25m 02s > EveMonClient.OnCorporationContractsUpdated - Heirs of Holes
+0d 1h 25m 02s > EveMonClient.OnContractsUpdated - Worm Holera
+0d 1h 25m 02s > EveMonClient.OnCorporationContractsUpdated - Heirs of Holes
+0d 1h 25m 02s > EveMonClient.OnContractsUpdated - Lordessa
+0d 1h 25m 02s > EveMonClient.OnCorporationContractsUpdated - Heirs of Holes
+0d 1h 25m 02s > EveMonClient.OnContractsUpdated - Smart Eggs
+0d 1h 25m 02s > EveMonClient.OnCharacterKillLogUpdated - Worm Holera
+0d 1h 25m 02s > EveMonClient.OnCharacterKillLogUpdated - Dee Galla
+0d 1h 25m 02s > EveMonClient.OnCharacterKillLogUpdated - Smart Eggs
+0d 1h 25m 02s > EveMonClient.OnCorporationContractsUpdated - Haidamaky
+0d 1h 25m 02s > EveMonClient.OnContractsUpdated - VeeDeeCovan
+0d 1h 25m 06s > EveMonClient.OnCharacterAssetsUpdated - VeeDeeCovan
+0d 1h 25m 09s > EveMonClient.OnCharacterWalletTransactionsUpdated - Gallentiada
+0d 1h 25m 09s > EveMonClient.OnCharacterAssetsUpdated - Gallentiada
+0d 1h 25m 09s > EveMonClient.OnCharacterStandingsUpdated - Abyssette
+0d 1h 25m 09s > EveMonClient.OnCharacterWalletTransactionsUpdated - Steamaha
+0d 1h 25m 09s > EveMonClient.OnCharacterStandingsUpdated - VeeDeeCovan
+0d 1h 25m 09s > EveMonClient.OnCharacterStandingsUpdated - Lordessa
+0d 1h 25m 09s > EveMonClient.OnCharacterAssetsUpdated - Abyssette
+0d 1h 25m 09s > EveMonClient.OnCharacterAssetsUpdated - Lordessa
+0d 1h 25m 09s > EveMonClient.OnCharacterAssetsUpdated - Gallenteria
+0d 1h 25m 09s > EveMonClient.OnCharacterWalletTransactionsUpdated - Abyssette
+0d 1h 25m 09s > EveMonClient.OnCharacterStandingsUpdated - Caldarynka
+0d 1h 25m 09s > EveMonClient.OnCharacterStandingsUpdated - Gallentiada
+0d 1h 25m 09s > EveMonClient.OnCharacterWalletJournalUpdated - Gallentiada
+0d 1h 25m 09s > EveMonClient.OnCharacterStandingsUpdated - Dee Galla
+0d 1h 25m 09s > EveMonClient.OnCharacterStandingsUpdated - Steamaha
+0d 1h 25m 09s > EveMonClient.OnCharacterStandingsUpdated - Deem Matar
+0d 1h 25m 09s > EveMonClient.OnCharacterAssetsUpdated - Steamaha
+0d 1h 25m 09s > EveMonClient.OnCharacterWalletJournalUpdated - Steamaha
+0d 1h 25m 09s > EveMonClient.OnCharacterStandingsUpdated - Gallenteria
+0d 1h 25m 09s > EveMonClient.OnCharacterStandingsUpdated - DeeBladina
+0d 1h 25m 09s > EveMonClient.OnCharacterWalletJournalUpdated - Abyssette
+0d 1h 25m 09s > EveMonClient.OnCharacterWalletTransactionsUpdated - Lordessa
+0d 1h 25m 09s > EveMonClient.OnCharacterAssetsUpdated - Smart Eggs
+0d 1h 25m 09s > EveMonClient.OnCharacterStandingsUpdated - Smart Eggs
+0d 1h 25m 09s > EveMonClient.OnCharacterAssetsUpdated - Caldarynka
+0d 1h 25m 09s > EveMonClient.OnCharacterWalletJournalUpdated - Lordessa
+0d 1h 25m 09s > EveMonClient.OnCharacterWalletTransactionsUpdated - Caldarynka
+0d 1h 25m 09s > EveMonClient.OnCharacterWalletTransactionsUpdated - Gallenteria
+0d 1h 25m 09s > EveMonClient.OnCharacterWalletTransactionsUpdated - DeeBladina
+0d 1h 25m 09s > EveMonClient.OnCharacterWalletTransactionsUpdated - Smart Eggs
+0d 1h 25m 09s > EveMonClient.OnCharacterWalletJournalUpdated - Gallenteria
+0d 1h 25m 09s > EveMonClient.OnCharacterAssetsUpdated - Dee Galla
+0d 1h 25m 09s > EveMonClient.OnCharacterWalletTransactionsUpdated - Deem Matar
+0d 1h 25m 09s > EveMonClient.OnCharacterAssetsUpdated - DeeBladina
+0d 1h 25m 09s > EveMonClient.OnCharacterWalletTransactionsUpdated - VeeDeeCovan
+0d 1h 25m 09s > EveMonClient.OnCharacterWalletJournalUpdated - Smart Eggs
+0d 1h 25m 09s > EveMonClient.OnCharacterWalletTransactionsUpdated - Dee Galla
+0d 1h 25m 09s > EveMonClient.OnCharacterStandingsUpdated - Worm Holera
+0d 1h 25m 09s > EveMonClient.OnCharacterWalletJournalUpdated - DeeBladina
+0d 1h 25m 09s > EveMonClient.OnCharacterWalletJournalUpdated - VeeDeeCovan
+0d 1h 25m 09s > EveMonClient.OnCharacterWalletJournalUpdated - Caldarynka
+0d 1h 25m 09s > EveMonClient.OnCharacterWalletTransactionsUpdated - Worm Holera
+0d 1h 25m 10s > EveMonClient.OnCharacterAssetsUpdated - Worm Holera
+0d 1h 25m 10s > EveMonClient.OnCharacterAssetsUpdated - Deem Matar
+0d 1h 25m 10s > EveMonClient.OnCharacterWalletJournalUpdated - Deem Matar
+0d 1h 25m 10s > EveMonClient.OnCharacterWalletJournalUpdated - Dee Galla
+0d 1h 25m 12s > EveMonClient.OnServerStatusUpdated
+0d 1h 25m 13s > EveMonClient.OnCharacterWalletJournalUpdated - Worm Holera
+0d 1h 25m 55s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 25m 55s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 25m 55s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 25m 55s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 25m 55s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 25m 55s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 25m 55s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 25m 56s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 25m 57s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 25m 57s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 25m 57s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 25m 57s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 25m 58s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 25m 58s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 25m 58s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 25m 58s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 25m 58s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 26m 02s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 27m 56s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 27m 56s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 27m 56s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 27m 56s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 27m 56s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 27m 56s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 27m 56s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 27m 57s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 27m 58s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 27m 58s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 27m 58s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 27m 58s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 27m 59s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 27m 59s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 27m 59s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 27m 59s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 27m 59s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 28m 02s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 29m 56s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 29m 56s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 29m 56s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 29m 56s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 29m 56s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 29m 56s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 29m 56s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 29m 57s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 29m 58s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 29m 58s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 29m 58s > Request: https://esi.evetech.net/v1/corporations/98756871/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 29m 58s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 29m 59s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 29m 59s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 29m 59s > Request: https://esi.evetech.net/v3/corporations/98743399/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 29m 59s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 29m 59s > Request: https://esi.evetech.net/v1/corporations/98743399/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 30m 03s > Request: https://esi.evetech.net/v3/corporations/98756871/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 1h 30m 13s > EveMonClient.OnServerStatusUpdated
+0d 1h 30m 57s > Main loop - done
+0d 1h 30m 57s > ExecutionContext.Run
+0d 1h 30m 57s > Closed

@@ -33,18 +33,7 @@
 		"clientManagement": {
 			"processes": {
 				"eve-online": {
-					"tranquility": [
-						{
-							"processId": 6204,
-							"createdDate": 1703261959876,
-							"username": "amarr.khuyam",
-							"userId": 18034259,
-							"characterId": 2121177973,
-							"profile": "Default",
-							"dxVersion": "dx12",
-							"foundDate": 1703261960378
-						}
-					]
+					"tranquility": []
 				}
 			},
 			"temporaryProcesses": {}
@@ -55,7 +44,7 @@
 			"wasRecentlyUpdated": false,
 			"isMinimized": false,
 			"isMaximized": false,
-			"isVisible": true
+			"isVisible": false
 		},
 		"v2/products": {
 			"eve-online": {
