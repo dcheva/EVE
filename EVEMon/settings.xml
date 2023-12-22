@@ -133,7 +133,7 @@
         <skill typeID="12365" name="EM Shield Compensation" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
         <skill typeID="12367" name="Explosive Shield Compensation" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
         <skill typeID="12366" name="Kinetic Shield Compensation" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
-        <skill typeID="21059" name="Shield Compensation" level="2" activelevel="2" skillpoints="4361" ownsBook="true" isKnown="true" />
+        <skill typeID="21059" name="Shield Compensation" level="2" activelevel="2" skillpoints="4526" ownsBook="true" isKnown="true" />
         <skill typeID="3422" name="Shield Emission Systems" level="1" activelevel="1" skillpoints="500" ownsBook="true" isKnown="true" />
         <skill typeID="3419" name="Shield Management" level="2" activelevel="2" skillpoints="4243" ownsBook="true" isKnown="true" />
         <skill typeID="3416" name="Shield Operation" level="3" activelevel="3" skillpoints="8001" ownsBook="true" isKnown="true" />
@@ -181,94 +181,94 @@
         <selectedIndex>0</selectedIndex>
       </implants>
       <queue>
-        <skill typeID="21059" level="3" startSP="2829" endSP="16000" startTime="2023-12-22 05:42:25" endTime="2023-12-22 20:35:22" />
-        <skill typeID="3419" level="3" startSP="4243" endSP="24000" startTime="2023-12-22 20:35:22" endTime="2023-12-23 18:54:50" />
-        <skill typeID="3420" level="3" startSP="5657" endSP="32000" startTime="2023-12-23 18:54:50" endTime="2023-12-25 00:40:48" />
-        <skill typeID="3416" level="4" startSP="8001" endSP="45255" startTime="2023-12-25 00:40:48" endTime="2023-12-26 18:46:29" />
-        <skill typeID="12365" level="1" startSP="0" endSP="500" startTime="2023-12-26 18:46:29" endTime="2023-12-26 19:20:23" />
-        <skill typeID="12365" level="2" startSP="500" endSP="2829" startTime="2023-12-26 19:20:23" endTime="2023-12-26 21:58:17" />
-        <skill typeID="3425" level="4" startSP="16000" endSP="90510" startTime="2023-12-26 21:58:17" endTime="2023-12-30 10:09:49" />
-        <skill typeID="22578" level="4" startSP="162519" endSP="181020" startTime="2023-12-30 10:09:49" endTime="2023-12-31 08:35:20" />
-        <skill typeID="3453" level="2" startSP="500" endSP="2829" startTime="2023-12-31 08:35:20" endTime="2023-12-31 10:58:40" />
-        <skill typeID="3452" level="2" startSP="1000" endSP="5657" startTime="2023-12-31 10:58:40" endTime="2023-12-31 15:45:15" />
-        <skill typeID="3454" level="2" startSP="1250" endSP="7072" startTime="2023-12-31 15:45:15" endTime="2023-12-31 21:43:31" />
-        <skill typeID="3453" level="3" startSP="2829" endSP="16000" startTime="2023-12-31 21:43:31" endTime="2024-01-01 11:14:03" />
-        <skill typeID="3452" level="3" startSP="5657" endSP="32000" startTime="2024-01-01 11:14:03" endTime="2024-01-02 14:15:09" />
-        <skill typeID="3454" level="3" startSP="7072" endSP="40000" startTime="2024-01-02 14:15:09" endTime="2024-01-04 00:01:29" />
+        <skill typeID="21059" level="3" startSP="2829" endSP="16000" startTime="2023-12-22 05:42:26" endTime="2023-12-22 20:35:23" />
+        <skill typeID="3419" level="3" startSP="4243" endSP="24000" startTime="2023-12-22 20:35:23" endTime="2023-12-23 18:54:51" />
+        <skill typeID="3420" level="3" startSP="5657" endSP="32000" startTime="2023-12-23 18:54:51" endTime="2023-12-25 00:40:49" />
+        <skill typeID="3416" level="4" startSP="8001" endSP="45255" startTime="2023-12-25 00:40:49" endTime="2023-12-26 18:46:30" />
+        <skill typeID="12365" level="1" startSP="0" endSP="500" startTime="2023-12-26 18:46:30" endTime="2023-12-26 19:20:24" />
+        <skill typeID="12365" level="2" startSP="500" endSP="2829" startTime="2023-12-26 19:20:24" endTime="2023-12-26 21:58:18" />
+        <skill typeID="3425" level="4" startSP="16000" endSP="90510" startTime="2023-12-26 21:58:18" endTime="2023-12-30 10:09:50" />
+        <skill typeID="22578" level="4" startSP="162519" endSP="181020" startTime="2023-12-30 10:09:50" endTime="2023-12-31 08:35:21" />
+        <skill typeID="3453" level="2" startSP="500" endSP="2829" startTime="2023-12-31 08:35:21" endTime="2023-12-31 10:58:41" />
+        <skill typeID="3452" level="2" startSP="1000" endSP="5657" startTime="2023-12-31 10:58:41" endTime="2023-12-31 15:45:16" />
+        <skill typeID="3454" level="2" startSP="1250" endSP="7072" startTime="2023-12-31 15:45:16" endTime="2023-12-31 21:43:32" />
+        <skill typeID="3453" level="3" startSP="2829" endSP="16000" startTime="2023-12-31 21:43:32" endTime="2024-01-01 11:14:04" />
+        <skill typeID="3452" level="3" startSP="5657" endSP="32000" startTime="2024-01-01 11:14:04" endTime="2024-01-02 14:15:10" />
+        <skill typeID="3454" level="3" startSP="7072" endSP="40000" startTime="2024-01-02 14:15:10" endTime="2024-01-04 00:01:30" />
       </queue>
       <marketOrders>
-        <buy orderID="6671490794" orderState="Active" price="3770000.0" volRemaining="1" issued="2023-12-21T18:31:25Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <buy orderID="6671401610" orderState="Fulfilled" price="150000.0" volRemaining="0" issued="2023-12-21T16:23:28Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <buy orderID="6671406710" orderState="Fulfilled" price="150000.0" volRemaining="0" issued="2023-12-21T16:31:04Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <buy orderID="6671406892" orderState="Fulfilled" price="150000.0" volRemaining="0" issued="2023-12-21T16:31:15Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <buy orderID="6671406978" orderState="Fulfilled" price="150000.0" volRemaining="0" issued="2023-12-21T16:31:26Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <buy orderID="6671425392" orderState="Fulfilled" price="7000000.0" volRemaining="0" issued="2023-12-21T16:58:35Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <buy orderID="6671425720" orderState="Fulfilled" price="360000.0" volRemaining="0" issued="2023-12-21T16:59:09Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <buy orderID="6671428843" orderState="Fulfilled" price="311000.0" volRemaining="0" issued="2023-12-21T17:02:45Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <buy orderID="6671429597" orderState="Fulfilled" price="400000.0" volRemaining="0" issued="2023-12-21T17:04:00Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <sell orderID="6671430404" orderState="Fulfilled" price="3.01" volRemaining="0" issued="2023-12-21T17:05:18Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <sell orderID="6671431629" orderState="Fulfilled" price="750.1" volRemaining="0" issued="2023-12-21T17:06:48Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <sell orderID="6671431630" orderState="Fulfilled" price="9.15" volRemaining="0" issued="2023-12-21T17:06:48Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <sell orderID="6671431631" orderState="Fulfilled" price="3.01" volRemaining="0" issued="2023-12-21T17:06:48Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <sell orderID="6671431632" orderState="Fulfilled" price="21.1" volRemaining="0" issued="2023-12-21T17:06:48Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <sell orderID="6671431633" orderState="Fulfilled" price="3083.0" volRemaining="0" issued="2023-12-21T17:06:48Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <sell orderID="6671431634" orderState="Fulfilled" price="1900.0" volRemaining="0" issued="2023-12-21T17:06:48Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <sell orderID="6671431635" orderState="Fulfilled" price="350.2" volRemaining="0" issued="2023-12-21T17:06:48Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <sell orderID="6671457074" orderState="Fulfilled" price="35570000.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <sell orderID="6671457075" orderState="Fulfilled" price="475700.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <sell orderID="6671457076" orderState="Fulfilled" price="190300.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <sell orderID="6671457077" orderState="Fulfilled" price="1424000.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <sell orderID="6671457078" orderState="Fulfilled" price="181000.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <sell orderID="6671457079" orderState="Fulfilled" price="161100.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <sell orderID="6671457080" orderState="Fulfilled" price="125800.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <sell orderID="6671457081" orderState="Fulfilled" price="161100.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <sell orderID="6671457082" orderState="Fulfilled" price="601.1" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <sell orderID="6671457083" orderState="Fulfilled" price="76090.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <sell orderID="6671457084" orderState="Fulfilled" price="75500.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <sell orderID="6671457085" orderState="Fulfilled" price="150100.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <sell orderID="6671457086" orderState="Fulfilled" price="30080.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <sell orderID="6671457088" orderState="Fulfilled" price="6654.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <sell orderID="6671457089" orderState="Fulfilled" price="75000.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <sell orderID="6671457090" orderState="Fulfilled" price="25450.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <sell orderID="6671457091" orderState="Fulfilled" price="20090.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <sell orderID="6671457092" orderState="Fulfilled" price="18830.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <sell orderID="6671457093" orderState="Fulfilled" price="20010.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <sell orderID="6671457094" orderState="Fulfilled" price="9500.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <sell orderID="6671457095" orderState="Fulfilled" price="9500.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <sell orderID="6671457096" orderState="Fulfilled" price="9500.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <sell orderID="6671457097" orderState="Fulfilled" price="4164.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <sell orderID="6671457098" orderState="Fulfilled" price="4150.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <buy orderID="6671458057" orderState="Fulfilled" price="1008000.0" volRemaining="0" issued="2023-12-21T17:44:14Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <buy orderID="6671458058" orderState="Fulfilled" price="437200.0" volRemaining="0" issued="2023-12-21T17:44:14Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <buy orderID="6671458059" orderState="Fulfilled" price="61880.0" volRemaining="0" issued="2023-12-21T17:44:14Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <buy orderID="6671458060" orderState="Fulfilled" price="403600.0" volRemaining="0" issued="2023-12-21T17:44:14Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <buy orderID="6671458061" orderState="Fulfilled" price="1000000.0" volRemaining="0" issued="2023-12-21T17:44:14Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <buy orderID="6671479337" orderState="Fulfilled" price="29850.0" volRemaining="0" issued="2023-12-21T18:15:07Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <buy orderID="6671483483" orderState="Fulfilled" price="57790.0" volRemaining="0" issued="2023-12-21T18:21:13Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <buy orderID="6671483484" orderState="Fulfilled" price="21340.0" volRemaining="0" issued="2023-12-21T18:21:13Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <buy orderID="6671483485" orderState="Fulfilled" price="5990.0" volRemaining="0" issued="2023-12-21T18:21:13Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <buy orderID="6671483486" orderState="Fulfilled" price="613900.0" volRemaining="0" issued="2023-12-21T18:21:13Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <buy orderID="6671483487" orderState="Fulfilled" price="18200.0" volRemaining="0" issued="2023-12-21T18:21:13Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <buy orderID="6671483488" orderState="Fulfilled" price="70400.0" volRemaining="0" issued="2023-12-21T18:21:13Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <buy orderID="6671483489" orderState="Fulfilled" price="38440.0" volRemaining="0" issued="2023-12-21T18:21:13Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <buy orderID="6671483490" orderState="Fulfilled" price="12180.0" volRemaining="0" issued="2023-12-21T18:21:13Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <buy orderID="6671483491" orderState="Fulfilled" price="549700.0" volRemaining="0" issued="2023-12-21T18:21:13Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <buy orderID="6671483492" orderState="Fulfilled" price="506300.0" volRemaining="0" issued="2023-12-21T18:21:13Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <buy orderID="6671483493" orderState="Fulfilled" price="177000.0" volRemaining="0" issued="2023-12-21T18:21:13Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <buy orderID="6671483494" orderState="Fulfilled" price="1079000.0" volRemaining="0" issued="2023-12-21T18:21:13Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <buy orderID="6671483495" orderState="Fulfilled" price="69000.0" volRemaining="0" issued="2023-12-21T18:21:13Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <buy orderID="6671483496" orderState="Fulfilled" price="13100.0" volRemaining="0" issued="2023-12-21T18:21:13Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <sell orderID="6671493076" orderState="Fulfilled" price="9974000.0" volRemaining="0" issued="2023-12-21T18:34:36Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <buy orderID="6671575575" orderState="Fulfilled" price="4500000.0" volRemaining="0" issued="2023-12-21T20:21:57Z" issuedFor="Character" lastStateChange="2023-12-22T06:42:46.5627986Z" />
-        <sell orderID="6652737348" orderState="Active" price="20.0" volRemaining="6377" issued="2023-11-30T10:16:59Z" issuedFor="Character" lastStateChange="2023-12-01T15:54:59.7397686Z" />
-        <sell orderID="6652531541" orderState="Fulfilled" price="100200.0" volRemaining="0" issued="2023-11-30T02:35:39Z" issuedFor="Character" lastStateChange="2023-12-01T15:54:59.7407386Z" />
-        <sell orderID="6652706676" orderState="Fulfilled" price="14.51" volRemaining="0" issued="2023-11-30T09:00:49Z" issuedFor="Character" lastStateChange="2023-12-01T15:54:59.7407386Z" />
+        <sell orderID="6652737348" orderState="Active" price="20.0" volRemaining="6377" issued="2023-11-30T10:16:59Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <buy orderID="6671490794" orderState="Active" price="3770000.0" volRemaining="1" issued="2023-12-21T18:31:25Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <sell orderID="6652531541" orderState="Fulfilled" price="100200.0" volRemaining="0" issued="2023-11-30T02:35:39Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <sell orderID="6652706676" orderState="Fulfilled" price="14.51" volRemaining="0" issued="2023-11-30T09:00:49Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <buy orderID="6671401610" orderState="Fulfilled" price="150000.0" volRemaining="0" issued="2023-12-21T16:23:28Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <buy orderID="6671406710" orderState="Fulfilled" price="150000.0" volRemaining="0" issued="2023-12-21T16:31:04Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <buy orderID="6671406892" orderState="Fulfilled" price="150000.0" volRemaining="0" issued="2023-12-21T16:31:15Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <buy orderID="6671406978" orderState="Fulfilled" price="150000.0" volRemaining="0" issued="2023-12-21T16:31:26Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <buy orderID="6671425392" orderState="Fulfilled" price="7000000.0" volRemaining="0" issued="2023-12-21T16:58:35Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <buy orderID="6671425720" orderState="Fulfilled" price="360000.0" volRemaining="0" issued="2023-12-21T16:59:09Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <buy orderID="6671428843" orderState="Fulfilled" price="311000.0" volRemaining="0" issued="2023-12-21T17:02:45Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <buy orderID="6671429597" orderState="Fulfilled" price="400000.0" volRemaining="0" issued="2023-12-21T17:04:00Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <sell orderID="6671430404" orderState="Fulfilled" price="3.01" volRemaining="0" issued="2023-12-21T17:05:18Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <sell orderID="6671431629" orderState="Fulfilled" price="750.1" volRemaining="0" issued="2023-12-21T17:06:48Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <sell orderID="6671431630" orderState="Fulfilled" price="9.15" volRemaining="0" issued="2023-12-21T17:06:48Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <sell orderID="6671431631" orderState="Fulfilled" price="3.01" volRemaining="0" issued="2023-12-21T17:06:48Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <sell orderID="6671431632" orderState="Fulfilled" price="21.1" volRemaining="0" issued="2023-12-21T17:06:48Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <sell orderID="6671431633" orderState="Fulfilled" price="3083.0" volRemaining="0" issued="2023-12-21T17:06:48Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <sell orderID="6671431634" orderState="Fulfilled" price="1900.0" volRemaining="0" issued="2023-12-21T17:06:48Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <sell orderID="6671431635" orderState="Fulfilled" price="350.2" volRemaining="0" issued="2023-12-21T17:06:48Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <sell orderID="6671457074" orderState="Fulfilled" price="35570000.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <sell orderID="6671457075" orderState="Fulfilled" price="475700.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <sell orderID="6671457076" orderState="Fulfilled" price="190300.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <sell orderID="6671457077" orderState="Fulfilled" price="1424000.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <sell orderID="6671457078" orderState="Fulfilled" price="181000.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <sell orderID="6671457079" orderState="Fulfilled" price="161100.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <sell orderID="6671457080" orderState="Fulfilled" price="125800.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <sell orderID="6671457081" orderState="Fulfilled" price="161100.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <sell orderID="6671457082" orderState="Fulfilled" price="601.1" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <sell orderID="6671457083" orderState="Fulfilled" price="76090.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <sell orderID="6671457084" orderState="Fulfilled" price="75500.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <sell orderID="6671457085" orderState="Fulfilled" price="150100.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <sell orderID="6671457086" orderState="Fulfilled" price="30080.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <sell orderID="6671457088" orderState="Fulfilled" price="6654.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <sell orderID="6671457089" orderState="Fulfilled" price="75000.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <sell orderID="6671457090" orderState="Fulfilled" price="25450.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <sell orderID="6671457091" orderState="Fulfilled" price="20090.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <sell orderID="6671457092" orderState="Fulfilled" price="18830.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <sell orderID="6671457093" orderState="Fulfilled" price="20010.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <sell orderID="6671457094" orderState="Fulfilled" price="9500.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <sell orderID="6671457095" orderState="Fulfilled" price="9500.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <sell orderID="6671457096" orderState="Fulfilled" price="9500.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <sell orderID="6671457097" orderState="Fulfilled" price="4164.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <sell orderID="6671457098" orderState="Fulfilled" price="4150.0" volRemaining="0" issued="2023-12-21T17:43:00Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <buy orderID="6671458057" orderState="Fulfilled" price="1008000.0" volRemaining="0" issued="2023-12-21T17:44:14Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <buy orderID="6671458058" orderState="Fulfilled" price="437200.0" volRemaining="0" issued="2023-12-21T17:44:14Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <buy orderID="6671458059" orderState="Fulfilled" price="61880.0" volRemaining="0" issued="2023-12-21T17:44:14Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <buy orderID="6671458060" orderState="Fulfilled" price="403600.0" volRemaining="0" issued="2023-12-21T17:44:14Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <buy orderID="6671458061" orderState="Fulfilled" price="1000000.0" volRemaining="0" issued="2023-12-21T17:44:14Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <buy orderID="6671479337" orderState="Fulfilled" price="29850.0" volRemaining="0" issued="2023-12-21T18:15:07Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <buy orderID="6671483483" orderState="Fulfilled" price="57790.0" volRemaining="0" issued="2023-12-21T18:21:13Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <buy orderID="6671483484" orderState="Fulfilled" price="21340.0" volRemaining="0" issued="2023-12-21T18:21:13Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <buy orderID="6671483485" orderState="Fulfilled" price="5990.0" volRemaining="0" issued="2023-12-21T18:21:13Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <buy orderID="6671483486" orderState="Fulfilled" price="613900.0" volRemaining="0" issued="2023-12-21T18:21:13Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <buy orderID="6671483487" orderState="Fulfilled" price="18200.0" volRemaining="0" issued="2023-12-21T18:21:13Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <buy orderID="6671483488" orderState="Fulfilled" price="70400.0" volRemaining="0" issued="2023-12-21T18:21:13Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <buy orderID="6671483489" orderState="Fulfilled" price="38440.0" volRemaining="0" issued="2023-12-21T18:21:13Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <buy orderID="6671483490" orderState="Fulfilled" price="12180.0" volRemaining="0" issued="2023-12-21T18:21:13Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <buy orderID="6671483491" orderState="Fulfilled" price="549700.0" volRemaining="0" issued="2023-12-21T18:21:13Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <buy orderID="6671483492" orderState="Fulfilled" price="506300.0" volRemaining="0" issued="2023-12-21T18:21:13Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <buy orderID="6671483493" orderState="Fulfilled" price="177000.0" volRemaining="0" issued="2023-12-21T18:21:13Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <buy orderID="6671483494" orderState="Fulfilled" price="1079000.0" volRemaining="0" issued="2023-12-21T18:21:13Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <buy orderID="6671483495" orderState="Fulfilled" price="69000.0" volRemaining="0" issued="2023-12-21T18:21:13Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <buy orderID="6671483496" orderState="Fulfilled" price="13100.0" volRemaining="0" issued="2023-12-21T18:21:13Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <sell orderID="6671493076" orderState="Fulfilled" price="9974000.0" volRemaining="0" issued="2023-12-21T18:34:36Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <buy orderID="6671575575" orderState="Fulfilled" price="4500000.0" volRemaining="0" issued="2023-12-21T20:21:57Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
       </marketOrders>
       <contracts>
         <contract contractID="199037050" contractState="Finished" contractType="ItemExchange" issuedFor="Character" />
       </contracts>
       <industryJobs>
-        <job jobID="540531953" jobState="Active" startDate="2023-12-11T19:09:15Z" endDate="2023-12-20T16:29:15Z" pauseDate="0001-01-01T00:00:00" issuedFor="Character" lastStateChange="2023-12-11T19:12:12.5314301Z" />
+        <job jobID="540531953" jobState="Active" startDate="2023-12-11T19:09:15Z" endDate="2023-12-20T16:29:15Z" pauseDate="0001-01-01T00:00:00" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.4265987Z" />
       </industryJobs>
       <eveMailMessages>394932811,394873526,394850848,394823413,394812155,394809877,394788544,394753790,394738685,394738653,394736391,394735111,394730287,394728857,394727722,393512682,393496375,393496218,393490855,393490711,393490698,393490647,393490608,379739899</eveMailMessages>
       <eveNotifications>1792747696,1870016327,1870023196,1870038650,1870041183,1870043887,1870054198,1870057039,1870057699,1870059719,1870064567,1870066429,1870071576,1870075748,1870083184,1870090581,1870094298,1870098085,1870138709,1870143095,1870153826,1870155987,1870159005,1870159421,1870161050,1870161051,1870161523,1870161811,1870169305,1870170288,1870190398,1870203465,1870206298,1870208598,1870217858,1870217864,1870219207,1870219927,1870222291,1870225757,1870229394,1870229678,1870233604,1870237216,1870238913,1870278122,1870558390,1870561682,1870562950,1870564840,1870571034,1870572980,1870575039,1870576461,1870582886,1870589318,1870594283,1870596740,1870597181,1870601842,1870605540,1870608210,1870612478,1870667945,1870669933,1870674378,1870855821,1870867005,1870871328,1870872292,1870876053,1870881176,1870884363,1870888789,1870892353,1870947818,1870984624,1870986683,1870989197,1870989295,1870995409,1870999355,1871001558,1871006085,1871015483,1871016962,1871022409,1871377986,1871400008,1871401233,1871402921,1871406462,1871423074,1871425321,1871427923,1871434459,1871437693,1871438508,1871445311,1871447266,1871451771,1871452293,1871455616,1871455811,1871458411,1871464126,1871474680,1871490393,1871497727,1871604410,1871612386,1871629080,1871640815,1871642954,1871643480,1874626264,1874626265,1874639433,1874639434,1874639727,1875239662,1875553296,1878608537,1878617142,1878629685,1878639470,1878661001,1878673885,1878694832,1878694833,1878699789,1878709757,1878715586,1878723334,1878742061,1878754768,1878764484,1879174470,1879175850,1879176423,1879176961,1884575104,1884641619,1884680665,1884693968,1884697666,1884703095,1884723519,1884728717,1884735459,1884746486</eveNotifications>
@@ -279,30 +279,30 @@
         <apiUpdate method="Implants" time="2023-12-22T06:42:48.4452493Z" />
         <apiUpdate method="Ship" time="2023-12-22T06:42:48.4608452Z" />
         <apiUpdate method="Skills" time="2023-12-22T06:42:48.4608452Z" />
-        <apiUpdate method="SkillQueue" time="2023-12-22T07:12:49.3529387Z" />
+        <apiUpdate method="SkillQueue" time="2023-12-22T07:37:22.9972956Z" />
         <apiUpdate method="EmploymentHistory" time="2023-12-22T06:42:48.4296254Z" />
         <apiUpdate method="Standings" time="2023-12-22T06:42:46.2191569Z" />
-        <apiUpdate method="ContactList" time="2023-12-22T07:23:27.4935351Z" />
+        <apiUpdate method="ContactList" time="2023-12-22T07:37:21.9384482Z" />
         <apiUpdate method="FactionalWarfareStats" time="0001-01-01T00:00:00" />
         <apiUpdate method="Medals" time="2023-12-22T06:42:46.2347776Z" />
         <apiUpdate method="KillLog" time="2023-12-22T07:12:47.2908188Z" />
         <apiUpdate method="AssetList" time="2023-12-22T06:42:46.2972352Z" />
-        <apiUpdate method="MarketOrders" time="2023-12-22T07:04:43.6089636Z" />
-        <apiUpdate method="Contracts" time="2023-12-22T07:23:27.6185335Z" />
+        <apiUpdate method="MarketOrders" time="2023-12-22T07:37:21.8759626Z" />
+        <apiUpdate method="Contracts" time="2023-12-22T07:37:22.0790403Z" />
         <apiUpdate method="WalletJournal" time="2023-12-22T06:42:46.5471765Z" />
         <apiUpdate method="AccountBalance" time="2023-12-22T06:42:48.4296254Z" />
         <apiUpdate method="WalletTransactions" time="2023-12-22T06:42:46.3128567Z" />
-        <apiUpdate method="IndustryJobs" time="2023-12-22T07:19:44.7915707Z" />
-        <apiUpdate method="ResearchPoints" time="2023-12-22T07:04:43.5621008Z" />
-        <apiUpdate method="MailMessages" time="2023-12-22T07:19:44.8227807Z" />
+        <apiUpdate method="IndustryJobs" time="2023-12-22T07:37:21.9228269Z" />
+        <apiUpdate method="ResearchPoints" time="2023-12-22T07:37:21.8603422Z" />
+        <apiUpdate method="MailMessages" time="2023-12-22T07:37:21.9228269Z" />
         <apiUpdate method="MailingLists" time="0001-01-01T00:00:00" />
-        <apiUpdate method="Notifications" time="2023-12-22T07:19:44.8541598Z" />
+        <apiUpdate method="Notifications" time="2023-12-22T07:37:21.8759626Z" />
         <apiUpdate method="UpcomingCalendarEvents" time="0001-01-01T00:00:00" />
-        <apiUpdate method="PlanetaryColonies" time="2023-12-22T07:04:43.6402061Z" />
-        <apiUpdate method="LoyaltyPoints" time="2023-12-22T07:04:43.5621008Z" />
+        <apiUpdate method="PlanetaryColonies" time="2023-12-22T07:37:21.9384482Z" />
+        <apiUpdate method="LoyaltyPoints" time="2023-12-22T07:37:21.8603422Z" />
         <apiUpdate method="CorporationMedals" time="2023-12-22T06:42:46.3285058Z" />
         <apiUpdate method="CorporationMarketOrders" time="2023-12-22T07:02:52.4573474Z" />
-        <apiUpdate method="CorporationContracts" time="2023-12-22T07:12:48.4624147Z" />
+        <apiUpdate method="CorporationContracts" time="2023-12-22T07:32:02.4734626Z" />
         <apiUpdate method="CorporationIndustryJobs" time="2023-12-22T07:25:56.1323581Z" />
       </lastUpdates>
     </ccp>
@@ -369,7 +369,7 @@
         <skill typeID="3432" name="Electronics Upgrades" level="4" activelevel="4" skillpoints="90510" ownsBook="true" isKnown="true" />
         <skill typeID="3424" name="Energy Grid Upgrades" level="4" activelevel="4" skillpoints="90510" ownsBook="true" isKnown="true" />
         <skill typeID="3413" name="Power Grid Management" level="5" activelevel="5" skillpoints="256000" ownsBook="true" isKnown="true" />
-        <skill typeID="3318" name="Weapon Upgrades" level="4" activelevel="4" skillpoints="140692" ownsBook="true" isKnown="true" />
+        <skill typeID="3318" name="Weapon Upgrades" level="4" activelevel="4" skillpoints="140864" ownsBook="true" isKnown="true" />
         <skill typeID="3316" name="Controlled Bursts" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
         <skill typeID="3300" name="Gunnery" level="4" activelevel="4" skillpoints="45255" ownsBook="true" isKnown="true" />
         <skill typeID="3312" name="Motion Prediction" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
@@ -456,56 +456,56 @@
         <selectedIndex>0</selectedIndex>
       </implants>
       <queue>
-        <skill typeID="3318" level="5" startSP="90513" endSP="512000" startTime="2023-12-20 01:28:59" endTime="2024-01-07 22:41:42" />
-        <skill typeID="3424" level="5" startSP="90510" endSP="512000" startTime="2024-01-07 22:41:42" endTime="2024-01-27 11:01:02" />
+        <skill typeID="3318" level="5" startSP="90513" endSP="512000" startTime="2023-12-20 01:29:00" endTime="2024-01-07 22:41:43" />
+        <skill typeID="3424" level="5" startSP="90510" endSP="512000" startTime="2024-01-07 22:41:43" endTime="2024-01-27 11:01:03" />
       </queue>
       <marketOrders>
-        <sell orderID="6658365535" orderState="Fulfilled" price="955000.0" volRemaining="0" issued="2023-12-06T15:59:05Z" issuedFor="Character" lastStateChange="2023-12-08T03:40:54.3007477Z" />
-        <sell orderID="6658365877" orderState="Fulfilled" price="569500.0" volRemaining="0" issued="2023-12-06T15:59:42Z" issuedFor="Character" lastStateChange="2023-12-10T21:59:14.8390448Z" />
-        <sell orderID="6658366649" orderState="Fulfilled" price="10840.0" volRemaining="0" issued="2023-12-06T16:00:37Z" issuedFor="Character" lastStateChange="2023-12-08T03:40:54.3007477Z" />
-        <sell orderID="6658366910" orderState="Active" price="13300.0" volRemaining="23" issued="2023-12-06T16:00:06Z" issuedFor="Character" lastStateChange="2023-12-10T21:59:14.8390448Z" />
-        <sell orderID="6658368091" orderState="Fulfilled" price="4367.0" volRemaining="0" issued="2023-12-06T14:08:24Z" issuedFor="Character" lastStateChange="2023-12-08T03:40:54.3007477Z" />
-        <sell orderID="6658380257" orderState="Fulfilled" price="780000.0" volRemaining="0" issued="2023-12-06T14:24:17Z" issuedFor="Character" lastStateChange="2023-12-08T03:40:54.3007477Z" />
-        <sell orderID="6658380569" orderState="Fulfilled" price="616000.0" volRemaining="0" issued="2023-12-06T14:24:38Z" issuedFor="Character" lastStateChange="2023-12-08T03:40:54.3007477Z" />
-        <sell orderID="6658381172" orderState="Fulfilled" price="180000.0" volRemaining="0" issued="2023-12-06T14:25:42Z" issuedFor="Character" lastStateChange="2023-12-08T03:40:54.3007477Z" />
-        <sell orderID="6658364355" orderState="Fulfilled" price="150100.0" volRemaining="0" issued="2023-12-06T14:02:43Z" issuedFor="Character" lastStateChange="2023-12-06T15:54:11.3140233Z" />
-        <sell orderID="6658365181" orderState="Fulfilled" price="501.1" volRemaining="0" issued="2023-12-06T14:04:00Z" issuedFor="Character" lastStateChange="2023-12-06T15:54:11.3140233Z" />
-        <sell orderID="6658365261" orderState="Fulfilled" price="3252.0" volRemaining="0" issued="2023-12-06T14:04:11Z" issuedFor="Character" lastStateChange="2023-12-06T15:54:11.3140233Z" />
-        <sell orderID="6658365876" orderState="Fulfilled" price="1650000.0" volRemaining="0" issued="2023-12-06T14:05:19Z" issuedFor="Character" lastStateChange="2023-12-06T15:54:11.3140233Z" />
-        <sell orderID="6658366239" orderState="Fulfilled" price="4965000.0" volRemaining="0" issued="2023-12-06T14:05:46Z" issuedFor="Character" lastStateChange="2023-12-06T15:54:11.3140233Z" />
-        <sell orderID="6658368506" orderState="Fulfilled" price="14500.0" volRemaining="0" issued="2023-12-06T14:08:53Z" issuedFor="Character" lastStateChange="2023-12-06T15:54:11.3140233Z" />
-        <sell orderID="6658368859" orderState="Fulfilled" price="144000.0" volRemaining="0" issued="2023-12-06T14:09:21Z" issuedFor="Character" lastStateChange="2023-12-06T15:54:11.3140233Z" />
-        <sell orderID="6658334858" orderState="Fulfilled" price="10840.0" volRemaining="0" issued="2023-12-06T16:00:23Z" issuedFor="Character" lastStateChange="2023-12-08T03:40:54.3007477Z" />
-        <sell orderID="6658334392" orderState="Fulfilled" price="140000.0" volRemaining="0" issued="2023-12-06T13:19:46Z" issuedFor="Character" lastStateChange="2023-12-06T13:57:14.1322618Z" />
-        <sell orderID="6658334529" orderState="Fulfilled" price="34310.0" volRemaining="0" issued="2023-12-06T13:20:07Z" issuedFor="Character" lastStateChange="2023-12-06T13:57:14.1322618Z" />
-        <sell orderID="6658223950" orderState="Fulfilled" price="96.6" volRemaining="0" issued="2023-12-06T09:56:48Z" issuedFor="Character" lastStateChange="2023-12-08T03:40:54.3007477Z" />
-        <sell orderID="6658224329" orderState="Fulfilled" price="501.8" volRemaining="0" issued="2023-12-06T13:17:57Z" issuedFor="Character" lastStateChange="2023-12-06T13:57:14.1322618Z" />
-        <sell orderID="6658224476" orderState="Fulfilled" price="45.5" volRemaining="0" issued="2023-12-06T13:17:34Z" issuedFor="Character" lastStateChange="2023-12-06T15:54:11.3140233Z" />
-        <sell orderID="6651577310" orderState="Fulfilled" price="639400.0" volRemaining="0" issued="2023-11-28T22:29:53Z" issuedFor="Character" lastStateChange="2023-11-29T21:03:07.5462564Z" />
-        <sell orderID="6651577311" orderState="Fulfilled" price="639400.0" volRemaining="0" issued="2023-11-28T22:29:53Z" issuedFor="Character" lastStateChange="2023-11-29T21:03:07.5462564Z" />
-        <sell orderID="6651577312" orderState="Fulfilled" price="639400.0" volRemaining="0" issued="2023-11-28T22:29:53Z" issuedFor="Character" lastStateChange="2023-11-29T21:03:07.5462564Z" />
-        <sell orderID="6651581832" orderState="Fulfilled" price="68650.0" volRemaining="0" issued="2023-11-28T22:35:38Z" issuedFor="Character" lastStateChange="2023-11-29T21:03:07.5462564Z" />
-        <sell orderID="6651581192" orderState="Fulfilled" price="280.0" volRemaining="0" issued="2023-11-28T22:34:42Z" issuedFor="Character" lastStateChange="2023-11-29T21:03:07.5462564Z" />
-        <sell orderID="6651581830" orderState="Fulfilled" price="68650.0" volRemaining="0" issued="2023-11-28T22:35:38Z" issuedFor="Character" lastStateChange="2023-11-28T22:38:53.3532813Z" />
-        <sell orderID="6651581831" orderState="Fulfilled" price="68650.0" volRemaining="0" issued="2023-11-28T22:35:38Z" issuedFor="Character" lastStateChange="2023-11-28T22:38:53.3532813Z" />
-        <sell orderID="6651582089" orderState="Fulfilled" price="154000.0" volRemaining="0" issued="2023-11-28T22:36:06Z" issuedFor="Character" lastStateChange="2023-11-28T22:38:53.3532813Z" />
-        <sell orderID="6651582090" orderState="Fulfilled" price="154000.0" volRemaining="0" issued="2023-11-28T22:36:06Z" issuedFor="Character" lastStateChange="2023-11-28T22:38:53.3532813Z" />
-        <sell orderID="6651582091" orderState="Fulfilled" price="154000.0" volRemaining="0" issued="2023-11-28T22:36:06Z" issuedFor="Character" lastStateChange="2023-11-28T22:38:53.3532813Z" />
+        <sell orderID="6658366910" orderState="Active" price="13300.0" volRemaining="23" issued="2023-12-06T16:00:06Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6765699Z" />
+        <sell orderID="6651577310" orderState="Fulfilled" price="639400.0" volRemaining="0" issued="2023-11-28T22:29:53Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6765699Z" />
+        <sell orderID="6651577311" orderState="Fulfilled" price="639400.0" volRemaining="0" issued="2023-11-28T22:29:53Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6765699Z" />
+        <sell orderID="6651577312" orderState="Fulfilled" price="639400.0" volRemaining="0" issued="2023-11-28T22:29:53Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6765699Z" />
+        <sell orderID="6651581192" orderState="Fulfilled" price="280.0" volRemaining="0" issued="2023-11-28T22:34:42Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6765699Z" />
+        <sell orderID="6651581830" orderState="Fulfilled" price="68650.0" volRemaining="0" issued="2023-11-28T22:35:38Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6765699Z" />
+        <sell orderID="6651581831" orderState="Fulfilled" price="68650.0" volRemaining="0" issued="2023-11-28T22:35:38Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6765699Z" />
+        <sell orderID="6651581832" orderState="Fulfilled" price="68650.0" volRemaining="0" issued="2023-11-28T22:35:38Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6765699Z" />
+        <sell orderID="6651582089" orderState="Fulfilled" price="154000.0" volRemaining="0" issued="2023-11-28T22:36:06Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6765699Z" />
+        <sell orderID="6651582090" orderState="Fulfilled" price="154000.0" volRemaining="0" issued="2023-11-28T22:36:06Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6765699Z" />
+        <sell orderID="6651582091" orderState="Fulfilled" price="154000.0" volRemaining="0" issued="2023-11-28T22:36:06Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6765699Z" />
+        <sell orderID="6658223950" orderState="Fulfilled" price="96.6" volRemaining="0" issued="2023-12-06T09:56:48Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6765699Z" />
+        <sell orderID="6658224329" orderState="Fulfilled" price="501.8" volRemaining="0" issued="2023-12-06T13:17:57Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6765699Z" />
+        <sell orderID="6658224476" orderState="Fulfilled" price="45.5" volRemaining="0" issued="2023-12-06T13:17:34Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6765699Z" />
+        <sell orderID="6658334392" orderState="Fulfilled" price="140000.0" volRemaining="0" issued="2023-12-06T13:19:46Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6765699Z" />
+        <sell orderID="6658334529" orderState="Fulfilled" price="34310.0" volRemaining="0" issued="2023-12-06T13:20:07Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6765699Z" />
+        <sell orderID="6658334858" orderState="Fulfilled" price="10840.0" volRemaining="0" issued="2023-12-06T16:00:23Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6765699Z" />
+        <sell orderID="6658364355" orderState="Fulfilled" price="150100.0" volRemaining="0" issued="2023-12-06T14:02:43Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6765699Z" />
+        <sell orderID="6658365181" orderState="Fulfilled" price="501.1" volRemaining="0" issued="2023-12-06T14:04:00Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6765699Z" />
+        <sell orderID="6658365261" orderState="Fulfilled" price="3252.0" volRemaining="0" issued="2023-12-06T14:04:11Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6765699Z" />
+        <sell orderID="6658365535" orderState="Fulfilled" price="955000.0" volRemaining="0" issued="2023-12-06T15:59:05Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6765699Z" />
+        <sell orderID="6658365876" orderState="Fulfilled" price="1650000.0" volRemaining="0" issued="2023-12-06T14:05:19Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6765699Z" />
+        <sell orderID="6658365877" orderState="Fulfilled" price="569500.0" volRemaining="0" issued="2023-12-06T15:59:42Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6765699Z" />
+        <sell orderID="6658366239" orderState="Fulfilled" price="4965000.0" volRemaining="0" issued="2023-12-06T14:05:46Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6765699Z" />
+        <sell orderID="6658366649" orderState="Fulfilled" price="10840.0" volRemaining="0" issued="2023-12-06T16:00:37Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6765699Z" />
+        <sell orderID="6658368091" orderState="Fulfilled" price="4367.0" volRemaining="0" issued="2023-12-06T14:08:24Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6765699Z" />
+        <sell orderID="6658368506" orderState="Fulfilled" price="14500.0" volRemaining="0" issued="2023-12-06T14:08:53Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6765699Z" />
+        <sell orderID="6658368859" orderState="Fulfilled" price="144000.0" volRemaining="0" issued="2023-12-06T14:09:21Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6765699Z" />
+        <sell orderID="6658380257" orderState="Fulfilled" price="780000.0" volRemaining="0" issued="2023-12-06T14:24:17Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6765699Z" />
+        <sell orderID="6658380569" orderState="Fulfilled" price="616000.0" volRemaining="0" issued="2023-12-06T14:24:38Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6765699Z" />
+        <sell orderID="6658381172" orderState="Fulfilled" price="180000.0" volRemaining="0" issued="2023-12-06T14:25:42Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6765699Z" />
       </marketOrders>
       <contracts>
+        <contract contractID="198825820" contractState="Finished" contractType="ItemExchange" issuedFor="Character" />
+        <contract contractID="198826675" contractState="Finished" contractType="ItemExchange" issuedFor="Character" />
         <contract contractID="199063559" contractState="Finished" contractType="ItemExchange" issuedFor="Character" />
         <contract contractID="199063575" contractState="Finished" contractType="ItemExchange" issuedFor="Character" />
         <contract contractID="199063597" contractState="Finished" contractType="ItemExchange" issuedFor="Character" />
         <contract contractID="199063608" contractState="Finished" contractType="ItemExchange" issuedFor="Character" />
         <contract contractID="199063611" contractState="Finished" contractType="ItemExchange" issuedFor="Character" />
         <contract contractID="199063628" contractState="Finished" contractType="ItemExchange" issuedFor="Character" />
-        <contract contractID="198825820" contractState="Finished" contractType="ItemExchange" issuedFor="Character" />
-        <contract contractID="198826675" contractState="Finished" contractType="ItemExchange" issuedFor="Character" />
       </contracts>
       <industryJobs>
-        <job jobID="524653348" jobState="Active" startDate="2023-06-21T10:30:55Z" endDate="2023-06-21T11:32:39Z" pauseDate="0001-01-01T00:00:00" issuedFor="Character" lastStateChange="2023-11-28T16:19:36.6246022Z" />
-        <job jobID="524653294" jobState="Active" startDate="2023-06-21T10:29:59Z" endDate="2023-06-21T11:52:18Z" pauseDate="0001-01-01T00:00:00" issuedFor="Character" lastStateChange="2023-11-28T16:19:36.6255994Z" />
-        <job jobID="524653232" jobState="Active" startDate="2023-06-21T10:28:55Z" endDate="2023-06-21T10:37:09Z" pauseDate="0001-01-01T00:00:00" issuedFor="Character" lastStateChange="2023-11-28T16:19:36.6255994Z" />
+        <job jobID="524653348" jobState="Active" startDate="2023-06-21T10:30:55Z" endDate="2023-06-21T11:32:39Z" pauseDate="0001-01-01T00:00:00" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.4734626Z" />
+        <job jobID="524653294" jobState="Active" startDate="2023-06-21T10:29:59Z" endDate="2023-06-21T11:52:18Z" pauseDate="0001-01-01T00:00:00" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.4734626Z" />
+        <job jobID="524653232" jobState="Active" startDate="2023-06-21T10:28:55Z" endDate="2023-06-21T10:37:09Z" pauseDate="0001-01-01T00:00:00" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.4734626Z" />
       </industryJobs>
       <eveMailMessages>394933468,394932811,394873526,394850848,394823413,394788544,394753790,394749389,394738685,394738653,394736598,394736539,394736489,394730287,394730017,394728393,394716091,394714631,394488230,394430840,394392561,394119769,393645346,393597717,393589061,393512682,393492897,393492436,393492067,393490711,393490698,393490647,393490608,393490599,393490578,393490562,393490547,393490511,393490484,393490413,379739899</eveMailMessages>
       <eveNotifications>1791989017,1792021699,1792026752,1792051020,1792201837,1792255423,1792256043,1792256045,1792260022,1792262422,1792262423,1792709234,1792948950,1792948951,1792951090,1793260701,1793263697,1793264083,1793265440,1793266894,1794135560,1794136061,1794137503,1794141220,1794141221,1794666795,1794673653,1837745845,1837745846,1837745848,1837749639,1837751219,1837959353,1837960835,1837972493,1837972494,1837972496,1838066849,1838067279,1870038650,1874639433,1874639434,1874639727,1875140133,1875152717,1875239662,1875253466,1875272401,1875385461,1875468127,1875470026,1875475426,1875480990,1875488732,1875504687,1875517023,1875524449,1875549935,1875553296,1875557576,1878815688,1879174470,1879175850,1879176423,1879176961,1879187610,1879209345,1879209597,1879209645,1879222313,1884574993,1884622704</eveNotifications>
@@ -516,31 +516,31 @@
         <apiUpdate method="Implants" time="2023-12-22T06:42:48.4452493Z" />
         <apiUpdate method="Ship" time="2023-12-22T06:42:48.4608452Z" />
         <apiUpdate method="Skills" time="2023-12-22T06:42:48.4608452Z" />
-        <apiUpdate method="SkillQueue" time="2023-12-22T07:12:49.3529387Z" />
+        <apiUpdate method="SkillQueue" time="2023-12-22T07:37:22.9972956Z" />
         <apiUpdate method="EmploymentHistory" time="2023-12-22T06:42:48.4296254Z" />
         <apiUpdate method="Standings" time="2023-12-22T06:42:46.2816145Z" />
-        <apiUpdate method="ContactList" time="2023-12-22T07:23:27.4779135Z" />
+        <apiUpdate method="ContactList" time="2023-12-22T07:37:21.9696912Z" />
         <apiUpdate method="FactionalWarfareStats" time="0001-01-01T00:00:00" />
         <apiUpdate method="Medals" time="2023-12-22T06:42:46.2816145Z" />
         <apiUpdate method="KillLog" time="2023-12-22T07:12:47.3064369Z" />
         <apiUpdate method="AssetList" time="2023-12-22T06:42:46.3285058Z" />
-        <apiUpdate method="MarketOrders" time="2023-12-22T07:04:43.6089636Z" />
-        <apiUpdate method="Contracts" time="2023-12-22T07:23:27.4622922Z" />
+        <apiUpdate method="MarketOrders" time="2023-12-22T07:37:21.8759626Z" />
+        <apiUpdate method="Contracts" time="2023-12-22T07:37:22.0946892Z" />
         <apiUpdate method="WalletJournal" time="2023-12-22T06:42:46.4534773Z" />
         <apiUpdate method="AccountBalance" time="2023-12-22T06:42:48.4452493Z" />
         <apiUpdate method="WalletTransactions" time="2023-12-22T06:42:46.3285058Z" />
-        <apiUpdate method="IndustryJobs" time="2023-12-22T07:19:44.8227807Z" />
-        <apiUpdate method="ResearchPoints" time="2023-12-22T07:04:43.5621008Z" />
-        <apiUpdate method="MailMessages" time="2023-12-22T07:19:44.8227807Z" />
+        <apiUpdate method="IndustryJobs" time="2023-12-22T07:37:21.9384482Z" />
+        <apiUpdate method="ResearchPoints" time="2023-12-22T07:37:21.8759626Z" />
+        <apiUpdate method="MailMessages" time="2023-12-22T07:37:21.9384482Z" />
         <apiUpdate method="MailingLists" time="0001-01-01T00:00:00" />
-        <apiUpdate method="Notifications" time="2023-12-22T07:19:44.8385387Z" />
+        <apiUpdate method="Notifications" time="2023-12-22T07:37:21.8917256Z" />
         <apiUpdate method="UpcomingCalendarEvents" time="0001-01-01T00:00:00" />
-        <apiUpdate method="PlanetaryColonies" time="2023-12-22T07:04:43.6245855Z" />
-        <apiUpdate method="LoyaltyPoints" time="2023-12-22T07:04:43.5621008Z" />
+        <apiUpdate method="PlanetaryColonies" time="2023-12-22T07:37:21.9384482Z" />
+        <apiUpdate method="LoyaltyPoints" time="2023-12-22T07:37:21.8759626Z" />
         <apiUpdate method="CorporationMedals" time="2023-12-22T06:42:46.3285058Z" />
         <apiUpdate method="CorporationMarketOrders" time="2023-12-22T06:42:46.3441274Z" />
-        <apiUpdate method="CorporationContracts" time="2023-12-22T07:12:48.54053Z" />
-        <apiUpdate method="CorporationIndustryJobs" time="2023-12-22T07:12:48.3530691Z" />
+        <apiUpdate method="CorporationContracts" time="2023-12-22T07:32:02.489084Z" />
+        <apiUpdate method="CorporationIndustryJobs" time="2023-12-22T07:32:02.489084Z" />
       </lastUpdates>
     </ccp>
     <ccp guid="20c7bab8-567c-43f8-83d1-b548db1c35f4" label="">
@@ -610,7 +610,7 @@
         <skill typeID="3432" name="Electronics Upgrades" level="4" activelevel="4" skillpoints="90510" ownsBook="true" isKnown="true" />
         <skill typeID="3424" name="Energy Grid Upgrades" level="4" activelevel="4" skillpoints="90510" ownsBook="true" isKnown="true" />
         <skill typeID="3413" name="Power Grid Management" level="5" activelevel="5" skillpoints="256000" ownsBook="true" isKnown="true" />
-        <skill typeID="3318" name="Weapon Upgrades" level="4" activelevel="4" skillpoints="459020" ownsBook="true" isKnown="true" />
+        <skill typeID="3318" name="Weapon Upgrades" level="4" activelevel="4" skillpoints="459196" ownsBook="true" isKnown="true" />
         <skill typeID="3316" name="Controlled Bursts" level="2" activelevel="2" skillpoints="2829" ownsBook="true" isKnown="true" />
         <skill typeID="3300" name="Gunnery" level="4" activelevel="4" skillpoints="45255" ownsBook="true" isKnown="true" />
         <skill typeID="3312" name="Motion Prediction" level="2" activelevel="2" skillpoints="2829" ownsBook="true" isKnown="true" />
@@ -712,18 +712,18 @@
         <skill typeID="3424" level="5" startSP="90510" endSP="512000" startTime="2024-01-11 15:47:59" endTime="2024-01-29 16:05:49" />
       </queue>
       <marketOrders>
-        <sell orderID="6651407022" orderState="Fulfilled" price="5000.0" volRemaining="0" issued="2023-11-28T18:42:04Z" issuedFor="Character" lastStateChange="2023-11-29T00:26:44.649293Z" />
-        <sell orderID="6651512587" orderState="Fulfilled" price="9.64" volRemaining="0" issued="2023-11-28T20:55:18Z" issuedFor="Character" lastStateChange="2023-11-29T21:03:07.5076134Z" />
-        <sell orderID="6651514860" orderState="Fulfilled" price="63900.0" volRemaining="0" issued="2023-11-28T20:58:02Z" issuedFor="Character" lastStateChange="2023-11-28T22:38:53.2863006Z" />
-        <sell orderID="6651513441" orderState="Fulfilled" price="79000.0" volRemaining="0" issued="2023-11-28T20:56:15Z" issuedFor="Character" lastStateChange="2023-11-28T21:36:43.3233341Z" />
-        <sell orderID="6651532638" orderState="Fulfilled" price="580800.0" volRemaining="0" issued="2023-11-28T21:22:47Z" issuedFor="Character" lastStateChange="2023-11-28T21:36:43.3233341Z" />
-        <sell orderID="6651538322" orderState="Fulfilled" price="140000.0" volRemaining="0" issued="2023-11-28T21:30:09Z" issuedFor="Character" lastStateChange="2023-11-28T21:36:43.3233341Z" />
-        <sell orderID="6651407019" orderState="Fulfilled" price="12000.0" volRemaining="0" issued="2023-11-28T18:42:04Z" issuedFor="Character" lastStateChange="2023-11-28T21:36:43.3233341Z" />
-        <sell orderID="6651407020" orderState="Fulfilled" price="34000.0" volRemaining="0" issued="2023-11-28T18:42:04Z" issuedFor="Character" lastStateChange="2023-11-28T19:06:16.0735692Z" />
-        <sell orderID="6651407021" orderState="Fulfilled" price="490000.0" volRemaining="0" issued="2023-11-28T18:42:04Z" issuedFor="Character" lastStateChange="2023-11-28T19:06:16.0735692Z" />
-        <sell orderID="6651376616" orderState="Fulfilled" price="23900.0" volRemaining="0" issued="2023-11-28T20:52:25Z" issuedFor="Character" lastStateChange="2023-12-03T22:18:33.3536186Z" />
-        <sell orderID="6651363497" orderState="Canceled" price="33740.0" volRemaining="51" issued="2023-11-28T17:48:12Z" issuedFor="Character" lastStateChange="2023-11-28T18:06:15.7558572Z" />
-        <sell orderID="6651363498" orderState="Canceled" price="4397.0" volRemaining="16" issued="2023-11-28T17:48:12Z" issuedFor="Character" lastStateChange="2023-11-28T18:06:15.7558572Z" />
+        <sell orderID="6651376616" orderState="Fulfilled" price="23900.0" volRemaining="0" issued="2023-11-28T20:52:25Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6452979Z" />
+        <sell orderID="6651407019" orderState="Fulfilled" price="12000.0" volRemaining="0" issued="2023-11-28T18:42:04Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6452979Z" />
+        <sell orderID="6651407020" orderState="Fulfilled" price="34000.0" volRemaining="0" issued="2023-11-28T18:42:04Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6452979Z" />
+        <sell orderID="6651407021" orderState="Fulfilled" price="490000.0" volRemaining="0" issued="2023-11-28T18:42:04Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6452979Z" />
+        <sell orderID="6651407022" orderState="Fulfilled" price="5000.0" volRemaining="0" issued="2023-11-28T18:42:04Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6452979Z" />
+        <sell orderID="6651512587" orderState="Fulfilled" price="9.64" volRemaining="0" issued="2023-11-28T20:55:18Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6452979Z" />
+        <sell orderID="6651513441" orderState="Fulfilled" price="79000.0" volRemaining="0" issued="2023-11-28T20:56:15Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6452979Z" />
+        <sell orderID="6651514860" orderState="Fulfilled" price="63900.0" volRemaining="0" issued="2023-11-28T20:58:02Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6452979Z" />
+        <sell orderID="6651532638" orderState="Fulfilled" price="580800.0" volRemaining="0" issued="2023-11-28T21:22:47Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6452979Z" />
+        <sell orderID="6651538322" orderState="Fulfilled" price="140000.0" volRemaining="0" issued="2023-11-28T21:30:09Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6452979Z" />
+        <sell orderID="6651363497" orderState="Canceled" price="33740.0" volRemaining="51" issued="2023-11-28T17:48:12Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6452979Z" />
+        <sell orderID="6651363498" orderState="Canceled" price="4397.0" volRemaining="16" issued="2023-11-28T17:48:12Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6452979Z" />
       </marketOrders>
       <contracts />
       <industryJobs />
@@ -736,30 +736,30 @@
         <apiUpdate method="Implants" time="2023-12-22T06:42:48.4452493Z" />
         <apiUpdate method="Ship" time="2023-12-22T06:42:48.4452493Z" />
         <apiUpdate method="Skills" time="2023-12-22T06:42:48.4608452Z" />
-        <apiUpdate method="SkillQueue" time="2023-12-22T07:12:49.3997422Z" />
+        <apiUpdate method="SkillQueue" time="2023-12-22T07:37:23.0597811Z" />
         <apiUpdate method="EmploymentHistory" time="2023-12-22T06:42:48.4296254Z" />
         <apiUpdate method="Standings" time="2023-12-22T06:42:46.2347776Z" />
-        <apiUpdate method="ContactList" time="2023-12-22T07:23:27.5403992Z" />
+        <apiUpdate method="ContactList" time="2023-12-22T07:37:21.9696912Z" />
         <apiUpdate method="FactionalWarfareStats" time="0001-01-01T00:00:00" />
         <apiUpdate method="Medals" time="2023-12-22T06:42:46.2035403Z" />
         <apiUpdate method="KillLog" time="2023-12-22T07:12:47.3064369Z" />
         <apiUpdate method="AssetList" time="2023-12-22T06:42:46.3909665Z" />
-        <apiUpdate method="MarketOrders" time="2023-12-22T07:04:43.5621008Z" />
-        <apiUpdate method="Contracts" time="2023-12-22T07:23:28.5583015Z" />
+        <apiUpdate method="MarketOrders" time="2023-12-22T07:37:21.8447496Z" />
+        <apiUpdate method="Contracts" time="2023-12-22T07:37:22.0790403Z" />
         <apiUpdate method="WalletJournal" time="2023-12-22T06:42:46.2035403Z" />
         <apiUpdate method="AccountBalance" time="2023-12-22T06:42:48.4296254Z" />
         <apiUpdate method="WalletTransactions" time="2023-12-22T06:42:46.3285058Z" />
-        <apiUpdate method="IndustryJobs" time="2023-12-22T07:19:44.8227807Z" />
-        <apiUpdate method="ResearchPoints" time="2023-12-22T07:04:43.577721Z" />
-        <apiUpdate method="MailMessages" time="2023-12-22T07:19:44.8385387Z" />
+        <apiUpdate method="IndustryJobs" time="2023-12-22T07:37:21.907206Z" />
+        <apiUpdate method="ResearchPoints" time="2023-12-22T07:37:21.8447496Z" />
+        <apiUpdate method="MailMessages" time="2023-12-22T07:37:21.907206Z" />
         <apiUpdate method="MailingLists" time="0001-01-01T00:00:00" />
-        <apiUpdate method="Notifications" time="2023-12-22T07:19:44.885331Z" />
+        <apiUpdate method="Notifications" time="2023-12-22T07:37:21.8603422Z" />
         <apiUpdate method="UpcomingCalendarEvents" time="0001-01-01T00:00:00" />
-        <apiUpdate method="PlanetaryColonies" time="2023-12-22T07:04:43.6245855Z" />
-        <apiUpdate method="LoyaltyPoints" time="2023-12-22T07:04:43.577721Z" />
+        <apiUpdate method="PlanetaryColonies" time="2023-12-22T07:37:21.8447496Z" />
+        <apiUpdate method="LoyaltyPoints" time="2023-12-22T07:37:21.9228269Z" />
         <apiUpdate method="CorporationMedals" time="2023-12-22T06:42:46.3285058Z" />
         <apiUpdate method="CorporationMarketOrders" time="2023-12-22T07:02:52.4441706Z" />
-        <apiUpdate method="CorporationContracts" time="2023-12-22T07:12:48.4781483Z" />
+        <apiUpdate method="CorporationContracts" time="2023-12-22T07:32:02.4734626Z" />
         <apiUpdate method="CorporationIndustryJobs" time="2023-12-22T07:25:56.1323581Z" />
       </lastUpdates>
     </ccp>
@@ -833,7 +833,7 @@
         <skill typeID="3426" name="CPU Management" level="5" activelevel="5" skillpoints="256000" ownsBook="true" isKnown="true" />
         <skill typeID="3432" name="Electronics Upgrades" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
         <skill typeID="3424" name="Energy Grid Upgrades" level="3" activelevel="3" skillpoints="84985" ownsBook="true" isKnown="true" />
-        <skill typeID="3413" name="Power Grid Management" level="4" activelevel="4" skillpoints="125979" ownsBook="true" isKnown="true" />
+        <skill typeID="3413" name="Power Grid Management" level="4" activelevel="4" skillpoints="126146" ownsBook="true" isKnown="true" />
         <skill typeID="3318" name="Weapon Upgrades" level="4" activelevel="4" skillpoints="90510" ownsBook="true" isKnown="true" />
         <skill typeID="3316" name="Controlled Bursts" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
         <skill typeID="3300" name="Gunnery" level="4" activelevel="4" skillpoints="45255" ownsBook="true" isKnown="true" />
@@ -934,42 +934,42 @@
         <skill typeID="3413" level="5" startSP="45255" endSP="256000" startTime="2023-12-18 13:44:44" endTime="2023-12-28 07:54:24" />
       </queue>
       <marketOrders>
-        <sell orderID="6663111206" orderState="Active" price="20000.0" volRemaining="1" issued="2023-12-11T19:14:45Z" issuedFor="Character" lastStateChange="2023-12-12T06:34:31.8536109Z" />
-        <sell orderID="6663111207" orderState="Active" price="1572.0" volRemaining="283" issued="2023-12-11T19:14:45Z" issuedFor="Character" lastStateChange="2023-12-12T06:34:31.8536109Z" />
-        <sell orderID="6659784516" orderState="Fulfilled" price="1000000.0" volRemaining="0" issued="2023-12-08T06:17:47Z" issuedFor="Character" lastStateChange="2023-12-12T10:32:29.4856229Z" />
-        <sell orderID="6659916824" orderState="Active" price="99000.0" volRemaining="1" issued="2023-12-08T11:10:08Z" issuedFor="Character" lastStateChange="2023-12-10T21:59:14.938207Z" />
-        <sell orderID="6659119096" orderState="Active" price="17950.0" volRemaining="28" issued="2023-12-07T10:20:22Z" issuedFor="Character" lastStateChange="2023-12-08T03:40:54.2912602Z" />
-        <sell orderID="6659013938" orderState="Fulfilled" price="2940000.0" volRemaining="0" issued="2023-12-07T06:27:53Z" issuedFor="Character" lastStateChange="2023-12-08T03:40:54.2912602Z" />
-        <sell orderID="6659014704" orderState="Fulfilled" price="794000.0" volRemaining="0" issued="2023-12-07T06:29:33Z" issuedFor="Character" lastStateChange="2023-12-08T03:40:54.2912602Z" />
-        <buy orderID="6659125021" orderState="Fulfilled" price="4851000.0" volRemaining="0" issued="2023-12-07T10:31:37Z" issuedFor="Character" lastStateChange="2023-12-08T03:40:54.2912602Z" />
-        <sell orderID="6659013306" orderState="Canceled" price="41210000.0" volRemaining="1" issued="2023-12-07T06:26:20Z" issuedFor="Character" lastStateChange="2023-12-08T03:40:54.2922843Z" />
-        <sell orderID="6657387755" orderState="Fulfilled" price="323000.0" volRemaining="0" issued="2023-12-05T13:23:52Z" issuedFor="Character" lastStateChange="2023-12-06T05:00:11.2794941Z" />
-        <sell orderID="6656784701" orderState="Fulfilled" price="200000.0" volRemaining="0" issued="2023-12-04T19:09:02Z" issuedFor="Character" lastStateChange="2023-12-21T12:56:09.1128587Z" />
-        <sell orderID="6656449036" orderState="Fulfilled" price="73550.0" volRemaining="0" issued="2023-12-04T10:42:33Z" issuedFor="Character" lastStateChange="2023-12-04T16:49:35.1850324Z" />
-        <sell orderID="6656449041" orderState="Fulfilled" price="3311.0" volRemaining="0" issued="2023-12-04T10:42:33Z" issuedFor="Character" lastStateChange="2023-12-04T16:49:35.1850324Z" />
-        <sell orderID="6656449037" orderState="Canceled" price="6056.0" volRemaining="1" issued="2023-12-04T10:42:33Z" issuedFor="Character" lastStateChange="2023-12-04T16:49:35.1860461Z" />
-        <sell orderID="6656449038" orderState="Canceled" price="13240.0" volRemaining="2" issued="2023-12-04T10:42:33Z" issuedFor="Character" lastStateChange="2023-12-04T16:49:35.1860461Z" />
-        <sell orderID="6656449039" orderState="Canceled" price="12210.0" volRemaining="1" issued="2023-12-04T10:42:33Z" issuedFor="Character" lastStateChange="2023-12-04T16:49:35.1860461Z" />
-        <sell orderID="6656449040" orderState="Canceled" price="1804.0" volRemaining="2" issued="2023-12-04T10:42:33Z" issuedFor="Character" lastStateChange="2023-12-04T16:49:35.1860461Z" />
-        <sell orderID="6656073776" orderState="Fulfilled" price="5235.0" volRemaining="0" issued="2023-12-03T22:34:00Z" issuedFor="Character" lastStateChange="2023-12-04T16:49:35.1850324Z" />
-        <sell orderID="6656079261" orderState="Fulfilled" price="355.2" volRemaining="0" issued="2023-12-03T22:41:01Z" issuedFor="Character" lastStateChange="2023-12-04T16:49:35.1850324Z" />
-        <sell orderID="6656079262" orderState="Fulfilled" price="5.01" volRemaining="0" issued="2023-12-03T22:41:01Z" issuedFor="Character" lastStateChange="2023-12-04T02:18:36.9180753Z" />
-        <sell orderID="6656079616" orderState="Fulfilled" price="2000.0" volRemaining="0" issued="2023-12-03T22:41:32Z" issuedFor="Character" lastStateChange="2023-12-03T23:18:34.3077138Z" />
-        <sell orderID="6653152135" orderState="Fulfilled" price="9.0" volRemaining="0" issued="2023-12-01T12:52:34Z" issuedFor="Character" lastStateChange="2023-12-02T13:06:14.2009744Z" />
-        <sell orderID="6653626708" orderState="Canceled" price="38800.0" volRemaining="33" issued="2023-12-01T13:31:05Z" issuedFor="Character" lastStateChange="2023-12-04T16:49:35.1860461Z" />
-        <sell orderID="6653713495" orderState="Fulfilled" price="58000.0" volRemaining="0" issued="2023-12-01T15:44:48Z" issuedFor="Character" lastStateChange="2023-12-02T13:06:14.2009744Z" />
-        <sell orderID="6652872778" orderState="Fulfilled" price="4.12" volRemaining="0" issued="2023-11-30T14:58:26Z" issuedFor="Character" lastStateChange="2023-12-01T15:55:42.8415309Z" />
-        <sell orderID="6652887064" orderState="Fulfilled" price="4.2" volRemaining="0" issued="2023-11-30T15:21:28Z" issuedFor="Character" lastStateChange="2023-12-01T15:55:42.8415309Z" />
-        <sell orderID="6652887852" orderState="Fulfilled" price="18110.0" volRemaining="0" issued="2023-11-30T15:22:36Z" issuedFor="Character" lastStateChange="2023-12-01T15:55:42.8415309Z" />
-        <sell orderID="6652890354" orderState="Fulfilled" price="58590.0" volRemaining="0" issued="2023-11-30T15:26:01Z" issuedFor="Character" lastStateChange="2023-12-01T15:55:42.8415309Z" />
-        <sell orderID="6653150811" orderState="Fulfilled" price="17510.0" volRemaining="0" issued="2023-11-30T21:22:03Z" issuedFor="Character" lastStateChange="2023-12-01T15:55:42.8415309Z" />
-        <sell orderID="6653150812" orderState="Fulfilled" price="2701.0" volRemaining="0" issued="2023-11-30T21:22:03Z" issuedFor="Character" lastStateChange="2023-12-01T15:55:42.8415309Z" />
-        <sell orderID="6653150813" orderState="Fulfilled" price="550.1" volRemaining="0" issued="2023-11-30T21:22:03Z" issuedFor="Character" lastStateChange="2023-12-01T15:55:42.8415309Z" />
-        <sell orderID="6653159025" orderState="Fulfilled" price="700.1" volRemaining="0" issued="2023-11-30T21:33:27Z" issuedFor="Character" lastStateChange="2023-12-01T15:55:42.8415309Z" />
-        <sell orderID="6652872779" orderState="Canceled" price="5.01" volRemaining="1" issued="2023-11-30T14:58:26Z" issuedFor="Character" lastStateChange="2023-12-01T15:55:42.8415309Z" />
-        <sell orderID="6652888918" orderState="Canceled" price="545000.0" volRemaining="1" issued="2023-11-30T15:23:59Z" issuedFor="Character" lastStateChange="2023-12-01T15:55:42.8415309Z" />
-        <sell orderID="6652895415" orderState="Canceled" price="11.9" volRemaining="1080" issued="2023-11-30T15:33:09Z" issuedFor="Character" lastStateChange="2023-12-01T15:55:42.8415309Z" />
-        <sell orderID="6652900791" orderState="Canceled" price="28800.0" volRemaining="8" issued="2023-11-30T15:42:03Z" issuedFor="Character" lastStateChange="2023-12-01T15:55:42.8415309Z" />
+        <sell orderID="6659119096" orderState="Active" price="17950.0" volRemaining="28" issued="2023-12-07T10:20:22Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6659916824" orderState="Active" price="99000.0" volRemaining="1" issued="2023-12-08T11:10:08Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6663111206" orderState="Active" price="20000.0" volRemaining="1" issued="2023-12-11T19:14:45Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6663111207" orderState="Active" price="1572.0" volRemaining="283" issued="2023-12-11T19:14:45Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6652872778" orderState="Fulfilled" price="4.12" volRemaining="0" issued="2023-11-30T14:58:26Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6652887064" orderState="Fulfilled" price="4.2" volRemaining="0" issued="2023-11-30T15:21:28Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6652887852" orderState="Fulfilled" price="18110.0" volRemaining="0" issued="2023-11-30T15:22:36Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6652890354" orderState="Fulfilled" price="58590.0" volRemaining="0" issued="2023-11-30T15:26:01Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6653150811" orderState="Fulfilled" price="17510.0" volRemaining="0" issued="2023-11-30T21:22:03Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6653150812" orderState="Fulfilled" price="2701.0" volRemaining="0" issued="2023-11-30T21:22:03Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6653150813" orderState="Fulfilled" price="550.1" volRemaining="0" issued="2023-11-30T21:22:03Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6653152135" orderState="Fulfilled" price="9.0" volRemaining="0" issued="2023-12-01T12:52:34Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6653159025" orderState="Fulfilled" price="700.1" volRemaining="0" issued="2023-11-30T21:33:27Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6653713495" orderState="Fulfilled" price="58000.0" volRemaining="0" issued="2023-12-01T15:44:48Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6656073776" orderState="Fulfilled" price="5235.0" volRemaining="0" issued="2023-12-03T22:34:00Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6656079261" orderState="Fulfilled" price="355.2" volRemaining="0" issued="2023-12-03T22:41:01Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6656079262" orderState="Fulfilled" price="5.01" volRemaining="0" issued="2023-12-03T22:41:01Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6656079616" orderState="Fulfilled" price="2000.0" volRemaining="0" issued="2023-12-03T22:41:32Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6656449036" orderState="Fulfilled" price="73550.0" volRemaining="0" issued="2023-12-04T10:42:33Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6656449041" orderState="Fulfilled" price="3311.0" volRemaining="0" issued="2023-12-04T10:42:33Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6656784701" orderState="Fulfilled" price="200000.0" volRemaining="0" issued="2023-12-04T19:09:02Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6657387755" orderState="Fulfilled" price="323000.0" volRemaining="0" issued="2023-12-05T13:23:52Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6659013938" orderState="Fulfilled" price="2940000.0" volRemaining="0" issued="2023-12-07T06:27:53Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6659014704" orderState="Fulfilled" price="794000.0" volRemaining="0" issued="2023-12-07T06:29:33Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <buy orderID="6659125021" orderState="Fulfilled" price="4851000.0" volRemaining="0" issued="2023-12-07T10:31:37Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6659784516" orderState="Fulfilled" price="1000000.0" volRemaining="0" issued="2023-12-08T06:17:47Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6652872779" orderState="Canceled" price="5.01" volRemaining="1" issued="2023-11-30T14:58:26Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6652888918" orderState="Canceled" price="545000.0" volRemaining="1" issued="2023-11-30T15:23:59Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6652895415" orderState="Canceled" price="11.9" volRemaining="1080" issued="2023-11-30T15:33:09Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6652900791" orderState="Canceled" price="28800.0" volRemaining="8" issued="2023-11-30T15:42:03Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6653626708" orderState="Canceled" price="38800.0" volRemaining="33" issued="2023-12-01T13:31:05Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6656449037" orderState="Canceled" price="6056.0" volRemaining="1" issued="2023-12-04T10:42:33Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6656449038" orderState="Canceled" price="13240.0" volRemaining="2" issued="2023-12-04T10:42:33Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6656449039" orderState="Canceled" price="12210.0" volRemaining="1" issued="2023-12-04T10:42:33Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6656449040" orderState="Canceled" price="1804.0" volRemaining="2" issued="2023-12-04T10:42:33Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6659013306" orderState="Canceled" price="41210000.0" volRemaining="1" issued="2023-12-07T06:26:20Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
       </marketOrders>
       <contracts>
         <contract contractID="199080664" contractState="Finished" contractType="ItemExchange" issuedFor="Character" />
@@ -984,31 +984,31 @@
         <apiUpdate method="Implants" time="2023-12-22T06:42:48.4452493Z" />
         <apiUpdate method="Ship" time="2023-12-22T06:42:48.4452493Z" />
         <apiUpdate method="Skills" time="2023-12-22T06:42:48.4608452Z" />
-        <apiUpdate method="SkillQueue" time="2023-12-22T07:12:49.3841431Z" />
+        <apiUpdate method="SkillQueue" time="2023-12-22T07:37:23.0285391Z" />
         <apiUpdate method="EmploymentHistory" time="2023-12-22T06:42:48.4296254Z" />
         <apiUpdate method="Standings" time="2023-12-22T06:42:46.2191569Z" />
-        <apiUpdate method="ContactList" time="2023-12-22T07:23:27.4779135Z" />
+        <apiUpdate method="ContactList" time="2023-12-22T07:37:21.9228269Z" />
         <apiUpdate method="FactionalWarfareStats" time="0001-01-01T00:00:00" />
         <apiUpdate method="Medals" time="2023-12-22T06:42:46.1879137Z" />
         <apiUpdate method="KillLog" time="2023-12-22T07:12:47.3064369Z" />
         <apiUpdate method="AssetList" time="2023-12-22T06:42:46.2347776Z" />
-        <apiUpdate method="MarketOrders" time="2023-12-22T07:04:43.6245855Z" />
-        <apiUpdate method="Contracts" time="2023-12-22T07:23:28.542684Z" />
+        <apiUpdate method="MarketOrders" time="2023-12-22T07:37:21.8759626Z" />
+        <apiUpdate method="Contracts" time="2023-12-22T07:37:22.0790403Z" />
         <apiUpdate method="WalletJournal" time="2023-12-22T06:42:47.0416845Z" />
         <apiUpdate method="AccountBalance" time="2023-12-22T06:42:48.4296254Z" />
         <apiUpdate method="WalletTransactions" time="2023-12-22T06:42:46.3128567Z" />
-        <apiUpdate method="IndustryJobs" time="2023-12-22T07:19:44.8071599Z" />
-        <apiUpdate method="ResearchPoints" time="2023-12-22T07:04:43.5621008Z" />
-        <apiUpdate method="MailMessages" time="2023-12-22T07:19:44.8227807Z" />
+        <apiUpdate method="IndustryJobs" time="2023-12-22T07:37:21.9384482Z" />
+        <apiUpdate method="ResearchPoints" time="2023-12-22T07:37:21.8759626Z" />
+        <apiUpdate method="MailMessages" time="2023-12-22T07:37:21.9384482Z" />
         <apiUpdate method="MailingLists" time="0001-01-01T00:00:00" />
-        <apiUpdate method="Notifications" time="2023-12-22T07:19:43.8230515Z" />
+        <apiUpdate method="Notifications" time="2023-12-22T07:37:21.8759626Z" />
         <apiUpdate method="UpcomingCalendarEvents" time="0001-01-01T00:00:00" />
-        <apiUpdate method="PlanetaryColonies" time="2023-12-22T07:04:43.6402061Z" />
-        <apiUpdate method="LoyaltyPoints" time="2023-12-22T07:04:43.6245855Z" />
+        <apiUpdate method="PlanetaryColonies" time="2023-12-22T07:37:21.8759626Z" />
+        <apiUpdate method="LoyaltyPoints" time="2023-12-22T07:37:21.9228269Z" />
         <apiUpdate method="CorporationMedals" time="2023-12-22T06:42:46.3128567Z" />
         <apiUpdate method="CorporationMarketOrders" time="2023-12-22T06:42:46.3128567Z" />
-        <apiUpdate method="CorporationContracts" time="2023-12-22T07:12:48.3686905Z" />
-        <apiUpdate method="CorporationIndustryJobs" time="2023-12-22T07:12:47.3689314Z" />
+        <apiUpdate method="CorporationContracts" time="2023-12-22T07:32:02.489084Z" />
+        <apiUpdate method="CorporationIndustryJobs" time="2023-12-22T07:32:02.489084Z" />
       </lastUpdates>
     </ccp>
     <ccp guid="24677fa6-bdd9-4e3a-b270-5c33d768fefd" label="">
@@ -1067,7 +1067,7 @@
         <skill typeID="3418" name="Capacitor Management" level="4" activelevel="4" skillpoints="135765" ownsBook="true" isKnown="true" />
         <skill typeID="3417" name="Capacitor Systems Operation" level="3" activelevel="3" skillpoints="8000" ownsBook="true" isKnown="true" />
         <skill typeID="3426" name="CPU Management" level="4" activelevel="4" skillpoints="45255" ownsBook="true" isKnown="true" />
-        <skill typeID="3432" name="Electronics Upgrades" level="3" activelevel="3" skillpoints="79294" ownsBook="true" isKnown="true" />
+        <skill typeID="3432" name="Electronics Upgrades" level="3" activelevel="3" skillpoints="79461" ownsBook="true" isKnown="true" />
         <skill typeID="3424" name="Energy Grid Upgrades" level="4" activelevel="4" skillpoints="90510" ownsBook="true" isKnown="true" />
         <skill typeID="3413" name="Power Grid Management" level="4" activelevel="4" skillpoints="45255" ownsBook="true" isKnown="true" />
         <skill typeID="3318" name="Weapon Upgrades" level="4" activelevel="4" skillpoints="90510" ownsBook="true" isKnown="true" />
@@ -1139,30 +1139,30 @@
         <apiUpdate method="Implants" time="2023-12-22T06:42:48.4452493Z" />
         <apiUpdate method="Ship" time="2023-12-22T06:42:48.4608452Z" />
         <apiUpdate method="Skills" time="2023-12-22T06:42:48.4608452Z" />
-        <apiUpdate method="SkillQueue" time="2023-12-22T07:12:49.4153119Z" />
+        <apiUpdate method="SkillQueue" time="2023-12-22T07:37:23.0129188Z" />
         <apiUpdate method="EmploymentHistory" time="2023-12-22T06:42:48.4296254Z" />
         <apiUpdate method="Standings" time="2023-12-22T06:42:46.2659926Z" />
-        <apiUpdate method="ContactList" time="2023-12-22T07:23:27.5403992Z" />
+        <apiUpdate method="ContactList" time="2023-12-22T07:37:21.8917256Z" />
         <apiUpdate method="FactionalWarfareStats" time="0001-01-01T00:00:00" />
         <apiUpdate method="Medals" time="2023-12-22T06:42:46.2816145Z" />
         <apiUpdate method="KillLog" time="2023-12-22T07:12:47.2908188Z" />
         <apiUpdate method="AssetList" time="2023-12-22T06:42:46.2347776Z" />
-        <apiUpdate method="MarketOrders" time="2023-12-22T07:04:43.6558724Z" />
-        <apiUpdate method="Contracts" time="2023-12-22T07:23:27.4779135Z" />
+        <apiUpdate method="MarketOrders" time="2023-12-22T07:37:21.8759626Z" />
+        <apiUpdate method="Contracts" time="2023-12-22T07:37:22.0634496Z" />
         <apiUpdate method="WalletJournal" time="2023-12-22T06:42:46.3128567Z" />
         <apiUpdate method="AccountBalance" time="2023-12-22T06:42:48.4452493Z" />
         <apiUpdate method="WalletTransactions" time="2023-12-22T06:42:46.2347776Z" />
-        <apiUpdate method="IndustryJobs" time="2023-12-22T07:19:44.8227807Z" />
-        <apiUpdate method="ResearchPoints" time="2023-12-22T07:04:43.577721Z" />
-        <apiUpdate method="MailMessages" time="2023-12-22T07:19:44.8227807Z" />
+        <apiUpdate method="IndustryJobs" time="2023-12-22T07:37:21.907206Z" />
+        <apiUpdate method="ResearchPoints" time="2023-12-22T07:37:21.829099Z" />
+        <apiUpdate method="MailMessages" time="2023-12-22T07:37:21.8917256Z" />
         <apiUpdate method="MailingLists" time="0001-01-01T00:00:00" />
-        <apiUpdate method="Notifications" time="2023-12-22T07:19:43.8386693Z" />
+        <apiUpdate method="Notifications" time="2023-12-22T07:37:21.8447496Z" />
         <apiUpdate method="UpcomingCalendarEvents" time="0001-01-01T00:00:00" />
-        <apiUpdate method="PlanetaryColonies" time="2023-12-22T07:04:43.6402061Z" />
-        <apiUpdate method="LoyaltyPoints" time="2023-12-22T07:04:43.6402061Z" />
+        <apiUpdate method="PlanetaryColonies" time="2023-12-22T07:37:21.8447496Z" />
+        <apiUpdate method="LoyaltyPoints" time="2023-12-22T07:37:21.907206Z" />
         <apiUpdate method="CorporationMedals" time="2023-12-22T06:42:46.3285058Z" />
         <apiUpdate method="CorporationMarketOrders" time="2023-12-22T07:02:52.4573474Z" />
-        <apiUpdate method="CorporationContracts" time="2023-12-22T07:12:48.4000051Z" />
+        <apiUpdate method="CorporationContracts" time="2023-12-22T07:32:02.4734626Z" />
         <apiUpdate method="CorporationIndustryJobs" time="2023-12-22T07:25:56.1323581Z" />
       </lastUpdates>
     </ccp>
@@ -1260,7 +1260,7 @@
         <skill typeID="12441" name="Missile Bombardment" level="4" activelevel="4" skillpoints="90510" ownsBook="true" isKnown="true" />
         <skill typeID="3319" name="Missile Launcher Operation" level="4" activelevel="4" skillpoints="45255" ownsBook="true" isKnown="true" />
         <skill typeID="12442" name="Missile Projection" level="2" activelevel="2" skillpoints="5657" ownsBook="true" isKnown="true" />
-        <skill typeID="21071" name="Rapid Launch" level="3" activelevel="3" skillpoints="50542" ownsBook="true" isKnown="true" />
+        <skill typeID="21071" name="Rapid Launch" level="3" activelevel="3" skillpoints="50757" ownsBook="true" isKnown="true" />
         <skill typeID="3320" name="Rockets" level="1" activelevel="1" skillpoints="250" ownsBook="true" isKnown="true" />
         <skill typeID="20314" name="Target Navigation Prediction" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
         <skill typeID="20315" name="Warhead Upgrades" level="3" activelevel="3" skillpoints="40000" ownsBook="true" isKnown="true" />
@@ -1341,17 +1341,17 @@
         <selectedIndex>0</selectedIndex>
       </implants>
       <queue>
-        <skill typeID="21071" level="4" startSP="29462" endSP="90510" startTime="2023-12-21 13:11:14" endTime="2023-12-23 18:02:34" />
-        <skill typeID="3319" level="5" startSP="45255" endSP="256000" startTime="2023-12-23 18:02:34" endTime="2023-12-31 08:30:21" />
-        <skill typeID="28164" level="2" startSP="750" endSP="4243" startTime="2023-12-31 08:30:21" endTime="2023-12-31 13:04:19" />
-        <skill typeID="28164" level="3" startSP="4243" endSP="24000" startTime="2023-12-31 13:04:19" endTime="2024-01-01 14:53:53" />
+        <skill typeID="21071" level="4" startSP="29462" endSP="90510" startTime="2023-12-21 13:11:15" endTime="2023-12-23 18:02:35" />
+        <skill typeID="3319" level="5" startSP="45255" endSP="256000" startTime="2023-12-23 18:02:35" endTime="2023-12-31 08:30:22" />
+        <skill typeID="28164" level="2" startSP="750" endSP="4243" startTime="2023-12-31 08:30:22" endTime="2023-12-31 13:04:20" />
+        <skill typeID="28164" level="3" startSP="4243" endSP="24000" startTime="2023-12-31 13:04:20" endTime="2024-01-01 14:53:54" />
       </queue>
       <marketOrders>
-        <buy orderID="6671279058" orderState="Fulfilled" price="43400.0" volRemaining="0" issued="2023-12-21T13:11:51Z" issuedFor="Character" lastStateChange="2023-12-21T14:50:36.5244958Z" />
-        <sell orderID="6663504085" orderState="Active" price="200000.0" volRemaining="1" issued="2023-12-12T06:41:10Z" issuedFor="Character" lastStateChange="2023-12-12T08:31:08.0398208Z" />
-        <sell orderID="6663504313" orderState="Active" price="125100.0" volRemaining="100" issued="2023-12-12T06:41:55Z" issuedFor="Character" lastStateChange="2023-12-12T08:31:08.0398208Z" />
-        <sell orderID="6663504576" orderState="Fulfilled" price="60010.0" volRemaining="0" issued="2023-12-12T06:42:38Z" issuedFor="Character" lastStateChange="2023-12-19T15:53:07.6764015Z" />
-        <sell orderID="6663504617" orderState="Fulfilled" price="12270.0" volRemaining="0" issued="2023-12-12T06:42:48Z" issuedFor="Character" lastStateChange="2023-12-13T08:53:49.3770701Z" />
+        <sell orderID="6663504085" orderState="Active" price="200000.0" volRemaining="1" issued="2023-12-12T06:41:10Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <sell orderID="6663504313" orderState="Active" price="125100.0" volRemaining="100" issued="2023-12-12T06:41:55Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <sell orderID="6663504576" orderState="Fulfilled" price="60010.0" volRemaining="0" issued="2023-12-12T06:42:38Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <sell orderID="6663504617" orderState="Fulfilled" price="12270.0" volRemaining="0" issued="2023-12-12T06:42:48Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
+        <buy orderID="6671279058" orderState="Fulfilled" price="43400.0" volRemaining="0" issued="2023-12-21T13:11:51Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
       </marketOrders>
       <contracts />
       <industryJobs />
@@ -1364,30 +1364,30 @@
         <apiUpdate method="Implants" time="2023-12-22T06:42:48.4452493Z" />
         <apiUpdate method="Ship" time="2023-12-22T06:42:48.4452493Z" />
         <apiUpdate method="Skills" time="2023-12-22T06:42:48.4608452Z" />
-        <apiUpdate method="SkillQueue" time="2023-12-22T07:12:49.3372128Z" />
+        <apiUpdate method="SkillQueue" time="2023-12-22T07:37:22.9972956Z" />
         <apiUpdate method="EmploymentHistory" time="2023-12-22T06:42:48.4296254Z" />
         <apiUpdate method="Standings" time="2023-12-22T06:42:46.2816145Z" />
-        <apiUpdate method="ContactList" time="2023-12-22T07:23:27.5403992Z" />
+        <apiUpdate method="ContactList" time="2023-12-22T07:37:21.9228269Z" />
         <apiUpdate method="FactionalWarfareStats" time="0001-01-01T00:00:00" />
         <apiUpdate method="Medals" time="2023-12-22T06:42:46.2816145Z" />
         <apiUpdate method="KillLog" time="2023-12-22T07:12:47.3064369Z" />
         <apiUpdate method="AssetList" time="2023-12-22T06:42:46.3128567Z" />
-        <apiUpdate method="MarketOrders" time="2023-12-22T07:04:43.6089636Z" />
-        <apiUpdate method="Contracts" time="2023-12-22T07:23:28.542684Z" />
+        <apiUpdate method="MarketOrders" time="2023-12-22T07:37:21.8603422Z" />
+        <apiUpdate method="Contracts" time="2023-12-22T07:37:22.0790403Z" />
         <apiUpdate method="WalletJournal" time="2023-12-22T06:42:46.3285058Z" />
         <apiUpdate method="AccountBalance" time="2023-12-22T06:42:48.4452493Z" />
         <apiUpdate method="WalletTransactions" time="2023-12-22T06:42:46.2503991Z" />
-        <apiUpdate method="IndustryJobs" time="2023-12-22T07:19:43.8386693Z" />
-        <apiUpdate method="ResearchPoints" time="2023-12-22T07:04:43.5464838Z" />
-        <apiUpdate method="MailMessages" time="2023-12-22T07:19:44.8227807Z" />
+        <apiUpdate method="IndustryJobs" time="2023-12-22T07:37:21.907206Z" />
+        <apiUpdate method="ResearchPoints" time="2023-12-22T07:37:21.8603422Z" />
+        <apiUpdate method="MailMessages" time="2023-12-22T07:37:21.9228269Z" />
         <apiUpdate method="MailingLists" time="0001-01-01T00:00:00" />
-        <apiUpdate method="Notifications" time="2023-12-22T07:19:44.8227807Z" />
+        <apiUpdate method="Notifications" time="2023-12-22T07:37:21.8603422Z" />
         <apiUpdate method="UpcomingCalendarEvents" time="0001-01-01T00:00:00" />
-        <apiUpdate method="PlanetaryColonies" time="2023-12-22T07:04:43.6245855Z" />
-        <apiUpdate method="LoyaltyPoints" time="2023-12-22T07:04:43.5621008Z" />
+        <apiUpdate method="PlanetaryColonies" time="2023-12-22T07:37:21.8447496Z" />
+        <apiUpdate method="LoyaltyPoints" time="2023-12-22T07:37:21.8603422Z" />
         <apiUpdate method="CorporationMedals" time="2023-12-22T06:42:46.4065851Z" />
         <apiUpdate method="CorporationMarketOrders" time="2023-12-22T07:02:52.4563509Z" />
-        <apiUpdate method="CorporationContracts" time="2023-12-22T07:12:48.5249299Z" />
+        <apiUpdate method="CorporationContracts" time="2023-12-22T07:32:02.4579023Z" />
         <apiUpdate method="CorporationIndustryJobs" time="2023-12-22T07:25:56.1167349Z" />
       </lastUpdates>
     </ccp>
@@ -1458,7 +1458,7 @@
         <skill typeID="3426" name="CPU Management" level="5" activelevel="5" skillpoints="256000" ownsBook="true" isKnown="true" />
         <skill typeID="3432" name="Electronics Upgrades" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
         <skill typeID="3424" name="Energy Grid Upgrades" level="4" activelevel="4" skillpoints="90510" ownsBook="true" isKnown="true" />
-        <skill typeID="3413" name="Power Grid Management" level="4" activelevel="4" skillpoints="147540" ownsBook="true" isKnown="true" />
+        <skill typeID="3413" name="Power Grid Management" level="4" activelevel="4" skillpoints="147707" ownsBook="true" isKnown="true" />
         <skill typeID="3318" name="Weapon Upgrades" level="4" activelevel="4" skillpoints="90510" ownsBook="true" isKnown="true" />
         <skill typeID="3316" name="Controlled Bursts" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
         <skill typeID="3300" name="Gunnery" level="4" activelevel="4" skillpoints="45255" ownsBook="true" isKnown="true" />
@@ -1558,26 +1558,26 @@
         <selectedIndex>0</selectedIndex>
       </implants>
       <queue>
-        <skill typeID="3413" level="5" startSP="45255" endSP="256000" startTime="2023-12-17 13:47:20" endTime="2023-12-27 07:57:00" />
-        <skill typeID="33699" level="2" startSP="500" endSP="2829" startTime="2023-12-27 07:57:00" endTime="2023-12-27 10:29:43" />
-        <skill typeID="33699" level="3" startSP="2829" endSP="16000" startTime="2023-12-27 10:29:43" endTime="2023-12-28 00:53:23" />
+        <skill typeID="3413" level="5" startSP="45255" endSP="256000" startTime="2023-12-17 13:47:21" endTime="2023-12-27 07:57:01" />
+        <skill typeID="33699" level="2" startSP="500" endSP="2829" startTime="2023-12-27 07:57:01" endTime="2023-12-27 10:29:44" />
+        <skill typeID="33699" level="3" startSP="2829" endSP="16000" startTime="2023-12-27 10:29:44" endTime="2023-12-28 00:53:24" />
       </queue>
       <marketOrders>
-        <buy orderID="6662670008" orderState="Active" price="3002000.0" volRemaining="2" issued="2023-12-11T06:38:31Z" issuedFor="Character" lastStateChange="2023-12-11T12:41:43.8959736Z" />
-        <sell orderID="6662669360" orderState="Fulfilled" price="68000.0" volRemaining="0" issued="2023-12-11T06:37:14Z" issuedFor="Character" lastStateChange="2023-12-11T12:41:43.8959736Z" />
-        <sell orderID="6658096759" orderState="Fulfilled" price="155700.0" volRemaining="0" issued="2023-12-06T05:36:22Z" issuedFor="Character" lastStateChange="2023-12-08T03:40:54.1228037Z" />
-        <sell orderID="6658107451" orderState="Active" price="50000.0" volRemaining="1" issued="2023-12-06T05:59:32Z" issuedFor="Character" lastStateChange="2023-12-11T19:12:12.8735149Z" />
-        <sell orderID="6658108125" orderState="Fulfilled" price="2888.0" volRemaining="0" issued="2023-12-06T06:01:05Z" issuedFor="Character" lastStateChange="2023-12-16T11:24:37.7012791Z" />
-        <sell orderID="6658180693" orderState="Fulfilled" price="94680.0" volRemaining="0" issued="2023-12-06T08:35:19Z" issuedFor="Character" lastStateChange="2023-12-08T03:40:54.1228037Z" />
-        <sell orderID="6658101381" orderState="Fulfilled" price="1660000.0" volRemaining="0" issued="2023-12-06T05:46:43Z" issuedFor="Character" lastStateChange="2023-12-06T13:57:27.6822665Z" />
-        <sell orderID="6658107793" orderState="Fulfilled" price="3.0" volRemaining="0" issued="2023-12-06T06:00:13Z" issuedFor="Character" lastStateChange="2023-12-06T13:57:27.6822665Z" />
+        <sell orderID="6658107451" orderState="Active" price="50000.0" volRemaining="1" issued="2023-12-06T05:59:32Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6765699Z" />
+        <buy orderID="6662670008" orderState="Active" price="3002000.0" volRemaining="2" issued="2023-12-11T06:38:31Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6765699Z" />
+        <sell orderID="6658096759" orderState="Fulfilled" price="155700.0" volRemaining="0" issued="2023-12-06T05:36:22Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6765699Z" />
+        <sell orderID="6658101381" orderState="Fulfilled" price="1660000.0" volRemaining="0" issued="2023-12-06T05:46:43Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6765699Z" />
+        <sell orderID="6658107793" orderState="Fulfilled" price="3.0" volRemaining="0" issued="2023-12-06T06:00:13Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6765699Z" />
+        <sell orderID="6658108125" orderState="Fulfilled" price="2888.0" volRemaining="0" issued="2023-12-06T06:01:05Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6765699Z" />
+        <sell orderID="6658180693" orderState="Fulfilled" price="94680.0" volRemaining="0" issued="2023-12-06T08:35:19Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6765699Z" />
+        <sell orderID="6662669360" orderState="Fulfilled" price="68000.0" volRemaining="0" issued="2023-12-11T06:37:14Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6765699Z" />
       </marketOrders>
       <contracts>
         <contract contractID="198825820" contractState="Finished" contractType="ItemExchange" issuedFor="Character" />
         <contract contractID="198826675" contractState="Finished" contractType="ItemExchange" issuedFor="Character" />
       </contracts>
       <industryJobs>
-        <job jobID="539920547" jobState="Active" startDate="2023-12-06T07:05:59Z" endDate="2024-01-01T23:05:59Z" pauseDate="0001-01-01T00:00:00" issuedFor="Character" lastStateChange="2023-12-06T13:57:27.4322558Z" />
+        <job jobID="539920547" jobState="Active" startDate="2023-12-06T07:05:59Z" endDate="2024-01-01T23:05:59Z" pauseDate="0001-01-01T00:00:00" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.5203267Z" />
       </industryJobs>
       <eveMailMessages>394933468,394932811,394873526,394823413,394812155,394809877,394808706,394788544,394753790,394749389,394738685,394738653,394736598,394736539,394736489,394736391,394730287,394730017,394728393,393512682,393496375,393496218,393490855,393490711,393490698,393102709,393050684</eveMailMessages>
       <eveNotifications>1765807848,1765807983,1765808645,1765855446,1765856052,1765856053,1765860335,1765870564,1765924083,1765925355,1765926343,1765928119,1765934792,1765942420,1765986402,1766004282,1766007672,1766007681,1766016903,1767585214,1767585215,1767958006,1767958007,1767961034,1768391653,1768429534,1768596781,1769162252,1769176597,1769530178,1777938284,1777938286,1792003813,1792747649,1792936933,1875136045,1875136046,1875136047,1875136048,1875136049,1875138654,1875151954,1875239662,1875553296,1878470095,1878482072,1878502705,1878506521,1878510973,1879174470,1879175850,1879176423,1879176961,1884622495</eveNotifications>
@@ -1588,31 +1588,31 @@
         <apiUpdate method="Implants" time="2023-12-22T06:42:48.4452493Z" />
         <apiUpdate method="Ship" time="2023-12-22T06:42:48.4608452Z" />
         <apiUpdate method="Skills" time="2023-12-22T06:42:48.4608452Z" />
-        <apiUpdate method="SkillQueue" time="2023-12-22T07:12:49.3529387Z" />
+        <apiUpdate method="SkillQueue" time="2023-12-22T07:37:22.9972956Z" />
         <apiUpdate method="EmploymentHistory" time="2023-12-22T06:42:48.4296254Z" />
         <apiUpdate method="Standings" time="2023-12-22T06:42:46.2816145Z" />
-        <apiUpdate method="ContactList" time="2023-12-22T07:23:27.5403992Z" />
+        <apiUpdate method="ContactList" time="2023-12-22T07:37:21.9542081Z" />
         <apiUpdate method="FactionalWarfareStats" time="0001-01-01T00:00:00" />
         <apiUpdate method="Medals" time="2023-12-22T06:42:46.2347776Z" />
         <apiUpdate method="KillLog" time="2023-12-22T07:12:47.3064369Z" />
         <apiUpdate method="AssetList" time="2023-12-22T06:42:46.3128567Z" />
-        <apiUpdate method="MarketOrders" time="2023-12-22T07:04:43.6089636Z" />
-        <apiUpdate method="Contracts" time="2023-12-22T07:23:28.542684Z" />
+        <apiUpdate method="MarketOrders" time="2023-12-22T07:37:21.8759626Z" />
+        <apiUpdate method="Contracts" time="2023-12-22T07:37:22.0790403Z" />
         <apiUpdate method="WalletJournal" time="2023-12-22T06:42:46.3285058Z" />
         <apiUpdate method="AccountBalance" time="2023-12-22T06:42:48.4296254Z" />
         <apiUpdate method="WalletTransactions" time="2023-12-22T06:42:46.3285058Z" />
-        <apiUpdate method="IndustryJobs" time="2023-12-22T07:19:44.775949Z" />
-        <apiUpdate method="ResearchPoints" time="2023-12-22T07:04:43.5621008Z" />
-        <apiUpdate method="MailMessages" time="2023-12-22T07:19:44.8071599Z" />
+        <apiUpdate method="IndustryJobs" time="2023-12-22T07:37:21.9384482Z" />
+        <apiUpdate method="ResearchPoints" time="2023-12-22T07:37:21.8759626Z" />
+        <apiUpdate method="MailMessages" time="2023-12-22T07:37:21.9384482Z" />
         <apiUpdate method="MailingLists" time="0001-01-01T00:00:00" />
-        <apiUpdate method="Notifications" time="2023-12-22T07:19:44.8227807Z" />
+        <apiUpdate method="Notifications" time="2023-12-22T07:37:21.8759626Z" />
         <apiUpdate method="UpcomingCalendarEvents" time="0001-01-01T00:00:00" />
-        <apiUpdate method="PlanetaryColonies" time="2023-12-22T07:04:43.6245855Z" />
-        <apiUpdate method="LoyaltyPoints" time="2023-12-22T07:04:43.5621008Z" />
+        <apiUpdate method="PlanetaryColonies" time="2023-12-22T07:37:21.8759626Z" />
+        <apiUpdate method="LoyaltyPoints" time="2023-12-22T07:37:21.8759626Z" />
         <apiUpdate method="CorporationMedals" time="2023-12-22T06:42:46.3285058Z" />
         <apiUpdate method="CorporationMarketOrders" time="2023-12-22T06:42:46.3285058Z" />
-        <apiUpdate method="CorporationContracts" time="2023-12-22T07:12:48.5249299Z" />
-        <apiUpdate method="CorporationIndustryJobs" time="2023-12-22T07:12:47.4002405Z" />
+        <apiUpdate method="CorporationContracts" time="2023-12-22T07:32:02.4734626Z" />
+        <apiUpdate method="CorporationIndustryJobs" time="2023-12-22T07:32:02.4734626Z" />
       </lastUpdates>
     </ccp>
     <ccp guid="4ff89e78-4550-46a1-a16d-1c3b8a60c83c" label="">
@@ -1678,7 +1678,7 @@
         <skill typeID="3426" name="CPU Management" level="5" activelevel="5" skillpoints="256000" ownsBook="true" isKnown="true" />
         <skill typeID="3432" name="Electronics Upgrades" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
         <skill typeID="3424" name="Energy Grid Upgrades" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
-        <skill typeID="3413" name="Power Grid Management" level="4" activelevel="4" skillpoints="139642" ownsBook="true" isKnown="true" />
+        <skill typeID="3413" name="Power Grid Management" level="4" activelevel="4" skillpoints="139809" ownsBook="true" isKnown="true" />
         <skill typeID="3318" name="Weapon Upgrades" level="4" activelevel="4" skillpoints="90510" ownsBook="true" isKnown="true" />
         <skill typeID="3348" name="Leadership" level="3" activelevel="3" skillpoints="8000" ownsBook="true" isKnown="true" />
         <skill typeID="3316" name="Controlled Bursts" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
@@ -1741,11 +1741,11 @@
         <selectedIndex>0</selectedIndex>
       </implants>
       <queue>
-        <skill typeID="3413" level="5" startSP="45255" endSP="256000" startTime="2023-12-17 22:33:52" endTime="2023-12-27 16:43:32" />
+        <skill typeID="3413" level="5" startSP="45255" endSP="256000" startTime="2023-12-17 22:33:53" endTime="2023-12-27 16:43:33" />
       </queue>
       <marketOrders>
-        <sell orderID="6663173883" orderState="Fulfilled" price="170000.0" volRemaining="0" issued="2023-12-11T20:36:38Z" issuedFor="Character" lastStateChange="2023-12-22T07:23:05.2761729Z" />
-        <sell orderID="6663207719" orderState="Fulfilled" price="171600.0" volRemaining="0" issued="2023-12-11T21:23:21Z" issuedFor="Character" lastStateChange="2023-12-22T07:23:05.2761729Z" />
+        <sell orderID="6663173883" orderState="Fulfilled" price="170000.0" volRemaining="0" issued="2023-12-11T20:36:38Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6452979Z" />
+        <sell orderID="6663207719" orderState="Fulfilled" price="171600.0" volRemaining="0" issued="2023-12-11T21:23:21Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6452979Z" />
       </marketOrders>
       <contracts>
         <contract contractID="199037050" contractState="Finished" contractType="ItemExchange" issuedFor="Character" />
@@ -1760,27 +1760,27 @@
         <apiUpdate method="Implants" time="2023-12-22T06:42:48.4452493Z" />
         <apiUpdate method="Ship" time="2023-12-22T06:42:48.4608452Z" />
         <apiUpdate method="Skills" time="2023-12-22T06:42:48.4608452Z" />
-        <apiUpdate method="SkillQueue" time="2023-12-22T07:12:49.3529387Z" />
+        <apiUpdate method="SkillQueue" time="2023-12-22T07:37:22.9972956Z" />
         <apiUpdate method="EmploymentHistory" time="2023-12-22T06:42:48.4296254Z" />
         <apiUpdate method="Standings" time="2023-12-22T07:23:04.7732021Z" />
-        <apiUpdate method="ContactList" time="2023-12-22T07:23:04.815523Z" />
+        <apiUpdate method="ContactList" time="2023-12-22T07:37:21.9542081Z" />
         <apiUpdate method="FactionalWarfareStats" time="0001-01-01T00:00:00" />
         <apiUpdate method="Medals" time="2023-12-22T07:23:04.815523Z" />
         <apiUpdate method="KillLog" time="2023-12-22T07:23:04.815523Z" />
         <apiUpdate method="AssetList" time="2023-12-22T07:23:04.815523Z" />
-        <apiUpdate method="MarketOrders" time="2023-12-22T07:23:04.870021Z" />
-        <apiUpdate method="Contracts" time="2023-12-22T07:23:04.7732021Z" />
+        <apiUpdate method="MarketOrders" time="2023-12-22T07:37:21.8759626Z" />
+        <apiUpdate method="Contracts" time="2023-12-22T07:37:22.0790403Z" />
         <apiUpdate method="WalletJournal" time="2023-12-22T07:23:04.870021Z" />
         <apiUpdate method="AccountBalance" time="2023-12-22T06:42:48.4452493Z" />
         <apiUpdate method="WalletTransactions" time="2023-12-22T07:23:04.815523Z" />
-        <apiUpdate method="IndustryJobs" time="2023-12-22T07:23:04.7419381Z" />
-        <apiUpdate method="ResearchPoints" time="2023-12-22T07:23:04.815523Z" />
-        <apiUpdate method="MailMessages" time="2023-12-22T07:23:04.7732021Z" />
+        <apiUpdate method="IndustryJobs" time="2023-12-22T07:37:21.9228269Z" />
+        <apiUpdate method="ResearchPoints" time="2023-12-22T07:37:21.8759626Z" />
+        <apiUpdate method="MailMessages" time="2023-12-22T07:37:21.9542081Z" />
         <apiUpdate method="MailingLists" time="0001-01-01T00:00:00" />
-        <apiUpdate method="Notifications" time="2023-12-22T07:23:04.815523Z" />
+        <apiUpdate method="Notifications" time="2023-12-22T07:37:21.8759626Z" />
         <apiUpdate method="UpcomingCalendarEvents" time="0001-01-01T00:00:00" />
-        <apiUpdate method="PlanetaryColonies" time="2023-12-22T07:23:04.7575587Z" />
-        <apiUpdate method="LoyaltyPoints" time="2023-12-22T07:23:04.7575587Z" />
+        <apiUpdate method="PlanetaryColonies" time="2023-12-22T07:37:21.8759626Z" />
+        <apiUpdate method="LoyaltyPoints" time="2023-12-22T07:37:21.8759626Z" />
         <apiUpdate method="CorporationMedals" time="2023-12-22T07:23:04.815523Z" />
         <apiUpdate method="CorporationMarketOrders" time="2023-12-22T07:25:05.9661049Z" />
         <apiUpdate method="CorporationContracts" time="2023-12-22T07:23:04.815523Z" />
@@ -1847,7 +1847,7 @@
         <skill typeID="3426" name="CPU Management" level="4" activelevel="4" skillpoints="45255" ownsBook="true" isKnown="true" />
         <skill typeID="3432" name="Electronics Upgrades" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
         <skill typeID="3424" name="Energy Grid Upgrades" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
-        <skill typeID="3413" name="Power Grid Management" level="4" activelevel="4" skillpoints="231161" ownsBook="true" isKnown="true" />
+        <skill typeID="3413" name="Power Grid Management" level="4" activelevel="4" skillpoints="231329" ownsBook="true" isKnown="true" />
         <skill typeID="3318" name="Weapon Upgrades" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
         <skill typeID="3316" name="Controlled Bursts" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
         <skill typeID="3300" name="Gunnery" level="4" activelevel="4" skillpoints="45255" ownsBook="true" isKnown="true" />
@@ -1918,30 +1918,30 @@
         <apiUpdate method="Implants" time="2023-12-22T06:42:48.4452493Z" />
         <apiUpdate method="Ship" time="2023-12-22T06:42:48.4452493Z" />
         <apiUpdate method="Skills" time="2023-12-22T06:42:48.4608452Z" />
-        <apiUpdate method="SkillQueue" time="2023-12-22T07:12:49.3685605Z" />
+        <apiUpdate method="SkillQueue" time="2023-12-22T07:37:23.0129188Z" />
         <apiUpdate method="EmploymentHistory" time="2023-12-22T06:42:48.4296254Z" />
         <apiUpdate method="Standings" time="2023-12-22T07:22:01.9605593Z" />
-        <apiUpdate method="ContactList" time="2023-12-22T07:22:02.0194818Z" />
+        <apiUpdate method="ContactList" time="2023-12-22T07:37:21.9384482Z" />
         <apiUpdate method="FactionalWarfareStats" time="0001-01-01T00:00:00" />
         <apiUpdate method="Medals" time="2023-12-22T07:22:01.9136945Z" />
         <apiUpdate method="KillLog" time="2023-12-22T07:22:01.9605593Z" />
         <apiUpdate method="AssetList" time="2023-12-22T07:22:02.0374142Z" />
-        <apiUpdate method="MarketOrders" time="2023-12-22T07:22:01.9292873Z" />
-        <apiUpdate method="Contracts" time="2023-12-22T07:22:01.9448794Z" />
+        <apiUpdate method="MarketOrders" time="2023-12-22T07:37:21.8603422Z" />
+        <apiUpdate method="Contracts" time="2023-12-22T07:37:22.0790403Z" />
         <apiUpdate method="WalletJournal" time="2023-12-22T07:22:02.0374142Z" />
         <apiUpdate method="AccountBalance" time="2023-12-22T06:42:48.4452493Z" />
         <apiUpdate method="WalletTransactions" time="2023-12-22T07:22:02.0374142Z" />
-        <apiUpdate method="IndustryJobs" time="2023-12-22T07:22:01.9292873Z" />
-        <apiUpdate method="ResearchPoints" time="2023-12-22T07:22:01.9605593Z" />
-        <apiUpdate method="MailMessages" time="2023-12-22T07:22:01.9605593Z" />
+        <apiUpdate method="IndustryJobs" time="2023-12-22T07:37:21.907206Z" />
+        <apiUpdate method="ResearchPoints" time="2023-12-22T07:37:21.8603422Z" />
+        <apiUpdate method="MailMessages" time="2023-12-22T07:37:21.9228269Z" />
         <apiUpdate method="MailingLists" time="0001-01-01T00:00:00" />
-        <apiUpdate method="Notifications" time="2023-12-22T07:22:01.9981904Z" />
+        <apiUpdate method="Notifications" time="2023-12-22T07:37:21.8759626Z" />
         <apiUpdate method="UpcomingCalendarEvents" time="0001-01-01T00:00:00" />
-        <apiUpdate method="PlanetaryColonies" time="2023-12-22T07:22:02.0374142Z" />
-        <apiUpdate method="LoyaltyPoints" time="2023-12-22T07:22:01.982568Z" />
+        <apiUpdate method="PlanetaryColonies" time="2023-12-22T07:37:21.8447496Z" />
+        <apiUpdate method="LoyaltyPoints" time="2023-12-22T07:37:21.8603422Z" />
         <apiUpdate method="CorporationMedals" time="2023-12-22T07:22:02.0374142Z" />
         <apiUpdate method="CorporationMarketOrders" time="2023-12-22T07:26:03.3369997Z" />
-        <apiUpdate method="CorporationContracts" time="2023-12-22T07:22:01.9448794Z" />
+        <apiUpdate method="CorporationContracts" time="2023-12-22T07:37:22.0946892Z" />
         <apiUpdate method="CorporationIndustryJobs" time="2023-12-22T07:26:03.2901357Z" />
       </lastUpdates>
     </ccp>
@@ -1995,7 +1995,7 @@
         <skill typeID="3394" name="Hull Upgrades" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
         <skill typeID="3392" name="Mechanics" level="3" activelevel="3" skillpoints="8000" ownsBook="true" isKnown="true" />
         <skill typeID="3437" name="Drone Avionics" level="1" activelevel="1" skillpoints="250" ownsBook="true" isKnown="true" />
-        <skill typeID="3436" name="Drones" level="4" activelevel="4" skillpoints="117357" ownsBook="true" isKnown="true" />
+        <skill typeID="3436" name="Drones" level="4" activelevel="4" skillpoints="117525" ownsBook="true" isKnown="true" />
         <skill typeID="24241" name="Light Drone Operation" level="1" activelevel="1" skillpoints="250" ownsBook="true" isKnown="true" />
         <skill typeID="3427" name="Electronic Warfare" level="1" activelevel="1" skillpoints="500" ownsBook="true" isKnown="true" />
         <skill typeID="3435" name="Propulsion Jamming" level="1" activelevel="1" skillpoints="750" ownsBook="true" isKnown="true" />
@@ -2071,9 +2071,9 @@
         <skill typeID="3436" level="5" startSP="45255" endSP="256000" startTime="2023-12-18 23:19:29" endTime="2023-12-28 17:29:09" />
       </queue>
       <marketOrders>
-        <sell orderID="6659891604" orderState="Active" price="2000.0" volRemaining="300" issued="2023-12-08T10:14:18Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:46.3282969Z" />
-        <sell orderID="6659891605" orderState="Fulfilled" price="140000.0" volRemaining="0" issued="2023-12-08T10:14:18Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:46.3282969Z" />
-        <sell orderID="6659891606" orderState="Fulfilled" price="40000.0" volRemaining="0" issued="2023-12-08T10:14:18Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:46.3282969Z" />
+        <sell orderID="6659891604" orderState="Active" price="2000.0" volRemaining="300" issued="2023-12-08T10:14:18Z" issuedFor="Character" lastStateChange="2023-12-22T07:37:22.0322713Z" />
+        <sell orderID="6659891605" orderState="Fulfilled" price="140000.0" volRemaining="0" issued="2023-12-08T10:14:18Z" issuedFor="Character" lastStateChange="2023-12-22T07:37:22.0322713Z" />
+        <sell orderID="6659891606" orderState="Fulfilled" price="40000.0" volRemaining="0" issued="2023-12-08T10:14:18Z" issuedFor="Character" lastStateChange="2023-12-22T07:37:22.0322713Z" />
       </marketOrders>
       <contracts />
       <industryJobs />
@@ -2086,30 +2086,30 @@
         <apiUpdate method="Implants" time="2023-12-22T06:42:48.4452493Z" />
         <apiUpdate method="Ship" time="2023-12-22T06:42:48.4452493Z" />
         <apiUpdate method="Skills" time="2023-12-22T06:42:48.4608452Z" />
-        <apiUpdate method="SkillQueue" time="2023-12-22T07:12:49.3529387Z" />
+        <apiUpdate method="SkillQueue" time="2023-12-22T07:37:23.0129188Z" />
         <apiUpdate method="EmploymentHistory" time="2023-12-22T06:42:48.4296254Z" />
         <apiUpdate method="Standings" time="2023-12-22T07:20:46.065722Z" />
-        <apiUpdate method="ContactList" time="2023-12-22T07:25:52.0491122Z" />
+        <apiUpdate method="ContactList" time="2023-12-22T07:37:21.9384482Z" />
         <apiUpdate method="FactionalWarfareStats" time="0001-01-01T00:00:00" />
         <apiUpdate method="Medals" time="2023-12-22T07:20:46.0978125Z" />
         <apiUpdate method="KillLog" time="2023-12-22T07:20:46.1407924Z" />
         <apiUpdate method="AssetList" time="2023-12-22T07:20:46.0978125Z" />
-        <apiUpdate method="MarketOrders" time="2023-12-22T07:20:46.0978125Z" />
-        <apiUpdate method="Contracts" time="2023-12-22T07:25:52.0335232Z" />
+        <apiUpdate method="MarketOrders" time="2023-12-22T07:37:21.8603422Z" />
+        <apiUpdate method="Contracts" time="2023-12-22T07:37:22.0790403Z" />
         <apiUpdate method="WalletJournal" time="2023-12-22T07:20:46.1720354Z" />
         <apiUpdate method="AccountBalance" time="2023-12-22T06:42:48.4452493Z" />
         <apiUpdate method="WalletTransactions" time="2023-12-22T07:20:46.1407924Z" />
-        <apiUpdate method="IndustryJobs" time="2023-12-22T07:20:46.0978125Z" />
-        <apiUpdate method="ResearchPoints" time="2023-12-22T07:20:46.0978125Z" />
-        <apiUpdate method="MailMessages" time="2023-12-22T07:20:46.065722Z" />
+        <apiUpdate method="IndustryJobs" time="2023-12-22T07:37:21.8917256Z" />
+        <apiUpdate method="ResearchPoints" time="2023-12-22T07:37:21.8447496Z" />
+        <apiUpdate method="MailMessages" time="2023-12-22T07:37:21.8917256Z" />
         <apiUpdate method="MailingLists" time="0001-01-01T00:00:00" />
-        <apiUpdate method="Notifications" time="2023-12-22T07:20:46.0978125Z" />
+        <apiUpdate method="Notifications" time="2023-12-22T07:37:21.8603422Z" />
         <apiUpdate method="UpcomingCalendarEvents" time="0001-01-01T00:00:00" />
-        <apiUpdate method="PlanetaryColonies" time="2023-12-22T07:20:46.0978125Z" />
-        <apiUpdate method="LoyaltyPoints" time="2023-12-22T07:20:46.0978125Z" />
+        <apiUpdate method="PlanetaryColonies" time="2023-12-22T07:37:21.9228269Z" />
+        <apiUpdate method="LoyaltyPoints" time="2023-12-22T07:37:21.8603422Z" />
         <apiUpdate method="CorporationMedals" time="2023-12-22T07:20:46.1251171Z" />
         <apiUpdate method="CorporationMarketOrders" time="2023-12-22T07:24:47.6726973Z" />
-        <apiUpdate method="CorporationContracts" time="2023-12-22T07:20:46.1251171Z" />
+        <apiUpdate method="CorporationContracts" time="2023-12-22T07:37:22.0790403Z" />
         <apiUpdate method="CorporationIndustryJobs" time="2023-12-22T07:24:47.6726973Z" />
       </lastUpdates>
     </ccp>
@@ -2184,7 +2184,7 @@
         <skill typeID="3317" name="Trajectory Analysis" level="1" activelevel="1" skillpoints="1250" ownsBook="true" isKnown="true" />
         <skill typeID="20312" name="Guided Missile Precision" level="3" activelevel="3" skillpoints="40000" ownsBook="true" isKnown="true" />
         <skill typeID="20210" name="Light Missile Specialization" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
-        <skill typeID="3321" name="Light Missiles" level="4" activelevel="4" skillpoints="238438" ownsBook="true" isKnown="true" />
+        <skill typeID="3321" name="Light Missiles" level="4" activelevel="4" skillpoints="238611" ownsBook="true" isKnown="true" />
         <skill typeID="12441" name="Missile Bombardment" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
         <skill typeID="3319" name="Missile Launcher Operation" level="4" activelevel="4" skillpoints="45255" ownsBook="true" isKnown="true" />
         <skill typeID="12442" name="Missile Projection" level="2" activelevel="2" skillpoints="5657" ownsBook="true" isKnown="true" />
@@ -2274,70 +2274,70 @@
         <skill typeID="3436" level="5" startSP="45255" endSP="256000" startTime="2024-01-26 06:23:36" endTime="2024-02-04 20:42:57" />
       </queue>
       <marketOrders>
-        <sell orderID="6664381856" orderState="Active" price="5751.0" volRemaining="1" issued="2023-12-13T09:42:14Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <sell orderID="6664378878" orderState="Fulfilled" price="18.01" volRemaining="0" issued="2023-12-13T09:35:10Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <sell orderID="6664378880" orderState="Fulfilled" price="0.03" volRemaining="0" issued="2023-12-13T09:35:10Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <sell orderID="6664381004" orderState="Fulfilled" price="3.74" volRemaining="0" issued="2023-12-13T09:40:13Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <sell orderID="6664381853" orderState="Fulfilled" price="3.74" volRemaining="0" issued="2023-12-13T09:42:14Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <sell orderID="6664381854" orderState="Fulfilled" price="242.2" volRemaining="0" issued="2023-12-13T09:42:14Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <sell orderID="6664381855" orderState="Fulfilled" price="300.2" volRemaining="0" issued="2023-12-13T09:42:14Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <sell orderID="6664381857" orderState="Fulfilled" price="42.01" volRemaining="0" issued="2023-12-13T09:42:14Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <sell orderID="6664381858" orderState="Fulfilled" price="5.67" volRemaining="0" issued="2023-12-13T09:42:14Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <sell orderID="6664389215" orderState="Fulfilled" price="52530.0" volRemaining="0" issued="2023-12-13T09:59:13Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <sell orderID="6666105842" orderState="Fulfilled" price="223200.0" volRemaining="0" issued="2023-12-15T13:57:01Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <buy orderID="6666334880" orderState="Fulfilled" price="189000.0" volRemaining="0" issued="2023-12-15T19:15:32Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <buy orderID="6666336306" orderState="Fulfilled" price="24.92" volRemaining="0" issued="2023-12-15T19:17:27Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <buy orderID="6666419773" orderState="Fulfilled" price="174600.0" volRemaining="0" issued="2023-12-15T21:05:05Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <sell orderID="6666422937" orderState="Fulfilled" price="42.8" volRemaining="0" issued="2023-12-15T21:08:55Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <sell orderID="6666423245" orderState="Fulfilled" price="16060.0" volRemaining="0" issued="2023-12-15T21:09:17Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <sell orderID="6666423246" orderState="Fulfilled" price="15520.0" volRemaining="0" issued="2023-12-15T21:09:17Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <sell orderID="6666423247" orderState="Fulfilled" price="24540.0" volRemaining="0" issued="2023-12-15T21:09:17Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <sell orderID="6666423248" orderState="Fulfilled" price="10800.0" volRemaining="0" issued="2023-12-15T21:09:17Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <sell orderID="6666423249" orderState="Fulfilled" price="41140.0" volRemaining="0" issued="2023-12-15T21:09:17Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <sell orderID="6666423250" orderState="Fulfilled" price="20030.0" volRemaining="0" issued="2023-12-15T21:09:17Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <sell orderID="6666423251" orderState="Fulfilled" price="13100.0" volRemaining="0" issued="2023-12-15T21:09:17Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <sell orderID="6666423252" orderState="Fulfilled" price="19960.0" volRemaining="0" issued="2023-12-15T21:09:17Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <sell orderID="6666423253" orderState="Fulfilled" price="25410.0" volRemaining="0" issued="2023-12-15T21:09:17Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <sell orderID="6666423254" orderState="Fulfilled" price="4.12" volRemaining="0" issued="2023-12-15T21:09:17Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <sell orderID="6666423255" orderState="Fulfilled" price="12590.0" volRemaining="0" issued="2023-12-15T21:09:17Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <sell orderID="6666423256" orderState="Fulfilled" price="16320.0" volRemaining="0" issued="2023-12-15T21:09:17Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <sell orderID="6666423257" orderState="Fulfilled" price="14070.0" volRemaining="0" issued="2023-12-15T21:09:17Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <sell orderID="6666423258" orderState="Fulfilled" price="11440.0" volRemaining="0" issued="2023-12-15T21:09:17Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <sell orderID="6666423259" orderState="Fulfilled" price="19720.0" volRemaining="0" issued="2023-12-15T21:09:17Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <sell orderID="6666423260" orderState="Fulfilled" price="15120.0" volRemaining="0" issued="2023-12-15T21:09:17Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <sell orderID="6666423441" orderState="Fulfilled" price="90420.0" volRemaining="0" issued="2023-12-15T21:09:36Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <sell orderID="6666423442" orderState="Fulfilled" price="55430.0" volRemaining="0" issued="2023-12-15T21:09:36Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <sell orderID="6666423764" orderState="Fulfilled" price="1038000.0" volRemaining="0" issued="2023-12-15T21:10:06Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <sell orderID="6666423765" orderState="Fulfilled" price="600700.0" volRemaining="0" issued="2023-12-15T21:10:06Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <sell orderID="6666423766" orderState="Fulfilled" price="306900.0" volRemaining="0" issued="2023-12-15T21:10:06Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <buy orderID="6666425301" orderState="Fulfilled" price="123300.0" volRemaining="0" issued="2023-12-15T21:12:07Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <buy orderID="6666425897" orderState="Fulfilled" price="150000.0" volRemaining="0" issued="2023-12-15T21:13:04Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <buy orderID="6666426068" orderState="Fulfilled" price="150000.0" volRemaining="0" issued="2023-12-15T21:13:20Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <buy orderID="6666426182" orderState="Fulfilled" price="150000.0" volRemaining="0" issued="2023-12-15T21:13:29Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <buy orderID="6666426620" orderState="Fulfilled" price="52350.0" volRemaining="0" issued="2023-12-15T21:14:08Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <sell orderID="6666427314" orderState="Fulfilled" price="120000.0" volRemaining="0" issued="2023-12-15T21:15:07Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <buy orderID="6666429398" orderState="Fulfilled" price="150000.0" volRemaining="0" issued="2023-12-15T21:18:09Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <buy orderID="6666430237" orderState="Fulfilled" price="466.8" volRemaining="0" issued="2023-12-15T21:19:01Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <buy orderID="6666430445" orderState="Fulfilled" price="9.9" volRemaining="0" issued="2023-12-15T21:19:16Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <buy orderID="6666432181" orderState="Fulfilled" price="3996.0" volRemaining="0" issued="2023-12-15T21:21:14Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <buy orderID="6666444153" orderState="Fulfilled" price="89900.0" volRemaining="0" issued="2023-12-15T21:36:11Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <buy orderID="6666444280" orderState="Fulfilled" price="12860.0" volRemaining="0" issued="2023-12-15T21:36:22Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <buy orderID="6666467574" orderState="Fulfilled" price="171900.0" volRemaining="0" issued="2023-12-15T22:07:51Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <buy orderID="6666467575" orderState="Fulfilled" price="38780.0" volRemaining="0" issued="2023-12-15T22:07:51Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <buy orderID="6666467576" orderState="Fulfilled" price="70550.0" volRemaining="0" issued="2023-12-15T22:07:51Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <buy orderID="6666467577" orderState="Fulfilled" price="7374.0" volRemaining="0" issued="2023-12-15T22:07:51Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <buy orderID="6666467578" orderState="Fulfilled" price="330.0" volRemaining="0" issued="2023-12-15T22:07:51Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <buy orderID="6666467579" orderState="Fulfilled" price="1198000.0" volRemaining="0" issued="2023-12-15T22:07:51Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <buy orderID="6666467580" orderState="Fulfilled" price="106500.0" volRemaining="0" issued="2023-12-15T22:07:51Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <buy orderID="6666467581" orderState="Fulfilled" price="16090.0" volRemaining="0" issued="2023-12-15T22:07:51Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <buy orderID="6666467582" orderState="Fulfilled" price="235300.0" volRemaining="0" issued="2023-12-15T22:07:51Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <buy orderID="6666467583" orderState="Fulfilled" price="18800.0" volRemaining="0" issued="2023-12-15T22:07:51Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <buy orderID="6666467584" orderState="Fulfilled" price="33700.0" volRemaining="0" issued="2023-12-15T22:07:51Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <buy orderID="6666469503" orderState="Fulfilled" price="183500.0" volRemaining="0" issued="2023-12-15T22:10:27Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <buy orderID="6666470278" orderState="Fulfilled" price="330.0" volRemaining="0" issued="2023-12-15T22:11:29Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <buy orderID="6666470363" orderState="Fulfilled" price="345.9" volRemaining="0" issued="2023-12-15T22:11:37Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <sell orderID="6664378879" orderState="Canceled" price="15010.0" volRemaining="1" issued="2023-12-13T09:35:10Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
-        <sell orderID="6664389214" orderState="Canceled" price="4951000.0" volRemaining="1" issued="2023-12-13T09:59:13Z" issuedFor="Character" lastStateChange="2023-12-22T07:20:29.672684Z" />
+        <sell orderID="6664381856" orderState="Active" price="5751.0" volRemaining="1" issued="2023-12-13T09:42:14Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6664378878" orderState="Fulfilled" price="18.01" volRemaining="0" issued="2023-12-13T09:35:10Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6664378880" orderState="Fulfilled" price="0.03" volRemaining="0" issued="2023-12-13T09:35:10Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6664381004" orderState="Fulfilled" price="3.74" volRemaining="0" issued="2023-12-13T09:40:13Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6664381853" orderState="Fulfilled" price="3.74" volRemaining="0" issued="2023-12-13T09:42:14Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6664381854" orderState="Fulfilled" price="242.2" volRemaining="0" issued="2023-12-13T09:42:14Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6664381855" orderState="Fulfilled" price="300.2" volRemaining="0" issued="2023-12-13T09:42:14Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6664381857" orderState="Fulfilled" price="42.01" volRemaining="0" issued="2023-12-13T09:42:14Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6664381858" orderState="Fulfilled" price="5.67" volRemaining="0" issued="2023-12-13T09:42:14Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6664389215" orderState="Fulfilled" price="52530.0" volRemaining="0" issued="2023-12-13T09:59:13Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6666105842" orderState="Fulfilled" price="223200.0" volRemaining="0" issued="2023-12-15T13:57:01Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <buy orderID="6666334880" orderState="Fulfilled" price="189000.0" volRemaining="0" issued="2023-12-15T19:15:32Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <buy orderID="6666336306" orderState="Fulfilled" price="24.92" volRemaining="0" issued="2023-12-15T19:17:27Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <buy orderID="6666419773" orderState="Fulfilled" price="174600.0" volRemaining="0" issued="2023-12-15T21:05:05Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6666422937" orderState="Fulfilled" price="42.8" volRemaining="0" issued="2023-12-15T21:08:55Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6666423245" orderState="Fulfilled" price="16060.0" volRemaining="0" issued="2023-12-15T21:09:17Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6666423246" orderState="Fulfilled" price="15520.0" volRemaining="0" issued="2023-12-15T21:09:17Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6666423247" orderState="Fulfilled" price="24540.0" volRemaining="0" issued="2023-12-15T21:09:17Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6666423248" orderState="Fulfilled" price="10800.0" volRemaining="0" issued="2023-12-15T21:09:17Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6666423249" orderState="Fulfilled" price="41140.0" volRemaining="0" issued="2023-12-15T21:09:17Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6666423250" orderState="Fulfilled" price="20030.0" volRemaining="0" issued="2023-12-15T21:09:17Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6666423251" orderState="Fulfilled" price="13100.0" volRemaining="0" issued="2023-12-15T21:09:17Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6666423252" orderState="Fulfilled" price="19960.0" volRemaining="0" issued="2023-12-15T21:09:17Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6666423253" orderState="Fulfilled" price="25410.0" volRemaining="0" issued="2023-12-15T21:09:17Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6666423254" orderState="Fulfilled" price="4.12" volRemaining="0" issued="2023-12-15T21:09:17Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6666423255" orderState="Fulfilled" price="12590.0" volRemaining="0" issued="2023-12-15T21:09:17Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6666423256" orderState="Fulfilled" price="16320.0" volRemaining="0" issued="2023-12-15T21:09:17Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6666423257" orderState="Fulfilled" price="14070.0" volRemaining="0" issued="2023-12-15T21:09:17Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6666423258" orderState="Fulfilled" price="11440.0" volRemaining="0" issued="2023-12-15T21:09:17Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6666423259" orderState="Fulfilled" price="19720.0" volRemaining="0" issued="2023-12-15T21:09:17Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6666423260" orderState="Fulfilled" price="15120.0" volRemaining="0" issued="2023-12-15T21:09:17Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6666423441" orderState="Fulfilled" price="90420.0" volRemaining="0" issued="2023-12-15T21:09:36Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6666423442" orderState="Fulfilled" price="55430.0" volRemaining="0" issued="2023-12-15T21:09:36Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6666423764" orderState="Fulfilled" price="1038000.0" volRemaining="0" issued="2023-12-15T21:10:06Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6666423765" orderState="Fulfilled" price="600700.0" volRemaining="0" issued="2023-12-15T21:10:06Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6666423766" orderState="Fulfilled" price="306900.0" volRemaining="0" issued="2023-12-15T21:10:06Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <buy orderID="6666425301" orderState="Fulfilled" price="123300.0" volRemaining="0" issued="2023-12-15T21:12:07Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <buy orderID="6666425897" orderState="Fulfilled" price="150000.0" volRemaining="0" issued="2023-12-15T21:13:04Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <buy orderID="6666426068" orderState="Fulfilled" price="150000.0" volRemaining="0" issued="2023-12-15T21:13:20Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <buy orderID="6666426182" orderState="Fulfilled" price="150000.0" volRemaining="0" issued="2023-12-15T21:13:29Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <buy orderID="6666426620" orderState="Fulfilled" price="52350.0" volRemaining="0" issued="2023-12-15T21:14:08Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6666427314" orderState="Fulfilled" price="120000.0" volRemaining="0" issued="2023-12-15T21:15:07Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <buy orderID="6666429398" orderState="Fulfilled" price="150000.0" volRemaining="0" issued="2023-12-15T21:18:09Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <buy orderID="6666430237" orderState="Fulfilled" price="466.8" volRemaining="0" issued="2023-12-15T21:19:01Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <buy orderID="6666430445" orderState="Fulfilled" price="9.9" volRemaining="0" issued="2023-12-15T21:19:16Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <buy orderID="6666432181" orderState="Fulfilled" price="3996.0" volRemaining="0" issued="2023-12-15T21:21:14Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <buy orderID="6666444153" orderState="Fulfilled" price="89900.0" volRemaining="0" issued="2023-12-15T21:36:11Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <buy orderID="6666444280" orderState="Fulfilled" price="12860.0" volRemaining="0" issued="2023-12-15T21:36:22Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <buy orderID="6666467574" orderState="Fulfilled" price="171900.0" volRemaining="0" issued="2023-12-15T22:07:51Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <buy orderID="6666467575" orderState="Fulfilled" price="38780.0" volRemaining="0" issued="2023-12-15T22:07:51Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <buy orderID="6666467576" orderState="Fulfilled" price="70550.0" volRemaining="0" issued="2023-12-15T22:07:51Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <buy orderID="6666467577" orderState="Fulfilled" price="7374.0" volRemaining="0" issued="2023-12-15T22:07:51Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <buy orderID="6666467578" orderState="Fulfilled" price="330.0" volRemaining="0" issued="2023-12-15T22:07:51Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <buy orderID="6666467579" orderState="Fulfilled" price="1198000.0" volRemaining="0" issued="2023-12-15T22:07:51Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <buy orderID="6666467580" orderState="Fulfilled" price="106500.0" volRemaining="0" issued="2023-12-15T22:07:51Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <buy orderID="6666467581" orderState="Fulfilled" price="16090.0" volRemaining="0" issued="2023-12-15T22:07:51Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <buy orderID="6666467582" orderState="Fulfilled" price="235300.0" volRemaining="0" issued="2023-12-15T22:07:51Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <buy orderID="6666467583" orderState="Fulfilled" price="18800.0" volRemaining="0" issued="2023-12-15T22:07:51Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <buy orderID="6666467584" orderState="Fulfilled" price="33700.0" volRemaining="0" issued="2023-12-15T22:07:51Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <buy orderID="6666469503" orderState="Fulfilled" price="183500.0" volRemaining="0" issued="2023-12-15T22:10:27Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <buy orderID="6666470278" orderState="Fulfilled" price="330.0" volRemaining="0" issued="2023-12-15T22:11:29Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <buy orderID="6666470363" orderState="Fulfilled" price="345.9" volRemaining="0" issued="2023-12-15T22:11:37Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6664378879" orderState="Canceled" price="15010.0" volRemaining="1" issued="2023-12-13T09:35:10Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
+        <sell orderID="6664389214" orderState="Canceled" price="4951000.0" volRemaining="1" issued="2023-12-13T09:59:13Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
       </marketOrders>
       <contracts>
         <contract contractID="199181341" contractState="Finished" contractType="ItemExchange" issuedFor="Character" />
@@ -2353,30 +2353,30 @@
         <apiUpdate method="Implants" time="2023-12-22T06:42:48.4608452Z" />
         <apiUpdate method="Ship" time="2023-12-22T06:42:48.4608452Z" />
         <apiUpdate method="Skills" time="2023-12-22T06:42:48.4608452Z" />
-        <apiUpdate method="SkillQueue" time="2023-12-22T07:12:49.3997422Z" />
+        <apiUpdate method="SkillQueue" time="2023-12-22T07:37:23.0285391Z" />
         <apiUpdate method="EmploymentHistory" time="2023-12-22T06:42:48.4296254Z" />
         <apiUpdate method="Standings" time="2023-12-22T07:20:29.3124815Z" />
-        <apiUpdate method="ContactList" time="2023-12-22T07:25:34.5707273Z" />
+        <apiUpdate method="ContactList" time="2023-12-22T07:37:21.9228269Z" />
         <apiUpdate method="FactionalWarfareStats" time="0001-01-01T00:00:00" />
         <apiUpdate method="Medals" time="2023-12-22T07:20:29.3124815Z" />
         <apiUpdate method="KillLog" time="2023-12-22T07:20:29.36712Z" />
         <apiUpdate method="AssetList" time="2023-12-22T07:20:29.4384644Z" />
-        <apiUpdate method="MarketOrders" time="2023-12-22T07:20:29.2812781Z" />
-        <apiUpdate method="Contracts" time="2023-12-22T07:25:34.5551953Z" />
+        <apiUpdate method="MarketOrders" time="2023-12-22T07:37:21.8603422Z" />
+        <apiUpdate method="Contracts" time="2023-12-22T07:37:22.0790403Z" />
         <apiUpdate method="WalletJournal" time="2023-12-22T07:20:29.516458Z" />
         <apiUpdate method="AccountBalance" time="2023-12-22T06:42:48.4452493Z" />
         <apiUpdate method="WalletTransactions" time="2023-12-22T07:20:29.36712Z" />
-        <apiUpdate method="IndustryJobs" time="2023-12-22T07:20:29.2968625Z" />
-        <apiUpdate method="ResearchPoints" time="2023-12-22T07:20:29.3124815Z" />
-        <apiUpdate method="MailMessages" time="2023-12-22T07:20:29.3124815Z" />
+        <apiUpdate method="IndustryJobs" time="2023-12-22T07:37:21.9228269Z" />
+        <apiUpdate method="ResearchPoints" time="2023-12-22T07:37:21.8603422Z" />
+        <apiUpdate method="MailMessages" time="2023-12-22T07:37:21.907206Z" />
         <apiUpdate method="MailingLists" time="0001-01-01T00:00:00" />
-        <apiUpdate method="Notifications" time="2023-12-22T07:20:29.3828838Z" />
+        <apiUpdate method="Notifications" time="2023-12-22T07:37:21.8603422Z" />
         <apiUpdate method="UpcomingCalendarEvents" time="0001-01-01T00:00:00" />
-        <apiUpdate method="PlanetaryColonies" time="2023-12-22T07:20:29.3124815Z" />
-        <apiUpdate method="LoyaltyPoints" time="2023-12-22T07:20:29.3124815Z" />
+        <apiUpdate method="PlanetaryColonies" time="2023-12-22T07:37:21.8759626Z" />
+        <apiUpdate method="LoyaltyPoints" time="2023-12-22T07:37:21.8603422Z" />
         <apiUpdate method="CorporationMedals" time="2023-12-22T07:20:29.4070812Z" />
         <apiUpdate method="CorporationMarketOrders" time="2023-12-22T07:24:30.3608301Z" />
-        <apiUpdate method="CorporationContracts" time="2023-12-22T07:20:29.3124815Z" />
+        <apiUpdate method="CorporationContracts" time="2023-12-22T07:37:22.0946892Z" />
         <apiUpdate method="CorporationIndustryJobs" time="2023-12-22T07:24:30.3608301Z" />
       </lastUpdates>
     </ccp>
@@ -2439,7 +2439,7 @@
         <skill typeID="3435" name="Propulsion Jamming" level="1" activelevel="1" skillpoints="750" ownsBook="true" isKnown="true" />
         <skill typeID="3418" name="Capacitor Management" level="3" activelevel="3" skillpoints="24000" ownsBook="true" isKnown="true" />
         <skill typeID="3417" name="Capacitor Systems Operation" level="3" activelevel="3" skillpoints="8000" ownsBook="true" isKnown="true" />
-        <skill typeID="3426" name="CPU Management" level="4" activelevel="4" skillpoints="163561" ownsBook="true" isKnown="true" />
+        <skill typeID="3426" name="CPU Management" level="4" activelevel="4" skillpoints="163728" ownsBook="true" isKnown="true" />
         <skill typeID="3432" name="Electronics Upgrades" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
         <skill typeID="3424" name="Energy Grid Upgrades" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
         <skill typeID="3413" name="Power Grid Management" level="4" activelevel="4" skillpoints="45255" ownsBook="true" isKnown="true" />
@@ -2499,8 +2499,8 @@
         <selectedIndex>0</selectedIndex>
       </implants>
       <queue>
-        <skill typeID="3426" level="5" startSP="45255" endSP="256000" startTime="2023-12-16 19:59:16" endTime="2023-12-26 14:08:56" />
-        <skill typeID="3413" level="5" startSP="45255" endSP="256000" startTime="2023-12-26 14:08:56" endTime="2024-01-05 08:18:36" />
+        <skill typeID="3426" level="5" startSP="45255" endSP="256000" startTime="2023-12-16 19:59:17" endTime="2023-12-26 14:08:57" />
+        <skill typeID="3413" level="5" startSP="45255" endSP="256000" startTime="2023-12-26 14:08:57" endTime="2024-01-05 08:18:37" />
       </queue>
       <marketOrders />
       <contracts>
@@ -2516,30 +2516,30 @@
         <apiUpdate method="Implants" time="2023-12-22T06:42:48.4452493Z" />
         <apiUpdate method="Ship" time="2023-12-22T06:42:48.4608452Z" />
         <apiUpdate method="Skills" time="2023-12-22T06:42:48.4608452Z" />
-        <apiUpdate method="SkillQueue" time="2023-12-22T07:12:49.3529387Z" />
+        <apiUpdate method="SkillQueue" time="2023-12-22T07:37:22.9972956Z" />
         <apiUpdate method="EmploymentHistory" time="2023-12-22T06:42:48.4296254Z" />
         <apiUpdate method="Standings" time="2023-12-22T07:20:01.1396244Z" />
-        <apiUpdate method="ContactList" time="2023-12-22T07:25:07.0595612Z" />
+        <apiUpdate method="ContactList" time="2023-12-22T07:37:21.8917256Z" />
         <apiUpdate method="FactionalWarfareStats" time="0001-01-01T00:00:00" />
         <apiUpdate method="Medals" time="2023-12-22T07:20:01.1396244Z" />
         <apiUpdate method="KillLog" time="2023-12-22T07:20:01.1396244Z" />
         <apiUpdate method="AssetList" time="2023-12-22T07:20:01.1884713Z" />
-        <apiUpdate method="MarketOrders" time="2023-12-22T07:20:01.1396244Z" />
-        <apiUpdate method="Contracts" time="2023-12-22T07:25:07.200216Z" />
+        <apiUpdate method="MarketOrders" time="2023-12-22T07:37:21.829099Z" />
+        <apiUpdate method="Contracts" time="2023-12-22T07:37:22.0790403Z" />
         <apiUpdate method="WalletJournal" time="2023-12-22T07:20:01.1884713Z" />
         <apiUpdate method="AccountBalance" time="2023-12-22T06:42:48.4296254Z" />
         <apiUpdate method="WalletTransactions" time="2023-12-22T07:20:01.1728491Z" />
-        <apiUpdate method="IndustryJobs" time="2023-12-22T07:20:01.1083892Z" />
-        <apiUpdate method="ResearchPoints" time="2023-12-22T07:20:01.1396244Z" />
-        <apiUpdate method="MailMessages" time="2023-12-22T07:20:01.1396244Z" />
+        <apiUpdate method="IndustryJobs" time="2023-12-22T07:37:21.907206Z" />
+        <apiUpdate method="ResearchPoints" time="2023-12-22T07:37:21.8447496Z" />
+        <apiUpdate method="MailMessages" time="2023-12-22T07:37:21.9228269Z" />
         <apiUpdate method="MailingLists" time="0001-01-01T00:00:00" />
-        <apiUpdate method="Notifications" time="2023-12-22T07:20:01.2040923Z" />
+        <apiUpdate method="Notifications" time="2023-12-22T07:37:21.8447496Z" />
         <apiUpdate method="UpcomingCalendarEvents" time="0001-01-01T00:00:00" />
-        <apiUpdate method="PlanetaryColonies" time="2023-12-22T07:20:01.1884713Z" />
-        <apiUpdate method="LoyaltyPoints" time="2023-12-22T07:20:01.1884713Z" />
+        <apiUpdate method="PlanetaryColonies" time="2023-12-22T07:37:21.8447496Z" />
+        <apiUpdate method="LoyaltyPoints" time="2023-12-22T07:37:21.8447496Z" />
         <apiUpdate method="CorporationMedals" time="2023-12-22T07:20:01.2040923Z" />
         <apiUpdate method="CorporationMarketOrders" time="2023-12-22T07:26:03.4463504Z" />
-        <apiUpdate method="CorporationContracts" time="2023-12-22T07:20:01.4315383Z" />
+        <apiUpdate method="CorporationContracts" time="2023-12-22T07:37:22.1259439Z" />
         <apiUpdate method="CorporationIndustryJobs" time="2023-12-22T07:26:03.3682424Z" />
       </lastUpdates>
     </ccp>
@@ -2994,7 +2994,7 @@
   <monitoredCharacters>
     <character characterGuid="4be22655-078d-4cb0-91f1-d49dfe90d46e" name="Dee Galla">
       <settings>
-        <selectedPage>assetsPage</selectedPage>
+        <selectedPage>skillsPage</selectedPage>
         <collapsedGroup>Armor</collapsedGroup>
         <collapsedGroup>Corporation Management</collapsedGroup>
         <collapsedGroup>Drones</collapsedGroup>
@@ -3047,7 +3047,7 @@
     </character>
     <character characterGuid="4b10300c-fd72-4ce4-a36e-e89f5881d9db" name="Deem Matar">
       <settings>
-        <selectedPage>assetsPage</selectedPage>
+        <selectedPage>skillsPage</selectedPage>
         <assetsGroupBy>None</assetsGroupBy>
         <ordersGroupBy>State</ordersGroupBy>
         <contractsGroupBy>State</contractsGroupBy>
@@ -3077,7 +3077,7 @@
     </character>
     <character characterGuid="20c7bab8-567c-43f8-83d1-b548db1c35f4" name="VeeDeeCovan">
       <settings>
-        <selectedPage>assetsPage</selectedPage>
+        <selectedPage>skillsPage</selectedPage>
         <collapsedGroup>Armor</collapsedGroup>
         <collapsedGroup>Corporation Management</collapsedGroup>
         <collapsedGroup>Drones</collapsedGroup>
@@ -3130,7 +3130,7 @@
     </character>
     <character characterGuid="984696ef-cc83-4a75-8620-18746a418d19" name="Worm Holera">
       <settings>
-        <selectedPage>assetsPage</selectedPage>
+        <selectedPage>skillsPage</selectedPage>
         <collapsedGroup>Armor</collapsedGroup>
         <collapsedGroup>Corporation Management</collapsedGroup>
         <collapsedGroup>Drones</collapsedGroup>
@@ -3183,7 +3183,7 @@
     </character>
     <character characterGuid="24677fa6-bdd9-4e3a-b270-5c33d768fefd" name="Gallenteria">
       <settings>
-        <selectedPage>assetsPage</selectedPage>
+        <selectedPage>skillsPage</selectedPage>
         <collapsedGroup>Armor</collapsedGroup>
         <collapsedGroup>Corporation Management</collapsedGroup>
         <collapsedGroup>Drones</collapsedGroup>
@@ -3236,7 +3236,7 @@
     </character>
     <character characterGuid="b869a88a-da3e-45c8-85d5-cd5ae62864ff" name="Abyssette">
       <settings>
-        <selectedPage>assetsPage</selectedPage>
+        <selectedPage>skillsPage</selectedPage>
         <collapsedGroup>Armor</collapsedGroup>
         <collapsedGroup>Corporation Management</collapsedGroup>
         <collapsedGroup>Drones</collapsedGroup>
@@ -3289,7 +3289,7 @@
     </character>
     <character characterGuid="43cde78d-f909-49c8-9a50-3ee87b81d6c3" name="DeeBladina">
       <settings>
-        <selectedPage>assetsPage</selectedPage>
+        <selectedPage>skillsPage</selectedPage>
         <collapsedGroup>Armor</collapsedGroup>
         <collapsedGroup>Corporation Management</collapsedGroup>
         <collapsedGroup>Drones</collapsedGroup>
@@ -3342,7 +3342,7 @@
     </character>
     <character characterGuid="4ff89e78-4550-46a1-a16d-1c3b8a60c83c" name="Lordessa">
       <settings>
-        <selectedPage>assetsPage</selectedPage>
+        <selectedPage>skillsPage</selectedPage>
         <collapsedGroup>Armor</collapsedGroup>
         <collapsedGroup>Corporation Management</collapsedGroup>
         <collapsedGroup>Drones</collapsedGroup>
@@ -3395,7 +3395,7 @@
     </character>
     <character characterGuid="189f4f00-773e-4f3a-b5fa-81474cfcebd5" name="Steamaha">
       <settings>
-        <selectedPage>assetsPage</selectedPage>
+        <selectedPage>skillsPage</selectedPage>
         <collapsedGroup>Armor</collapsedGroup>
         <collapsedGroup>Corporation Management</collapsedGroup>
         <collapsedGroup>Drones</collapsedGroup>
@@ -3448,7 +3448,7 @@
     </character>
     <character characterGuid="6a8afb03-621f-41b4-8c6d-1f8c188e4787" name="Caldarynka">
       <settings>
-        <selectedPage>assetsPage</selectedPage>
+        <selectedPage>skillsPage</selectedPage>
         <assetsGroupBy>None</assetsGroupBy>
         <ordersGroupBy>State</ordersGroupBy>
         <contractsGroupBy>State</contractsGroupBy>
@@ -3478,7 +3478,7 @@
     </character>
     <character characterGuid="1a11620b-a063-4259-8b5f-420d4fdb38f8" name="Gallentiada">
       <settings>
-        <selectedPage>assetsPage</selectedPage>
+        <selectedPage>skillsPage</selectedPage>
         <assetsGroupBy>None</assetsGroupBy>
         <ordersGroupBy>State</ordersGroupBy>
         <contractsGroupBy>State</contractsGroupBy>
@@ -3508,7 +3508,7 @@
     </character>
     <character characterGuid="30a81906-50db-444c-9ebf-d77bcee9229f" name="Smart Eggs">
       <settings>
-        <selectedPage>assetsPage</selectedPage>
+        <selectedPage>skillsPage</selectedPage>
         <collapsedGroup>Armor</collapsedGroup>
         <collapsedGroup>Corporation Management</collapsedGroup>
         <collapsedGroup>Drones</collapsedGroup>
