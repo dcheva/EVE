@@ -1,4 +1,5 @@
 @echo off
+
 @echo Backup Worm Holera
 copy prefs.ini "Worm Holera/" /Y
 copy core_char__.dat "Worm Holera/" /Y
@@ -6,6 +7,7 @@ copy core_user__.dat "Worm Holera/" /Y
 copy core_public__.yaml "Worm Holera/" /Y
 copy core_char_2121853336.dat "Worm Holera/" /Y
 copy core_user_29280260.dat "Worm Holera/" /Y
+
 @echo Copy characters
 copy core_char_2121853336.dat core_char_578564394.dat /Y
 copy core_char_2121853336.dat core_char_2113875139.dat /Y
@@ -26,6 +28,7 @@ copy core_char_2121853336.dat core_char_2121178396.dat /Y
 copy core_char_2121853336.dat core_char_2121853336.dat /Y
 copy core_char_2121853336.dat core_char_2121878074.dat /Y
 copy core_char_2121853336.dat core_char_2121891348.dat /Y
+
 @echo Copy users 
 copy core_user_29280260.dat core_user_2110311.dat /Y
 copy core_user_29280260.dat core_user_16492377.dat /Y
