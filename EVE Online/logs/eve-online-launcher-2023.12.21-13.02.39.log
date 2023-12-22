@@ -1359,3 +1359,10 @@
 2023-12-21 21:17:13.237    app     info:    [main-window] Main window minimized to tray    { windowId: 2 }
 2023-12-21 21:18:13.198    app     info:    [self-update] Checking for a launcher update...
 2023-12-21 21:18:13.505    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-21 21:18:24.178    app     info:    [tray] Quitting application from tray
+2023-12-21 21:18:24.180    app     info:    Application quitting. Cleanup needed: true
+2023-12-21 21:18:24.182    app     info:    [elg-events] Sending event    eve_launcher.electron.application.LauncherShutdown
+2023-12-21 21:18:24.183    app     info:    app.quit called, but we are still sending ELG events.
+2023-12-21 21:18:24.787    app     info:    ELG stream closed, quitting.
+2023-12-21 21:18:24.787    app     info:    [main-window] Main window closing    { windowId: 2 }
+2023-12-21 21:18:24.801    app     info:    Application closed    0
