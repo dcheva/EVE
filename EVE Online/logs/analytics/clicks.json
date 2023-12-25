@@ -5,12 +5,12 @@
       "height": 1080
     },
     "click": {
-      "x": 185,
-      "y": 666,
-      "tagName": "BUTTON",
-      "id": "",
-      "className": "mantine-UnstyledButton-root mantine-NewsItem-root mantine-ihieh4",
-      "innerText": "2023-12-22\n50% Off Omega + Multi Character Training"
+      "x": 536,
+      "y": 811,
+      "tagName": "DIV",
+      "id": "root",
+      "className": "",
+      "innerText": ""
     }
   },
   {
@@ -19,12 +19,40 @@
       "height": 1080
     },
     "click": {
-      "x": 166,
-      "y": 664,
+      "x": 579,
+      "y": 783,
+      "tagName": "DIV",
+      "id": "root",
+      "className": "",
+      "innerText": ""
+    }
+  },
+  {
+    "window": {
+      "width": 1412,
+      "height": 1080
+    },
+    "click": {
+      "x": 473,
+      "y": 706,
+      "tagName": "DIV",
+      "id": "root",
+      "className": "",
+      "innerText": ""
+    }
+  },
+  {
+    "window": {
+      "width": 1412,
+      "height": 1080
+    },
+    "click": {
+      "x": 944,
+      "y": 401,
       "tagName": "BUTTON",
       "id": "",
-      "className": "mantine-UnstyledButton-root mantine-NewsItem-root mantine-ihieh4",
-      "innerText": "2023-12-22\n50% Off Omega + Multi Character Training"
+      "className": "mantine-UnstyledButton-root mantine-Button-root ___ref-play-button-the-button mantine-fnk0ba",
+      "innerText": "PLAY NOW"
     }
   }
 ]
