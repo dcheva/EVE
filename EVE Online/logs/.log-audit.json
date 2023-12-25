@@ -6,11 +6,6 @@
     "auditLog": "C:\\Users\\Dmytro\\AppData\\Roaming\\EVE Online\\logs\\.log-audit.json",
     "files": [
         {
-            "date": 1702245681425,
-            "name": "C:\\Users\\Dmytro\\AppData\\Roaming\\EVE Online\\logs\\eve-online-launcher-2023.12.10-22.01.21.log",
-            "hash": "8c0f0093ba4de6b94874dbff0b95c31ea0c757db27697624a9ebe5594d557981"
-        },
-        {
             "date": 1702270935351,
             "name": "C:\\Users\\Dmytro\\AppData\\Roaming\\EVE Online\\logs\\eve-online-launcher-2023.12.11-05.02.15.log",
             "hash": "3c5d614ddc4326a37db49d2eba28318316bfc8c528173b93bea0f262dbdeef78"
@@ -229,6 +224,31 @@
             "date": 1703369573506,
             "name": "C:\\Users\\Dmytro\\AppData\\Roaming\\EVE Online\\logs\\eve-online-launcher-2023.12.23-22.12.53.log",
             "hash": "7d2576499dec703fd192f7719ac359a48e3167c47936306a9cbbcfc41859d482"
+        },
+        {
+            "date": 1703407389992,
+            "name": "C:\\Users\\Dmytro\\AppData\\Roaming\\EVE Online\\logs\\eve-online-launcher-2023.12.24-08.43.09.log",
+            "hash": "80398b2abf2b950dd9ae0e42e40f5cce3d5f39b507dacce21293adce2383426e"
+        },
+        {
+            "date": 1703430616056,
+            "name": "C:\\Users\\Dmytro\\AppData\\Roaming\\EVE Online\\logs\\eve-online-launcher-2023.12.24-15.10.16.log",
+            "hash": "fbfcaacbb27c6131d8eb5c2fa9cadd9362df76039474dc2fe03e81f6e9a18843"
+        },
+        {
+            "date": 1703438332614,
+            "name": "C:\\Users\\Dmytro\\AppData\\Roaming\\EVE Online\\logs\\eve-online-launcher-2023.12.24-17.18.52.log",
+            "hash": "d7ef6872c87f4790e0d424b3d0fbf66c63596cf2b9ae7fb5dde2b4f15cf21e0e"
+        },
+        {
+            "date": 1703454728840,
+            "name": "C:\\Users\\Dmytro\\AppData\\Roaming\\EVE Online\\logs\\eve-online-launcher-2023.12.24-21.52.08.log",
+            "hash": "580f50b34c56672a3d39a9b948d5b92cbe5eeff4c17231816a9367b5ed783e50"
+        },
+        {
+            "date": 1703462538163,
+            "name": "C:\\Users\\Dmytro\\AppData\\Roaming\\EVE Online\\logs\\eve-online-launcher-2023.12.25-21.52.08.log",
+            "hash": "648668da1efee02e3920c9f62ffb4b801298ae12bd672ebf84485e862cfb431c"
         }
     ],
     "hashType": "sha256"

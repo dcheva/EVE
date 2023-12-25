@@ -169,4 +169,41 @@
 			<hardware slot="rig slot 2" type="&lt;localized hint=&quot;Small Low Friction Nozzle Joints II&quot;&gt;Small Low Friction Nozzle Joints II*&lt;/localized&gt;"/>
 			<hardware qty="2" slot="drone bay" type="&lt;localized hint=&quot;Federation Navy Hammerhead&quot;&gt;Federation Navy Hammerhead*&lt;/localized&gt;"/>
 		</fitting>
+		<fitting name="rDrone Drain">
+			<description value=""/>
+			<shipType value="&lt;localized hint=&quot;Tristan&quot;&gt;Tristan*&lt;/localized&gt;"/>
+			<hardware slot="low slot 0" type="&lt;localized hint=&quot;Capacitor Power Relay I&quot;&gt;Capacitor Power Relay I*&lt;/localized&gt;"/>
+			<hardware slot="hi slot 0" type="&lt;localized hint=&quot;Small Knave Scoped Energy Nosferatu&quot;&gt;Small Knave Scoped Energy Nosferatu*&lt;/localized&gt;"/>
+			<hardware slot="med slot 0" type="&lt;localized hint=&quot;1MN Y-S8 Compact Afterburner&quot;&gt;1MN Y-S8 Compact Afterburner*&lt;/localized&gt;"/>
+			<hardware slot="med slot 2" type="&lt;localized hint=&quot;Small C5-L Compact Shield Booster&quot;&gt;Small C5-L Compact Shield Booster*&lt;/localized&gt;"/>
+			<hardware slot="hi slot 2" type="&lt;localized hint=&quot;Core Probe Launcher I&quot;&gt;Core Probe Launcher I*&lt;/localized&gt;"/>
+			<hardware slot="med slot 1" type="&lt;localized hint=&quot;Drone Navigation Computer I&quot;&gt;Drone Navigation Computer I*&lt;/localized&gt;"/>
+			<hardware qty="8" slot="drone bay" type="&lt;localized hint=&quot;'Integrated' Acolyte&quot;&gt;'Integrated' Acolyte*&lt;/localized&gt;"/>
+			<hardware qty="16" slot="cargo" type="&lt;localized hint=&quot;Core Scanner Probe I&quot;&gt;Core Scanner Probe I*&lt;/localized&gt;"/>
+			<hardware slot="rig slot 1" type="&lt;localized hint=&quot;Small EM Shield Reinforcer I&quot;&gt;Small EM Shield Reinforcer I*&lt;/localized&gt;"/>
+			<hardware slot="rig slot 0" type="&lt;localized hint=&quot;Small Core Defense Field Extender I&quot;&gt;Small Core Defense Field Extender I*&lt;/localized&gt;"/>
+			<hardware slot="rig slot 2" type="&lt;localized hint=&quot;Small Drone Control Range Augmentor I&quot;&gt;Small Drone Control Range Augmentor I*&lt;/localized&gt;"/>
+			<hardware slot="low slot 1" type="&lt;localized hint=&quot;AE-K Compact Drone Damage Amplifier&quot;&gt;AE-K Compact Drone Damage Amplifier*&lt;/localized&gt;"/>
+			<hardware slot="low slot 2" type="&lt;localized hint=&quot;AE-K Compact Drone Damage Amplifier&quot;&gt;AE-K Compact Drone Damage Amplifier*&lt;/localized&gt;"/>
+		</fitting>
+		<fitting name="rDrone Range 75km 8m">
+			<description value=""/>
+			<shipType value="&lt;localized hint=&quot;Tristan&quot;&gt;Tristan*&lt;/localized&gt;"/>
+			<hardware slot="low slot 0" type="&lt;localized hint=&quot;Co-Processor II&quot;&gt;Co-Processor II*&lt;/localized&gt;"/>
+			<hardware slot="med slot 0" type="&lt;localized hint=&quot;1MN Y-S8 Compact Afterburner&quot;&gt;1MN Y-S8 Compact Afterburner*&lt;/localized&gt;"/>
+			<hardware slot="med slot 1" type="&lt;localized hint=&quot;Alumel-Wired Enduring Sensor Booster&quot;&gt;Alumel-Wired Enduring Sensor Booster*&lt;/localized&gt;"/>
+			<hardware slot="med slot 2" type="&lt;localized hint=&quot;Small C5-L Compact Shield Booster&quot;&gt;Small C5-L Compact Shield Booster*&lt;/localized&gt;"/>
+			<hardware slot="hi slot 2" type="&lt;localized hint=&quot;Core Probe Launcher I&quot;&gt;Core Probe Launcher I*&lt;/localized&gt;"/>
+			<hardware slot="hi slot 1" type="&lt;localized hint=&quot;Drone Link Augmentor I&quot;&gt;Drone Link Augmentor I*&lt;/localized&gt;"/>
+			<hardware qty="8" slot="drone bay" type="&lt;localized hint=&quot;'Integrated' Acolyte&quot;&gt;'Integrated' Acolyte*&lt;/localized&gt;"/>
+			<hardware qty="1" slot="cargo" type="&lt;localized hint=&quot;Targeting Range Script&quot;&gt;Targeting Range Script*&lt;/localized&gt;"/>
+			<hardware qty="1" slot="cargo" type="&lt;localized hint=&quot;Scan Resolution Script&quot;&gt;Scan Resolution Script*&lt;/localized&gt;"/>
+			<hardware qty="16" slot="cargo" type="&lt;localized hint=&quot;Core Scanner Probe I&quot;&gt;Core Scanner Probe I*&lt;/localized&gt;"/>
+			<hardware slot="rig slot 1" type="&lt;localized hint=&quot;Small EM Shield Reinforcer I&quot;&gt;Small EM Shield Reinforcer I*&lt;/localized&gt;"/>
+			<hardware slot="rig slot 0" type="&lt;localized hint=&quot;Small Core Defense Field Extender I&quot;&gt;Small Core Defense Field Extender I*&lt;/localized&gt;"/>
+			<hardware slot="rig slot 2" type="&lt;localized hint=&quot;Small Drone Control Range Augmentor I&quot;&gt;Small Drone Control Range Augmentor I*&lt;/localized&gt;"/>
+			<hardware slot="low slot 1" type="&lt;localized hint=&quot;AE-K Compact Drone Damage Amplifier&quot;&gt;AE-K Compact Drone Damage Amplifier*&lt;/localized&gt;"/>
+			<hardware slot="low slot 2" type="&lt;localized hint=&quot;AE-K Compact Drone Damage Amplifier&quot;&gt;AE-K Compact Drone Damage Amplifier*&lt;/localized&gt;"/>
+			<hardware qty="1" slot="cargo" type="&lt;localized hint=&quot;ECCM Script&quot;&gt;ECCM Script*&lt;/localized&gt;"/>
+		</fitting>
 	</fittings>
