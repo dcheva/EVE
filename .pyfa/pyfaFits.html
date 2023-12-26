@@ -1,0 +1,254 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Pyfa Fittings</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8" />
+  <link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.css" />
+  <script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+  <script>
+//http://stackoverflow.com/questions/32453806/uncaught-securityerror-failed-to-execute-replacestate-on-history-cannot-be
+    $(document).bind('mobileinit',function(){
+        $.mobile.changePage.defaults.changeHash = false;
+        $.mobile.hashListeningEnabled = false;
+        $.mobile.pushStateEnabled = false;
+    });
+  </script>
+  <script src="https://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.js"></script>
+  <style>
+    /* Basic settings */
+    .ui-li-static.ui-collapsible {
+        padding: 0;
+    }
+    .ui-li-static.ui-collapsible > .ui-collapsible-content > .ui-listview,
+    .ui-li-static.ui-collapsible > .ui-collapsible-heading {
+        margin: 0;
+    }
+    .ui-li-static.ui-collapsible > .ui-collapsible-content {
+        padding-top: 0;
+        padding-bottom: 0;
+        padding-right: 0;
+        border-bottom-width: 0;
+    }
+    /* collapse vertical borders */
+    .ui-li-static.ui-collapsible > .ui-collapsible-content > .ui-listview > li.ui-last-child,
+    .ui-li-static.ui-collapsible.ui-collapsible-collapsed > .ui-collapsible-heading > a.ui-btn {
+        border-bottom-width: 0;
+    }
+    .ui-li-static.ui-collapsible > .ui-collapsible-content > .ui-listview > li.ui-first-child,
+    .ui-li-static.ui-collapsible > .ui-collapsible-content > .ui-listview > li.ui-first-child > a.ui-btn,
+    .ui-li-static.ui-collapsible > .ui-collapsible-heading > a.ui-btn {
+        border-top-width: 0;
+    }
+    /* Remove right borders */
+    .ui-li-static.ui-collapsible > .ui-collapsible-heading > a.ui-btn,
+    .ui-li-static.ui-collapsible > .ui-collapsible-content > .ui-listview > .ui-li-static,
+    .ui-li-static.ui-collapsible > .ui-collapsible-content > .ui-listview > li > a.ui-btn,
+    .ui-li-static.ui-collapsible > .ui-collapsible-content {
+        border-right-width: 0;
+    }
+    /* Remove left borders */
+    /* Here, we need class ui-listview-outer to identify the outermost listview */
+    .ui-listview-outer > .ui-li-static.ui-collapsible .ui-li-static.ui-collapsible.ui-collapsible,
+    .ui-listview-outer > .ui-li-static.ui-collapsible > .ui-collapsible-heading > a.ui-btn,
+    .ui-li-static.ui-collapsible > .ui-collapsible-content {
+        border-left-width: 0;
+    }
+    .ui-content { max-width: 800px !important; margin: 0 auto !important;  }
+    .ui-listview > .ui-li-static.ui-li-has-count { padding-right: 0px }
+  </style>
+
+  <script>
+    $(document).ready(function() {
+      var start = new Date(1703599819 * 1000);
+
+      setInterval(function() {
+        var diff = (new Date - start) / 1000;
+
+        var days = Math.floor((diff % 31536000) / 86400);
+        var hours = Math.floor(((diff % 31536000) % 86400) / 3600);
+        var minutes = Math.floor((((diff % 31536000) % 86400) % 3600) / 60);
+        var seconds = Math.floor(((diff % 31536000) % 86400) % 3600) % 60;
+
+        $('.timer').text(days+":"+hours+":"+minutes+":"+seconds+" ago");
+      }, 1000);
+
+      $('a[data-dna]').each(function( index ) {
+        var dna = $(this).data('dna');
+        if (typeof CCPEVE !== 'undefined') { // inside IGB
+          $(this).attr('href', 'javascript:CCPEVE.showFitting("'+dna+'");');}
+        else {                               // outside IGB
+          $(this).attr('href', 'https://o.smium.org/loadout/dna/'+dna); }
+      });
+    });
+  </script>
+</head>
+<body>
+<div  id="canvas" data-role="page">
+  <div data-role="header">
+    <h1>Pyfa fits</h1>
+  </div>
+  <div data-role="content">
+  <div style="text-align: center;"><strong>Last updated:</strong> 2023/12/26 16:10 <small>(<span class="timer"></span>)</small></div>
+
+  <ul data-role="listview" class="ui-listview-outer" data-inset="true" data-filter="true">
+    <li data-role="collapsible" data-iconpos="right" data-shadow="false" data-corners="false">
+      <h2>Battleship <span class="ui-li-count">4</span></h2>
+      <ul data-role="listview" data-shadow="false" data-inset="true" data-corners="false">
+        <li data-role="collapsible" data-iconpos="right" data-shadow="false" data-corners="false">
+        <h2>Vindicator <span class="ui-li-count">4</span></h2>
+          <ul data-role="listview" data-shadow="false" data-inset="true" data-corners="false">
+          </ul>
+        </li>
+      </ul>
+    </li>    <li data-role="collapsible" data-iconpos="right" data-shadow="false" data-corners="false">
+      <h2>Combat Battlecruiser <span class="ui-li-count">8</span></h2>
+      <ul data-role="listview" data-shadow="false" data-inset="true" data-corners="false">
+        <li data-role="collapsible" data-iconpos="right" data-shadow="false" data-corners="false">
+        <h2>Drake <span class="ui-li-count">2</span></h2>
+          <ul data-role="listview" data-shadow="false" data-inset="true" data-corners="false">
+          </ul>
+        </li>
+        <li data-role="collapsible" data-iconpos="right" data-shadow="false" data-corners="false">
+        <h2>Ferox <span class="ui-li-count">2</span></h2>
+          <ul data-role="listview" data-shadow="false" data-inset="true" data-corners="false">
+          </ul>
+        </li>
+        <li data-role="collapsible" data-iconpos="right" data-shadow="false" data-corners="false">
+        <h2>Ferox Navy Issue <span class="ui-li-count">1</span></h2>
+          <ul data-role="listview" data-shadow="false" data-inset="true" data-corners="false">
+          </ul>
+        </li>
+        <li data-role="collapsible" data-iconpos="right" data-shadow="false" data-corners="false">
+        <h2>Myrmidon <span class="ui-li-count">1</span></h2>
+          <ul data-role="listview" data-shadow="false" data-inset="true" data-corners="false">
+          </ul>
+        </li>
+        <li data-role="collapsible" data-iconpos="right" data-shadow="false" data-corners="false">
+        <h2>Myrmidon Navy Issue <span class="ui-li-count">1</span></h2>
+          <ul data-role="listview" data-shadow="false" data-inset="true" data-corners="false">
+          </ul>
+        </li>
+        <li data-role="collapsible" data-iconpos="right" data-shadow="false" data-corners="false">
+        <h2>Prophecy <span class="ui-li-count">1</span></h2>
+          <ul data-role="listview" data-shadow="false" data-inset="true" data-corners="false">
+          </ul>
+        </li>
+      </ul>
+    </li>    <li data-role="collapsible" data-iconpos="right" data-shadow="false" data-corners="false">
+      <h2>Corvette <span class="ui-li-count">1</span></h2>
+      <ul data-role="listview" data-shadow="false" data-inset="true" data-corners="false">
+        <li data-role="collapsible" data-iconpos="right" data-shadow="false" data-corners="false">
+        <h2>Velator <span class="ui-li-count">1</span></h2>
+          <ul data-role="listview" data-shadow="false" data-inset="true" data-corners="false">
+          </ul>
+        </li>
+      </ul>
+    </li>    <li data-role="collapsible" data-iconpos="right" data-shadow="false" data-corners="false">
+      <h2>Cruiser <span class="ui-li-count">3</span></h2>
+      <ul data-role="listview" data-shadow="false" data-inset="true" data-corners="false">
+        <li data-role="collapsible" data-iconpos="right" data-shadow="false" data-corners="false">
+        <h2>Caracal <span class="ui-li-count">1</span></h2>
+          <ul data-role="listview" data-shadow="false" data-inset="true" data-corners="false">
+          </ul>
+        </li>
+        <li data-role="collapsible" data-iconpos="right" data-shadow="false" data-corners="false">
+        <h2>Gila <span class="ui-li-count">1</span></h2>
+          <ul data-role="listview" data-shadow="false" data-inset="true" data-corners="false">
+          </ul>
+        </li>
+        <li data-role="collapsible" data-iconpos="right" data-shadow="false" data-corners="false">
+        <h2>Vexor <span class="ui-li-count">1</span></h2>
+          <ul data-role="listview" data-shadow="false" data-inset="true" data-corners="false">
+          </ul>
+        </li>
+      </ul>
+    </li>    <li data-role="collapsible" data-iconpos="right" data-shadow="false" data-corners="false">
+      <h2>Destroyer <span class="ui-li-count">19</span></h2>
+      <ul data-role="listview" data-shadow="false" data-inset="true" data-corners="false">
+        <li data-role="collapsible" data-iconpos="right" data-shadow="false" data-corners="false">
+        <h2>Algos <span class="ui-li-count">2</span></h2>
+          <ul data-role="listview" data-shadow="false" data-inset="true" data-corners="false">
+          </ul>
+        </li>
+        <li data-role="collapsible" data-iconpos="right" data-shadow="false" data-corners="false">
+        <h2>Catalyst <span class="ui-li-count">1</span></h2>
+          <ul data-role="listview" data-shadow="false" data-inset="true" data-corners="false">
+          </ul>
+        </li>
+        <li data-role="collapsible" data-iconpos="right" data-shadow="false" data-corners="false">
+        <h2>Coercer <span class="ui-li-count">1</span></h2>
+          <ul data-role="listview" data-shadow="false" data-inset="true" data-corners="false">
+          </ul>
+        </li>
+        <li data-role="collapsible" data-iconpos="right" data-shadow="false" data-corners="false">
+        <h2>Coercer Navy Issue <span class="ui-li-count">2</span></h2>
+          <ul data-role="listview" data-shadow="false" data-inset="true" data-corners="false">
+          </ul>
+        </li>
+        <li data-role="collapsible" data-iconpos="right" data-shadow="false" data-corners="false">
+        <h2>Corax <span class="ui-li-count">5</span></h2>
+          <ul data-role="listview" data-shadow="false" data-inset="true" data-corners="false">
+          </ul>
+        </li>
+        <li data-role="collapsible" data-iconpos="right" data-shadow="false" data-corners="false">
+        <h2>Cormorant <span class="ui-li-count">3</span></h2>
+          <ul data-role="listview" data-shadow="false" data-inset="true" data-corners="false">
+          </ul>
+        </li>
+        <li data-role="collapsible" data-iconpos="right" data-shadow="false" data-corners="false">
+        <h2>Cormorant Navy Issue <span class="ui-li-count">1</span></h2>
+          <ul data-role="listview" data-shadow="false" data-inset="true" data-corners="false">
+          </ul>
+        </li>
+        <li data-role="collapsible" data-iconpos="right" data-shadow="false" data-corners="false">
+        <h2>Dragoon <span class="ui-li-count">1</span></h2>
+          <ul data-role="listview" data-shadow="false" data-inset="true" data-corners="false">
+          </ul>
+        </li>
+        <li data-role="collapsible" data-iconpos="right" data-shadow="false" data-corners="false">
+        <h2>Mamba <span class="ui-li-count">1</span></h2>
+          <ul data-role="listview" data-shadow="false" data-inset="true" data-corners="false">
+          </ul>
+        </li>
+        <li data-role="collapsible" data-iconpos="right" data-shadow="false" data-corners="false">
+        <h2>Sunesis <span class="ui-li-count">2</span></h2>
+          <ul data-role="listview" data-shadow="false" data-inset="true" data-corners="false">
+          </ul>
+        </li>
+      </ul>
+    </li>    <li data-role="collapsible" data-iconpos="right" data-shadow="false" data-corners="false">
+      <h2>Frigate <span class="ui-li-count">7</span></h2>
+      <ul data-role="listview" data-shadow="false" data-inset="true" data-corners="false">
+        <li data-role="collapsible" data-iconpos="right" data-shadow="false" data-corners="false">
+        <h2>Caldari Navy Hookbill <span class="ui-li-count">1</span></h2>
+          <ul data-role="listview" data-shadow="false" data-inset="true" data-corners="false">
+          </ul>
+        </li>
+        <li data-role="collapsible" data-iconpos="right" data-shadow="false" data-corners="false">
+        <h2>Merlin <span class="ui-li-count">3</span></h2>
+          <ul data-role="listview" data-shadow="false" data-inset="true" data-corners="false">
+          </ul>
+        </li>
+        <li data-role="collapsible" data-iconpos="right" data-shadow="false" data-corners="false">
+        <h2>Tristan <span class="ui-li-count">3</span></h2>
+          <ul data-role="listview" data-shadow="false" data-inset="true" data-corners="false">
+          </ul>
+        </li>
+      </ul>
+    </li>    <li data-role="collapsible" data-iconpos="right" data-shadow="false" data-corners="false">
+      <h2>Hauler <span class="ui-li-count">1</span></h2>
+      <ul data-role="listview" data-shadow="false" data-inset="true" data-corners="false">
+        <li data-role="collapsible" data-iconpos="right" data-shadow="false" data-corners="false">
+        <h2>Iteron Mark V <span class="ui-li-count">1</span></h2>
+          <ul data-role="listview" data-shadow="false" data-inset="true" data-corners="false">
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+ </div>
+</div>
+</body>
+</html>
