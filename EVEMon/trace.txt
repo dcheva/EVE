@@ -761,3 +761,5 @@
 0d 0h 55m 09s > EveMonClient.OnServerStatusUpdated
 0d 0h 56m 29s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
 0d 0h 56m 29s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 58m 30s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 58m 30s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
