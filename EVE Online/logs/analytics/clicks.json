@@ -5,8 +5,8 @@
       "height": 1080
     },
     "click": {
-      "x": 584,
-      "y": 772,
+      "x": 593,
+      "y": 142,
       "tagName": "DIV",
       "id": "root",
       "className": "",
@@ -19,8 +19,50 @@
       "height": 1080
     },
     "click": {
-      "x": 471,
-      "y": 717,
+      "x": 556,
+      "y": 961,
+      "tagName": "BUTTON",
+      "id": "",
+      "className": "mantine-UnstyledButton-root mantine-Button-root mantine-vhbkwm",
+      "innerText": "ADD ACCOUNT"
+    }
+  },
+  {
+    "window": {
+      "width": 1412,
+      "height": 1080
+    },
+    "click": {
+      "x": 556,
+      "y": 299,
+      "tagName": "INPUT",
+      "id": "submitButton",
+      "className": "btn btn-blue",
+      "innerText": ""
+    }
+  },
+  {
+    "window": {
+      "width": 1412,
+      "height": 1080
+    },
+    "click": {
+      "x": 664,
+      "y": 317,
+      "tagName": "INPUT",
+      "id": "submitcodebutton",
+      "className": "btn btn-blue continue",
+      "innerText": ""
+    }
+  },
+  {
+    "window": {
+      "width": 1412,
+      "height": 1080
+    },
+    "click": {
+      "x": 552,
+      "y": 881,
       "tagName": "DIV",
       "id": "root",
       "className": "",
@@ -33,12 +75,54 @@
       "height": 1080
     },
     "click": {
-      "x": 982,
-      "y": 410,
+      "x": 593,
+      "y": 737,
+      "tagName": "DIV",
+      "id": "root",
+      "className": "",
+      "innerText": ""
+    }
+  },
+  {
+    "window": {
+      "width": 1412,
+      "height": 1080
+    },
+    "click": {
+      "x": 502,
+      "y": 874,
+      "tagName": "DIV",
+      "id": "root",
+      "className": "",
+      "innerText": ""
+    }
+  },
+  {
+    "window": {
+      "width": 1412,
+      "height": 1080
+    },
+    "click": {
+      "x": 961,
+      "y": 413,
       "tagName": "BUTTON",
       "id": "",
       "className": "mantine-UnstyledButton-root mantine-Button-root ___ref-play-button-the-button mantine-fnk0ba",
-      "innerText": "PLAY NOW"
+      "innerText": "CREATE CHARACTER"
+    }
+  },
+  {
+    "window": {
+      "width": 1412,
+      "height": 1080
+    },
+    "click": {
+      "x": 1381,
+      "y": 16,
+      "tagName": "BUTTON",
+      "id": "",
+      "className": "mantine-UnstyledButton-root mantine-CloseButton-wrapper mantine-CloseButton-CloseButton mantine-1evzfwy",
+      "innerText": ""
     }
   }
 ]
