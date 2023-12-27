@@ -5,81 +5,11 @@
       "height": 1080
     },
     "click": {
-      "x": 438,
-      "y": 681,
+      "x": 570,
+      "y": 627,
       "tagName": "DIV",
       "id": "root",
       "className": "",
-      "innerText": ""
-    }
-  },
-  {
-    "window": {
-      "width": 1412,
-      "height": 1080
-    },
-    "click": {
-      "x": 951,
-      "y": 399,
-      "tagName": "BUTTON",
-      "id": "",
-      "className": "mantine-UnstyledButton-root mantine-Button-root ___ref-play-button-the-button mantine-fnk0ba",
-      "innerText": "PLAY NOW"
-    }
-  },
-  {
-    "window": {
-      "width": 1412,
-      "height": 1080
-    },
-    "click": {
-      "x": 456,
-      "y": 685,
-      "tagName": "DIV",
-      "id": "root",
-      "className": "",
-      "innerText": ""
-    }
-  },
-  {
-    "window": {
-      "width": 1412,
-      "height": 1080
-    },
-    "click": {
-      "x": 925,
-      "y": 396,
-      "tagName": "BUTTON",
-      "id": "",
-      "className": "mantine-UnstyledButton-root mantine-Button-root ___ref-play-button-the-button mantine-fnk0ba",
-      "innerText": "PLAY NOW"
-    }
-  },
-  {
-    "window": {
-      "width": 1412,
-      "height": 1080
-    },
-    "click": {
-      "x": 890,
-      "y": 395,
-      "tagName": "BUTTON",
-      "id": "",
-      "className": "mantine-UnstyledButton-root mantine-Button-root ___ref-play-button-the-button mantine-fnk0ba",
-      "innerText": "PLAY NOW"
-    }
-  },
-  {
-    "window": {
-      "width": 1412,
-      "height": 1080
-    },
-    "click": {
-      "x": 1389,
-      "y": 11,
-      "tagName": "BUTTON",
-      "id": "",
-      "className": "mantine-UnstyledButton-root mantine-CloseButton-wrapper mantine-CloseButton-CloseButton mantine-1evzfwy",
       "innerText": ""
     }
   }

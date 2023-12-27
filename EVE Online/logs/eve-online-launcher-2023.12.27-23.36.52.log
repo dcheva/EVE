@@ -230,3 +230,20 @@
 2023-12-27 01:03:37.372    app     info:    [main-window] Sent notification that the application is minimized to tray    { windowId: 2 }
 2023-12-27 01:03:37.379    app     info:    [ipc-requests] Handling requests in the background
 2023-12-27 01:03:38.387    app     info:    [ipc-requests] No longer handling requests in the background
+2023-12-27 01:06:56.240    app     info:    warn: [LaunchDarkly] Error on stream connection: Read timeout, received no data in 300000ms, assuming connection is dead, will continue retrying after 558 milliseconds.    []
+2023-12-27 01:06:56.241    app     info:    info: [LaunchDarkly] Closing stream connection    []
+2023-12-27 01:06:56.801    app     info:    info: [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/64c3d12e27a4b11365012d39/eyJrZXkiOiI0YTQzNmFkYi00Yjk5LTQwYTctODViMC00MmUyMDZmNDEyODYiLCJraW5kIjoidXNlciIsImN1c3RvbSI6eyJpc0ZpcnN0UnVuIjpmYWxzZSwiZGF5c1NpbmNlRmlyc3RSdW4iOjI5LCJsYW5ndWFnZSI6ImVuIiwiYXBwbGljYXRpb24iOiJldmUtb25saW5lIiwidmVyc2lvbiI6IjEuMi4wIiwicGxhdGZvcm0iOiJ3aW5kb3dzIiwib3NWZXJzaW9uRGVwcmVjYXRlZCI6ZmFsc2UsInVzZXJJZHMiOlsxNjQ5MjM3NywyNTIxODgzNSwyMTEwMzExLDI5Mjg1NjQ1XSwib21lZ2FDb3VudCI6MCwiYWxwaGFDb3VudCI6MTQsImFjY291bnRDb3VudCI6MTQsIm9sZGVzdEFjY291bnRBZ2UiOjYwMTMsInlvdW5nZXN0QWNjb3VudEFnZSI6MjV9fQ?withReasons=true    []
+2023-12-27 01:07:00.288    app     info:    [self-update] Checking for a launcher update...
+2023-12-27 01:07:00.571    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-27 01:08:16.168    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2023-12-27 01:08:16.309    app     info:    [server-manager] Previous Tranquility build: 2454674, current build: 2454674
+2023-12-27 01:08:16.309    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-27 01:08:16.314    app     info:    [server-manager] Ready to play!
+2023-12-27 01:08:16.317    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-27 01:12:00.576    app     info:    [self-update] Checking for a launcher update...
+2023-12-27 01:12:00.853    app     info:    [self-update] Currently running the latest launcher version. Scheduling update check in 5 minutes.
+2023-12-27 01:13:16.331    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2023-12-27 01:13:16.467    app     info:    [server-manager] Previous Tranquility build: 2454674, current build: 2454674
+2023-12-27 01:13:16.467    app     info:    [server-manager] Tranquility build is unchanged.
+2023-12-27 01:13:16.472    app     info:    [server-manager] Ready to play!
+2023-12-27 01:13:16.475    app     info:    [server-manager] Finished refresh cycle for Tranquility
