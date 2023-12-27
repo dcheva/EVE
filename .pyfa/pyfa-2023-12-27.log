@@ -1,0 +1,1267 @@
+[2023-12-27 00:46:19.825617] INFO: __main__: Starting Pyfa
+[2023-12-27 00:46:19.825617] INFO: __main__: 
+[2023-12-27 00:46:19.825617] INFO: __main__: Writing log file to: C:\Users\Dmytro\.pyfa\pyfa.log
+[2023-12-27 00:46:19.825617] INFO: __main__: Running in a frozen state.
+[2023-12-27 00:46:20.475933] INFO: eos.db: Initializing database
+[2023-12-27 00:46:20.475933] INFO: eos.db: Gamedata connection: sqlite:///C:\Program Files\pyfa\app\eve.db?check_same_thread=False
+[2023-12-27 00:46:20.475933] INFO: eos.db: Saveddata connection: sqlite:///C:\Users\Dmytro\.pyfa\saveddata.db?check_same_thread=False
+[2023-12-27 00:46:20.475933] DEBUG: eos.db: Initializing gamedata
+[2023-12-27 00:46:20.483913] DEBUG: eos.db: Getting gamedata version
+[2023-12-27 00:46:20.487904] DEBUG: eos.db: Initializing saveddata
+[2023-12-27 00:46:20.487904] DEBUG: eos.db: Importing gamedata DB scheme
+[2023-12-27 00:46:20.561708] DEBUG: eos.db: Importing saveddata DB scheme
+[2023-12-27 00:46:20.602596] DEBUG: eos.db: Importing gamedata queries
+[2023-12-27 00:46:20.603597] DEBUG: eos.db: Importing saveddata queries
+[2023-12-27 00:46:20.603597] DEBUG: service.prefetch: Run database migration.
+[2023-12-27 00:46:20.609576] DEBUG: service.prefetch: Starting database validation.
+[2023-12-27 00:46:20.610575] DEBUG: eos.db.saveddata.databaseRepair: Running database cleanup for character skills.
+[2023-12-27 00:46:20.611571] DEBUG: eos.db.saveddata.databaseRepair: Running database cleanup for orphaned characters attached to fits.
+[2023-12-27 00:46:20.612551] DEBUG: eos.db.saveddata.databaseRepair: Running database cleanup for orphaned damage patterns attached to fits.
+[2023-12-27 00:46:20.613566] ERROR: eos.db.saveddata.databaseRepair: Missing uniform damage pattern.
+[2023-12-27 00:46:20.614564] DEBUG: eos.db.saveddata.databaseRepair: Running database cleanup for missing damage pattern names.
+[2023-12-27 00:46:20.615562] DEBUG: eos.db.saveddata.databaseRepair: Running database cleanup for missing target resist names.
+[2023-12-27 00:46:20.616558] DEBUG: eos.db.saveddata.databaseRepair: Running database cleanup for orphaned drones items.
+[2023-12-27 00:46:20.617556] DEBUG: eos.db.saveddata.databaseRepair: Running database cleanup for orphaned cargo items.
+[2023-12-27 00:46:20.618553] DEBUG: eos.db.saveddata.databaseRepair: Running database cleanup for orphaned fighters items.
+[2023-12-27 00:46:20.620520] DEBUG: eos.db.saveddata.databaseRepair: Running database cleanup for orphaned modules items.
+[2023-12-27 00:46:20.620520] DEBUG: eos.db.saveddata.databaseRepair: Running database cleanup for null damagePatterns values. (em)
+[2023-12-27 00:46:20.621544] DEBUG: eos.db.saveddata.databaseRepair: Running database cleanup for null damagePatterns values. (thermal)
+[2023-12-27 00:46:20.622541] DEBUG: eos.db.saveddata.databaseRepair: Running database cleanup for null damagePatterns values. (kinetic)
+[2023-12-27 00:46:20.623541] DEBUG: eos.db.saveddata.databaseRepair: Running database cleanup for null damagePatterns values. (explosive)
+[2023-12-27 00:46:20.624537] DEBUG: eos.db.saveddata.databaseRepair: Running database cleanup for null targetResists values. (em)
+[2023-12-27 00:46:20.625534] DEBUG: eos.db.saveddata.databaseRepair: Running database cleanup for null targetResists values. (thermal)
+[2023-12-27 00:46:20.626506] DEBUG: eos.db.saveddata.databaseRepair: Running database cleanup for null targetResists values. (kinetic)
+[2023-12-27 00:46:20.628498] DEBUG: eos.db.saveddata.databaseRepair: Running database cleanup for null targetResists values. (explosive)
+[2023-12-27 00:46:20.629495] DEBUG: eos.db.saveddata.databaseRepair: Running database cleanup for duplicated selected ammo profiles.
+[2023-12-27 00:46:20.629495] DEBUG: service.prefetch: Completed database validation.
+[2023-12-27 00:46:20.639497] DEBUG: gui.app: Setting language to: en_US
+[2023-12-27 00:46:22.330550] INFO: gui.bitmap_loader: Using local image files.
+[2023-12-27 00:46:22.335533] DEBUG: gui.contextMenu: registering context menu class OpenFitInNewTab
+[2023-12-27 00:46:22.335533] DEBUG: gui.contextMenu: registering context menu class AddBrowsedFits
+[2023-12-27 00:46:22.339493] DEBUG: gui.contextMenu: registering context menu class AddCurrentlyOpenFit
+[2023-12-27 00:46:22.339493] DEBUG: gui.contextMenu: registering context menu class AddEnvironmentEffect
+[2023-12-27 00:46:22.425824] DEBUG: service.market: Initialize ShipBrowserWorkerThread.
+[2023-12-27 00:46:22.573570] DEBUG: service.fit: Initialize Fit class
+[2023-12-27 00:46:22.703511] DEBUG: service.fit: Getting fits with modules
+[2023-12-27 00:46:22.705508] DEBUG: gui.contextMenu: registering context menu class AddCommandFit
+[2023-12-27 00:46:22.707500] DEBUG: gui.contextMenu: registering context menu class TargetProfileAdder
+[2023-12-27 00:46:22.708498] DEBUG: gui.contextMenu: registering context menu class ChangeShipTacticalMode
+[2023-12-27 00:46:22.709468] DEBUG: gui.contextMenu: registering context menu class ChangeModuleAmmo
+[2023-12-27 00:46:22.709468] DEBUG: gui.contextMenu: registering context menu class ChangeModuleSpool
+[2023-12-27 00:46:22.710495] DEBUG: gui.contextMenu: registering context menu class ChangeRahPattern
+[2023-12-27 00:46:22.710495] DEBUG: gui.contextMenu: registering context menu class BoosterSideEffects
+[2023-12-27 00:46:22.710495] DEBUG: gui.contextMenu: registering context menu class FighterAbilities
+[2023-12-27 00:46:22.711490] DEBUG: gui.contextMenu: registering context menu class TargetWrapperResists
+[2023-12-27 00:46:22.713484] DEBUG: gui.contextMenu: registering context menu class TargetProfileEditorMenu
+[2023-12-27 00:46:22.731435] DEBUG: gui.contextMenu: registering context menu class ItemStats
+[2023-12-27 00:46:22.732432] DEBUG: gui.contextMenu: registering context menu class JumpToMarketItem
+[2023-12-27 00:46:22.732432] DEBUG: gui.contextMenu: registering context menu class FitSystemSecurityMenu
+[2023-12-27 00:46:22.733429] DEBUG: gui.contextMenu: registering context menu class JumpToShip
+[2023-12-27 00:46:22.733429] DEBUG: gui.contextMenu: registering context menu class RemoveItem
+[2023-12-27 00:46:22.734426] DEBUG: gui.contextMenu: registering context menu class ChangeItemAmount
+[2023-12-27 00:46:22.734426] DEBUG: gui.contextMenu: registering context menu class ChangeItemProjectionRange
+[2023-12-27 00:46:22.734426] DEBUG: gui.contextMenu: registering context menu class DroneSplitStack
+[2023-12-27 00:46:22.735423] DEBUG: gui.contextMenu: registering context menu class ChangeItemToVariation
+[2023-12-27 00:46:22.735423] DEBUG: gui.contextMenu: registering context menu class ChangeItemMutation
+[2023-12-27 00:46:22.735423] DEBUG: gui.contextMenu: registering context menu class FillWithModule
+[2023-12-27 00:46:22.791838] DEBUG: gui.contextMenu: registering context menu class ExportMutatedModule
+[2023-12-27 00:46:22.792837] DEBUG: gui.contextMenu: registering context menu class ChangeAffectingSkills
+[2023-12-27 00:46:22.792837] DEBUG: gui.contextMenu: registering context menu class FillWithItem
+[2023-12-27 00:46:22.792837] DEBUG: gui.contextMenu: registering context menu class DroneAddStack
+[2023-12-27 00:46:22.793833] DEBUG: gui.contextMenu: registering context menu class AddToCargo
+[2023-12-27 00:46:22.793833] DEBUG: gui.contextMenu: registering context menu class AddToCargoAmmo
+[2023-12-27 00:46:22.793833] DEBUG: gui.contextMenu: registering context menu class ProjectItem
+[2023-12-27 00:46:22.793833] DEBUG: gui.contextMenu: registering context menu class AmmoToDmgPattern
+[2023-12-27 00:46:22.794830] DEBUG: gui.contextMenu: registering context menu class ImplantSetApply
+[2023-12-27 00:46:22.795829] DEBUG: gui.contextMenu: registering context menu class ImplantSetSave
+[2023-12-27 00:46:22.795829] DEBUG: gui.contextMenu: registering context menu class DronesPrice
+[2023-12-27 00:46:22.795829] DEBUG: gui.contextMenu: registering context menu class CargoPrice
+[2023-12-27 00:46:22.795829] DEBUG: gui.contextMenu: registering context menu class ImplantBoosterPrice
+[2023-12-27 00:46:22.795829] DEBUG: gui.contextMenu: registering context menu class ChangeDamagePattern
+[2023-12-27 00:46:22.796825] DEBUG: gui.contextMenu: registering context menu class FactorReload
+[2023-12-27 00:46:22.796825] DEBUG: gui.contextMenu: registering context menu class TargetProfileSwitcher
+[2023-12-27 00:46:22.796825] DEBUG: gui.contextMenu: registering context menu class GraphDmgApplyProjectedMenu
+[2023-12-27 00:46:22.797822] DEBUG: gui.contextMenu: registering context menu class GraphDmgIgnoreResistsMenu
+[2023-12-27 00:46:22.797822] DEBUG: gui.contextMenu: registering context menu class GraphIgnoreLockRangeMenu
+[2023-12-27 00:46:22.797822] DEBUG: gui.contextMenu: registering context menu class GraphIgnoreDcrMenu
+[2023-12-27 00:46:22.797822] DEBUG: gui.contextMenu: registering context menu class GraphDmgDroneModeMenu
+[2023-12-27 00:46:22.798820] DEBUG: gui.contextMenu: registering context menu class AdditionsExportAll
+[2023-12-27 00:46:22.798820] DEBUG: gui.contextMenu: registering context menu class AdditionsExportAll
+[2023-12-27 00:46:22.798820] DEBUG: gui.contextMenu: registering context menu class AdditionsImport
+[2023-12-27 00:46:22.850684] DEBUG: gui.statsPane: Setting full view for: resources
+[2023-12-27 00:46:22.850684] DEBUG: gui.statsPane: Setting full view for: resistances
+[2023-12-27 00:46:22.851706] DEBUG: gui.statsPane: Setting full view for: recharge
+[2023-12-27 00:46:22.851706] DEBUG: gui.statsPane: Setting full view for: firepower
+[2023-12-27 00:46:22.851706] DEBUG: gui.statsPane: Setting full view for: outgoing
+[2023-12-27 00:46:22.851706] DEBUG: gui.statsPane: Setting full view for: capacitor
+[2023-12-27 00:46:22.851706] DEBUG: gui.statsPane: Setting minimal view for: targetingMisc
+[2023-12-27 00:46:22.851706] DEBUG: gui.statsPane: Setting full view for: price
+[2023-12-27 00:46:22.890577] DEBUG: gui.mainFrame: Done loading mainframe imports
+[2023-12-27 00:46:22.890577] DEBUG: gui.mainFrame: Initialize MainFrame
+[2023-12-27 00:46:23.011494] DEBUG: gui.marketBrowser: Initialize marketBrowser
+[2023-12-27 00:46:23.014486] DEBUG: gui.builtinMarketBrowser.marketTree: Initialize marketTree
+[2023-12-27 00:46:23.032461] DEBUG: gui.builtinMarketBrowser.itemView: Initialize ItemView
+[2023-12-27 00:46:23.048419] DEBUG: gui.shipBrowser: Populate ship category list.
+[2023-12-27 00:46:23.263045] DEBUG: service.fit: Changing character (1) for fit ID: None
+[2023-12-27 00:46:23.272025] DEBUG: gui.statsPane: Load view: resourcesViewFull
+[2023-12-27 00:46:23.302911] DEBUG: gui.statsPane: Load view: resistancesViewFull
+[2023-12-27 00:46:23.319897] DEBUG: gui.statsPane: Load view: rechargeViewFull
+[2023-12-27 00:46:23.333857] DEBUG: gui.statsPane: Load view: firepowerViewFull
+[2023-12-27 00:46:23.343832] DEBUG: gui.statsPane: Load view: outgoingViewFull
+[2023-12-27 00:46:23.350810] DEBUG: gui.statsPane: Load view: capacitorViewFull
+[2023-12-27 00:46:23.357792] DEBUG: gui.statsPane: Load view: targetingMiscViewMinimal
+[2023-12-27 00:46:23.370043] DEBUG: gui.statsPane: Load view: priceViewFull
+[2023-12-27 00:46:23.383009] DEBUG: gui.mainMenuBar: Initialize MainMenuBar
+[2023-12-27 00:46:23.489034] DEBUG: service.update: Starting Check Update Thread.
+[2023-12-27 00:46:29.297525] DEBUG: eos.gamedata: Loading loPower (Effect11)
+[2023-12-27 00:46:29.297525] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect11'
+[2023-12-27 00:46:29.297525] DEBUG: eos.gamedata: Loading online (Effect16)
+[2023-12-27 00:46:29.297525] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect16'
+[2023-12-27 00:46:29.297525] DEBUG: eos.gamedata: Loading damageControl (Effect2302)
+[2023-12-27 00:46:29.299521] DEBUG: eos.gamedata: Loading moduleBonusDroneDamageAmplifier (Effect6556)
+[2023-12-27 00:46:29.303509] DEBUG: eos.gamedata: Loading medPower (Effect13)
+[2023-12-27 00:46:29.303509] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect13'
+[2023-12-27 00:46:29.303509] DEBUG: eos.gamedata: Loading capacitorCapacityMultiply (Effect58)
+[2023-12-27 00:46:29.303509] DEBUG: eos.gamedata: Loading overloadSelfSpeedBonus (Effect3175)
+[2023-12-27 00:46:29.303509] DEBUG: eos.gamedata: Loading moduleBonusMicrowarpdrive (Effect6730)
+[2023-12-27 00:46:29.307498] DEBUG: eos.gamedata: Loading sensorBoosterActivePercentage (Effect2670)
+[2023-12-27 00:46:29.309493] DEBUG: eos.gamedata: Loading overloadSelfHardeningInvulnerabilityBonus (Effect3035)
+[2023-12-27 00:46:29.309493] DEBUG: eos.gamedata: Loading modifyActiveShieldResonancePostPercent (Effect5230)
+[2023-12-27 00:46:29.310490] DEBUG: eos.gamedata: Loading shieldCapacityBonusOnline (Effect21)
+[2023-12-27 00:46:29.310490] DEBUG: eos.gamedata: Loading addToSignatureRadius2 (Effect2029)
+[2023-12-27 00:46:29.313483] DEBUG: eos.gamedata: Loading hiPower (Effect12)
+[2023-12-27 00:46:29.313483] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect12'
+[2023-12-27 00:46:29.313483] DEBUG: eos.gamedata: Loading useMissiles (Effect101)
+[2023-12-27 00:46:29.316446] DEBUG: eos.gamedata: Loading salvaging (Effect2757)
+[2023-12-27 00:46:29.317472] DEBUG: eos.gamedata: Loading droneRangeBonusAdd (Effect2000)
+[2023-12-27 00:46:29.319468] DEBUG: eos.gamedata: Loading rigSlot (Effect2663)
+[2023-12-27 00:46:29.319468] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect2663'
+[2023-12-27 00:46:29.319468] DEBUG: eos.gamedata: Loading baseSensorStrengthModifierRequiringAstrometrics (Effect4162)
+[2023-12-27 00:46:29.330436] INFO: service.fit: ==========recalc: .beebee.==========
+[2023-12-27 00:46:29.337418] INFO: eos.saveddata.fit: Starting fit calculation on: Fit(ID=None, ship=Probe, name=.beebee.) at 0x251f3976d50, calc: LOCAL
+[2023-12-27 00:46:29.337418] INFO: eos.saveddata.fit: Fit is not yet calculated; will be running local calcs for Fit(ID=None, ship=Probe, name=.beebee.) at 0x251f3976d50
+[2023-12-27 00:46:29.349387] DEBUG: eos.gamedata: Loading skillEffect (Effect132)
+[2023-12-27 00:46:29.349387] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect132'
+[2023-12-27 00:46:29.351380] DEBUG: eos.gamedata: Loading oreIndustrialSkillLevelPostMulShipBonusOreIndustrial1Ship (Effect4665)
+[2023-12-27 00:46:29.351380] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect4665'
+[2023-12-27 00:46:29.351380] DEBUG: eos.gamedata: Loading oreIndustrialSkillLevelPostMulShipBonusOreIndustrial2Ship (Effect4666)
+[2023-12-27 00:46:29.351380] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect4666'
+[2023-12-27 00:46:29.352351] DEBUG: eos.gamedata: Loading gunnerySkillBoostTurretSpeeBonus (Effect413)
+[2023-12-27 00:46:29.352351] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect413'
+[2023-12-27 00:46:29.352351] DEBUG: eos.gamedata: Loading gunneryTurretSpeeBonusPostPercentSpeedLocationShipModulesRequiringGunnery (Effect414)
+[2023-12-27 00:46:29.352351] DEBUG: eos.gamedata: Loading skillBoostDamageMultiplierBonus (Effect152)
+[2023-12-27 00:46:29.352351] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect152'
+[2023-12-27 00:46:29.352351] DEBUG: eos.gamedata: Loading smallHybridTurretDamageMultiplierBonusPostPercentDamageMultiplierLocationShipModulesRequiringSmallHybridTurret (Effect173)
+[2023-12-27 00:46:29.353375] DEBUG: eos.gamedata: Loading smallProjectileTurretDamageMultiplierBonusPostPercentDamageMultiplierLocationShipModulesRequiringSmallProjectileTurret (Effect174)
+[2023-12-27 00:46:29.353375] DEBUG: eos.gamedata: Loading smallEnergyTurretDamageMultiplierBonusPostPercentDamageMultiplierLocationShipModulesRequiringSmallEnergyTurret (Effect172)
+[2023-12-27 00:46:29.354375] DEBUG: eos.gamedata: Loading mediumHybridTurretDamageMultiplierBonusPostPercentDamageMultiplierLocationShipModulesRequiringMediumHybridTurret (Effect160)
+[2023-12-27 00:46:29.354375] DEBUG: eos.gamedata: Loading mediumProjectileTurretDamageMultiplierBonusPostPercentDamageMultiplierLocationShipModulesRequiringMediumProjectileTurret (Effect161)
+[2023-12-27 00:46:29.354375] DEBUG: eos.gamedata: Loading mediumEnergyTurretDamageMultiplierBonusPostPercentDamageMultiplierLocationShipModulesRequiringMediumEnergyTurret (Effect159)
+[2023-12-27 00:46:29.355370] DEBUG: eos.gamedata: Loading largeHybridTurretDamageMultiplierBonusPostPercentDamageMultiplierLocationShipModulesRequiringLargeHybridTurret (Effect157)
+[2023-12-27 00:46:29.355370] DEBUG: eos.gamedata: Loading largeProjectileTurretDamageMultiplierBonusPostPercentDamageMultiplierLocationShipModulesRequiringLargeProjectileTurret (Effect408)
+[2023-12-27 00:46:29.356367] DEBUG: eos.gamedata: Loading largeEnergyTurretDamageMultiplierBonusPostPercentDamageMultiplierLocationShipModulesRequiringLargeEnergyTurret (Effect162)
+[2023-12-27 00:46:29.356367] DEBUG: eos.gamedata: Loading rapidFiringSkillBoostRofBonus (Effect163)
+[2023-12-27 00:46:29.356367] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect163'
+[2023-12-27 00:46:29.356367] DEBUG: eos.gamedata: Loading rapidFiringRofBonusPostPercentSpeedLocationShipModulesRequiringGunnery (Effect582)
+[2023-12-27 00:46:29.357366] DEBUG: eos.gamedata: Loading sharpshooterSkillBoostRangeSkillBonus (Effect167)
+[2023-12-27 00:46:29.357366] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect167'
+[2023-12-27 00:46:29.357366] DEBUG: eos.gamedata: Loading sharpshooterRangeSkillBonusPostPercentMaxRangeLocationShipModulesRequiringGunnery (Effect290)
+[2023-12-27 00:46:29.357366] DEBUG: eos.gamedata: Loading skillBoostTrackingSpeedBonus (Effect2846)
+[2023-12-27 00:46:29.357366] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect2846'
+[2023-12-27 00:46:29.358362] DEBUG: eos.gamedata: Loading trackingSpeedBonusPassiveRequiringGunneryTrackingSpeedBonus (Effect2847)
+[2023-12-27 00:46:29.358362] DEBUG: eos.gamedata: Loading surgicalStrikeDamageMultiplierBonusPostPercentDamageMultiplierLocationShipGroupEnergyWeapon (Effect587)
+[2023-12-27 00:46:29.358362] DEBUG: eos.gamedata: Loading surgicalStrikeDamageMultiplierBonusPostPercentDamageMultiplierLocationShipGroupProjectileWeapon (Effect588)
+[2023-12-27 00:46:29.358362] DEBUG: eos.gamedata: Loading surgicalStrikeDamageMultiplierBonusPostPercentDamageMultiplierLocationShipGroupHybridWeapon (Effect589)
+[2023-12-27 00:46:29.358362] DEBUG: eos.gamedata: Loading surgicalStrikeDamageMultiplierBonusPostPercentDamageMultiplierLocationShipGroupPrecursorTurret (Effect7097)
+[2023-12-27 00:46:29.359360] DEBUG: eos.gamedata: Loading accerationControlSkillBoostCapNeedBonus (Effect225)
+[2023-12-27 00:46:29.359360] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect225'
+[2023-12-27 00:46:29.359360] DEBUG: eos.gamedata: Loading controlledBurstsCapNeedBonusPostPercentCapacitorNeedLocationShipModulesRequiringGunnery (Effect287)
+[2023-12-27 00:46:29.359360] DEBUG: eos.gamedata: Loading skillBoostFalloffBonus (Effect297)
+[2023-12-27 00:46:29.359360] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect297'
+[2023-12-27 00:46:29.359360] DEBUG: eos.gamedata: Loading surgicalStrikeFalloffBonusPostPercentFalloffLocationShipModulesRequiringGunnery (Effect298)
+[2023-12-27 00:46:29.360329] DEBUG: eos.gamedata: Loading sensorUpgradesSkillBoostCpuNeedBonus (Effect211)
+[2023-12-27 00:46:29.360329] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect211'
+[2023-12-27 00:46:29.360329] DEBUG: eos.gamedata: Loading weaponUpgradesCpuNeedBonusPostPercentCpuLocationShipModulesRequiringGunnery (Effect581)
+[2023-12-27 00:46:29.360329] DEBUG: eos.gamedata: Loading weaponUpgradesSkillBoostCpu (Effect672)
+[2023-12-27 00:46:29.360329] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect672'
+[2023-12-27 00:46:29.360329] DEBUG: eos.gamedata: Loading weaponUpgradesCpuNeedBonusPostPercentCpuLocationShipModulesRequiringEnergyPulseWeapons (Effect675)
+[2023-12-27 00:46:29.360329] DEBUG: eos.gamedata: Loading weaponUpgradesCpuNeedBonusPostPercentCpuLocationShipModulesRequiringMissileLauncherOperation (Effect677)
+[2023-12-27 00:46:29.360329] DEBUG: eos.gamedata: Loading weaponUpgradesCpuNeedBonusPostPercentCpuLocationShipModulesRequiringBombLauncher (Effect3519)
+[2023-12-27 00:46:29.361354] DEBUG: eos.gamedata: Loading missileSkillRapidLauncherRoF (Effect1763)
+[2023-12-27 00:46:29.361354] DEBUG: eos.gamedata: Loading missileEMDmgBonus (Effect660)
+[2023-12-27 00:46:29.361354] DEBUG: eos.gamedata: Loading missileExplosiveDmgBonus (Effect661)
+[2023-12-27 00:46:29.361354] DEBUG: eos.gamedata: Loading missileThermalDmgBonus (Effect662)
+[2023-12-27 00:46:29.361354] DEBUG: eos.gamedata: Loading missileKineticDmgBonus2 (Effect668)
+[2023-12-27 00:46:29.363349] DEBUG: eos.gamedata: Loading skillMultiplierMissileVelocityBonus (Effect6843)
+[2023-12-27 00:46:29.363349] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6843'
+[2023-12-27 00:46:29.363349] DEBUG: eos.gamedata: Loading skillMultiplierDefenderMissileVelocity (Effect6844)
+[2023-12-27 00:46:29.364347] DEBUG: eos.gamedata: Loading evasiveManuveringSkillBoostAgilityBonus (Effect232)
+[2023-12-27 00:46:29.364347] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect232'
+[2023-12-27 00:46:29.365343] DEBUG: eos.gamedata: Loading evasiveManeuveringAgilityBonusPostPercentAgilityShip (Effect395)
+[2023-12-27 00:46:29.365343] DEBUG: eos.gamedata: Loading gallenteFrigateSkillLevelPreMulShipBonusGFShip (Effect468)
+[2023-12-27 00:46:29.365343] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect468'
+[2023-12-27 00:46:29.365343] DEBUG: eos.gamedata: Loading gallenteFrigateSkillLevelPreMulShipBonusGF2Ship (Effect751)
+[2023-12-27 00:46:29.365343] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect751'
+[2023-12-27 00:46:29.365343] DEBUG: eos.gamedata: Loading gallenteFrigateSkillLevelPreMulShipBonus3GFShip (Effect4600)
+[2023-12-27 00:46:29.365343] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect4600'
+[2023-12-27 00:46:29.366341] DEBUG: eos.gamedata: Loading minmatarFrigateSkillLevelPreMulShipBonusMFShip (Effect453)
+[2023-12-27 00:46:29.366341] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect453'
+[2023-12-27 00:46:29.366341] DEBUG: eos.gamedata: Loading minmatarFrigateSkillLevelPreMulShipBonusMF2Ship (Effect762)
+[2023-12-27 00:46:29.366341] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect762'
+[2023-12-27 00:46:29.366341] DEBUG: eos.gamedata: Loading minmatarFrigateSkillLevelPreMulShipBonus3MFShip (Effect4601)
+[2023-12-27 00:46:29.366341] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect4601'
+[2023-12-27 00:46:29.366341] DEBUG: eos.gamedata: Loading caldariFrigateSkillLevelPreMulShipBonusCFShip (Effect460)
+[2023-12-27 00:46:29.366341] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect460'
+[2023-12-27 00:46:29.367338] DEBUG: eos.gamedata: Loading caldariFrigateSkillLevelPreMulShipBonusCF2Ship (Effect761)
+[2023-12-27 00:46:29.367338] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect761'
+[2023-12-27 00:46:29.367338] DEBUG: eos.gamedata: Loading caldariFrigateSkillLevelPreMulShipBonus3CFShip (Effect4599)
+[2023-12-27 00:46:29.367338] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect4599'
+[2023-12-27 00:46:29.367338] DEBUG: eos.gamedata: Loading amarrFrigateSkillLevelPreMulShipBonusAFShip (Effect476)
+[2023-12-27 00:46:29.367338] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect476'
+[2023-12-27 00:46:29.367338] DEBUG: eos.gamedata: Loading amarrFrigateSkillLevelPreMulShipBonus2AFShip (Effect510)
+[2023-12-27 00:46:29.367338] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect510'
+[2023-12-27 00:46:29.367338] DEBUG: eos.gamedata: Loading amarrFrigateSkillLevelPreMulShipBonus3AFShip (Effect4598)
+[2023-12-27 00:46:29.367338] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect4598'
+[2023-12-27 00:46:29.368308] DEBUG: eos.gamedata: Loading gallenteCruiserSkillLevelPreMulShipBonusGCShip (Effect517)
+[2023-12-27 00:46:29.368308] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect517'
+[2023-12-27 00:46:29.368308] DEBUG: eos.gamedata: Loading gallenteCruiserSkillLevelPreMulShipBonusGC2Ship (Effect928)
+[2023-12-27 00:46:29.368308] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect928'
+[2023-12-27 00:46:29.368308] DEBUG: eos.gamedata: Loading gallenteCruiserSkillLevelPreMulShipBonusGC3Ship (Effect6044)
+[2023-12-27 00:46:29.368308] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6044'
+[2023-12-27 00:46:29.369333] DEBUG: eos.gamedata: Loading minmatarCruiserSkillLevelPreMulShipBonusMCShip (Effect524)
+[2023-12-27 00:46:29.369333] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect524'
+[2023-12-27 00:46:29.369333] DEBUG: eos.gamedata: Loading minmatarCruiserSkillLevelPreMulShipBonusMC2Ship (Effect929)
+[2023-12-27 00:46:29.369333] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect929'
+[2023-12-27 00:46:29.369333] DEBUG: eos.gamedata: Loading caldariCruiserSkillLevelPreMulShipBonusCCShip (Effect520)
+[2023-12-27 00:46:29.369333] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect520'
+[2023-12-27 00:46:29.369333] DEBUG: eos.gamedata: Loading caldariCruiserSkillLevelPreMulShipBonusCC2Ship (Effect927)
+[2023-12-27 00:46:29.369333] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect927'
+[2023-12-27 00:46:29.370330] DEBUG: eos.gamedata: Loading caldariCruiserSkillLevelPreMulShipBonusCC3Ship (Effect4357)
+[2023-12-27 00:46:29.370330] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect4357'
+[2023-12-27 00:46:29.370330] DEBUG: eos.gamedata: Loading amarrCruiserSkillLevelPreMulShipBonusACShip (Effect500)
+[2023-12-27 00:46:29.370330] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect500'
+[2023-12-27 00:46:29.370330] DEBUG: eos.gamedata: Loading amarrCruiserSkillLevelPreMulShipBonusAC2Ship (Effect926)
+[2023-12-27 00:46:29.370330] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect926'
+[2023-12-27 00:46:29.370330] DEBUG: eos.gamedata: Loading amarrCruiserSkillLevelPreMulShipBonusAC3Ship (Effect6293)
+[2023-12-27 00:46:29.370330] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6293'
+[2023-12-27 00:46:29.371328] DEBUG: eos.gamedata: Loading gallenteBattleshipSkillLevelPreMulShipBonusGBShip (Effect611)
+[2023-12-27 00:46:29.371328] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect611'
+[2023-12-27 00:46:29.371328] DEBUG: eos.gamedata: Loading gallenteBattleshipSkillLevelPreMulShipBonusGB2Ship (Effect682)
+[2023-12-27 00:46:29.371328] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect682'
+[2023-12-27 00:46:29.371328] DEBUG: eos.gamedata: Loading gallenteBattleshipSkillLevelPreMulShipBonusGB3Ship (Effect11418)
+[2023-12-27 00:46:29.371328] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect11418'
+[2023-12-27 00:46:29.371328] DEBUG: eos.gamedata: Loading minmatarBattleshipSkillLevelPreMulShipBonusMBShip (Effect548)
+[2023-12-27 00:46:29.372324] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect548'
+[2023-12-27 00:46:29.372324] DEBUG: eos.gamedata: Loading minmatarBattleshipSkillLevelPreMulShipBonusMB2Ship (Effect605)
+[2023-12-27 00:46:29.372324] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect605'
+[2023-12-27 00:46:29.372324] DEBUG: eos.gamedata: Loading caldariBattleshipSkillLevelPreMulShipBonusCBShip (Effect541)
+[2023-12-27 00:46:29.372324] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect541'
+[2023-12-27 00:46:29.372324] DEBUG: eos.gamedata: Loading caldariBattleshipSkillLevelPreMulShipBonus2CBShip (Effect556)
+[2023-12-27 00:46:29.372324] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect556'
+[2023-12-27 00:46:29.372324] DEBUG: eos.gamedata: Loading caldariBattleshipSkillLevelPreMulShipBonusCB3Ship (Effect797)
+[2023-12-27 00:46:29.372324] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect797'
+[2023-12-27 00:46:29.373322] DEBUG: eos.gamedata: Loading amarrBattleshipSkillLevelPostMulShipBonusABShip (Effect538)
+[2023-12-27 00:46:29.373322] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect538'
+[2023-12-27 00:46:29.373322] DEBUG: eos.gamedata: Loading amarrBattleshipSkillLevelPreMulShipBonusAB2Ship (Effect734)
+[2023-12-27 00:46:29.373322] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect734'
+[2023-12-27 00:46:29.374321] DEBUG: eos.gamedata: Loading gallenteIndustrialSkillLevelPreMulShipBonusGIShip (Effect532)
+[2023-12-27 00:46:29.374321] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect532'
+[2023-12-27 00:46:29.374321] DEBUG: eos.gamedata: Loading gallenteIndustrialSkillLevelPreMulShipBonusGI2Ship (Effect1292)
+[2023-12-27 00:46:29.374321] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect1292'
+[2023-12-27 00:46:29.374321] DEBUG: eos.gamedata: Loading gallenteIndustrialSkillLevelIceHoldCapacity (Effect8277)
+[2023-12-27 00:46:29.374321] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8277'
+[2023-12-27 00:46:29.374321] DEBUG: eos.gamedata: Loading gallenteIndustrialSkillLevelMiningHoldCapacity (Effect8322)
+[2023-12-27 00:46:29.374321] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8322'
+[2023-12-27 00:46:29.374321] DEBUG: eos.gamedata: Loading minmatarIndustrialSkillLevelPreMulShipBonusMIShip (Effect526)
+[2023-12-27 00:46:29.374321] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect526'
+[2023-12-27 00:46:29.374321] DEBUG: eos.gamedata: Loading minmatarIndustrialSkillLevelPreMulShipBonusMI2Ship (Effect1293)
+[2023-12-27 00:46:29.375317] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect1293'
+[2023-12-27 00:46:29.375317] DEBUG: eos.gamedata: Loading minmatarIndustrialSkillLevelGasHoldCapacity (Effect8276)
+[2023-12-27 00:46:29.375317] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8276'
+[2023-12-27 00:46:29.375317] DEBUG: eos.gamedata: Loading caldariIndustrialSkillLevelPreMulShipBonusCIShip (Effect530)
+[2023-12-27 00:46:29.375317] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect530'
+[2023-12-27 00:46:29.375317] DEBUG: eos.gamedata: Loading caldariIndustrialSkillLevelPreMulShipBonusCI2Ship (Effect1291)
+[2023-12-27 00:46:29.375317] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect1291'
+[2023-12-27 00:46:29.376286] DEBUG: eos.gamedata: Loading amarrIndustrialSkillLevelPreMulShipBonusAI2Ship (Effect583)
+[2023-12-27 00:46:29.376286] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect583'
+[2023-12-27 00:46:29.376286] DEBUG: eos.gamedata: Loading amarrIndustrialSkillLevelPreMulShipBonusAI22Ship (Effect1290)
+[2023-12-27 00:46:29.376286] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect1290'
+[2023-12-27 00:46:29.376286] DEBUG: eos.gamedata: Loading skillMultiplierShipBonusTitanGallente (Effect6632)
+[2023-12-27 00:46:29.376286] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6632'
+[2023-12-27 00:46:29.377311] DEBUG: eos.gamedata: Loading skillMultiplierShipBonusTitanMinmatar (Effect6633)
+[2023-12-27 00:46:29.377311] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6633'
+[2023-12-27 00:46:29.377311] DEBUG: eos.gamedata: Loading skillMultiplierShipBonusTitanCaldari (Effect6631)
+[2023-12-27 00:46:29.377311] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6631'
+[2023-12-27 00:46:29.378309] DEBUG: eos.gamedata: Loading skillMultiplierShipBonusTitanAmarr (Effect6630)
+[2023-12-27 00:46:29.378309] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6630'
+[2023-12-27 00:46:29.379278] DEBUG: eos.gamedata: Loading areaOfEffectSkillBonus (Effect6768)
+[2023-12-27 00:46:29.379278] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6768'
+[2023-12-27 00:46:29.379278] DEBUG: eos.gamedata: Loading commandBurstAoEBonus (Effect6769)
+[2023-12-27 00:46:29.380275] DEBUG: eos.gamedata: Loading propulsionJammingSkillBoostDurationBonus (Effect208)
+[2023-12-27 00:46:29.380275] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect208'
+[2023-12-27 00:46:29.380275] DEBUG: eos.gamedata: Loading skirmishCommandDurationBonus (Effect6773)
+[2023-12-27 00:46:29.380275] DEBUG: eos.gamedata: Loading shieldCommandDurationBonus (Effect6771)
+[2023-12-27 00:46:29.381301] DEBUG: eos.gamedata: Loading commandBurstStrengthSkillBonus (Effect6775)
+[2023-12-27 00:46:29.381301] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6775'
+[2023-12-27 00:46:29.381301] DEBUG: eos.gamedata: Loading shieldCommandStrengthBonus (Effect6777)
+[2023-12-27 00:46:29.381301] DEBUG: eos.gamedata: Loading informationCommandStrengthBonus (Effect6778)
+[2023-12-27 00:46:29.382298] DEBUG: eos.gamedata: Loading reloadTimeSkillBonus (Effect6781)
+[2023-12-27 00:46:29.382298] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6781'
+[2023-12-27 00:46:29.382298] DEBUG: eos.gamedata: Loading commandBurstReloadTimeBonus (Effect6782)
+[2023-12-27 00:46:29.382298] DEBUG: eos.gamedata: Loading socialSkillBoostSocialMutator (Effect406)
+[2023-12-27 00:46:29.382298] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect406'
+[2023-12-27 00:46:29.383295] DEBUG: eos.gamedata: Loading negotiationSkillBoostNegotiationBonus (Effect403)
+[2023-12-27 00:46:29.383295] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect403'
+[2023-12-27 00:46:29.383295] DEBUG: eos.gamedata: Loading negotiationNegotiationBonusPostPercentNegotiationPercentageChar (Effect404)
+[2023-12-27 00:46:29.383295] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect404'
+[2023-12-27 00:46:29.383295] DEBUG: eos.gamedata: Loading diplomacySkillBoostDiplomacyMutator (Effect348)
+[2023-12-27 00:46:29.384265] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect348'
+[2023-12-27 00:46:29.384265] DEBUG: eos.gamedata: Loading diplomacyDiplomacyMutatorModAddDiplomacyBonusChar (Effect349)
+[2023-12-27 00:46:29.384265] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect349'
+[2023-12-27 00:46:29.384265] DEBUG: eos.gamedata: Loading fasttalkSkillBoostFastTalkMutator (Effect350)
+[2023-12-27 00:46:29.384265] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect350'
+[2023-12-27 00:46:29.384265] DEBUG: eos.gamedata: Loading fasttalkFastTalkMutatorPostPercentFastTalkPercentageChar (Effect352)
+[2023-12-27 00:46:29.384265] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect352'
+[2023-12-27 00:46:29.385291] DEBUG: eos.gamedata: Loading connectionsSkillBoostConnectionBonusMutator (Effect344)
+[2023-12-27 00:46:29.385291] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect344'
+[2023-12-27 00:46:29.385291] DEBUG: eos.gamedata: Loading connectionsConnectionBonusMutatorModAddConnectionsBonusChar (Effect399)
+[2023-12-27 00:46:29.385291] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect399'
+[2023-12-27 00:46:29.385291] DEBUG: eos.gamedata: Loading criminalConnectionsSkillBoostCriminalConnectionsMutator (Effect346)
+[2023-12-27 00:46:29.385291] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect346'
+[2023-12-27 00:46:29.385291] DEBUG: eos.gamedata: Loading criminalConnectionsCriminalConnectionsMutatorModAddCriminalConnectionsBonusChar (Effect402)
+[2023-12-27 00:46:29.385291] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect402'
+[2023-12-27 00:46:29.386289] DEBUG: eos.gamedata: Loading corporationMemberLimitBonus (Effect82)
+[2023-12-27 00:46:29.386289] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect82'
+[2023-12-27 00:46:29.386289] DEBUG: eos.gamedata: Loading corporationManagementSkillBoostCorporationMemberBonus (Effect239)
+[2023-12-27 00:46:29.386289] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect239'
+[2023-12-27 00:46:29.387284] DEBUG: eos.gamedata: Loading skillWarAllyCostModifier (Effect4984)
+[2023-12-27 00:46:29.387284] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect4984'
+[2023-12-27 00:46:29.387284] DEBUG: eos.gamedata: Loading relationsAllyCostSkillBoost (Effect4985)
+[2023-12-27 00:46:29.387284] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect4985'
+[2023-12-27 00:46:29.387284] DEBUG: eos.gamedata: Loading baseDefenderAllyCostCharAssignment (Effect5052)
+[2023-12-27 00:46:29.387284] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect5052'
+[2023-12-27 00:46:29.387284] DEBUG: eos.gamedata: Loading posStructureControlAmountBonus (Effect2918)
+[2023-12-27 00:46:29.387284] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect2918'
+[2023-12-27 00:46:29.388282] DEBUG: eos.gamedata: Loading industrySkillBoostManufacturingTimeBonus (Effect412)
+[2023-12-27 00:46:29.388282] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect412'
+[2023-12-27 00:46:29.388282] DEBUG: eos.gamedata: Loading industryManufacturingTimeBonusPostPercentManufactureTimeMultiplierChar (Effect425)
+[2023-12-27 00:46:29.388282] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect425'
+[2023-12-27 00:46:29.389279] DEBUG: eos.gamedata: Loading refineryEfficiencySkillBoostRefiningYieldMutator (Effect331)
+[2023-12-27 00:46:29.389279] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect331'
+[2023-12-27 00:46:29.389279] DEBUG: eos.gamedata: Loading refineryEfficiencyRefiningYieldMutatorPostPercentRefiningYieldPercentageChar (Effect435)
+[2023-12-27 00:46:29.389279] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect435'
+[2023-12-27 00:46:29.389279] DEBUG: eos.gamedata: Loading astrogeologySkillBoostMiningAmountBonus (Effect389)
+[2023-12-27 00:46:29.389279] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect389'
+[2023-12-27 00:46:29.390276] DEBUG: eos.gamedata: Loading astrogeologyMiningAmountBonusPostPercentMiningAmountLocationShipModulesRequiringMining (Effect391)
+[2023-12-27 00:46:29.390276] DEBUG: eos.gamedata: Loading massProductionSkillLevelModAddManufactureSlotLimitChar (Effect568)
+[2023-12-27 00:46:29.390276] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect568'
+[2023-12-27 00:46:29.390276] DEBUG: eos.gamedata: Loading advancedIndustryManufacturingTimeBonusPostPercent (Effect5903)
+[2023-12-27 00:46:29.391274] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect5903'
+[2023-12-27 00:46:29.391274] DEBUG: eos.gamedata: Loading advancedIndustryCopyTimeBonusPostPercent (Effect5906)
+[2023-12-27 00:46:29.391274] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect5906'
+[2023-12-27 00:46:29.391274] DEBUG: eos.gamedata: Loading advancedIndustryInventionTimeBonusPostPercent (Effect5907)
+[2023-12-27 00:46:29.391274] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect5907'
+[2023-12-27 00:46:29.391274] DEBUG: eos.gamedata: Loading advancedIndustrySkillBoostAdvancedIndustrySkillIndustryJobTimeBonus (Effect5908)
+[2023-12-27 00:46:29.391274] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect5908'
+[2023-12-27 00:46:29.391274] DEBUG: eos.gamedata: Loading advancedIndustryManufactureTimeResearchTimeBonusPostPercent (Effect5909)
+[2023-12-27 00:46:29.391274] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect5909'
+[2023-12-27 00:46:29.391274] DEBUG: eos.gamedata: Loading advancedIndustryMaterialResearchTimeBonusPostPercent (Effect5910)
+[2023-12-27 00:46:29.391274] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect5910'
+[2023-12-27 00:46:29.392244] DEBUG: eos.gamedata: Loading hullUpgradesSkillBoostHullHpBonus (Effect251)
+[2023-12-27 00:46:29.392244] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect251'
+[2023-12-27 00:46:29.392244] DEBUG: eos.gamedata: Loading mechanicHullHpBonusPostPercentHpShip (Effect392)
+[2023-12-27 00:46:29.392244] DEBUG: eos.gamedata: Loading electronicWarfareSkillBoostDurationBonus (Effect216)
+[2023-12-27 00:46:29.392244] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect216'
+[2023-12-27 00:46:29.393268] DEBUG: eos.gamedata: Loading repairSystemsDurationBonusPostPercentDurationLocationShipModulesRequiringRepairSystems (Effect272)
+[2023-12-27 00:46:29.393268] DEBUG: eos.gamedata: Loading hullUpgradesSkillBoostArmorHpBonus (Effect270)
+[2023-12-27 00:46:29.393268] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect270'
+[2023-12-27 00:46:29.393268] DEBUG: eos.gamedata: Loading hullUpgradesArmorHpBonusPostPercentHpLocationShip (Effect271)
+[2023-12-27 00:46:29.393268] DEBUG: eos.gamedata: Loading frigateConstructionSkillBoostFrigateConstructionTimeBonus (Effect340)
+[2023-12-27 00:46:29.394268] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect340'
+[2023-12-27 00:46:29.394268] DEBUG: eos.gamedata: Loading frigateConstructionFrigateConstructionTimeBonusPostPercentFrigateConstructionTimeChar (Effect341)
+[2023-12-27 00:46:29.394268] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect341'
+[2023-12-27 00:46:29.394268] DEBUG: eos.gamedata: Loading industrialConstructionSkillBoostIndustrialConstructionTimeBonus (Effect342)
+[2023-12-27 00:46:29.394268] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect342'
+[2023-12-27 00:46:29.394268] DEBUG: eos.gamedata: Loading industrialConstructionIndustrialConstructionTimeBonusPostPercentIndustrialConstructionTimeChar (Effect343)
+[2023-12-27 00:46:29.394268] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect343'
+[2023-12-27 00:46:29.395263] DEBUG: eos.gamedata: Loading cruiserConstructionSkillBoostCruiserConstructionTimeBonus (Effect338)
+[2023-12-27 00:46:29.395263] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect338'
+[2023-12-27 00:46:29.395263] DEBUG: eos.gamedata: Loading cruiserConstructionCruiserConstructionTimeBonusPostPercentCruiserConstructionTimeChar (Effect339)
+[2023-12-27 00:46:29.395263] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect339'
+[2023-12-27 00:46:29.395263] DEBUG: eos.gamedata: Loading battleshipConstructionSkillBoostBattleshipConstructionTimeBonus (Effect336)
+[2023-12-27 00:46:29.396261] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect336'
+[2023-12-27 00:46:29.396261] DEBUG: eos.gamedata: Loading battleshipConstructionBattleshipConstructionTimeBonusPostPercentBattleshipConstructionTimeChar (Effect337)
+[2023-12-27 00:46:29.396261] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect337'
+[2023-12-27 00:46:29.396261] DEBUG: eos.gamedata: Loading scienceSkillBoostCopySpeedBonus (Effect430)
+[2023-12-27 00:46:29.397258] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect430'
+[2023-12-27 00:46:29.397258] DEBUG: eos.gamedata: Loading scienceCopySpeedBonusPostPercentCopySpeedPercentChar (Effect431)
+[2023-12-27 00:46:29.397258] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect431'
+[2023-12-27 00:46:29.397258] DEBUG: eos.gamedata: Loading researchSkillBoostBlueprintmanufactureTimeBonus (Effect432)
+[2023-12-27 00:46:29.397258] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect432'
+[2023-12-27 00:46:29.397258] DEBUG: eos.gamedata: Loading researchBlueprintmanufactureTimeBonusPostPercentProductionTimeResearchSpeedChar (Effect433)
+[2023-12-27 00:46:29.397258] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect433'
+[2023-12-27 00:46:29.398228] DEBUG: eos.gamedata: Loading biologyTimeBonusFixed (Effect2866)
+[2023-12-27 00:46:29.398228] DEBUG: eos.gamedata: Loading laboratoryOperationSkillLevelModAddMaxLaborotorySlotsChar (Effect566)
+[2023-12-27 00:46:29.398228] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect566'
+[2023-12-27 00:46:29.399253] DEBUG: eos.gamedata: Loading inventionSkillBoostInventionBonus (Effect498)
+[2023-12-27 00:46:29.399253] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect498'
+[2023-12-27 00:46:29.399253] DEBUG: eos.gamedata: Loading reverseEngineeringInventionBonusModAddReverseEngineeringChanceLocationChar (Effect571)
+[2023-12-27 00:46:29.399253] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect571'
+[2023-12-27 00:46:29.399253] DEBUG: eos.gamedata: Loading metallurgySkillBoostMineralNeedResearchBonus (Effect481)
+[2023-12-27 00:46:29.400222] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect481'
+[2023-12-27 00:46:29.400222] DEBUG: eos.gamedata: Loading metallurgyMineralNeedResearchBonusPostPercentMineralNeedResearchSpeedChar (Effect558)
+[2023-12-27 00:46:29.400222] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect558'
+[2023-12-27 00:46:29.401247] DEBUG: eos.gamedata: Loading systemScanDurationSkillAstrometrics (Effect1409)
+[2023-12-27 00:46:29.401247] DEBUG: eos.gamedata: Loading scanStrengthBonusSkillLevelIncrease (Effect2656)
+[2023-12-27 00:46:29.401247] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect2656'
+[2023-12-27 00:46:29.401247] DEBUG: eos.gamedata: Loading maxScanDeviationSelfSkillModifier (Effect2820)
+[2023-12-27 00:46:29.401247] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect2820'
+[2023-12-27 00:46:29.401247] DEBUG: eos.gamedata: Loading baseMaxScanDeviationModifierRequiringAstrometrics (Effect4161)
+[2023-12-27 00:46:29.402244] DEBUG: eos.gamedata: Loading engineeringSkillBoostPowerOutputBonus (Effect218)
+[2023-12-27 00:46:29.402244] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect218'
+[2023-12-27 00:46:29.402244] DEBUG: eos.gamedata: Loading engineeringPowerEngineeringOutputBonusPostPercentPowerOutputLocationShipGroupPowerCore (Effect490)
+[2023-12-27 00:46:29.402244] DEBUG: eos.gamedata: Loading shieldoperationSkillBoostRechargeratebonus (Effect283)
+[2023-12-27 00:46:29.402244] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect283'
+[2023-12-27 00:46:29.402244] DEBUG: eos.gamedata: Loading shieldOperationRechargeratebonusPostPercentRechargeRateLocationShipGroupShield (Effect486)
+[2023-12-27 00:46:29.403242] DEBUG: eos.gamedata: Loading energyManagementSkillBoostCapRechargeBonus (Effect220)
+[2023-12-27 00:46:29.403242] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect220'
+[2023-12-27 00:46:29.403242] DEBUG: eos.gamedata: Loading capacitorRechargeTimeBonusPostPercentPassive (Effect485)
+[2023-12-27 00:46:29.403242] DEBUG: eos.gamedata: Loading energyManagementSkillBoostCapacitorCapacityBonus (Effect2431)
+[2023-12-27 00:46:29.403242] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect2431'
+[2023-12-27 00:46:29.403242] DEBUG: eos.gamedata: Loading energyManagementCapacitorCapacityBonusPostPercentPassive (Effect2432)
+[2023-12-27 00:46:29.404239] DEBUG: eos.gamedata: Loading shieldManagementSkillBoostShieldCapacityBonus (Effect280)
+[2023-12-27 00:46:29.404239] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect280'
+[2023-12-27 00:46:29.404239] DEBUG: eos.gamedata: Loading shieldManagementShieldCapacityBonusPostPercentCapacityLocationShipGroupShield (Effect446)
+[2023-12-27 00:46:29.404239] DEBUG: eos.gamedata: Loading tacticalshieldManipulationSkillBoostUniformityBonus (Effect277)
+[2023-12-27 00:46:29.405237] DEBUG: eos.gamedata: Loading tacticalShieldManipulationBonus2 (Effect3254)
+[2023-12-27 00:46:29.405237] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect3254'
+[2023-12-27 00:46:29.405237] DEBUG: eos.gamedata: Loading energyPulseWeaponsDurationBonusPostPercentDurationLocationShipModulesRequiringEnergyPulseWeapons (Effect590)
+[2023-12-27 00:46:29.405237] DEBUG: eos.gamedata: Loading shieldEmmisionSystemsCapNeedBonusPostPercentCapacitorNeedLocationShipModulesRequiringShieldEmmisionSystems (Effect279)
+[2023-12-27 00:46:29.406234] DEBUG: eos.gamedata: Loading capacitorEmissionSystemskill (Effect5607)
+[2023-12-27 00:46:29.406234] DEBUG: eos.gamedata: Loading energyGridUpgradesCpuNeedBonusPostPercentCpuLocationShipModulesRequiringEnergyGridUpgrades (Effect396)
+[2023-12-27 00:46:29.407231] DEBUG: eos.gamedata: Loading sensorUpgradesSkillBoostPowerNeedBonus (Effect246)
+[2023-12-27 00:46:29.407231] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect246'
+[2023-12-27 00:46:29.407231] DEBUG: eos.gamedata: Loading shieldUpgradesPowerNeedBonusPostPercentPowerLocationShipModulesRequiringShieldUpgrades (Effect273)
+[2023-12-27 00:46:29.407231] DEBUG: eos.gamedata: Loading gallenteFrigateSkillBoostCpuOutputBonus (Effect368)
+[2023-12-27 00:46:29.407231] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect368'
+[2023-12-27 00:46:29.408201] DEBUG: eos.gamedata: Loading electronicsCpuOutputBonusPostPercentCpuOutputLocationShipGroupComputer (Effect397)
+[2023-12-27 00:46:29.408201] DEBUG: eos.gamedata: Loading ewSkillEwCapNeedSkillLevel (Effect1372)
+[2023-12-27 00:46:29.408201] DEBUG: eos.gamedata: Loading ewSkillEcmBurstCapNeedBonus (Effect2492)
+[2023-12-27 00:46:29.408201] DEBUG: eos.gamedata: Loading longRangeTargetingSkillBoostMaxTargetRangeBonus (Effect206)
+[2023-12-27 00:46:29.409226] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect206'
+[2023-12-27 00:46:29.409226] DEBUG: eos.gamedata: Loading longRangeTargetingMaxTargetRangeBonusPostPercentMaxTargetRangeLocationShipGroupElectronic (Effect507)
+[2023-12-27 00:46:29.409226] DEBUG: eos.gamedata: Loading targetingSkillBoostMaxTargetBonus (Effect213)
+[2023-12-27 00:46:29.409226] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect213'
+[2023-12-27 00:46:29.409226] DEBUG: eos.gamedata: Loading targetingMaxTargetBonusModAddMaxLockedTargetsLocationChar (Effect214)
+[2023-12-27 00:46:29.410223] DEBUG: eos.gamedata: Loading signatureAnalysisSkillLevelPreMulScanResolutionBonusSelf (Effect698)
+[2023-12-27 00:46:29.410223] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect698'
+[2023-12-27 00:46:29.410223] DEBUG: eos.gamedata: Loading signatureAnalysisScanResolutionBonusPostPercentScanResolutionShip (Effect699)
+[2023-12-27 00:46:29.411219] DEBUG: eos.gamedata: Loading sensorUpgradesCpuNeedBonusPostPercentCpuLocationShipModulesRequiringSensorUpgrades (Effect212)
+[2023-12-27 00:46:29.411219] DEBUG: eos.gamedata: Loading ewSkillRsdCapNeedBonusSkillLevel (Effect1360)
+[2023-12-27 00:46:29.412218] DEBUG: eos.gamedata: Loading ewSkillTdCapNeedBonusSkillLevel (Effect1361)
+[2023-12-27 00:46:29.412218] DEBUG: eos.gamedata: Loading propulsionSkillCapNeedBonusSkillLevel (Effect1410)
+[2023-12-27 00:46:29.413215] DEBUG: eos.gamedata: Loading dronesSkillBoostMaxActiveDroneBonus (Effect315)
+[2023-12-27 00:46:29.413215] DEBUG: eos.gamedata: Loading dronesMaxActiveDroneBonusModAddMaxActiveLocationChar (Effect316)
+[2023-12-27 00:46:29.413215] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect316'
+[2023-12-27 00:46:29.413215] DEBUG: eos.gamedata: Loading scoutDroneOperationSkillBoostDroneRangeBonus (Effect448)
+[2023-12-27 00:46:29.413215] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect448'
+[2023-12-27 00:46:29.413215] DEBUG: eos.gamedata: Loading scoutDroneOperationDroneRangeBonusModAddDroneControlDistanceChar (Effect504)
+[2023-12-27 00:46:29.414212] DEBUG: eos.gamedata: Loading miningDroneOperationMiningAmountBonusPostPercentMiningDroneAmountPercentChar (Effect623)
+[2023-12-27 00:46:29.414212] DEBUG: eos.gamedata: Loading damageRepairedSkillBonus (Effect2018)
+[2023-12-27 00:46:29.414212] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect2018'
+[2023-12-27 00:46:29.414212] DEBUG: eos.gamedata: Loading repairDroneShieldBonusBonus (Effect2019)
+[2023-12-27 00:46:29.415210] DEBUG: eos.gamedata: Loading repairDroneArmorDamageAmountBonus (Effect2020)
+[2023-12-27 00:46:29.415210] DEBUG: eos.gamedata: Loading repairDroneHullBonusBonus (Effect5769)
+[2023-12-27 00:46:29.415210] DEBUG: eos.gamedata: Loading droneSalvageBonus (Effect5168)
+[2023-12-27 00:46:29.415210] DEBUG: eos.gamedata: Loading droneSalvageSkillBonus (Effect5170)
+[2023-12-27 00:46:29.415210] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect5170'
+[2023-12-27 00:46:29.416180] DEBUG: eos.gamedata: Loading damageMultiplierSkillBonus (Effect146)
+[2023-12-27 00:46:29.416180] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect146'
+[2023-12-27 00:46:29.416180] DEBUG: eos.gamedata: Loading droneDmgBonus (Effect1730)
+[2023-12-27 00:46:29.416180] DEBUG: eos.gamedata: Loading skillBonusDroneInterfacing (Effect6663)
+[2023-12-27 00:46:29.417205] DEBUG: eos.gamedata: Loading tradeSkillBoostTradePremiumBonus (Effect415)
+[2023-12-27 00:46:29.417205] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect415'
+[2023-12-27 00:46:29.417205] DEBUG: eos.gamedata: Loading tradeTradePremiumBonusPostPercentTradePremiumChar (Effect416)
+[2023-12-27 00:46:29.417205] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect416'
+[2023-12-27 00:46:29.419204] DEBUG: eos.gamedata: Loading navigationSkillBoostVelocityBonus (Effect222)
+[2023-12-27 00:46:29.419204] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect222'
+[2023-12-27 00:46:29.419204] DEBUG: eos.gamedata: Loading navigationVelocityBonusPostPercentMaxVelocityShip (Effect394)
+[2023-12-27 00:46:29.419204] DEBUG: eos.gamedata: Loading afterburnerDurationBonusPostPercentDurationLocationShipModulesRequiringAfterburner (Effect230)
+[2023-12-27 00:46:29.419204] DEBUG: eos.gamedata: Loading fuelConservationCapNeedBonusPostPercentCapacitorNeedLocationShipModulesRequiringAfterburner (Effect506)
+[2023-12-27 00:46:29.420197] DEBUG: eos.gamedata: Loading accerationControlSkillBoostSpeedFBonus (Effect228)
+[2023-12-27 00:46:29.420197] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect228'
+[2023-12-27 00:46:29.420197] DEBUG: eos.gamedata: Loading accerationControlSkillAb&MwdSpeedBoost (Effect1176)
+[2023-12-27 00:46:29.421195] DEBUG: eos.gamedata: Loading highSpeedManuveringSkillBoostCapacitorNeedMultiplier (Effect243)
+[2023-12-27 00:46:29.421195] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect243'
+[2023-12-27 00:46:29.421195] DEBUG: eos.gamedata: Loading highSpeedManuveringCapacitorNeedMultiplierPostPercentCapacitorNeedLocationShipModulesRequiringHighSpeedManuvering (Effect244)
+[2023-12-27 00:46:29.422191] DEBUG: eos.gamedata: Loading warpdriveoperationSkillBoostWarpCapacitorNeedBonus (Effect234)
+[2023-12-27 00:46:29.422191] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect234'
+[2023-12-27 00:46:29.422191] DEBUG: eos.gamedata: Loading warpDriveOperationWarpCapacitorNeedBonusPostPercentWarpCapacitorNeedLocationShipGroupPropulsion (Effect494)
+[2023-12-27 00:46:29.422191] DEBUG: eos.gamedata: Loading jumpDriveSkillsCapacitorNeedBonus (Effect1722)
+[2023-12-27 00:46:29.422191] DEBUG: eos.gamedata: Loading jumpDriveSkillsCapacitorNeedBonusSkillLevel (Effect1723)
+[2023-12-27 00:46:29.422191] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect1723'
+[2023-12-27 00:46:29.423188] DEBUG: eos.gamedata: Loading signatureAnalysisSkillBoostScanspeedBonus (Effect204)
+[2023-12-27 00:46:29.423188] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect204'
+[2023-12-27 00:46:29.423188] DEBUG: eos.gamedata: Loading signatureAnalysisScanspeedBonusPostPercentScanSpeedLocationShip (Effect205)
+[2023-12-27 00:46:29.423188] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect205'
+[2023-12-27 00:46:29.423188] DEBUG: eos.gamedata: Loading surveyScanspeedBonusPostPercentDurationLocationShipModulesRequiringElectronics (Effect744)
+[2023-12-27 00:46:29.425183] DEBUG: eos.gamedata: Loading skillMJDdurationBonus (Effect4923)
+[2023-12-27 00:46:29.426183] DEBUG: eos.gamedata: Loading skillTargetBreakerDurationBonus2 (Effect4945)
+[2023-12-27 00:46:29.426183] DEBUG: eos.gamedata: Loading selfT2SmallHybridRailDamageBonus (Effect1006)
+[2023-12-27 00:46:29.427150] DEBUG: eos.gamedata: Loading selfT2SmallLaserBeamDamageBonus (Effect1004)
+[2023-12-27 00:46:29.427150] DEBUG: eos.gamedata: Loading selfT2SmallProjectileACDamageBonus (Effect1007)
+[2023-12-27 00:46:29.428147] DEBUG: eos.gamedata: Loading skillAdvancedWeaponUpgradesPowerNeedBonus (Effect1638)
+[2023-12-27 00:46:29.428147] DEBUG: eos.gamedata: Loading skillAdvancedWeaponUpgradesPowerNeedBonusBombLaunchers (Effect3520)
+[2023-12-27 00:46:29.428147] DEBUG: eos.gamedata: Loading damageCloudChanceReductionFixed (Effect5372)
+[2023-12-27 00:46:29.428147] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect5372'
+[2023-12-27 00:46:29.428147] DEBUG: eos.gamedata: Loading deepCoreMiningSkillBoostDamageCloudChanceReductionMul (Effect5373)
+[2023-12-27 00:46:29.428147] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect5373'
+[2023-12-27 00:46:29.435157] DEBUG: eos.gamedata: Loading shieldCompensationSkillBoostHardeningBonus (Effect1897)
+[2023-12-27 00:46:29.435157] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect1897'
+[2023-12-27 00:46:29.435157] DEBUG: eos.gamedata: Loading thermalShieldCompensationHardeningBonusGroupShieldAmp (Effect2056)
+[2023-12-27 00:46:29.436154] DEBUG: eos.gamedata: Loading armoredCommandStrengthBonus (Effect6776)
+[2023-12-27 00:46:29.436154] DEBUG: eos.gamedata: Loading skirmishCommandStrengthBonus (Effect6779)
+[2023-12-27 00:46:29.437151] DEBUG: eos.gamedata: Loading cloakingTargetingDelayBonusPostPercentCloakingTargetingDelayBonusForShipModulesRequiringCloaking (Effect848)
+[2023-12-27 00:46:29.437151] DEBUG: eos.gamedata: Loading cloakingSkillBoostCloakingTargetingDelayBonus (Effect850)
+[2023-12-27 00:46:29.437151] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect850'
+[2023-12-27 00:46:29.438148] DEBUG: eos.gamedata: Loading interceptorsSkillLevelPreMulEliteBonusInterceptorShip (Effect703)
+[2023-12-27 00:46:29.438148] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect703'
+[2023-12-27 00:46:29.438148] DEBUG: eos.gamedata: Loading interceptors2SkillLevelPreMulEliteBonusInterceptorShip (Effect1279)
+[2023-12-27 00:46:29.438148] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect1279'
+[2023-12-27 00:46:29.438148] DEBUG: eos.gamedata: Loading covertOpsSkillLevelPreMulEliteBonusCoverOpsShip (Effect704)
+[2023-12-27 00:46:29.438148] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect704'
+[2023-12-27 00:46:29.438148] DEBUG: eos.gamedata: Loading covertOpsSkillLevelPreMulEliteBonusCoverOpsShip2 (Effect1405)
+[2023-12-27 00:46:29.439149] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect1405'
+[2023-12-27 00:46:29.439149] DEBUG: eos.gamedata: Loading covertOpsSkillLevelPreMulEliteBonusCoverOpsShip3 (Effect4480)
+[2023-12-27 00:46:29.439149] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect4480'
+[2023-12-27 00:46:29.439149] DEBUG: eos.gamedata: Loading covertOpsSkillLevelPreMulEliteBonusCoverOpsShip4 (Effect6998)
+[2023-12-27 00:46:29.439149] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6998'
+[2023-12-27 00:46:29.439149] DEBUG: eos.gamedata: Loading gunshipSkillMultiplier1 (Effect987)
+[2023-12-27 00:46:29.439149] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect987'
+[2023-12-27 00:46:29.439149] DEBUG: eos.gamedata: Loading gunshipSkillMultiplier2 (Effect988)
+[2023-12-27 00:46:29.439149] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect988'
+[2023-12-27 00:46:29.440115] DEBUG: eos.gamedata: Loading logisticSkillMultiplier1 (Effect1052)
+[2023-12-27 00:46:29.440115] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect1052'
+[2023-12-27 00:46:29.440115] DEBUG: eos.gamedata: Loading logisticSkillMultiplier2 (Effect1053)
+[2023-12-27 00:46:29.440115] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect1053'
+[2023-12-27 00:46:29.440115] DEBUG: eos.gamedata: Loading logisticSkillMultiplier3 (Effect6718)
+[2023-12-27 00:46:29.440115] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6718'
+[2023-12-27 00:46:29.441141] DEBUG: eos.gamedata: Loading skillInterdictorEliteBonus1SkillLevel (Effect2426)
+[2023-12-27 00:46:29.441141] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect2426'
+[2023-12-27 00:46:29.441141] DEBUG: eos.gamedata: Loading skillInterdictorEliteBonus2SkillLevel (Effect2427)
+[2023-12-27 00:46:29.441141] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect2427'
+[2023-12-27 00:46:29.441141] DEBUG: eos.gamedata: Loading cSOTrainingSkillBoostResearchGangSizeBonus (Effect334)
+[2023-12-27 00:46:29.441141] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect334'
+[2023-12-27 00:46:29.441141] DEBUG: eos.gamedata: Loading cSOTrainingResearchGangSizeBonusModAddMaxResearchGangSizeShip (Effect335)
+[2023-12-27 00:46:29.441141] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect335'
+[2023-12-27 00:46:29.443108] DEBUG: eos.gamedata: Loading selfT2SmallProjectileArtyDamageBonus (Effect1008)
+[2023-12-27 00:46:29.443108] DEBUG: eos.gamedata: Loading selfT2MediumProjectileArtyDamageBonus (Effect1014)
+[2023-12-27 00:46:29.444133] DEBUG: eos.gamedata: Loading selfT2LargeProjectileArtyDamageBonus (Effect1020)
+[2023-12-27 00:46:29.444133] DEBUG: eos.gamedata: Loading selfT2MediumLaserBeamDamageBonus (Effect1010)
+[2023-12-27 00:46:29.445130] DEBUG: eos.gamedata: Loading selfT2LargeLaserBeamDamageBonus (Effect1016)
+[2023-12-27 00:46:29.445130] DEBUG: eos.gamedata: Loading selfT2MediumHybridRailDamageBonus (Effect1012)
+[2023-12-27 00:46:29.445130] DEBUG: eos.gamedata: Loading selfT2LargeHybridRailDamageBonus (Effect1018)
+[2023-12-27 00:46:29.446128] DEBUG: eos.gamedata: Loading selfT2MediumProjectileACDamageBonus (Effect1013)
+[2023-12-27 00:46:29.446128] DEBUG: eos.gamedata: Loading selfT2LargeProjectileACDamageBonus (Effect1019)
+[2023-12-27 00:46:29.447125] DEBUG: eos.gamedata: Loading selfT2SmallHybridBlasterDamageBonus (Effect1005)
+[2023-12-27 00:46:29.447125] DEBUG: eos.gamedata: Loading selfT2MediumHybridBlasterDamageBonus (Effect1011)
+[2023-12-27 00:46:29.448094] DEBUG: eos.gamedata: Loading selfT2LargeHybridBlasterDamageBonus (Effect1017)
+[2023-12-27 00:46:29.448094] DEBUG: eos.gamedata: Loading selfT2SmallLaserPulseDamageBonus (Effect1003)
+[2023-12-27 00:46:29.449120] DEBUG: eos.gamedata: Loading selfT2MediumLaserPulseDamageBonus (Effect1009)
+[2023-12-27 00:46:29.449120] DEBUG: eos.gamedata: Loading selfT2LargeLaserPulseDamageBonus (Effect1015)
+[2023-12-27 00:46:29.450114] DEBUG: eos.gamedata: Loading skillMultiplierMaxVelocityBonus (Effect6666)
+[2023-12-27 00:46:29.450114] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6666'
+[2023-12-27 00:46:29.450114] DEBUG: eos.gamedata: Loading skillBonusDroneNavigation (Effect6667)
+[2023-12-27 00:46:29.451114] DEBUG: eos.gamedata: Loading emShieldCompensationHardeningBonusGroupShieldAmp (Effect2053)
+[2023-12-27 00:46:29.451114] DEBUG: eos.gamedata: Loading kineticShieldCompensationHardeningBonusGroupShieldAmp (Effect2055)
+[2023-12-27 00:46:29.451114] DEBUG: eos.gamedata: Loading explosiveShieldCompensationHardeningBonusGroupShieldAmp (Effect2054)
+[2023-12-27 00:46:29.452111] DEBUG: eos.gamedata: Loading heavyMissilesSkillBoostMaxflightTimeBonus (Effect663)
+[2023-12-27 00:46:29.452111] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect663'
+[2023-12-27 00:46:29.452111] DEBUG: eos.gamedata: Loading missileBombardmentMaxFlightTimeBonusPostPercentExplosionDelayOwnerCharModulesRequiringMissileLauncherOperation (Effect784)
+[2023-12-27 00:46:29.452111] DEBUG: eos.gamedata: Loading missileSkillMissileProjectileVelocityBonus (Effect1764)
+[2023-12-27 00:46:29.453109] DEBUG: eos.gamedata: Loading missileSkillMissileProjectileVelocityBonusSkillLevel (Effect1765)
+[2023-12-27 00:46:29.453109] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect1765'
+[2023-12-27 00:46:29.454106] DEBUG: eos.gamedata: Loading archaeologyAccessDifficultyBonusMultiplier (Effect4803)
+[2023-12-27 00:46:29.455108] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect4803'
+[2023-12-27 00:46:29.455108] DEBUG: eos.gamedata: Loading dataMiningSkillBoostAccessDifficultyBonusAbsolutePercent (Effect4804)
+[2023-12-27 00:46:29.455108] DEBUG: eos.gamedata: Loading dataMiningSkillLevelVirusCoherenceBonusModifier2 (Effect5435)
+[2023-12-27 00:46:29.455108] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect5435'
+[2023-12-27 00:46:29.455108] DEBUG: eos.gamedata: Loading archaeologySkillVirusBonus (Effect5437)
+[2023-12-27 00:46:29.456103] DEBUG: eos.gamedata: Loading remoteArmorSystemsCapNeedBonusPostPercentCapacitorNeedLocationShipModulesRequiringRemoteArmorSystems (Effect1030)
+[2023-12-27 00:46:29.456103] DEBUG: eos.gamedata: Loading iceHarvestCycleTimeModulesRequiringIceHarvesting (Effect1190)
+[2023-12-27 00:46:29.456103] DEBUG: eos.gamedata: Loading iceHarvestCycleTimeBonus (Effect1191)
+[2023-12-27 00:46:29.456103] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect1191'
+[2023-12-27 00:46:29.457098] DEBUG: eos.gamedata: Loading warshipSkillMultiplier2 (Effect1077)
+[2023-12-27 00:46:29.457098] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect1077'
+[2023-12-27 00:46:29.457098] DEBUG: eos.gamedata: Loading warshipSkillMultiplier1 (Effect1079)
+[2023-12-27 00:46:29.457098] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect1079'
+[2023-12-27 00:46:29.459084] DEBUG: eos.gamedata: Loading miningBargeSkillLevelOreMiningYield (Effect8232)
+[2023-12-27 00:46:29.459084] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8232'
+[2023-12-27 00:46:29.459084] DEBUG: eos.gamedata: Loading miningBargeSkillLevelIceHarvestingDuration (Effect8233)
+[2023-12-27 00:46:29.460091] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8233'
+[2023-12-27 00:46:29.460091] DEBUG: eos.gamedata: Loading miningBargeSkillLevelGasHarvestingDuration (Effect8234)
+[2023-12-27 00:46:29.460091] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8234'
+[2023-12-27 00:46:29.460091] DEBUG: eos.gamedata: Loading miningBargeSkillLevelOreMiningRange (Effect8235)
+[2023-12-27 00:46:29.460091] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8235'
+[2023-12-27 00:46:29.460091] DEBUG: eos.gamedata: Loading miningBargeSkillLevelIceHarvestingRange (Effect8236)
+[2023-12-27 00:46:29.460091] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8236'
+[2023-12-27 00:46:29.460091] DEBUG: eos.gamedata: Loading miningBargeSkillLevelGeneralMiningHoldCapacity (Effect8240)
+[2023-12-27 00:46:29.460091] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8240'
+[2023-12-27 00:46:29.460091] DEBUG: eos.gamedata: Loading miningBargeSkillLevelShieldCapacity (Effect8241)
+[2023-12-27 00:46:29.460091] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8241'
+[2023-12-27 00:46:29.460091] DEBUG: eos.gamedata: Loading miningBargeSkillLevelArmorHP (Effect8242)
+[2023-12-27 00:46:29.460091] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8242'
+[2023-12-27 00:46:29.461088] DEBUG: eos.gamedata: Loading eliteIndustrial1SkillLevelPreMulEliteBonusEliteIndustrialShip (Effect1282)
+[2023-12-27 00:46:29.461088] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect1282'
+[2023-12-27 00:46:29.461088] DEBUG: eos.gamedata: Loading eliteIndustrial2SkillLevelPreMulEliteBonusEliteIndustrialShip (Effect1283)
+[2023-12-27 00:46:29.461088] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect1283'
+[2023-12-27 00:46:29.462085] DEBUG: eos.gamedata: Loading eliteIndustrialExtenderSkillBonus (Effect3753)
+[2023-12-27 00:46:29.462085] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect3753'
+[2023-12-27 00:46:29.462085] DEBUG: eos.gamedata: Loading zColinSkillTransportCovertCloakMod (Effect3755)
+[2023-12-27 00:46:29.462085] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect3755'
+[2023-12-27 00:46:29.462085] DEBUG: eos.gamedata: Loading ewSkillRsdMaxRangeBonus (Effect1445)
+[2023-12-27 00:46:29.462085] DEBUG: eos.gamedata: Loading ewSkillTpMaxRangeBonus (Effect1446)
+[2023-12-27 00:46:29.462085] DEBUG: eos.gamedata: Loading ewSkillTdMaxRangeBonus (Effect1448)
+[2023-12-27 00:46:29.462085] DEBUG: eos.gamedata: Loading ewSkillEwMaxRangeBonus (Effect1452)
+[2023-12-27 00:46:29.462085] DEBUG: eos.gamedata: Loading ewSkillEcmBurstRangeBonus (Effect2491)
+[2023-12-27 00:46:29.463082] DEBUG: eos.gamedata: Loading ewSkillRsdFallOffBonus (Effect1449)
+[2023-12-27 00:46:29.463082] DEBUG: eos.gamedata: Loading ewSkillTpFallOffBonus (Effect1450)
+[2023-12-27 00:46:29.463082] DEBUG: eos.gamedata: Loading ewSkillTdFallOffBonus (Effect1451)
+[2023-12-27 00:46:29.463082] DEBUG: eos.gamedata: Loading ewSkillEwFallOffBonus (Effect1453)
+[2023-12-27 00:46:29.463082] DEBUG: eos.gamedata: Loading ewSkillScanStrengthBonus (Effect1318)
+[2023-12-27 00:46:29.464092] DEBUG: eos.gamedata: Loading ewSkillScanStrengthBonusSkillLevel (Effect1321)
+[2023-12-27 00:46:29.464092] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect1321'
+[2023-12-27 00:46:29.464092] DEBUG: eos.gamedata: Loading ewSkillSignalSuppressionScanResolutionBonus (Effect3586)
+[2023-12-27 00:46:29.464092] DEBUG: eos.gamedata: Loading ewSkillSignalSuppressionMaxTargetRangeBonus (Effect3591)
+[2023-12-27 00:46:29.465049] DEBUG: eos.gamedata: Loading ewSkillTrackingDisruptionTrackingSpeedBonus (Effect3561)
+[2023-12-27 00:46:29.465049] DEBUG: eos.gamedata: Loading ewSkillTrackingDisruptionRangeDisruptionBonus (Effect5793)
+[2023-12-27 00:46:29.465049] DEBUG: eos.gamedata: Loading ewSkillGuidanceDisruptionBonus (Effect6386)
+[2023-12-27 00:46:29.465049] DEBUG: eos.gamedata: Loading ewSkillTpCapNeedBonusSkillLevel (Effect1370)
+[2023-12-27 00:46:29.466074] DEBUG: eos.gamedata: Loading ewSkillTargetPaintingStrengthBonusSkillLevel (Effect1373)
+[2023-12-27 00:46:29.466074] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect1373'
+[2023-12-27 00:46:29.466074] DEBUG: eos.gamedata: Loading ewSkillTargetPaintingStrengthBonus (Effect1550)
+[2023-12-27 00:46:29.466074] DEBUG: eos.gamedata: Loading selfRof (Effect1851)
+[2023-12-27 00:46:29.468069] DEBUG: eos.gamedata: Loading missileSkillAoeCloudSizeBonus (Effect1472)
+[2023-12-27 00:46:29.468069] DEBUG: eos.gamedata: Loading missileSkillAoeCloudSizeBonusSkillLevel (Effect1473)
+[2023-12-27 00:46:29.468069] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect1473'
+[2023-12-27 00:46:29.469066] DEBUG: eos.gamedata: Loading missileSkillAoeVelocityBonusSkillLevel (Effect1467)
+[2023-12-27 00:46:29.469066] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect1467'
+[2023-12-27 00:46:29.469066] DEBUG: eos.gamedata: Loading missileSkillAoeVelocityBonus (Effect1590)
+[2023-12-27 00:46:29.469066] DEBUG: eos.gamedata: Loading missileSkillWarheadUpgradesEmDamageBonus (Effect1595)
+[2023-12-27 00:46:29.469066] DEBUG: eos.gamedata: Loading missileSkillWarheadUpgradesExplosiveDamageBonus (Effect1596)
+[2023-12-27 00:46:29.469066] DEBUG: eos.gamedata: Loading missileSkillWarheadUpgradesKineticDamageBonus (Effect1597)
+[2023-12-27 00:46:29.470063] DEBUG: eos.gamedata: Loading missileSkillWarheadUpgradesThermalDamageBonus (Effect1657)
+[2023-12-27 00:46:29.470063] DEBUG: eos.gamedata: Loading capitalTurretSkillLaserDamage (Effect1585)
+[2023-12-27 00:46:29.470063] DEBUG: eos.gamedata: Loading skillAdvancedSpaceshipAgilityBonus (Effect1614)
+[2023-12-27 00:46:29.470063] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect1614'
+[2023-12-27 00:46:29.471061] DEBUG: eos.gamedata: Loading armoredCommandDurationBonus (Effect6770)
+[2023-12-27 00:46:29.472058] DEBUG: eos.gamedata: Loading informationCommandDurationBonus (Effect6772)
+[2023-12-27 00:46:29.472058] DEBUG: eos.gamedata: Loading freighterA1SkillLevel (Effect1659)
+[2023-12-27 00:46:29.472058] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect1659'
+[2023-12-27 00:46:29.472058] DEBUG: eos.gamedata: Loading freighterA2SkillLevel (Effect1660)
+[2023-12-27 00:46:29.472058] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect1660'
+[2023-12-27 00:46:29.473055] DEBUG: eos.gamedata: Loading skillMultiplierShipBonusDreadnoughtAmarr (Effect6489)
+[2023-12-27 00:46:29.473055] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6489'
+[2023-12-27 00:46:29.473055] DEBUG: eos.gamedata: Loading freighterC1SkillLevel (Effect1661)
+[2023-12-27 00:46:29.473055] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect1661'
+[2023-12-27 00:46:29.473055] DEBUG: eos.gamedata: Loading freighterC2SkillLevel (Effect1663)
+[2023-12-27 00:46:29.473055] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect1663'
+[2023-12-27 00:46:29.474052] DEBUG: eos.gamedata: Loading freighterG1SkillLevel (Effect1664)
+[2023-12-27 00:46:29.474052] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect1664'
+[2023-12-27 00:46:29.474052] DEBUG: eos.gamedata: Loading freighterG2SkillLevel (Effect1665)
+[2023-12-27 00:46:29.474052] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect1665'
+[2023-12-27 00:46:29.475022] DEBUG: eos.gamedata: Loading freighterM1SkillLevel (Effect1666)
+[2023-12-27 00:46:29.475022] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect1666'
+[2023-12-27 00:46:29.475022] DEBUG: eos.gamedata: Loading freighterM2SkillLevel (Effect1667)
+[2023-12-27 00:46:29.475022] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect1667'
+[2023-12-27 00:46:29.476020] DEBUG: eos.gamedata: Loading skillMultiplierShipBonusDreadnoughtCaldari (Effect6492)
+[2023-12-27 00:46:29.476020] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6492'
+[2023-12-27 00:46:29.476020] DEBUG: eos.gamedata: Loading skillMultiplierShipBonusDreadnoughtGallente (Effect6495)
+[2023-12-27 00:46:29.476020] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6495'
+[2023-12-27 00:46:29.477045] DEBUG: eos.gamedata: Loading skillMultiplierShipBonusDreadnoughtMinmatar (Effect6498)
+[2023-12-27 00:46:29.477045] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6498'
+[2023-12-27 00:46:29.477045] DEBUG: eos.gamedata: Loading skillCapitalShipsAdvancedAgility (Effect1616)
+[2023-12-27 00:46:29.478102] DEBUG: eos.gamedata: Loading shieldOperationSkillBoostCapacitorNeedBonusSkillLevel (Effect1499)
+[2023-12-27 00:46:29.478102] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect1499'
+[2023-12-27 00:46:29.478102] DEBUG: eos.gamedata: Loading shieldOperationSkillBoostCapacitorNeedBonus (Effect1500)
+[2023-12-27 00:46:29.479071] DEBUG: eos.gamedata: Loading cynosuralTheoryConsumptionBonus (Effect3526)
+[2023-12-27 00:46:29.479071] DEBUG: eos.gamedata: Loading skillConsumptionQuantityBonusPercentageSkillLevel (Effect3527)
+[2023-12-27 00:46:29.479071] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect3527'
+[2023-12-27 00:46:29.479071] DEBUG: eos.gamedata: Loading skillJumpDriveConsumptionAmountBonusPercentage (Effect3532)
+[2023-12-27 00:46:29.480068] DEBUG: eos.gamedata: Loading jumpDriveSkillsRangeBonus (Effect1581)
+[2023-12-27 00:46:29.480068] DEBUG: eos.gamedata: Loading jumpDriveSkillsRangeBonusSkillLevel (Effect1582)
+[2023-12-27 00:46:29.480068] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect1582'
+[2023-12-27 00:46:29.480068] DEBUG: eos.gamedata: Loading capitalTurretSkillHybridDamage (Effect1587)
+[2023-12-27 00:46:29.481065] DEBUG: eos.gamedata: Loading capitalTurretSkillProjectileDamage (Effect1586)
+[2023-12-27 00:46:29.481065] DEBUG: eos.gamedata: Loading capitalLauncherSkillCitadelKineticDamage (Effect1588)
+[2023-12-27 00:46:29.481065] DEBUG: eos.gamedata: Loading capitalLauncherSkillCitadelEmDamage (Effect1592)
+[2023-12-27 00:46:29.481065] DEBUG: eos.gamedata: Loading capitalLauncherSkillCitadelExplosiveDamage (Effect1593)
+[2023-12-27 00:46:29.481065] DEBUG: eos.gamedata: Loading capitalLauncherSkillCitadelThermalDamage (Effect1594)
+[2023-12-27 00:46:29.482062] DEBUG: eos.gamedata: Loading hackingAccessDifficultyBonusMultiplier (Effect4802)
+[2023-12-27 00:46:29.482062] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect4802'
+[2023-12-27 00:46:29.482062] DEBUG: eos.gamedata: Loading hackingSkillVirusBonus (Effect5433)
+[2023-12-27 00:46:29.483061] DEBUG: eos.gamedata: Loading capitalShieldOperationSkillCapacitorNeedBonus (Effect1634)
+[2023-12-27 00:46:29.484057] DEBUG: eos.gamedata: Loading capitalRepairSystemsSkillDurationBonus (Effect1635)
+[2023-12-27 00:46:29.484057] DEBUG: eos.gamedata: Loading skillSiegeModuleConsumptionQuantityBonus (Effect1650)
+[2023-12-27 00:46:29.484057] DEBUG: eos.gamedata: Loading skillCynosural&SiegeConsumQuantityBonusSkillLevel (Effect1651)
+[2023-12-27 00:46:29.484057] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect1651'
+[2023-12-27 00:46:29.485054] DEBUG: eos.gamedata: Loading miningForemanDurationBonus (Effect6774)
+[2023-12-27 00:46:29.486051] DEBUG: eos.gamedata: Loading miningDroneSpecBonus (Effect6762)
+[2023-12-27 00:46:29.486051] DEBUG: eos.gamedata: Loading exhumersSkillLevelOreMiningDuration (Effect8246)
+[2023-12-27 00:46:29.486051] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8246'
+[2023-12-27 00:46:29.486051] DEBUG: eos.gamedata: Loading exhumersSkillLevelIceharvestingDuration (Effect8247)
+[2023-12-27 00:46:29.486051] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8247'
+[2023-12-27 00:46:29.486051] DEBUG: eos.gamedata: Loading exhumersSkillLevelSingatureRadius (Effect8248)
+[2023-12-27 00:46:29.486051] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8248'
+[2023-12-27 00:46:29.487049] DEBUG: eos.gamedata: Loading exhumersSkillLevelOreMiningYield (Effect8250)
+[2023-12-27 00:46:29.487049] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8250'
+[2023-12-27 00:46:29.487049] DEBUG: eos.gamedata: Loading exhumersSkillLevelGeneralMiningHoldCapacity (Effect8252)
+[2023-12-27 00:46:29.487049] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8252'
+[2023-12-27 00:46:29.487049] DEBUG: eos.gamedata: Loading exhumersSkillLevelShieldResistance (Effect8255)
+[2023-12-27 00:46:29.487049] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8255'
+[2023-12-27 00:46:29.487049] DEBUG: eos.gamedata: Loading exhumersSkillLevelArmorResistance (Effect8256)
+[2023-12-27 00:46:29.487049] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8256'
+[2023-12-27 00:46:29.487049] DEBUG: eos.gamedata: Loading exhumersSkillLevelLightDronesDamage (Effect8259)
+[2023-12-27 00:46:29.487049] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8259'
+[2023-12-27 00:46:29.487049] DEBUG: eos.gamedata: Loading exhumersSkillLevelMediumDronesDamage (Effect8260)
+[2023-12-27 00:46:29.487049] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8260'
+[2023-12-27 00:46:29.487049] DEBUG: eos.gamedata: Loading exhumersSkillLevelGasHarvestingDuration (Effect8302)
+[2023-12-27 00:46:29.487049] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8302'
+[2023-12-27 00:46:29.488053] DEBUG: eos.gamedata: Loading miningForemanStrengthBonus (Effect6780)
+[2023-12-27 00:46:29.488053] DEBUG: eos.gamedata: Loading miningUpgradeCPUReductionBonus (Effect1895)
+[2023-12-27 00:46:29.488053] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect1895'
+[2023-12-27 00:46:29.488053] DEBUG: eos.gamedata: Loading miningUpgradeCPUPenaltyReductionModulesRequiringMiningUpgradePercent (Effect2456)
+[2023-12-27 00:46:29.489044] DEBUG: eos.gamedata: Loading reconShipSkillMultiplier1 (Effect1908)
+[2023-12-27 00:46:29.489044] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect1908'
+[2023-12-27 00:46:29.489044] DEBUG: eos.gamedata: Loading reconShipSkillMultiplier2 (Effect1909)
+[2023-12-27 00:46:29.489044] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect1909'
+[2023-12-27 00:46:29.489044] DEBUG: eos.gamedata: Loading reconShipSkillMultiplier3 (Effect6022)
+[2023-12-27 00:46:29.489044] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6022'
+[2023-12-27 00:46:29.489044] DEBUG: eos.gamedata: Loading emArmorCompensationHardeningBonusGroupArmorCoating (Effect2105)
+[2023-12-27 00:46:29.489044] DEBUG: eos.gamedata: Loading emArmorCompensationHardeningBonusGroupEnergized (Effect2109)
+[2023-12-27 00:46:29.490042] DEBUG: eos.gamedata: Loading explosiveArmorCompensationHardeningBonusGroupArmorCoating (Effect2106)
+[2023-12-27 00:46:29.490042] DEBUG: eos.gamedata: Loading explosiveArmorCompensationHardeningBonusGroupEnergized (Effect2110)
+[2023-12-27 00:46:29.491039] DEBUG: eos.gamedata: Loading kineticArmorCompensationHardeningBonusGroupArmorCoating (Effect2107)
+[2023-12-27 00:46:29.491039] DEBUG: eos.gamedata: Loading kineticArmorCompensationHardeningBonusGroupEnergized (Effect2111)
+[2023-12-27 00:46:29.491039] DEBUG: eos.gamedata: Loading thermicArmorCompensationHardeningBonusGroupArmorCoating (Effect2108)
+[2023-12-27 00:46:29.491039] DEBUG: eos.gamedata: Loading thermicArmorCompensationHardeningBonusGroupEnergized (Effect2112)
+[2023-12-27 00:46:29.492036] DEBUG: eos.gamedata: Loading skillBonusFighters (Effect6560)
+[2023-12-27 00:46:29.494030] DEBUG: eos.gamedata: Loading skillBonusDroneSharpshooting (Effect6664)
+[2023-12-27 00:46:29.494030] DEBUG: eos.gamedata: Loading skillBonusDroneDurability (Effect6665)
+[2023-12-27 00:46:29.495028] DEBUG: eos.gamedata: Loading commandShipSkillMultiplier1 (Effect2451)
+[2023-12-27 00:46:29.495028] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect2451'
+[2023-12-27 00:46:29.495028] DEBUG: eos.gamedata: Loading commandShipSkillMultiplier2 (Effect2452)
+[2023-12-27 00:46:29.495028] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect2452'
+[2023-12-27 00:46:29.495028] DEBUG: eos.gamedata: Loading commandShipSkillMultiplier3 (Effect5571)
+[2023-12-27 00:46:29.495028] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect5571'
+[2023-12-27 00:46:29.496028] DEBUG: eos.gamedata: Loading skillADDmaxJumpClones (Effect2311)
+[2023-12-27 00:46:29.496028] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect2311'
+[2023-12-27 00:46:29.497023] DEBUG: eos.gamedata: Loading skillMultiplierShipBonusForceAuxiliaryAmarr (Effect6514)
+[2023-12-27 00:46:29.497023] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6514'
+[2023-12-27 00:46:29.497023] DEBUG: eos.gamedata: Loading skillMultiplierShipBonusCarrierAmarr (Effect6583)
+[2023-12-27 00:46:29.497023] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6583'
+[2023-12-27 00:46:29.497023] DEBUG: eos.gamedata: Loading skillMultiplierShipBonusSupercarrierAmarr (Effect6587)
+[2023-12-27 00:46:29.497023] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6587'
+[2023-12-27 00:46:29.498039] DEBUG: eos.gamedata: Loading skillMultiplierShipBonusForceAuxiliaryCaldari (Effect6517)
+[2023-12-27 00:46:29.498039] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6517'
+[2023-12-27 00:46:29.498039] DEBUG: eos.gamedata: Loading skillMultiplierShipBonusCarrierCaldari (Effect6584)
+[2023-12-27 00:46:29.498039] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6584'
+[2023-12-27 00:46:29.498039] DEBUG: eos.gamedata: Loading skillMultiplierShipBonusSupercarrierCaldari (Effect6588)
+[2023-12-27 00:46:29.498039] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6588'
+[2023-12-27 00:46:29.499018] DEBUG: eos.gamedata: Loading skillMultiplierShipBonusForceAuxiliaryGallente (Effect6520)
+[2023-12-27 00:46:29.499018] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6520'
+[2023-12-27 00:46:29.499018] DEBUG: eos.gamedata: Loading skillMultiplierShipBonusCarrierGallente (Effect6585)
+[2023-12-27 00:46:29.499018] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6585'
+[2023-12-27 00:46:29.499018] DEBUG: eos.gamedata: Loading skillMultiplierShipBonusSupercarrierGallente (Effect6589)
+[2023-12-27 00:46:29.499018] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6589'
+[2023-12-27 00:46:29.499018] DEBUG: eos.gamedata: Loading skillMultiplierShipBonusForceAuxiliaryMinmatar (Effect6523)
+[2023-12-27 00:46:29.500014] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6523'
+[2023-12-27 00:46:29.500014] DEBUG: eos.gamedata: Loading skillMultiplierShipBonusCarrierMinmatar (Effect6586)
+[2023-12-27 00:46:29.500014] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6586'
+[2023-12-27 00:46:29.500014] DEBUG: eos.gamedata: Loading skillMultiplierShipBonusSupercarrierMinmatar (Effect6590)
+[2023-12-27 00:46:29.500014] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6590'
+[2023-12-27 00:46:29.500014] DEBUG: eos.gamedata: Loading skillConsumptionQuantityBonusPercentSkillLevel (Effect4813)
+[2023-12-27 00:46:29.500014] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect4813'
+[2023-12-27 00:46:29.500014] DEBUG: eos.gamedata: Loading jumpPortalConsumptionBonusPercentSkill (Effect4814)
+[2023-12-27 00:46:29.501013] DEBUG: eos.gamedata: Loading skillSuperWeaponDmgBonus (Effect2402)
+[2023-12-27 00:46:29.501013] DEBUG: eos.gamedata: Loading capitalRemoteArmorRepairerCapNeedBonusSkill (Effect2354)
+[2023-12-27 00:46:29.502010] DEBUG: eos.gamedata: Loading capitalRemoteShieldTransferCapNeedBonusSkill (Effect2355)
+[2023-12-27 00:46:29.502010] DEBUG: eos.gamedata: Loading capitalRemoteEnergyTransferCapNeedBonusSkill (Effect2356)
+[2023-12-27 00:46:29.503006] DEBUG: eos.gamedata: Loading cloneVatMaxJumpCloneBonusSkillLevel (Effect2411)
+[2023-12-27 00:46:29.503006] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect2411'
+[2023-12-27 00:46:29.503006] DEBUG: eos.gamedata: Loading cloneVatMaxJumpCloneBonusSkillNew (Effect3313)
+[2023-12-27 00:46:29.503006] DEBUG: eos.gamedata: Loading skillMultiplierFighterHangarSize (Effect6569)
+[2023-12-27 00:46:29.503006] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6569'
+[2023-12-27 00:46:29.503006] DEBUG: eos.gamedata: Loading skillBonusFighterHangarManagement (Effect6570)
+[2023-12-27 00:46:29.505001] DEBUG: eos.gamedata: Loading neurotoxinRecoverySkillBoostChanceBonus (Effect2580)
+[2023-12-27 00:46:29.505001] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect2580'
+[2023-12-27 00:46:29.505001] DEBUG: eos.gamedata: Loading modifyBoosterEffectChanceWithBoosterChanceBonusPostPercent (Effect2589)
+[2023-12-27 00:46:29.505998] DEBUG: eos.gamedata: Loading naniteControlSkillBoostBoosterAttributeModifier (Effect2590)
+[2023-12-27 00:46:29.505998] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect2590'
+[2023-12-27 00:46:29.505998] DEBUG: eos.gamedata: Loading boosterModifyBoosterArmorPenalties (Effect2760)
+[2023-12-27 00:46:29.506996] DEBUG: eos.gamedata: Loading boosterModifyBoosterShieldPenalty (Effect2763)
+[2023-12-27 00:46:29.506996] DEBUG: eos.gamedata: Loading boosterModifyBoosterMaxVelocityAndCapacitorPenalty (Effect2766)
+[2023-12-27 00:46:29.506996] DEBUG: eos.gamedata: Loading boosterModifyBoosterMissilePenalty (Effect2776)
+[2023-12-27 00:46:29.506996] DEBUG: eos.gamedata: Loading boosterModifyBoosterTurretPenalty (Effect2778)
+[2023-12-27 00:46:29.507993] DEBUG: eos.gamedata: Loading gasCloudHarvestingMaxGroupSkillLevel (Effect2727)
+[2023-12-27 00:46:29.509989] DEBUG: eos.gamedata: Loading salvagingAccessDifficultyBonusMultiplier (Effect4801)
+[2023-12-27 00:46:29.509989] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect4801'
+[2023-12-27 00:46:29.510985] DEBUG: eos.gamedata: Loading rigDrawbackSkillEffect (Effect2725)
+[2023-12-27 00:46:29.510985] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect2725'
+[2023-12-27 00:46:29.510985] DEBUG: eos.gamedata: Loading rigDrawbackReductionArmor (Effect6697)
+[2023-12-27 00:46:29.511985] DEBUG: eos.gamedata: Loading rigDrawbackReductionAstronautics (Effect6698)
+[2023-12-27 00:46:29.511985] DEBUG: eos.gamedata: Loading rigDrawbackReductionDrones (Effect6699)
+[2023-12-27 00:46:29.512979] DEBUG: eos.gamedata: Loading rigDrawbackReductionElectronic (Effect6700)
+[2023-12-27 00:46:29.512979] DEBUG: eos.gamedata: Loading rigDrawbackReductionProjectile (Effect6701)
+[2023-12-27 00:46:29.512979] DEBUG: eos.gamedata: Loading rigDrawbackReductionEnergyWeapon (Effect6702)
+[2023-12-27 00:46:29.513976] DEBUG: eos.gamedata: Loading rigDrawbackReductionHybrid (Effect6703)
+[2023-12-27 00:46:29.513976] DEBUG: eos.gamedata: Loading rigDrawbackReductionLauncher (Effect6704)
+[2023-12-27 00:46:29.514947] DEBUG: eos.gamedata: Loading rigDrawbackReductionShield (Effect6705)
+[2023-12-27 00:46:29.514947] DEBUG: eos.gamedata: Loading skillRemoteHullRepairSystemsCapNeedBonus (Effect2979)
+[2023-12-27 00:46:29.515972] DEBUG: eos.gamedata: Loading skillTriageModuleConsumptionQuantityBonus (Effect2967)
+[2023-12-27 00:46:29.515972] DEBUG: eos.gamedata: Loading skillRemoteECMDurationBonusSkillLevel (Effect2974)
+[2023-12-27 00:46:29.515972] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect2974'
+[2023-12-27 00:46:29.515972] DEBUG: eos.gamedata: Loading skillRemoteECMDurationBonus (Effect2982)
+[2023-12-27 00:46:29.516969] DEBUG: eos.gamedata: Loading skillCapitalRemoteHullRepairSystemsCapNeedBonus (Effect2980)
+[2023-12-27 00:46:29.516969] DEBUG: eos.gamedata: Loading skillBombDeploymentModuleReactivationDelayBonus (Effect3036)
+[2023-12-27 00:46:29.516969] DEBUG: eos.gamedata: Loading bombDeploymentSkillReactivationDelayBonus (Effect8469)
+[2023-12-27 00:46:29.516969] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8469'
+[2023-12-27 00:46:29.517966] DEBUG: eos.gamedata: Loading thermodynamicsSkillLevel (Effect3195)
+[2023-12-27 00:46:29.517966] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect3195'
+[2023-12-27 00:46:29.517966] DEBUG: eos.gamedata: Loading thermodynamicsSkillDamageBonus (Effect3196)
+[2023-12-27 00:46:29.517966] DEBUG: eos.gamedata: Loading oreCapitalShipSkillMultiplier1 (Effect3262)
+[2023-12-27 00:46:29.517966] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect3262'
+[2023-12-27 00:46:29.517966] DEBUG: eos.gamedata: Loading oreCapitalShipSkillMultiplier2 (Effect3263)
+[2023-12-27 00:46:29.518964] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect3263'
+[2023-12-27 00:46:29.518964] DEBUG: eos.gamedata: Loading oreCapitalShipSkillMultiplier3 (Effect3311)
+[2023-12-27 00:46:29.518964] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect3311'
+[2023-12-27 00:46:29.518964] DEBUG: eos.gamedata: Loading oreCapitalShipSkillMultiplier4 (Effect3327)
+[2023-12-27 00:46:29.518964] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect3327'
+[2023-12-27 00:46:29.518964] DEBUG: eos.gamedata: Loading oreCapitalShipSkillMultiplier5 (Effect6791)
+[2023-12-27 00:46:29.518964] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6791'
+[2023-12-27 00:46:29.518964] DEBUG: eos.gamedata: Loading capitalIndustrialShipSkillLevelDroneOreMiningYield (Effect8298)
+[2023-12-27 00:46:29.518964] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8298'
+[2023-12-27 00:46:29.518964] DEBUG: eos.gamedata: Loading capitalIndustrialShipSkillLevelDroneIceHarvestingCycleTime (Effect8299)
+[2023-12-27 00:46:29.518964] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8299'
+[2023-12-27 00:46:29.518964] DEBUG: eos.gamedata: Loading capitalIndustrialShipSkillLevelDroneHitPoints (Effect8310)
+[2023-12-27 00:46:29.518964] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8310'
+[2023-12-27 00:46:29.518964] DEBUG: eos.gamedata: Loading capitalIndustrialShipSkillLevelDroneDamage (Effect8471)
+[2023-12-27 00:46:29.518964] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8471'
+[2023-12-27 00:46:29.518964] DEBUG: eos.gamedata: Loading capitalIndustrialShipSkillLevelMiningForemanBurstRange (Effect8473)
+[2023-12-27 00:46:29.518964] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8473'
+[2023-12-27 00:46:29.519961] DEBUG: eos.gamedata: Loading skillCapitalIndustrialReconfigurationConsumptionQuantityBonus (Effect3264)
+[2023-12-27 00:46:29.519961] DEBUG: eos.gamedata: Loading heavyInterdictorsSkillMultiplier1 (Effect3344)
+[2023-12-27 00:46:29.519961] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect3344'
+[2023-12-27 00:46:29.519961] DEBUG: eos.gamedata: Loading heavyInterdictorsSkillMultiplier2 (Effect3345)
+[2023-12-27 00:46:29.519961] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect3345'
+[2023-12-27 00:46:29.520958] DEBUG: eos.gamedata: Loading electronicAttackShipsSkillMultiplier1 (Effect3358)
+[2023-12-27 00:46:29.520958] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect3358'
+[2023-12-27 00:46:29.520958] DEBUG: eos.gamedata: Loading electronicAttackShipsSkillMultiplier2 (Effect3359)
+[2023-12-27 00:46:29.520958] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect3359'
+[2023-12-27 00:46:29.520958] DEBUG: eos.gamedata: Loading electronicAttackShipsSkillMultiplier3 (Effect6279)
+[2023-12-27 00:46:29.520958] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6279'
+[2023-12-27 00:46:29.521955] DEBUG: eos.gamedata: Loading blackOpsSkillMultiplier1 (Effect3404)
+[2023-12-27 00:46:29.521955] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect3404'
+[2023-12-27 00:46:29.521955] DEBUG: eos.gamedata: Loading blackOpsSkillMultiplier2 (Effect3405)
+[2023-12-27 00:46:29.521955] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect3405'
+[2023-12-27 00:46:29.521955] DEBUG: eos.gamedata: Loading blackOpsSkillMultiplier3 (Effect6875)
+[2023-12-27 00:46:29.521955] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6875'
+[2023-12-27 00:46:29.521955] DEBUG: eos.gamedata: Loading blackOpsSkillMultiplier4 (Effect6876)
+[2023-12-27 00:46:29.521955] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6876'
+[2023-12-27 00:46:29.521955] DEBUG: eos.gamedata: Loading violatorsSkillMultiplier1 (Effect3408)
+[2023-12-27 00:46:29.521955] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect3408'
+[2023-12-27 00:46:29.522959] DEBUG: eos.gamedata: Loading violatorsSkillMultiplier2 (Effect3409)
+[2023-12-27 00:46:29.522959] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect3409'
+[2023-12-27 00:46:29.522959] DEBUG: eos.gamedata: Loading skillNaniteOperationRepairCost (Effect3521)
+[2023-12-27 00:46:29.522959] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect3521'
+[2023-12-27 00:46:29.522959] DEBUG: eos.gamedata: Loading skillNaniteOperationRepairCostLevel (Effect3522)
+[2023-12-27 00:46:29.522959] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect3522'
+[2023-12-27 00:46:29.523950] DEBUG: eos.gamedata: Loading skillNaniteInterfacingRepairTimeLevel (Effect3524)
+[2023-12-27 00:46:29.523950] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect3524'
+[2023-12-27 00:46:29.523950] DEBUG: eos.gamedata: Loading skillNaniteInterfacingRepairTime2 (Effect3723)
+[2023-12-27 00:46:29.523950] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect3723'
+[2023-12-27 00:46:29.523950] DEBUG: eos.gamedata: Loading jumpFreightersSkillMultiplier1 (Effect3595)
+[2023-12-27 00:46:29.523950] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect3595'
+[2023-12-27 00:46:29.523950] DEBUG: eos.gamedata: Loading jumpFreightersSkillMultiplier2 (Effect3596)
+[2023-12-27 00:46:29.523950] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect3596'
+[2023-12-27 00:46:29.524947] DEBUG: eos.gamedata: Loading industrialCommandShipSkillLevelMultiplierICS1 (Effect3741)
+[2023-12-27 00:46:29.524947] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect3741'
+[2023-12-27 00:46:29.524947] DEBUG: eos.gamedata: Loading industrialCommandShipSkillLevelMultiplierICS2 (Effect3743)
+[2023-12-27 00:46:29.524947] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect3743'
+[2023-12-27 00:46:29.524947] DEBUG: eos.gamedata: Loading industrialCommandShipSkillLevelMultiplierICS3 (Effect6739)
+[2023-12-27 00:46:29.524947] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6739'
+[2023-12-27 00:46:29.524947] DEBUG: eos.gamedata: Loading industrialCommandShipSkillLevelMultiplierICS4 (Effect6740)
+[2023-12-27 00:46:29.524947] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6740'
+[2023-12-27 00:46:29.524947] DEBUG: eos.gamedata: Loading industrialCommandShipSkillLevelMultiplierICS5 (Effect6785)
+[2023-12-27 00:46:29.524947] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6785'
+[2023-12-27 00:46:29.525945] DEBUG: eos.gamedata: Loading industrialCommandSkillLevelDroneDamage (Effect8262)
+[2023-12-27 00:46:29.525945] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8262'
+[2023-12-27 00:46:29.525945] DEBUG: eos.gamedata: Loading industrialCommandSkillLevelFuelConsuptionCompactIndustrialCore (Effect8265)
+[2023-12-27 00:46:29.525945] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8265'
+[2023-12-27 00:46:29.525945] DEBUG: eos.gamedata: Loading industrialCommandSkillLevelMiningForemanBurstRange (Effect8266)
+[2023-12-27 00:46:29.525945] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8266'
+[2023-12-27 00:46:29.525945] DEBUG: eos.gamedata: Loading industrialCommandSkillLevelGasHoldCapacity (Effect8273)
+[2023-12-27 00:46:29.525945] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8273'
+[2023-12-27 00:46:29.525945] DEBUG: eos.gamedata: Loading industrialCommandSkillLevelIceHoldCapacity (Effect8274)
+[2023-12-27 00:46:29.525945] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8274'
+[2023-12-27 00:46:29.525945] DEBUG: eos.gamedata: Loading industrialCommandSkillLevelGeneralMiningHoldCapacity (Effect8280)
+[2023-12-27 00:46:29.525945] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8280'
+[2023-12-27 00:46:29.525945] DEBUG: eos.gamedata: Loading industrialCommandSkillLevelShipCargoCapacity (Effect8281)
+[2023-12-27 00:46:29.525945] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8281'
+[2023-12-27 00:46:29.525945] DEBUG: eos.gamedata: Loading industrialCommandSkillLevelDroneOreMiningYield (Effect8292)
+[2023-12-27 00:46:29.525945] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8292'
+[2023-12-27 00:46:29.525945] DEBUG: eos.gamedata: Loading industrialCommandSkillLevelDroneIceHarvestingCycleTime (Effect8293)
+[2023-12-27 00:46:29.525945] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8293'
+[2023-12-27 00:46:29.525945] DEBUG: eos.gamedata: Loading industrialCommandSkillLevelDroneHitPoints (Effect8312)
+[2023-12-27 00:46:29.525945] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8312'
+[2023-12-27 00:46:29.527942] DEBUG: eos.gamedata: Loading subsystemSkillLevelAmarrDefensive (Effect3832)
+[2023-12-27 00:46:29.527942] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect3832'
+[2023-12-27 00:46:29.527942] DEBUG: eos.gamedata: Loading subsystemSkillLevelAmarrDefensive2 (Effect4195)
+[2023-12-27 00:46:29.527942] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect4195'
+[2023-12-27 00:46:29.527942] DEBUG: eos.gamedata: Loading subsystemSkillLevelAmarrDefensive3 (Effect6912)
+[2023-12-27 00:46:29.527942] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6912'
+[2023-12-27 00:46:29.528942] DEBUG: eos.gamedata: Loading subsystemSkillLevelAmarrOffensive (Effect3847)
+[2023-12-27 00:46:29.528942] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect3847'
+[2023-12-27 00:46:29.528942] DEBUG: eos.gamedata: Loading subsystemSkillLevelAmarrOffensive2 (Effect4210)
+[2023-12-27 00:46:29.528942] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect4210'
+[2023-12-27 00:46:29.528942] DEBUG: eos.gamedata: Loading subsystemSkillLevelAmarrOffensive3 (Effect4338)
+[2023-12-27 00:46:29.528942] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect4338'
+[2023-12-27 00:46:29.528942] DEBUG: eos.gamedata: Loading subsystemSkillLevelAmarrPropulsion (Effect3848)
+[2023-12-27 00:46:29.528942] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect3848'
+[2023-12-27 00:46:29.528942] DEBUG: eos.gamedata: Loading subsystemSkillLevelAmarrPropulsion2 (Effect4211)
+[2023-12-27 00:46:29.529934] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect4211'
+[2023-12-27 00:46:29.529934] DEBUG: eos.gamedata: Loading subsystemSkillLevelAmarrEngineering (Effect3840)
+[2023-12-27 00:46:29.529934] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect3840'
+[2023-12-27 00:46:29.529934] DEBUG: eos.gamedata: Loading subsystemSkillLevelAmarrEngineering2 (Effect4203)
+[2023-12-27 00:46:29.529934] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect4203'
+[2023-12-27 00:46:29.529934] DEBUG: eos.gamedata: Loading subsystemSkillLevelAmarrEngineering3 (Effect6913)
+[2023-12-27 00:46:29.529934] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6913'
+[2023-12-27 00:46:29.530931] DEBUG: eos.gamedata: Loading subsystemSkillLevelGallenteDefensive (Effect3834)
+[2023-12-27 00:46:29.530931] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect3834'
+[2023-12-27 00:46:29.530931] DEBUG: eos.gamedata: Loading subsystemSkillLevelGallenteDefensive2 (Effect4197)
+[2023-12-27 00:46:29.530931] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect4197'
+[2023-12-27 00:46:29.530931] DEBUG: eos.gamedata: Loading subsystemSkillLevelGallenteDefensive3 (Effect6917)
+[2023-12-27 00:46:29.530931] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6917'
+[2023-12-27 00:46:29.530931] DEBUG: eos.gamedata: Loading subsystemSkillLevelCaldariDefensive (Effect3833)
+[2023-12-27 00:46:29.530931] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect3833'
+[2023-12-27 00:46:29.531929] DEBUG: eos.gamedata: Loading subsystemSkillLevelCaldariDefensive2 (Effect4196)
+[2023-12-27 00:46:29.531929] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect4196'
+[2023-12-27 00:46:29.531929] DEBUG: eos.gamedata: Loading subsystemSkillLevelCaldariDefensive3 (Effect6915)
+[2023-12-27 00:46:29.531929] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6915'
+[2023-12-27 00:46:29.531929] DEBUG: eos.gamedata: Loading subsystemSkillLevelMinmatarDefensive (Effect3835)
+[2023-12-27 00:46:29.531929] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect3835'
+[2023-12-27 00:46:29.531929] DEBUG: eos.gamedata: Loading subsystemSkillLevelMinmatarDefensive2 (Effect4198)
+[2023-12-27 00:46:29.531929] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect4198'
+[2023-12-27 00:46:29.531929] DEBUG: eos.gamedata: Loading subsystemSkillLevelMinmatarDefensive3 (Effect6919)
+[2023-12-27 00:46:29.531929] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6919'
+[2023-12-27 00:46:29.532927] DEBUG: eos.gamedata: Loading subsystemSkillLevelGallenteEngineering (Effect3842)
+[2023-12-27 00:46:29.532927] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect3842'
+[2023-12-27 00:46:29.532927] DEBUG: eos.gamedata: Loading subsystemSkillLevelGallenteEngineering2 (Effect4205)
+[2023-12-27 00:46:29.532927] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect4205'
+[2023-12-27 00:46:29.532927] DEBUG: eos.gamedata: Loading subsystemSkillLevelGallenteEngineering3 (Effect6916)
+[2023-12-27 00:46:29.532927] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6916'
+[2023-12-27 00:46:29.533924] DEBUG: eos.gamedata: Loading subsystemSkillLevelMinmatarEngineering (Effect3843)
+[2023-12-27 00:46:29.533924] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect3843'
+[2023-12-27 00:46:29.533924] DEBUG: eos.gamedata: Loading subsystemSkillLevelMinmatarEngineering2 (Effect4206)
+[2023-12-27 00:46:29.533924] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect4206'
+[2023-12-27 00:46:29.533924] DEBUG: eos.gamedata: Loading subsystemSkillLevelMinmatarEngineering3 (Effect6918)
+[2023-12-27 00:46:29.533924] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6918'
+[2023-12-27 00:46:29.533924] DEBUG: eos.gamedata: Loading subsystemSkillLevelCaldariEngineering (Effect3841)
+[2023-12-27 00:46:29.533924] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect3841'
+[2023-12-27 00:46:29.533924] DEBUG: eos.gamedata: Loading subsystemSkillLevelCaldariEngineering2 (Effect4204)
+[2023-12-27 00:46:29.534921] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect4204'
+[2023-12-27 00:46:29.534921] DEBUG: eos.gamedata: Loading subsystemSkillLevelCaldariEngineering3 (Effect6914)
+[2023-12-27 00:46:29.534921] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6914'
+[2023-12-27 00:46:29.534921] DEBUG: eos.gamedata: Loading subsystemSkillLevelCaldariOffensive (Effect3846)
+[2023-12-27 00:46:29.534921] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect3846'
+[2023-12-27 00:46:29.534921] DEBUG: eos.gamedata: Loading subsystemSkillLevelCaldariOffensive2 (Effect4209)
+[2023-12-27 00:46:29.534921] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect4209'
+[2023-12-27 00:46:29.534921] DEBUG: eos.gamedata: Loading subsystemSkillLevelCaldariOffensive3 (Effect4339)
+[2023-12-27 00:46:29.534921] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect4339'
+[2023-12-27 00:46:29.535922] DEBUG: eos.gamedata: Loading subsystemSkillLevelGallenteOffensive (Effect3845)
+[2023-12-27 00:46:29.535922] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect3845'
+[2023-12-27 00:46:29.535922] DEBUG: eos.gamedata: Loading subsystemSkillLevelGallenteOffensive2 (Effect4208)
+[2023-12-27 00:46:29.535922] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect4208'
+[2023-12-27 00:46:29.535922] DEBUG: eos.gamedata: Loading subsystemSkillLevelGallenteOffensive3 (Effect4341)
+[2023-12-27 00:46:29.535922] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect4341'
+[2023-12-27 00:46:29.536916] DEBUG: eos.gamedata: Loading subsystemSkillLevelMinmatarOffensive (Effect3844)
+[2023-12-27 00:46:29.536916] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect3844'
+[2023-12-27 00:46:29.536916] DEBUG: eos.gamedata: Loading subsystemSkillLevelMinmatarOffensive2 (Effect4207)
+[2023-12-27 00:46:29.536916] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect4207'
+[2023-12-27 00:46:29.536916] DEBUG: eos.gamedata: Loading subsystemSkillLevelMinmatarOffensive3 (Effect4350)
+[2023-12-27 00:46:29.536916] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect4350'
+[2023-12-27 00:46:29.536916] DEBUG: eos.gamedata: Loading subsystemSkillLevelCaldariPropulsion (Effect3849)
+[2023-12-27 00:46:29.536916] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect3849'
+[2023-12-27 00:46:29.537885] DEBUG: eos.gamedata: Loading subsystemSkillLevelCaldariPropulsion2 (Effect4212)
+[2023-12-27 00:46:29.537885] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect4212'
+[2023-12-27 00:46:29.537885] DEBUG: eos.gamedata: Loading subsystemSkillLevelGallentePropulsion (Effect3850)
+[2023-12-27 00:46:29.537885] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect3850'
+[2023-12-27 00:46:29.538884] DEBUG: eos.gamedata: Loading subsystemSkillLevelGallentePropulsion2 (Effect4213)
+[2023-12-27 00:46:29.538884] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect4213'
+[2023-12-27 00:46:29.538884] DEBUG: eos.gamedata: Loading subsystemSkillLevelMinmatarPropulsion (Effect3851)
+[2023-12-27 00:46:29.538884] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect3851'
+[2023-12-27 00:46:29.538884] DEBUG: eos.gamedata: Loading subsystemSkillLevelMinmatarPropulsion2 (Effect4214)
+[2023-12-27 00:46:29.538884] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect4214'
+[2023-12-27 00:46:29.539908] DEBUG: eos.gamedata: Loading strategicCruiserAmarrSkillLevel1 (Effect4191)
+[2023-12-27 00:46:29.539908] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect4191'
+[2023-12-27 00:46:29.539908] DEBUG: eos.gamedata: Loading strategicCruiserAmarrSkillLevel2 (Effect6905)
+[2023-12-27 00:46:29.539908] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6905'
+[2023-12-27 00:46:29.540905] DEBUG: eos.gamedata: Loading strategicCruiserCaldariSkillLevel1 (Effect4192)
+[2023-12-27 00:46:29.540905] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect4192'
+[2023-12-27 00:46:29.540905] DEBUG: eos.gamedata: Loading strategicCruiserCaldariSkillLevel2 (Effect6906)
+[2023-12-27 00:46:29.540905] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6906'
+[2023-12-27 00:46:29.540905] DEBUG: eos.gamedata: Loading strategicCruiserGallenteSkillLevel1 (Effect4193)
+[2023-12-27 00:46:29.540905] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect4193'
+[2023-12-27 00:46:29.540905] DEBUG: eos.gamedata: Loading strategicCruiserGallenteSkillLevel2 (Effect6907)
+[2023-12-27 00:46:29.540905] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6907'
+[2023-12-27 00:46:29.541903] DEBUG: eos.gamedata: Loading strategicCruiserMinmatarSkillLevel1 (Effect4194)
+[2023-12-27 00:46:29.541903] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect4194'
+[2023-12-27 00:46:29.541903] DEBUG: eos.gamedata: Loading strategicCruiserMinmatarSkillLevel2 (Effect6904)
+[2023-12-27 00:46:29.541903] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6904'
+[2023-12-27 00:46:29.542900] DEBUG: eos.gamedata: Loading skillBonusHeavyFighters (Effect6563)
+[2023-12-27 00:46:29.542900] DEBUG: eos.gamedata: Loading capitalLauncherSkillCruiseCitadelEmDamage1 (Effect4555)
+[2023-12-27 00:46:29.542900] DEBUG: eos.gamedata: Loading capitalLauncherSkillCruiseCitadelExplosiveDamage1 (Effect4556)
+[2023-12-27 00:46:29.542900] DEBUG: eos.gamedata: Loading capitalLauncherSkillCruiseCitadelKineticDamage1 (Effect4557)
+[2023-12-27 00:46:29.542900] DEBUG: eos.gamedata: Loading capitalLauncherSkillCruiseCitadelThermalDamage1 (Effect4558)
+[2023-12-27 00:46:29.543898] DEBUG: eos.gamedata: Loading skillReactiveArmorHardenerDurationBonus (Effect4976)
+[2023-12-27 00:46:29.543898] DEBUG: eos.gamedata: Loading skillReactiveArmorHardenerCapNeedBonus (Effect5162)
+[2023-12-27 00:46:29.543898] DEBUG: eos.gamedata: Loading miningFrigateSkillLevelOreMiningYieldBonus (Effect5137)
+[2023-12-27 00:46:29.544898] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect5137'
+[2023-12-27 00:46:29.544898] DEBUG: eos.gamedata: Loading miningFrigateSkillLevelGasCloudHarvesting (Effect8314)
+[2023-12-27 00:46:29.544898] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8314'
+[2023-12-27 00:46:29.544898] DEBUG: eos.gamedata: Loading miningFrigateSkillLevelIceHarvestingDuration (Effect8318)
+[2023-12-27 00:46:29.544898] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8318'
+[2023-12-27 00:46:29.544898] DEBUG: eos.gamedata: Loading sensorIntegritySkillLevelPreMulSensorStrengthBonusSelf (Effect5172)
+[2023-12-27 00:46:29.544898] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect5172'
+[2023-12-27 00:46:29.544898] DEBUG: eos.gamedata: Loading sensorCompensationSensorStrengthBonusMagnetometric (Effect5182)
+[2023-12-27 00:46:29.545892] DEBUG: eos.gamedata: Loading sensorCompensationSensorStrengthBonusGravimetric (Effect5180)
+[2023-12-27 00:46:29.545892] DEBUG: eos.gamedata: Loading sensorCompensationSensorStrengthBonusLadar (Effect5181)
+[2023-12-27 00:46:29.546890] DEBUG: eos.gamedata: Loading sensorCompensationSensorStrengthBonusRadar (Effect5183)
+[2023-12-27 00:46:29.546890] DEBUG: eos.gamedata: Loading armorUpgradesSkillBoostMassPenaltyReduction (Effect5200)
+[2023-12-27 00:46:29.546890] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect5200'
+[2023-12-27 00:46:29.546890] DEBUG: eos.gamedata: Loading armorUpgradesMassPenaltyReductionBonus (Effect5201)
+[2023-12-27 00:46:29.547886] DEBUG: eos.gamedata: Loading destroyerSkillLevelPreMulShipBonusAD1Ship (Effect5276)
+[2023-12-27 00:46:29.547886] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect5276'
+[2023-12-27 00:46:29.547886] DEBUG: eos.gamedata: Loading destroyerSkillLevelPreMulShipBonusAD2Ship (Effect5277)
+[2023-12-27 00:46:29.547886] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect5277'
+[2023-12-27 00:46:29.547886] DEBUG: eos.gamedata: Loading destroyerSkillLevelPreMulShipBonusAmarrNavyDestroyer (Effect11449)
+[2023-12-27 00:46:29.547886] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect11449'
+[2023-12-27 00:46:29.548884] DEBUG: eos.gamedata: Loading destroyerSkillLevelPreMulShipBonusCD1Ship (Effect5278)
+[2023-12-27 00:46:29.548884] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect5278'
+[2023-12-27 00:46:29.548884] DEBUG: eos.gamedata: Loading destroyerSkillLevelPreMulShipBonusCD2Ship (Effect5279)
+[2023-12-27 00:46:29.548884] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect5279'
+[2023-12-27 00:46:29.548884] DEBUG: eos.gamedata: Loading destroyerSkillLevelPreMulShipBonusCaldariNavyDestroyer (Effect11447)
+[2023-12-27 00:46:29.548884] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect11447'
+[2023-12-27 00:46:29.549881] DEBUG: eos.gamedata: Loading destroyerSkillLevelPreMulShipBonusGD1Ship (Effect5280)
+[2023-12-27 00:46:29.549881] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect5280'
+[2023-12-27 00:46:29.549881] DEBUG: eos.gamedata: Loading destroyerSkillLevelPreMulShipBonusGD2Ship (Effect5281)
+[2023-12-27 00:46:29.549881] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect5281'
+[2023-12-27 00:46:29.549881] DEBUG: eos.gamedata: Loading destroyerSkillLevelPreMulShipBonusGallenteNavyDestroyer (Effect11451)
+[2023-12-27 00:46:29.549881] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect11451'
+[2023-12-27 00:46:29.550879] DEBUG: eos.gamedata: Loading destroyerSkillLevelPreMulShipBonusMD1Ship (Effect5282)
+[2023-12-27 00:46:29.550879] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect5282'
+[2023-12-27 00:46:29.550879] DEBUG: eos.gamedata: Loading destroyerSkillLevelPreMulShipBonusMD2Ship (Effect5283)
+[2023-12-27 00:46:29.550879] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect5283'
+[2023-12-27 00:46:29.550879] DEBUG: eos.gamedata: Loading destroyerSkillLevelPreMulShipBonusMinmatarDestroyerNavy (Effect11448)
+[2023-12-27 00:46:29.550879] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect11448'
+[2023-12-27 00:46:29.551876] DEBUG: eos.gamedata: Loading battlecruiserSkillLevelPreMulShipBonusABC1Ship (Effect5284)
+[2023-12-27 00:46:29.551876] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect5284'
+[2023-12-27 00:46:29.551876] DEBUG: eos.gamedata: Loading battlecruiserSkillLevelPreMulShipBonusABC2Ship (Effect5285)
+[2023-12-27 00:46:29.551876] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect5285'
+[2023-12-27 00:46:29.551876] DEBUG: eos.gamedata: Loading battlecruiserSkillLevelPreMulShipBonusABC3Ship (Effect11360)
+[2023-12-27 00:46:29.551876] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect11360'
+[2023-12-27 00:46:29.551876] DEBUG: eos.gamedata: Loading battlecruiserSkillLevelPreMulShipBonusCBC1Ship (Effect5286)
+[2023-12-27 00:46:29.551876] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect5286'
+[2023-12-27 00:46:29.551876] DEBUG: eos.gamedata: Loading battlecruiserSkillLevelPreMulShipBonusCBC2Ship (Effect5287)
+[2023-12-27 00:46:29.552873] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect5287'
+[2023-12-27 00:46:29.552873] DEBUG: eos.gamedata: Loading battlecruiserSkillLevelPreMulShipBonusCBC3Ship (Effect11058)
+[2023-12-27 00:46:29.552873] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect11058'
+[2023-12-27 00:46:29.552873] DEBUG: eos.gamedata: Loading battlecruiserSkillLevelPreMulShipBonusGBC1Ship (Effect5288)
+[2023-12-27 00:46:29.552873] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect5288'
+[2023-12-27 00:46:29.552873] DEBUG: eos.gamedata: Loading battlecruiserSkillLevelPreMulShipBonusGBC2Ship (Effect5289)
+[2023-12-27 00:46:29.552873] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect5289'
+[2023-12-27 00:46:29.552873] DEBUG: eos.gamedata: Loading battlecruiserSkillLevelPreMulShipBonusCBC3Ship (Effect11062)
+[2023-12-27 00:46:29.552873] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect11062'
+[2023-12-27 00:46:29.553870] DEBUG: eos.gamedata: Loading battlecruiserSkillLevelPreMulShipBonusMBC1Ship (Effect5290)
+[2023-12-27 00:46:29.553870] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect5290'
+[2023-12-27 00:46:29.553870] DEBUG: eos.gamedata: Loading battlecruiserSkillLevelPreMulShipBonusMBC2Ship (Effect5291)
+[2023-12-27 00:46:29.553870] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect5291'
+[2023-12-27 00:46:29.553870] DEBUG: eos.gamedata: Loading battlecruiserSkillLevelPreMulShipBonusMBC3Ship (Effect11362)
+[2023-12-27 00:46:29.553870] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect11362'
+[2023-12-27 00:46:29.554869] DEBUG: eos.gamedata: Loading skillJumpCloneCooldownReduction (Effect5527)
+[2023-12-27 00:46:29.554869] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect5527'
+[2023-12-27 00:46:29.554869] DEBUG: eos.gamedata: Loading piCustomsOfficeTaxReduction (Effect5614)
+[2023-12-27 00:46:29.555865] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect5614'
+[2023-12-27 00:46:29.555865] DEBUG: eos.gamedata: Loading piTaxReductionModifierSkillModifier (Effect5615)
+[2023-12-27 00:46:29.555865] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect5615'
+[2023-12-27 00:46:29.556863] DEBUG: eos.gamedata: Loading expeditionFrigateSkillLevelSignatureRadius (Effect5851)
+[2023-12-27 00:46:29.556863] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect5851'
+[2023-12-27 00:46:29.556863] DEBUG: eos.gamedata: Loading expeditionFrigateSkillLevelMiningLaserDuration (Effect8212)
+[2023-12-27 00:46:29.556863] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8212'
+[2023-12-27 00:46:29.556863] DEBUG: eos.gamedata: Loading expeditionFrigateSkillLevelIceHarvestingrDuration (Effect8213)
+[2023-12-27 00:46:29.556863] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8213'
+[2023-12-27 00:46:29.556863] DEBUG: eos.gamedata: Loading expeditionFrigateSkillLevelGasHarvestingrDuration (Effect8214)
+[2023-12-27 00:46:29.556863] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8214'
+[2023-12-27 00:46:29.556863] DEBUG: eos.gamedata: Loading expeditionFrigateSkillLevelArmorResistance (Effect8216)
+[2023-12-27 00:46:29.556863] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8216'
+[2023-12-27 00:46:29.556863] DEBUG: eos.gamedata: Loading expeditionFrigateSkillLevelShieldResistance (Effect8239)
+[2023-12-27 00:46:29.556863] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8239'
+[2023-12-27 00:46:29.556863] DEBUG: eos.gamedata: Loading expeditionFrigateSkillLevelLightDronesDamage (Effect8282)
+[2023-12-27 00:46:29.556863] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8282'
+[2023-12-27 00:46:29.556863] DEBUG: eos.gamedata: Loading expeditionFrigateSkillLevelMediumDronesDamage (Effect8285)
+[2023-12-27 00:46:29.556863] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8285'
+[2023-12-27 00:46:29.556863] DEBUG: eos.gamedata: Loading expeditionFrigateSkillLevelOreMiningYield (Effect8316)
+[2023-12-27 00:46:29.556863] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8316'
+[2023-12-27 00:46:29.557860] DEBUG: eos.gamedata: Loading freighterO1SkillLevel (Effect5996)
+[2023-12-27 00:46:29.557860] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect5996'
+[2023-12-27 00:46:29.557860] DEBUG: eos.gamedata: Loading freighterO2SkillLevel (Effect5997)
+[2023-12-27 00:46:29.557860] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect5997'
+[2023-12-27 00:46:29.558857] DEBUG: eos.gamedata: Loading tacticalDestroyerAmarrSkillLevel1 (Effect6003)
+[2023-12-27 00:46:29.558857] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6003'
+[2023-12-27 00:46:29.558857] DEBUG: eos.gamedata: Loading tacticalDestroyerAmarrSkillLevel2 (Effect6004)
+[2023-12-27 00:46:29.558857] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6004'
+[2023-12-27 00:46:29.558857] DEBUG: eos.gamedata: Loading tacticalDestroyerAmarrSkillLevel3 (Effect6005)
+[2023-12-27 00:46:29.558857] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6005'
+[2023-12-27 00:46:29.558857] DEBUG: eos.gamedata: Loading tacticalDestroyerMinmatarSkillLevel1 (Effect6033)
+[2023-12-27 00:46:29.558857] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6033'
+[2023-12-27 00:46:29.558857] DEBUG: eos.gamedata: Loading tacticalDestroyerMinmatarSkillLevel2 (Effect6034)
+[2023-12-27 00:46:29.558857] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6034'
+[2023-12-27 00:46:29.559857] DEBUG: eos.gamedata: Loading tacticalDestroyerMinmatarSkillLevel3 (Effect6035)
+[2023-12-27 00:46:29.559857] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6035'
+[2023-12-27 00:46:29.559857] DEBUG: eos.gamedata: Loading tacticalDestroyerCaldariSkillLevel1 (Effect6078)
+[2023-12-27 00:46:29.559857] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6078'
+[2023-12-27 00:46:29.559857] DEBUG: eos.gamedata: Loading tacticalDestroyerCaldariSkillLevel2 (Effect6079)
+[2023-12-27 00:46:29.559857] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6079'
+[2023-12-27 00:46:29.559857] DEBUG: eos.gamedata: Loading tacticalDestroyerCaldariSkillLevel3 (Effect6080)
+[2023-12-27 00:46:29.559857] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6080'
+[2023-12-27 00:46:29.560852] DEBUG: eos.gamedata: Loading tacticalDestroyerGallenteSkillLevel1 (Effect6145)
+[2023-12-27 00:46:29.560852] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6145'
+[2023-12-27 00:46:29.560852] DEBUG: eos.gamedata: Loading tacticalDestroyerGallenteSkillLevel2 (Effect6146)
+[2023-12-27 00:46:29.560852] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6146'
+[2023-12-27 00:46:29.560852] DEBUG: eos.gamedata: Loading tacticalDestroyerGallenteSkillLevel3 (Effect6147)
+[2023-12-27 00:46:29.560852] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6147'
+[2023-12-27 00:46:29.560852] DEBUG: eos.gamedata: Loading commandDestroyerSkillMultiplier1 (Effect6209)
+[2023-12-27 00:46:29.561849] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6209'
+[2023-12-27 00:46:29.561849] DEBUG: eos.gamedata: Loading commandDestroyerSkillMultiplier2 (Effect6210)
+[2023-12-27 00:46:29.561849] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6210'
+[2023-12-27 00:46:29.561849] DEBUG: eos.gamedata: Loading commandDestroyerSkillMultiplier3 (Effect6211)
+[2023-12-27 00:46:29.561849] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6211'
+[2023-12-27 00:46:29.561849] DEBUG: eos.gamedata: Loading skillStructureMissileDamageBonus (Effect6396)
+[2023-12-27 00:46:29.562847] DEBUG: eos.gamedata: Loading skillStructureDoomsdayDurationBonus (Effect6679)
+[2023-12-27 00:46:29.562847] DEBUG: eos.gamedata: Loading skillStructureElectronicSystemsCapNeedBonus (Effect6400)
+[2023-12-27 00:46:29.563845] DEBUG: eos.gamedata: Loading skillStructureEngineeringSystemsCapNeedBonus (Effect6401)
+[2023-12-27 00:46:29.563845] DEBUG: eos.gamedata: Loading logiFrigSkillMultiplier1 (Effect6375)
+[2023-12-27 00:46:29.563845] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6375'
+[2023-12-27 00:46:29.563845] DEBUG: eos.gamedata: Loading logiFrigSkillMultiplier2 (Effect6376)
+[2023-12-27 00:46:29.563845] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6376'
+[2023-12-27 00:46:29.564814] DEBUG: eos.gamedata: Loading skillBonusLightFighters (Effect6561)
+[2023-12-27 00:46:29.564814] DEBUG: eos.gamedata: Loading skillBonusSupportFightersShield (Effect6562)
+[2023-12-27 00:46:29.565842] DEBUG: eos.gamedata: Loading skillBonusCapitalAutocannonSpecialization (Effect6571)
+[2023-12-27 00:46:29.565842] DEBUG: eos.gamedata: Loading skillBonusCapitalArtillerySpecialization (Effect6572)
+[2023-12-27 00:46:29.566836] DEBUG: eos.gamedata: Loading skillBonusCapitalBlasterSpecialization (Effect6573)
+[2023-12-27 00:46:29.566836] DEBUG: eos.gamedata: Loading skillBonusCapitalRailgunSpecialization (Effect6574)
+[2023-12-27 00:46:29.567836] DEBUG: eos.gamedata: Loading skillBonusCapitalPulseLaserSpecialization (Effect6575)
+[2023-12-27 00:46:29.567836] DEBUG: eos.gamedata: Loading skillBonusCapitalBeamLaserSpecialization (Effect6576)
+[2023-12-27 00:46:29.568831] DEBUG: eos.gamedata: Loading skillBonusXLTorpedoSpecialization (Effect6578)
+[2023-12-27 00:46:29.568831] DEBUG: eos.gamedata: Loading skillBonusXLCruiseMissileSpecialization (Effect6577)
+[2023-12-27 00:46:29.568831] DEBUG: eos.gamedata: Loading skillBonusDoomsdayRapidFiring (Effect6642)
+[2023-12-27 00:46:29.569828] DEBUG: eos.gamedata: Loading iceHarvestingDroneOperationDurationBonus (Effect6763)
+[2023-12-27 00:46:29.570825] DEBUG: eos.gamedata: Loading iceHarvestingDroneSpecBonus (Effect6764)
+[2023-12-27 00:46:29.570825] DEBUG: eos.gamedata: Loading spatialPhenomenaGenerationDurationBonus (Effect6765)
+[2023-12-27 00:46:29.571794] DEBUG: eos.gamedata: Loading invulnerabilityCoreDurationBonus (Effect6807)
+[2023-12-27 00:46:29.571794] DEBUG: eos.gamedata: Loading reactionTimeBonusPostPercentManufactureTimeMultiplierChar (Effect6891)
+[2023-12-27 00:46:29.571794] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6891'
+[2023-12-27 00:46:29.571794] DEBUG: eos.gamedata: Loading reactionSkillBoostManufacturingTimeBonus (Effect6892)
+[2023-12-27 00:46:29.571794] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6892'
+[2023-12-27 00:46:29.572791] DEBUG: eos.gamedata: Loading massReactionSkillLevelModAddReactionSlotLimitChar (Effect6893)
+[2023-12-27 00:46:29.572791] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect6893'
+[2023-12-27 00:46:29.575783] DEBUG: eos.gamedata: Loading flagCruiserSkillMultiplier1 (Effect7041)
+[2023-12-27 00:46:29.575783] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect7041'
+[2023-12-27 00:46:29.575783] DEBUG: eos.gamedata: Loading precursorFrigateSkillLevelPreMulShipBonusPF1 (Effect7065)
+[2023-12-27 00:46:29.575783] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect7065'
+[2023-12-27 00:46:29.575783] DEBUG: eos.gamedata: Loading precursorFrigateSkillLevelPreMulShipBonusPF2 (Effect7066)
+[2023-12-27 00:46:29.575783] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect7066'
+[2023-12-27 00:46:29.576781] DEBUG: eos.gamedata: Loading precursorCruiserSkillLevelPreMulShipBonusPC1 (Effect7067)
+[2023-12-27 00:46:29.576781] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect7067'
+[2023-12-27 00:46:29.576781] DEBUG: eos.gamedata: Loading precursorCruiserSkillLevelPreMulShipBonusPC2 (Effect7068)
+[2023-12-27 00:46:29.576781] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect7068'
+[2023-12-27 00:46:29.576781] DEBUG: eos.gamedata: Loading precursorBattleShipSkillLevelPreMulShipBonusPBS1 (Effect7069)
+[2023-12-27 00:46:29.576781] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect7069'
+[2023-12-27 00:46:29.577778] DEBUG: eos.gamedata: Loading precursorBattleshipSkillLevelPreMulShipBonusPBS2 (Effect7070)
+[2023-12-27 00:46:29.577778] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect7070'
+[2023-12-27 00:46:29.577778] DEBUG: eos.gamedata: Loading smallPrecursorTurretDmgBonusRequiredSkill (Effect7071)
+[2023-12-27 00:46:29.578775] DEBUG: eos.gamedata: Loading mediumPrecursorTurretDmgBonusRequiredSkill (Effect7072)
+[2023-12-27 00:46:29.578775] DEBUG: eos.gamedata: Loading largePrecursorTurretDmgBonusRequiredSkill (Effect7073)
+[2023-12-27 00:46:29.578775] DEBUG: eos.gamedata: Loading smallDisintegratorSkillDmgBonus (Effect7074)
+[2023-12-27 00:46:29.579773] DEBUG: eos.gamedata: Loading mediumDisintegratorSkillDmgBonus (Effect7075)
+[2023-12-27 00:46:29.579773] DEBUG: eos.gamedata: Loading largeDisintegratorSkillDmgBonus (Effect7076)
+[2023-12-27 00:46:29.580770] DEBUG: eos.gamedata: Loading precursorDestroyerSkillLevelPreMulShipBonusPD1 (Effect7150)
+[2023-12-27 00:46:29.580770] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect7150'
+[2023-12-27 00:46:29.580770] DEBUG: eos.gamedata: Loading precursorDestroyerSkillLevelPreMulShipBonusPD2 (Effect7151)
+[2023-12-27 00:46:29.580770] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect7151'
+[2023-12-27 00:46:29.580770] DEBUG: eos.gamedata: Loading precursorBattlecruiserSkillLevelPreMulShipBonusPBC1 (Effect7152)
+[2023-12-27 00:46:29.580770] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect7152'
+[2023-12-27 00:46:29.581768] DEBUG: eos.gamedata: Loading precursorBattlecruiserSkillLevelPreMulShipBonusPBC2 (Effect7153)
+[2023-12-27 00:46:29.581768] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect7153'
+[2023-12-27 00:46:29.582765] DEBUG: eos.gamedata: Loading skillMultiplierShipBonusDreadnoughtPrecursor (Effect7241)
+[2023-12-27 00:46:29.582765] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect7241'
+[2023-12-27 00:46:29.582765] DEBUG: eos.gamedata: Loading capitalPrecursorTurretDmgBonusRequiredSkill (Effect7242)
+[2023-12-27 00:46:29.583762] DEBUG: eos.gamedata: Loading upwellBattleshipSkillLevelPreMulShipBonusUB1UB2 (Effect8051)
+[2023-12-27 00:46:29.583762] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8051'
+[2023-12-27 00:46:29.583762] DEBUG: eos.gamedata: Loading largeUpwellWeaponDmgBonusRequiredSkill (Effect8036)
+[2023-12-27 00:46:29.584759] DEBUG: eos.gamedata: Loading smallVortonProjectorSkillDmgBonus (Effect8044)
+[2023-12-27 00:46:29.584759] DEBUG: eos.gamedata: Loading mediumVortonProjectorSkillDmgBonus (Effect8045)
+[2023-12-27 00:46:29.585757] DEBUG: eos.gamedata: Loading largeVortonProjectorSkillDmgBonus (Effect8046)
+[2023-12-27 00:46:29.585757] DEBUG: eos.gamedata: Loading upwellSkillDamageMuliplierBonus (Effect8041)
+[2023-12-27 00:46:29.585757] DEBUG: eos.gamedata: Loading upwellSkillaoeVelocityaoeCloudSizeBonus (Effect8039)
+[2023-12-27 00:46:29.586754] DEBUG: eos.gamedata: Loading upwellSkillaoeVelocityaoeCloudSizeBonusSkilllevel (Effect8040)
+[2023-12-27 00:46:29.586754] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8040'
+[2023-12-27 00:46:29.586754] DEBUG: eos.gamedata: Loading upwellFrigateSkillLevelPreMulShipBonusUF1UF2 (Effect8049)
+[2023-12-27 00:46:29.586754] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8049'
+[2023-12-27 00:46:29.587751] DEBUG: eos.gamedata: Loading upwellCruiserSkillLevelPreMulShipBonusUC1UC2 (Effect8050)
+[2023-12-27 00:46:29.587751] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8050'
+[2023-12-27 00:46:29.587751] DEBUG: eos.gamedata: Loading upwellSkillSpeedBonus (Effect8042)
+[2023-12-27 00:46:29.588749] DEBUG: eos.gamedata: Loading smallUpwellWeaponDmgBonusRequiredSkill (Effect8034)
+[2023-12-27 00:46:29.588749] DEBUG: eos.gamedata: Loading mediumUpwellWeaponDmgBonusRequiredSkill (Effect8035)
+[2023-12-27 00:46:29.589746] DEBUG: eos.gamedata: Loading vortonProjectorSkillRangeBonus (Effect8065)
+[2023-12-27 00:46:29.589746] DEBUG: eos.gamedata: Loading salvageDroneSpecBonus (Effect8104)
+[2023-12-27 00:46:29.589746] DEBUG: eos.gamedata: Loading skillMultiplierAccessDifficultyBonus (Effect8105)
+[2023-12-27 00:46:29.589746] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8105'
+[2023-12-27 00:46:29.591741] DEBUG: eos.gamedata: Loading industrialReconfigurationBonusConsumptionQuantity (Effect8306)
+[2023-12-27 00:46:29.591741] DEBUG: eos.gamedata: Loading industrialReconfigurationSkillLevelConsumptionQuantity (Effect8307)
+[2023-12-27 00:46:29.591741] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8307'
+[2023-12-27 00:46:29.594733] DEBUG: eos.gamedata: Loading fleetCompressionLogisticsRangeBonus (Effect8372)
+[2023-12-27 00:46:29.594733] DEBUG: eos.gamedata: Loading fleetCompressionLogisticsSkillLevelBonus (Effect8373)
+[2023-12-27 00:46:29.594733] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect8373'
+[2023-12-27 00:46:29.596727] DEBUG: eos.gamedata: Loading skillMultiplierShipBonusLancerDreadnought (Effect11695)
+[2023-12-27 00:46:29.596727] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect11695'
+[2023-12-27 00:46:29.596727] DEBUG: eos.gamedata: Loading skillDisruptionLanceCapacitorUsePremultiplier (Effect11699)
+[2023-12-27 00:46:29.597725] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect11699'
+[2023-12-27 00:46:29.597725] DEBUG: eos.gamedata: Loading skillDisruptionLanceCapacitorUseBonus (Effect11700)
+[2023-12-27 00:46:29.597725] DEBUG: eos.gamedata: Loading shipBonusScanProbeStrengthMF2 (Effect4166)
+[2023-12-27 00:46:29.597725] DEBUG: eos.gamedata: Loading shipBonusSalvageCycleMF (Effect5051)
+[2023-12-27 00:46:29.597725] DEBUG: eos.gamedata: Loading minigameVirusStrengthBonus (Effect5460)
+[2023-12-27 00:46:29.798189] DEBUG: eos.saveddata.fit: Done with fit calculation
+[2023-12-27 00:46:29.798189] INFO: service.fit: ==========recalc time: 0.46775341033935547==========
+[2023-12-27 00:46:29.848246] DEBUG: gui.builtinViews.fittingView: ------------------ new fitting view -------------------
+[2023-12-27 00:46:29.848246] DEBUG: gui.builtinViews.fittingView: <gui.builtinViews.fittingView.FittingView object at 0x00000251F365B0A0>
+[2023-12-27 00:46:29.849273] DEBUG: gui.builtinViews.fittingView: ###################### Created new view:<gui.builtinViews.fittingView.FittingView object at 0x00000251F365B0A0>
+[2023-12-27 00:46:29.850269] DEBUG: gui.builtinViews.fittingView: ====== Fit Selected: <gui.builtinViews.fittingView.FittingView object at 0x00000251F365B0A0>True
+[2023-12-27 00:46:29.853260] INFO: service.fit: ==========recalc: .beebee.==========
+[2023-12-27 00:46:29.854260] INFO: eos.saveddata.fit: Starting fit calculation on: Fit(ID=54, ship=Probe, name=.beebee.) at 0x251f3976d50, calc: LOCAL
+[2023-12-27 00:46:29.857250] INFO: eos.saveddata.fit: Fit is not yet calculated; will be running local calcs for Fit(ID=54, ship=Probe, name=.beebee.) at 0x251f3976d50
+[2023-12-27 00:46:29.859217] DEBUG: eos.gamedata: Loading targetAttack (Effect10)
+[2023-12-27 00:46:29.859217] DEBUG: eos.gamedata: Loading overloadSelfSensorModuleBonus (Effect5757)
+[2023-12-27 00:46:29.872182] DEBUG: eos.saveddata.fit: Done with fit calculation
+[2023-12-27 00:46:29.872182] INFO: service.fit: ==========recalc time: 0.018922090530395508==========
+[2023-12-27 00:46:29.872182] DEBUG: service.fit: Check states for fit ID: .beebee. (Probe)
+[2023-12-27 00:46:29.879254] DEBUG: service.fit: Switching fit to fit ID: 54
+[2023-12-27 00:46:29.881220] DEBUG: service.fit: Fetching all fits for ship ID: 586
+[2023-12-27 00:46:29.916298] DEBUG: service.price: Initialize PriceWorkerThread.
+[2023-12-27 00:46:42.118120] DEBUG: gui.builtinShipBrowser.fitItem: Deleting ship fit.
+[2023-12-27 00:46:42.120114] DEBUG: service.fit: Fit::deleteFit - Deleting fit: Probe Alpha Starter 3m (Probe)
+[2023-12-27 00:46:42.151207] DEBUG: service.fit:     Need to refresh 0 fits: set()
+[2023-12-27 00:46:42.152203] DEBUG: gui.builtinViews.fittingView: FittingView::fitRemoved
+[2023-12-27 00:46:42.152203] DEBUG: service.fit: Getting fits with modules
+[2023-12-27 00:46:42.155224] DEBUG: service.fit: Fetching all fits for ship ID: 586
+[2023-12-27 00:46:47.179048] DEBUG: gui.fitCommands.calc.fitRename: Doing renaming of fit 54 to Probe Alpha Starter 3m
