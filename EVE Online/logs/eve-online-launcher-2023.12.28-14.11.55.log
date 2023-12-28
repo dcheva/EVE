@@ -180,3 +180,9 @@
 2023-12-28 02:08:49.505    app     info:    [server-manager] Tranquility build is unchanged.
 2023-12-28 02:08:49.510    app     info:    [server-manager] Ready to play!
 2023-12-28 02:08:49.513    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2023-12-28 02:10:16.121    app     info:    [main-window] Main window minimized to tray    { windowId: 2 }
+2023-12-28 02:10:16.146    app     info:    [main-window] Sent notification that the application is minimized to tray    { windowId: 2 }
+2023-12-28 02:10:16.158    app     info:    [creatives] Requesting creatives
+2023-12-28 02:10:16.169    app     info:    [ipc-requests] Handling requests in the background
+2023-12-28 02:10:16.293    app     info:    [creatives] Received 2 creatives
+2023-12-28 02:10:17.176    app     info:    [ipc-requests] No longer handling requests in the background

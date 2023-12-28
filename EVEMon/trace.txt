@@ -3615,3 +3615,6 @@
 0d 7h 01m 28s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
 0d 7h 01m 29s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
 0d 7h 01m 29s > EveMonClient.OnCharacterAssetsUpdated - Gallentiada
+0d 7h 02m 20s > Main loop - done
+0d 7h 02m 20s > ExecutionContext.Run
+0d 7h 02m 20s > Closed

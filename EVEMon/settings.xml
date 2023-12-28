@@ -113,7 +113,7 @@
         <skill typeID="3452" name="Acceleration Control" level="3" activelevel="3" skillpoints="32000" ownsBook="true" isKnown="true" />
         <skill typeID="3450" name="Afterburner" level="3" activelevel="3" skillpoints="8000" ownsBook="true" isKnown="true" />
         <skill typeID="3453" name="Evasive Maneuvering" level="2" activelevel="2" skillpoints="2829" ownsBook="true" isKnown="true" />
-        <skill typeID="3454" name="High Speed Maneuvering" level="2" activelevel="2" skillpoints="26705" ownsBook="true" isKnown="true" />
+        <skill typeID="3454" name="High Speed Maneuvering" level="2" activelevel="2" skillpoints="26730" ownsBook="true" isKnown="true" />
         <skill typeID="3449" name="Navigation" level="3" activelevel="3" skillpoints="8000" ownsBook="true" isKnown="true" />
         <skill typeID="3455" name="Warp Drive Operation" level="2" activelevel="2" skillpoints="1415" ownsBook="true" isKnown="true" />
         <skill typeID="3405" name="Biology" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="false" />
@@ -278,17 +278,17 @@
         <apiUpdate method="Skills" time="2023-12-27T19:08:11.6643602Z" />
         <apiUpdate method="SkillQueue" time="2023-12-28T02:08:34.1146433Z" />
         <apiUpdate method="EmploymentHistory" time="2023-12-27T19:08:11.543535Z" />
-        <apiUpdate method="Standings" time="2023-12-28T01:09:07.0529953Z" />
+        <apiUpdate method="Standings" time="2023-12-28T02:09:10.6021428Z" />
         <apiUpdate method="ContactList" time="2023-12-28T02:08:32.019613Z" />
         <apiUpdate method="FactionalWarfareStats" time="0001-01-01T00:00:00" />
         <apiUpdate method="Medals" time="2023-12-27T11:12:13.1025393Z" />
         <apiUpdate method="KillLog" time="2023-12-28T02:08:32.0265952Z" />
-        <apiUpdate method="AssetList" time="2023-12-28T01:09:14.8352178Z" />
+        <apiUpdate method="AssetList" time="2023-12-28T02:09:17.6783844Z" />
         <apiUpdate method="MarketOrders" time="2023-12-28T02:08:13.7740513Z" />
         <apiUpdate method="Contracts" time="2023-12-28T02:08:32.0405572Z" />
-        <apiUpdate method="WalletJournal" time="2023-12-28T01:09:07.2961649Z" />
+        <apiUpdate method="WalletJournal" time="2023-12-28T02:09:10.9203574Z" />
         <apiUpdate method="AccountBalance" time="2023-12-27T19:08:11.5932057Z" />
-        <apiUpdate method="WalletTransactions" time="2023-12-28T01:09:07.1138318Z" />
+        <apiUpdate method="WalletTransactions" time="2023-12-28T02:09:10.6500149Z" />
         <apiUpdate method="IndustryJobs" time="2023-12-28T02:08:13.7750485Z" />
         <apiUpdate method="ResearchPoints" time="2023-12-28T02:08:35.0985999Z" />
         <apiUpdate method="MailMessages" time="2023-12-28T02:08:13.8338911Z" />
@@ -389,7 +389,7 @@
         <skill typeID="12442" name="Missile Projection" level="2" activelevel="2" skillpoints="5657" ownsBook="true" isKnown="true" />
         <skill typeID="21071" name="Rapid Launch" level="3" activelevel="3" skillpoints="16003" ownsBook="true" isKnown="true" />
         <skill typeID="20314" name="Target Navigation Prediction" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
-        <skill typeID="20315" name="Warhead Upgrades" level="2" activelevel="2" skillpoints="8674" ownsBook="true" isKnown="true" />
+        <skill typeID="20315" name="Warhead Upgrades" level="2" activelevel="2" skillpoints="8697" ownsBook="true" isKnown="true" />
         <skill typeID="3452" name="Acceleration Control" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
         <skill typeID="3450" name="Afterburner" level="3" activelevel="3" skillpoints="8000" ownsBook="true" isKnown="true" />
         <skill typeID="3453" name="Evasive Maneuvering" level="1" activelevel="1" skillpoints="500" ownsBook="true" isKnown="true" />
@@ -602,17 +602,17 @@
         <apiUpdate method="Skills" time="2023-12-27T19:08:11.7031154Z" />
         <apiUpdate method="SkillQueue" time="2023-12-28T01:12:55.5341401Z" />
         <apiUpdate method="EmploymentHistory" time="2023-12-27T19:08:11.5497438Z" />
-        <apiUpdate method="Standings" time="2023-12-28T01:09:07.0829155Z" />
+        <apiUpdate method="Standings" time="2023-12-28T02:09:10.5682333Z" />
         <apiUpdate method="ContactList" time="2023-12-28T02:08:32.0475656Z" />
         <apiUpdate method="FactionalWarfareStats" time="0001-01-01T00:00:00" />
         <apiUpdate method="Medals" time="2023-12-27T11:12:13.2284433Z" />
         <apiUpdate method="KillLog" time="2023-12-28T02:08:32.0385631Z" />
-        <apiUpdate method="AssetList" time="2023-12-28T01:09:14.2624664Z" />
+        <apiUpdate method="AssetList" time="2023-12-28T02:09:17.7222402Z" />
         <apiUpdate method="MarketOrders" time="2023-12-28T02:08:13.7640774Z" />
         <apiUpdate method="Contracts" time="2023-12-28T02:08:32.0126321Z" />
-        <apiUpdate method="WalletJournal" time="2023-12-28T01:09:07.3829017Z" />
+        <apiUpdate method="WalletJournal" time="2023-12-28T02:09:10.8285372Z" />
         <apiUpdate method="AccountBalance" time="2023-12-27T19:08:11.5921812Z" />
-        <apiUpdate method="WalletTransactions" time="2023-12-28T01:09:07.1784479Z" />
+        <apiUpdate method="WalletTransactions" time="2023-12-28T02:09:10.6001483Z" />
         <apiUpdate method="IndustryJobs" time="2023-12-28T02:08:13.793997Z" />
         <apiUpdate method="ResearchPoints" time="2023-12-28T02:08:35.0985999Z" />
         <apiUpdate method="MailMessages" time="2023-12-28T02:08:13.7730579Z" />
@@ -691,7 +691,7 @@
         <skill typeID="3418" name="Capacitor Management" level="4" activelevel="4" skillpoints="135765" ownsBook="true" isKnown="true" />
         <skill typeID="3417" name="Capacitor Systems Operation" level="3" activelevel="3" skillpoints="8000" ownsBook="true" isKnown="true" />
         <skill typeID="3426" name="CPU Management" level="5" activelevel="5" skillpoints="256000" ownsBook="true" isKnown="true" />
-        <skill typeID="3432" name="Electronics Upgrades" level="4" activelevel="4" skillpoints="171086" ownsBook="true" isKnown="true" />
+        <skill typeID="3432" name="Electronics Upgrades" level="4" activelevel="4" skillpoints="171111" ownsBook="true" isKnown="true" />
         <skill typeID="3424" name="Energy Grid Upgrades" level="4" activelevel="4" skillpoints="90510" ownsBook="true" isKnown="true" />
         <skill typeID="3413" name="Power Grid Management" level="5" activelevel="5" skillpoints="256000" ownsBook="true" isKnown="true" />
         <skill typeID="3318" name="Weapon Upgrades" level="5" activelevel="4" skillpoints="512000" ownsBook="true" isKnown="true" />
@@ -824,17 +824,17 @@
         <apiUpdate method="Skills" time="2023-12-27T19:08:11.6663246Z" />
         <apiUpdate method="SkillQueue" time="2023-12-28T02:08:34.1296032Z" />
         <apiUpdate method="EmploymentHistory" time="2023-12-27T19:08:11.5527359Z" />
-        <apiUpdate method="Standings" time="2023-12-28T01:09:07.0819178Z" />
+        <apiUpdate method="Standings" time="2023-12-28T02:09:10.5652417Z" />
         <apiUpdate method="ContactList" time="2023-12-28T02:08:31.9977014Z" />
         <apiUpdate method="FactionalWarfareStats" time="0001-01-01T00:00:00" />
         <apiUpdate method="Medals" time="2023-12-27T11:12:13.061548Z" />
         <apiUpdate method="KillLog" time="2023-12-28T02:08:32.0395789Z" />
-        <apiUpdate method="AssetList" time="2023-12-28T01:09:12.2992985Z" />
+        <apiUpdate method="AssetList" time="2023-12-28T02:09:15.6947059Z" />
         <apiUpdate method="MarketOrders" time="2023-12-28T02:08:13.7221894Z" />
         <apiUpdate method="Contracts" time="2023-12-28T02:08:33.2609269Z" />
-        <apiUpdate method="WalletJournal" time="2023-12-28T01:09:07.1864594Z" />
+        <apiUpdate method="WalletJournal" time="2023-12-28T02:09:10.8006124Z" />
         <apiUpdate method="AccountBalance" time="2023-12-27T19:08:11.607297Z" />
-        <apiUpdate method="WalletTransactions" time="2023-12-28T01:09:09.1644743Z" />
+        <apiUpdate method="WalletTransactions" time="2023-12-28T02:09:12.6539174Z" />
         <apiUpdate method="IndustryJobs" time="2023-12-28T02:08:14.787862Z" />
         <apiUpdate method="ResearchPoints" time="2023-12-28T02:08:35.089623Z" />
         <apiUpdate method="MailMessages" time="2023-12-28T02:08:13.8139438Z" />
@@ -844,9 +844,9 @@
         <apiUpdate method="PlanetaryColonies" time="2023-12-28T02:08:13.7880136Z" />
         <apiUpdate method="LoyaltyPoints" time="2023-12-28T02:08:35.1275211Z" />
         <apiUpdate method="CorporationMedals" time="2023-12-27T11:12:13.2245401Z" />
-        <apiUpdate method="CorporationMarketOrders" time="2023-12-28T02:07:23.2191772Z" />
+        <apiUpdate method="CorporationMarketOrders" time="2023-12-28T02:09:23.7146478Z" />
         <apiUpdate method="CorporationContracts" time="2023-12-28T02:08:34.3001476Z" />
-        <apiUpdate method="CorporationIndustryJobs" time="2023-12-28T02:07:24.2451497Z" />
+        <apiUpdate method="CorporationIndustryJobs" time="2023-12-28T02:09:24.7427321Z" />
       </lastUpdates>
     </ccp>
     <ccp guid="984696ef-cc83-4a75-8620-18746a418d19" label="Drones Gunnery">
@@ -924,7 +924,7 @@
         <skill typeID="3316" name="Controlled Bursts" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
         <skill typeID="3300" name="Gunnery" level="4" activelevel="4" skillpoints="45255" ownsBook="true" isKnown="true" />
         <skill typeID="3312" name="Motion Prediction" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
-        <skill typeID="3310" name="Rapid Firing" level="3" activelevel="3" skillpoints="43948" ownsBook="true" isKnown="true" />
+        <skill typeID="3310" name="Rapid Firing" level="3" activelevel="3" skillpoints="43981" ownsBook="true" isKnown="true" />
         <skill typeID="3311" name="Sharpshooter" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
         <skill typeID="3303" name="Small Energy Turret" level="3" activelevel="3" skillpoints="8000" ownsBook="true" isKnown="true" />
         <skill typeID="3301" name="Small Hybrid Turret" level="4" activelevel="3" skillpoints="45255" ownsBook="true" isKnown="true" />
@@ -1094,17 +1094,17 @@
         <apiUpdate method="Skills" time="2023-12-27T19:08:11.6866609Z" />
         <apiUpdate method="SkillQueue" time="2023-12-28T02:08:33.1524422Z" />
         <apiUpdate method="EmploymentHistory" time="2023-12-27T19:08:11.5748958Z" />
-        <apiUpdate method="Standings" time="2023-12-28T01:09:07.0849377Z" />
+        <apiUpdate method="Standings" time="2023-12-28T02:09:10.5961593Z" />
         <apiUpdate method="ContactList" time="2023-12-28T02:08:32.0814474Z" />
         <apiUpdate method="FactionalWarfareStats" time="0001-01-01T00:00:00" />
         <apiUpdate method="Medals" time="2023-12-27T11:12:13.1806192Z" />
         <apiUpdate method="KillLog" time="2023-12-28T02:08:32.0315806Z" />
-        <apiUpdate method="AssetList" time="2023-12-28T01:09:14.6003385Z" />
+        <apiUpdate method="AssetList" time="2023-12-28T02:09:17.6903252Z" />
         <apiUpdate method="MarketOrders" time="2023-12-28T02:08:13.7760452Z" />
         <apiUpdate method="Contracts" time="2023-12-28T02:08:32.0365681Z" />
-        <apiUpdate method="WalletJournal" time="2023-12-28T01:09:07.9740883Z" />
+        <apiUpdate method="WalletJournal" time="2023-12-28T02:09:11.2504743Z" />
         <apiUpdate method="AccountBalance" time="2023-12-27T19:08:11.6162475Z" />
-        <apiUpdate method="WalletTransactions" time="2023-12-28T01:09:10.2360081Z" />
+        <apiUpdate method="WalletTransactions" time="2023-12-28T02:09:13.7510157Z" />
         <apiUpdate method="IndustryJobs" time="2023-12-28T02:08:13.7860187Z" />
         <apiUpdate method="ResearchPoints" time="2023-12-28T02:08:35.1175498Z" />
         <apiUpdate method="MailMessages" time="2023-12-28T02:08:13.7870166Z" />
@@ -1171,7 +1171,7 @@
         <skill typeID="16069" name="Remote Armor Repair Systems" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
         <skill typeID="3393" name="Repair Systems" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
         <skill typeID="3437" name="Drone Avionics" level="4" activelevel="4" skillpoints="45255" ownsBook="true" isKnown="true" />
-        <skill typeID="23618" name="Drone Durability" level="3" activelevel="3" skillpoints="113182" ownsBook="true" isKnown="true" />
+        <skill typeID="23618" name="Drone Durability" level="3" activelevel="3" skillpoints="113206" ownsBook="true" isKnown="true" />
         <skill typeID="3442" name="Drone Interfacing" level="3" activelevel="3" skillpoints="40000" ownsBook="true" isKnown="true" />
         <skill typeID="12305" name="Drone Navigation" level="4" activelevel="4" skillpoints="45255" ownsBook="true" isKnown="true" />
         <skill typeID="23606" name="Drone Sharpshooting" level="4" activelevel="4" skillpoints="45255" ownsBook="true" isKnown="true" />
@@ -1358,17 +1358,17 @@
         <apiUpdate method="Skills" time="2023-12-27T19:08:11.6714679Z" />
         <apiUpdate method="SkillQueue" time="2023-12-28T02:08:34.1405732Z" />
         <apiUpdate method="EmploymentHistory" time="2023-12-27T19:08:11.5648961Z" />
-        <apiUpdate method="Standings" time="2023-12-28T01:09:07.0839128Z" />
+        <apiUpdate method="Standings" time="2023-12-28T02:09:10.5522762Z" />
         <apiUpdate method="ContactList" time="2023-12-28T02:08:32.0455728Z" />
         <apiUpdate method="FactionalWarfareStats" time="0001-01-01T00:00:00" />
         <apiUpdate method="Medals" time="2023-12-27T11:12:13.0186034Z" />
         <apiUpdate method="KillLog" time="2023-12-28T02:08:32.0236028Z" />
-        <apiUpdate method="AssetList" time="2023-12-28T01:09:16.2607586Z" />
+        <apiUpdate method="AssetList" time="2023-12-28T02:09:19.7212401Z" />
         <apiUpdate method="MarketOrders" time="2023-12-28T02:08:13.7582365Z" />
         <apiUpdate method="Contracts" time="2023-12-28T02:08:32.0265952Z" />
-        <apiUpdate method="WalletJournal" time="2023-12-28T01:09:07.1098423Z" />
+        <apiUpdate method="WalletJournal" time="2023-12-28T02:09:10.6200953Z" />
         <apiUpdate method="AccountBalance" time="2023-12-27T19:08:11.6172735Z" />
-        <apiUpdate method="WalletTransactions" time="2023-12-28T01:09:07.0849377Z" />
+        <apiUpdate method="WalletTransactions" time="2023-12-28T02:09:10.5782075Z" />
         <apiUpdate method="IndustryJobs" time="2023-12-28T02:08:13.7760452Z" />
         <apiUpdate method="ResearchPoints" time="2023-12-28T02:08:35.1055807Z" />
         <apiUpdate method="MailMessages" time="2023-12-28T02:08:13.7989847Z" />
@@ -1475,7 +1475,7 @@
         <skill typeID="3324" name="Heavy Missiles" level="3" activelevel="3" skillpoints="24000" ownsBook="true" isKnown="true" />
         <skill typeID="3321" name="Light Missiles" level="4" activelevel="4" skillpoints="90510" ownsBook="true" isKnown="true" />
         <skill typeID="12441" name="Missile Bombardment" level="4" activelevel="4" skillpoints="90510" ownsBook="true" isKnown="true" />
-        <skill typeID="3319" name="Missile Launcher Operation" level="4" activelevel="4" skillpoints="165493" ownsBook="true" isKnown="true" />
+        <skill typeID="3319" name="Missile Launcher Operation" level="4" activelevel="4" skillpoints="165522" ownsBook="true" isKnown="true" />
         <skill typeID="12442" name="Missile Projection" level="2" activelevel="2" skillpoints="5657" ownsBook="true" isKnown="true" />
         <skill typeID="21071" name="Rapid Launch" level="4" activelevel="3" skillpoints="90510" ownsBook="true" isKnown="true" />
         <skill typeID="3320" name="Rockets" level="1" activelevel="1" skillpoints="250" ownsBook="true" isKnown="true" />
@@ -1582,17 +1582,17 @@
         <apiUpdate method="Skills" time="2023-12-27T19:08:11.7081073Z" />
         <apiUpdate method="SkillQueue" time="2023-12-28T02:08:33.083031Z" />
         <apiUpdate method="EmploymentHistory" time="2023-12-27T19:08:11.5860567Z" />
-        <apiUpdate method="Standings" time="2023-12-28T01:09:07.061002Z" />
+        <apiUpdate method="Standings" time="2023-12-28T02:09:10.5632471Z" />
         <apiUpdate method="ContactList" time="2023-12-28T02:08:32.0425948Z" />
         <apiUpdate method="FactionalWarfareStats" time="0001-01-01T00:00:00" />
         <apiUpdate method="Medals" time="2023-12-27T11:12:13.2245401Z" />
         <apiUpdate method="KillLog" time="2023-12-28T02:08:32.0265952Z" />
-        <apiUpdate method="AssetList" time="2023-12-28T01:09:20.8457586Z" />
+        <apiUpdate method="AssetList" time="2023-12-28T02:09:21.7652734Z" />
         <apiUpdate method="MarketOrders" time="2023-12-28T02:08:13.7830282Z" />
         <apiUpdate method="Contracts" time="2023-12-28T02:08:32.0116346Z" />
-        <apiUpdate method="WalletJournal" time="2023-12-28T01:09:07.1555392Z" />
+        <apiUpdate method="WalletJournal" time="2023-12-28T02:09:10.6789373Z" />
         <apiUpdate method="AccountBalance" time="2023-12-27T19:08:11.6262949Z" />
-        <apiUpdate method="WalletTransactions" time="2023-12-28T01:09:07.1377986Z" />
+        <apiUpdate method="WalletTransactions" time="2023-12-28T02:09:10.6869166Z" />
         <apiUpdate method="IndustryJobs" time="2023-12-28T02:08:13.7860187Z" />
         <apiUpdate method="ResearchPoints" time="2023-12-28T02:08:35.1255269Z" />
         <apiUpdate method="MailMessages" time="2023-12-28T02:08:13.8408723Z" />
@@ -1661,7 +1661,7 @@
         <skill typeID="16069" name="Remote Armor Repair Systems" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
         <skill typeID="3393" name="Repair Systems" level="3" activelevel="3" skillpoints="8000" ownsBook="true" isKnown="true" />
         <skill typeID="3437" name="Drone Avionics" level="3" activelevel="3" skillpoints="8000" ownsBook="true" isKnown="true" />
-        <skill typeID="23618" name="Drone Durability" level="2" activelevel="0" skillpoints="38152" ownsBook="true" isKnown="true" />
+        <skill typeID="23618" name="Drone Durability" level="2" activelevel="0" skillpoints="38176" ownsBook="true" isKnown="true" />
         <skill typeID="3442" name="Drone Interfacing" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
         <skill typeID="12305" name="Drone Navigation" level="3" activelevel="3" skillpoints="8000" ownsBook="true" isKnown="true" />
         <skill typeID="23606" name="Drone Sharpshooting" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
@@ -1840,17 +1840,17 @@
         <apiUpdate method="Skills" time="2023-12-27T19:08:11.7021183Z" />
         <apiUpdate method="SkillQueue" time="2023-12-28T02:08:33.1035762Z" />
         <apiUpdate method="EmploymentHistory" time="2023-12-27T19:08:11.5677455Z" />
-        <apiUpdate method="Standings" time="2023-12-28T01:09:07.0730845Z" />
+        <apiUpdate method="Standings" time="2023-12-28T02:09:10.5772098Z" />
         <apiUpdate method="ContactList" time="2023-12-28T02:08:32.0405572Z" />
         <apiUpdate method="FactionalWarfareStats" time="0001-01-01T00:00:00" />
         <apiUpdate method="Medals" time="2023-12-27T11:12:13.1142515Z" />
         <apiUpdate method="KillLog" time="2023-12-28T02:08:32.0255974Z" />
-        <apiUpdate method="AssetList" time="2023-12-28T01:09:15.6673458Z" />
+        <apiUpdate method="AssetList" time="2023-12-28T02:09:18.7628731Z" />
         <apiUpdate method="MarketOrders" time="2023-12-28T02:08:13.7850225Z" />
         <apiUpdate method="Contracts" time="2023-12-28T02:08:32.0236028Z" />
-        <apiUpdate method="WalletJournal" time="2023-12-28T01:09:07.1545393Z" />
+        <apiUpdate method="WalletJournal" time="2023-12-28T02:09:10.6669697Z" />
         <apiUpdate method="AccountBalance" time="2023-12-27T19:08:11.6362605Z" />
-        <apiUpdate method="WalletTransactions" time="2023-12-28T01:09:07.118853Z" />
+        <apiUpdate method="WalletTransactions" time="2023-12-28T02:09:10.6839253Z" />
         <apiUpdate method="IndustryJobs" time="2023-12-28T02:08:13.7910057Z" />
         <apiUpdate method="ResearchPoints" time="2023-12-28T02:08:35.1135594Z" />
         <apiUpdate method="MailMessages" time="2023-12-28T02:08:13.805965Z" />
@@ -1974,7 +1974,7 @@
         <skill typeID="3551" name="Survey" level="3" activelevel="3" skillpoints="8000" ownsBook="true" isKnown="true" />
         <skill typeID="3402" name="Science" level="4" activelevel="4" skillpoints="45255" ownsBook="true" isKnown="true" />
         <skill typeID="21059" name="Shield Compensation" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
-        <skill typeID="3419" name="Shield Management" level="3" activelevel="3" skillpoints="33792" ownsBook="true" isKnown="true" />
+        <skill typeID="3419" name="Shield Management" level="3" activelevel="3" skillpoints="33813" ownsBook="true" isKnown="true" />
         <skill typeID="3416" name="Shield Operation" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
         <skill typeID="3425" name="Shield Upgrades" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
         <skill typeID="3420" name="Tactical Shield Manipulation" level="3" activelevel="3" skillpoints="32000" ownsBook="true" isKnown="true" />
@@ -2099,17 +2099,17 @@
         <apiUpdate method="Skills" time="2023-12-27T19:08:11.6794474Z" />
         <apiUpdate method="SkillQueue" time="2023-12-28T01:42:39.5932848Z" />
         <apiUpdate method="EmploymentHistory" time="2023-12-27T19:08:11.559863Z" />
-        <apiUpdate method="Standings" time="2023-12-28T01:09:07.0849377Z" />
+        <apiUpdate method="Standings" time="2023-12-28T02:09:10.5642442Z" />
         <apiUpdate method="ContactList" time="2023-12-28T02:08:33.080039Z" />
         <apiUpdate method="FactionalWarfareStats" time="0001-01-01T00:00:00" />
         <apiUpdate method="Medals" time="2023-12-27T11:12:13.5349067Z" />
         <apiUpdate method="KillLog" time="2023-12-28T02:08:32.003656Z" />
-        <apiUpdate method="AssetList" time="2023-12-28T01:09:15.2278348Z" />
+        <apiUpdate method="AssetList" time="2023-12-28T02:09:18.7548962Z" />
         <apiUpdate method="MarketOrders" time="2023-12-28T02:08:13.7860187Z" />
         <apiUpdate method="Contracts" time="2023-12-28T02:08:32.0255974Z" />
-        <apiUpdate method="WalletJournal" time="2023-12-28T01:09:07.2093939Z" />
+        <apiUpdate method="WalletJournal" time="2023-12-28T02:09:10.675946Z" />
         <apiUpdate method="AccountBalance" time="2023-12-27T19:08:11.607297Z" />
-        <apiUpdate method="WalletTransactions" time="2023-12-28T01:09:08.1476266Z" />
+        <apiUpdate method="WalletTransactions" time="2023-12-28T02:09:11.6320235Z" />
         <apiUpdate method="IndustryJobs" time="2023-12-28T01:10:24.1938285Z" />
         <apiUpdate method="ResearchPoints" time="2023-12-28T02:08:35.106578Z" />
         <apiUpdate method="MailMessages" time="2023-12-28T02:08:13.7810323Z" />
@@ -2228,7 +2228,7 @@
         <skill typeID="3425" name="Shield Upgrades" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
         <skill typeID="3420" name="Tactical Shield Manipulation" level="3" activelevel="3" skillpoints="32000" ownsBook="true" isKnown="true" />
         <skill typeID="3356" name="Negotiation" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
-        <skill typeID="33095" name="Amarr Battlecruiser" level="2" activelevel="0" skillpoints="20805" ownsBook="true" isKnown="true" />
+        <skill typeID="33095" name="Amarr Battlecruiser" level="2" activelevel="0" skillpoints="20833" ownsBook="true" isKnown="true" />
         <skill typeID="3335" name="Amarr Cruiser" level="3" activelevel="1" skillpoints="40000" ownsBook="true" isKnown="true" />
         <skill typeID="33091" name="Amarr Destroyer" level="4" activelevel="4" skillpoints="90510" ownsBook="true" isKnown="true" />
         <skill typeID="3331" name="Amarr Frigate" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
@@ -2384,17 +2384,17 @@
         <apiUpdate method="Skills" time="2023-12-27T19:08:11.6724946Z" />
         <apiUpdate method="SkillQueue" time="2023-12-28T01:10:44.6257696Z" />
         <apiUpdate method="EmploymentHistory" time="2023-12-27T19:08:11.5767461Z" />
-        <apiUpdate method="Standings" time="2023-12-28T01:09:07.107848Z" />
+        <apiUpdate method="Standings" time="2023-12-28T02:09:10.5642442Z" />
         <apiUpdate method="ContactList" time="2023-12-28T02:08:32.0525254Z" />
         <apiUpdate method="FactionalWarfareStats" time="0001-01-01T00:00:00" />
         <apiUpdate method="Medals" time="2023-12-27T11:12:13.17086Z" />
         <apiUpdate method="KillLog" time="2023-12-28T02:08:32.0315806Z" />
-        <apiUpdate method="AssetList" time="2023-12-28T01:09:20.3595518Z" />
+        <apiUpdate method="AssetList" time="2023-12-28T02:09:21.7493428Z" />
         <apiUpdate method="MarketOrders" time="2023-12-28T02:08:13.7860187Z" />
         <apiUpdate method="Contracts" time="2023-12-28T02:08:33.079041Z" />
-        <apiUpdate method="WalletJournal" time="2023-12-28T01:09:07.1954028Z" />
+        <apiUpdate method="WalletJournal" time="2023-12-28T02:09:10.6360522Z" />
         <apiUpdate method="AccountBalance" time="2023-12-27T19:08:11.6432419Z" />
-        <apiUpdate method="WalletTransactions" time="2023-12-28T01:09:07.0859068Z" />
+        <apiUpdate method="WalletTransactions" time="2023-12-28T02:09:10.6749482Z" />
         <apiUpdate method="IndustryJobs" time="2023-12-28T02:08:13.7790385Z" />
         <apiUpdate method="ResearchPoints" time="2023-12-28T02:08:35.1036106Z" />
         <apiUpdate method="MailMessages" time="2023-12-28T02:08:13.7989847Z" />
@@ -2459,7 +2459,7 @@
         <skill typeID="3394" name="Hull Upgrades" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
         <skill typeID="3392" name="Mechanics" level="3" activelevel="3" skillpoints="8000" ownsBook="true" isKnown="true" />
         <skill typeID="3437" name="Drone Avionics" level="1" activelevel="1" skillpoints="250" ownsBook="true" isKnown="true" />
-        <skill typeID="3436" name="Drones" level="4" activelevel="4" skillpoints="242193" ownsBook="true" isKnown="true" />
+        <skill typeID="3436" name="Drones" level="4" activelevel="4" skillpoints="242216" ownsBook="true" isKnown="true" />
         <skill typeID="24241" name="Light Drone Operation" level="1" activelevel="1" skillpoints="250" ownsBook="true" isKnown="true" />
         <skill typeID="3427" name="Electronic Warfare" level="1" activelevel="1" skillpoints="500" ownsBook="true" isKnown="true" />
         <skill typeID="3435" name="Propulsion Jamming" level="1" activelevel="1" skillpoints="750" ownsBook="true" isKnown="true" />
@@ -2552,17 +2552,17 @@
         <apiUpdate method="Skills" time="2023-12-27T19:08:11.7061082Z" />
         <apiUpdate method="SkillQueue" time="2023-12-28T02:08:33.0896103Z" />
         <apiUpdate method="EmploymentHistory" time="2023-12-27T19:08:11.5617593Z" />
-        <apiUpdate method="Standings" time="2023-12-28T01:09:07.0839128Z" />
+        <apiUpdate method="Standings" time="2023-12-28T02:09:10.5532742Z" />
         <apiUpdate method="ContactList" time="2023-12-28T02:08:32.0365681Z" />
         <apiUpdate method="FactionalWarfareStats" time="0001-01-01T00:00:00" />
         <apiUpdate method="Medals" time="2023-12-27T11:12:13.0722828Z" />
         <apiUpdate method="KillLog" time="2023-12-28T02:08:32.0285896Z" />
-        <apiUpdate method="AssetList" time="2023-12-28T01:09:17.2339475Z" />
+        <apiUpdate method="AssetList" time="2023-12-28T02:09:20.7396894Z" />
         <apiUpdate method="MarketOrders" time="2023-12-28T02:08:13.7860187Z" />
         <apiUpdate method="Contracts" time="2023-12-28T02:08:32.0395789Z" />
-        <apiUpdate method="WalletJournal" time="2023-12-28T01:09:07.1465335Z" />
+        <apiUpdate method="WalletJournal" time="2023-12-28T02:09:10.730799Z" />
         <apiUpdate method="AccountBalance" time="2023-12-27T19:08:11.6043243Z" />
-        <apiUpdate method="WalletTransactions" time="2023-12-28T01:09:07.1258283Z" />
+        <apiUpdate method="WalletTransactions" time="2023-12-28T02:09:10.6151096Z" />
         <apiUpdate method="IndustryJobs" time="2023-12-28T02:08:13.7660725Z" />
         <apiUpdate method="ResearchPoints" time="2023-12-28T02:08:35.0927581Z" />
         <apiUpdate method="MailMessages" time="2023-12-28T02:08:14.7888894Z" />
@@ -2648,7 +2648,7 @@
         <skill typeID="3317" name="Trajectory Analysis" level="1" activelevel="1" skillpoints="1250" ownsBook="true" isKnown="true" />
         <skill typeID="20312" name="Guided Missile Precision" level="3" activelevel="3" skillpoints="40000" ownsBook="true" isKnown="true" />
         <skill typeID="20210" name="Light Missile Specialization" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
-        <skill typeID="3321" name="Light Missiles" level="4" activelevel="4" skillpoints="367434" ownsBook="true" isKnown="true" />
+        <skill typeID="3321" name="Light Missiles" level="4" activelevel="4" skillpoints="367458" ownsBook="true" isKnown="true" />
         <skill typeID="12441" name="Missile Bombardment" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
         <skill typeID="3319" name="Missile Launcher Operation" level="4" activelevel="4" skillpoints="45255" ownsBook="true" isKnown="true" />
         <skill typeID="12442" name="Missile Projection" level="2" activelevel="2" skillpoints="5657" ownsBook="true" isKnown="true" />
@@ -2770,17 +2770,17 @@
         <apiUpdate method="Skills" time="2023-12-27T19:08:11.7011208Z" />
         <apiUpdate method="SkillQueue" time="2023-12-28T02:08:34.1386217Z" />
         <apiUpdate method="EmploymentHistory" time="2023-12-27T19:08:11.5587486Z" />
-        <apiUpdate method="Standings" time="2023-12-28T01:09:07.0629682Z" />
+        <apiUpdate method="Standings" time="2023-12-28T02:09:10.5762123Z" />
         <apiUpdate method="ContactList" time="2023-12-28T02:08:33.0740547Z" />
         <apiUpdate method="FactionalWarfareStats" time="0001-01-01T00:00:00" />
         <apiUpdate method="Medals" time="2023-12-27T11:12:13.1025393Z" />
         <apiUpdate method="KillLog" time="2023-12-28T02:08:32.0395789Z" />
-        <apiUpdate method="AssetList" time="2023-12-28T01:09:17.8562819Z" />
+        <apiUpdate method="AssetList" time="2023-12-28T02:09:21.7612837Z" />
         <apiUpdate method="MarketOrders" time="2023-12-28T02:08:13.7910057Z" />
         <apiUpdate method="Contracts" time="2023-12-28T02:08:32.0285896Z" />
-        <apiUpdate method="WalletJournal" time="2023-12-28T01:09:07.291146Z" />
+        <apiUpdate method="WalletJournal" time="2023-12-28T02:09:10.7367837Z" />
         <apiUpdate method="AccountBalance" time="2023-12-27T19:08:11.6092902Z" />
-        <apiUpdate method="WalletTransactions" time="2023-12-28T01:09:10.2419908Z" />
+        <apiUpdate method="WalletTransactions" time="2023-12-28T02:09:13.6692354Z" />
         <apiUpdate method="IndustryJobs" time="2023-12-28T01:10:24.1688669Z" />
         <apiUpdate method="ResearchPoints" time="2023-12-28T02:08:35.1006243Z" />
         <apiUpdate method="MailMessages" time="2023-12-28T02:08:13.8259405Z" />
@@ -2857,7 +2857,7 @@
         <skill typeID="3426" name="CPU Management" level="5" activelevel="4" skillpoints="256000" ownsBook="true" isKnown="true" />
         <skill typeID="3432" name="Electronics Upgrades" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
         <skill typeID="3424" name="Energy Grid Upgrades" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
-        <skill typeID="3413" name="Power Grid Management" level="4" activelevel="4" skillpoints="77651" ownsBook="true" isKnown="true" />
+        <skill typeID="3413" name="Power Grid Management" level="4" activelevel="4" skillpoints="77674" ownsBook="true" isKnown="true" />
         <skill typeID="28164" name="Thermodynamics" level="1" activelevel="1" skillpoints="750" ownsBook="true" isKnown="true" />
         <skill typeID="3318" name="Weapon Upgrades" level="4" activelevel="4" skillpoints="90510" ownsBook="true" isKnown="true" />
         <skill typeID="3316" name="Controlled Bursts" level="2" activelevel="2" skillpoints="2829" ownsBook="true" isKnown="true" />
@@ -2932,17 +2932,17 @@
         <apiUpdate method="Skills" time="2023-12-27T19:08:11.7131786Z" />
         <apiUpdate method="SkillQueue" time="2023-12-28T02:08:33.0810359Z" />
         <apiUpdate method="EmploymentHistory" time="2023-12-27T19:08:11.5627591Z" />
-        <apiUpdate method="Standings" time="2023-12-28T01:09:07.0988724Z" />
+        <apiUpdate method="Standings" time="2023-12-28T02:09:10.5772098Z" />
         <apiUpdate method="ContactList" time="2023-12-28T02:08:32.0595341Z" />
         <apiUpdate method="FactionalWarfareStats" time="0001-01-01T00:00:00" />
         <apiUpdate method="Medals" time="2023-12-27T11:12:12.9824915Z" />
         <apiUpdate method="KillLog" time="2023-12-28T02:08:33.0760494Z" />
-        <apiUpdate method="AssetList" time="2023-12-28T01:09:21.5670669Z" />
+        <apiUpdate method="AssetList" time="2023-12-28T02:09:24.7796331Z" />
         <apiUpdate method="MarketOrders" time="2023-12-28T02:08:13.7790385Z" />
         <apiUpdate method="Contracts" time="2023-12-28T02:08:32.0255974Z" />
-        <apiUpdate method="WalletJournal" time="2023-12-28T01:09:07.0938856Z" />
+        <apiUpdate method="WalletJournal" time="2023-12-28T02:09:10.688911Z" />
         <apiUpdate method="AccountBalance" time="2023-12-27T19:08:11.610288Z" />
-        <apiUpdate method="WalletTransactions" time="2023-12-28T01:09:07.0928887Z" />
+        <apiUpdate method="WalletTransactions" time="2023-12-28T02:09:10.6879137Z" />
         <apiUpdate method="IndustryJobs" time="2023-12-28T02:08:13.7730579Z" />
         <apiUpdate method="ResearchPoints" time="2023-12-28T02:08:35.1225632Z" />
         <apiUpdate method="MailMessages" time="2023-12-28T02:08:13.8079596Z" />
@@ -3008,7 +3008,7 @@
         <skill typeID="3392" name="Mechanics" level="3" activelevel="3" skillpoints="8000" ownsBook="true" isKnown="true" />
         <skill typeID="3393" name="Repair Systems" level="1" activelevel="1" skillpoints="250" ownsBook="true" isKnown="true" />
         <skill typeID="3437" name="Drone Avionics" level="1" activelevel="1" skillpoints="250" ownsBook="true" isKnown="true" />
-        <skill typeID="3436" name="Drones" level="3" activelevel="3" skillpoints="41631" ownsBook="true" isKnown="true" />
+        <skill typeID="3436" name="Drones" level="3" activelevel="3" skillpoints="41658" ownsBook="true" isKnown="true" />
         <skill typeID="12486" name="Gallente Drone Specialization" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
         <skill typeID="24241" name="Light Drone Operation" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
         <skill typeID="33699" name="Medium Drone Operation" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
@@ -3128,17 +3128,17 @@
         <apiUpdate method="Skills" time="2023-12-27T19:08:11.7151125Z" />
         <apiUpdate method="SkillQueue" time="2023-12-28T02:08:33.1275086Z" />
         <apiUpdate method="EmploymentHistory" time="2023-12-27T19:08:11.5767461Z" />
-        <apiUpdate method="Standings" time="2023-12-28T01:09:07.0669857Z" />
+        <apiUpdate method="Standings" time="2023-12-28T02:09:10.5642442Z" />
         <apiUpdate method="ContactList" time="2023-12-28T02:08:32.0415555Z" />
         <apiUpdate method="FactionalWarfareStats" time="0001-01-01T00:00:00" />
         <apiUpdate method="Medals" time="2023-12-27T14:08:22.8966654Z" />
         <apiUpdate method="KillLog" time="2023-12-28T02:08:32.0395789Z" />
-        <apiUpdate method="AssetList" time="2023-12-28T01:09:14.572935Z" />
+        <apiUpdate method="AssetList" time="2023-12-28T02:09:17.6773591Z" />
         <apiUpdate method="MarketOrders" time="2023-12-28T02:08:13.8009785Z" />
         <apiUpdate method="Contracts" time="2023-12-28T02:08:32.0315806Z" />
-        <apiUpdate method="WalletJournal" time="2023-12-28T01:09:07.1338109Z" />
+        <apiUpdate method="WalletJournal" time="2023-12-28T02:09:10.7876468Z" />
         <apiUpdate method="AccountBalance" time="2023-12-27T19:08:11.6182744Z" />
-        <apiUpdate method="WalletTransactions" time="2023-12-28T01:09:07.1168248Z" />
+        <apiUpdate method="WalletTransactions" time="2023-12-28T02:09:10.5811988Z" />
         <apiUpdate method="IndustryJobs" time="2023-12-28T02:08:13.7780702Z" />
         <apiUpdate method="ResearchPoints" time="2023-12-28T02:08:35.1165522Z" />
         <apiUpdate method="MailMessages" time="2023-12-28T02:08:13.801976Z" />
@@ -3217,7 +3217,7 @@
         <skill typeID="3432" name="Electronics Upgrades" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
         <skill typeID="3424" name="Energy Grid Upgrades" level="3" activelevel="2" skillpoints="16000" ownsBook="true" isKnown="true" />
         <skill typeID="3413" name="Power Grid Management" level="4" activelevel="4" skillpoints="45255" ownsBook="true" isKnown="true" />
-        <skill typeID="3318" name="Weapon Upgrades" level="2" activelevel="2" skillpoints="12366" ownsBook="true" isKnown="true" />
+        <skill typeID="3318" name="Weapon Upgrades" level="2" activelevel="2" skillpoints="12389" ownsBook="true" isKnown="true" />
         <skill typeID="3316" name="Controlled Bursts" level="1" activelevel="1" skillpoints="500" ownsBook="true" isKnown="true" />
         <skill typeID="3300" name="Gunnery" level="4" activelevel="4" skillpoints="45255" ownsBook="true" isKnown="true" />
         <skill typeID="3312" name="Motion Prediction" level="2" activelevel="2" skillpoints="2829" ownsBook="true" isKnown="true" />
@@ -3320,17 +3320,17 @@
         <apiUpdate method="Skills" time="2023-12-27T19:08:11.7021183Z" />
         <apiUpdate method="SkillQueue" time="2023-12-28T02:08:34.1306003Z" />
         <apiUpdate method="EmploymentHistory" time="2023-12-27T19:08:11.5840614Z" />
-        <apiUpdate method="Standings" time="2023-12-28T01:09:07.2423791Z" />
+        <apiUpdate method="Standings" time="2023-12-28T02:09:10.5782075Z" />
         <apiUpdate method="ContactList" time="2023-12-28T02:08:33.0946002Z" />
         <apiUpdate method="FactionalWarfareStats" time="0001-01-01T00:00:00" />
         <apiUpdate method="Medals" time="2023-12-27T14:08:22.9903655Z" />
         <apiUpdate method="KillLog" time="2023-12-28T02:08:32.0425948Z" />
-        <apiUpdate method="AssetList" time="2023-12-28T01:09:18.7782356Z" />
+        <apiUpdate method="AssetList" time="2023-12-28T02:09:21.0268088Z" />
         <apiUpdate method="MarketOrders" time="2023-12-28T02:08:13.7830282Z" />
         <apiUpdate method="Contracts" time="2023-12-28T02:08:33.0836998Z" />
-        <apiUpdate method="WalletJournal" time="2023-12-28T01:09:07.273195Z" />
+        <apiUpdate method="WalletJournal" time="2023-12-28T02:09:10.6988842Z" />
         <apiUpdate method="AccountBalance" time="2023-12-27T19:08:11.6172735Z" />
-        <apiUpdate method="WalletTransactions" time="2023-12-28T01:09:07.2492596Z" />
+        <apiUpdate method="WalletTransactions" time="2023-12-28T02:09:10.5612529Z" />
         <apiUpdate method="IndustryJobs" time="2023-12-28T02:08:13.793997Z" />
         <apiUpdate method="ResearchPoints" time="2023-12-28T02:08:35.1175498Z" />
         <apiUpdate method="MailMessages" time="2023-12-28T02:08:13.8009785Z" />
