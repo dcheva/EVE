@@ -51,7 +51,7 @@
         <stationID>60015033</stationID>
         <structureID>0</structureID>
       </lastKnownLocation>
-      <securityStatus>0.118786395</securityStatus>
+      <securityStatus>0.132611409</securityStatus>
       <cloneStateOverride>Auto</cloneStateOverride>
       <employmentHistory>
         <record corporationID="98743399" corporationName="Dee Cartel" startDate="2023-06-23 18:32:00" />
@@ -113,7 +113,7 @@
         <skill typeID="3452" name="Acceleration Control" level="3" activelevel="3" skillpoints="32000" ownsBook="true" isKnown="true" />
         <skill typeID="3450" name="Afterburner" level="3" activelevel="3" skillpoints="8000" ownsBook="true" isKnown="true" />
         <skill typeID="3453" name="Evasive Maneuvering" level="2" activelevel="2" skillpoints="2829" ownsBook="true" isKnown="true" />
-        <skill typeID="3454" name="High Speed Maneuvering" level="2" activelevel="2" skillpoints="26730" ownsBook="true" isKnown="true" />
+        <skill typeID="3454" name="High Speed Maneuvering" level="3" activelevel="2" skillpoints="40000" ownsBook="true" isKnown="true" />
         <skill typeID="3449" name="Navigation" level="3" activelevel="3" skillpoints="8000" ownsBook="true" isKnown="true" />
         <skill typeID="3455" name="Warp Drive Operation" level="2" activelevel="2" skillpoints="1415" ownsBook="true" isKnown="true" />
         <skill typeID="3405" name="Biology" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="false" />
@@ -138,7 +138,7 @@
         <skill typeID="21059" name="Shield Compensation" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
         <skill typeID="3422" name="Shield Emission Systems" level="1" activelevel="1" skillpoints="500" ownsBook="true" isKnown="true" />
         <skill typeID="3419" name="Shield Management" level="3" activelevel="3" skillpoints="24000" ownsBook="true" isKnown="true" />
-        <skill typeID="3416" name="Shield Operation" level="3" activelevel="3" skillpoints="23656" ownsBook="true" isKnown="true" />
+        <skill typeID="3416" name="Shield Operation" level="3" activelevel="3" skillpoints="24046" ownsBook="true" isKnown="true" />
         <skill typeID="3425" name="Shield Upgrades" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
         <skill typeID="3420" name="Tactical Shield Manipulation" level="3" activelevel="3" skillpoints="32000" ownsBook="true" isKnown="true" />
         <skill typeID="11566" name="Thermal Shield Compensation" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
@@ -183,13 +183,12 @@
         <selectedIndex>0</selectedIndex>
       </implants>
       <queue>
-        <skill typeID="3454" level="3" startSP="7072" endSP="40000" startTime="2023-12-27 06:00:30" endTime="2023-12-28 15:46:50" />
-        <skill typeID="3416" level="4" startSP="23656" endSP="45255" startTime="2023-12-28 15:46:50" endTime="2023-12-29 16:11:11" />
-        <skill typeID="12365" level="1" startSP="0" endSP="500" startTime="2023-12-29 16:11:11" endTime="2023-12-29 16:45:04" />
-        <skill typeID="12365" level="2" startSP="500" endSP="2829" startTime="2023-12-29 16:45:04" endTime="2023-12-29 19:22:58" />
-        <skill typeID="3453" level="3" startSP="2829" endSP="16000" startTime="2023-12-29 19:22:58" endTime="2023-12-30 08:53:30" />
-        <skill typeID="22578" level="4" startSP="162519" endSP="181020" startTime="2023-12-30 08:53:30" endTime="2023-12-31 07:19:01" />
-        <skill typeID="3425" level="4" startSP="16000" endSP="90510" startTime="2023-12-31 07:19:01" endTime="2024-01-03 19:30:33" />
+        <skill typeID="3416" level="4" startSP="23656" endSP="45255" startTime="2023-12-28 15:46:49" endTime="2023-12-29 16:11:10" />
+        <skill typeID="12365" level="1" startSP="0" endSP="500" startTime="2023-12-29 16:11:10" endTime="2023-12-29 16:45:03" />
+        <skill typeID="12365" level="2" startSP="500" endSP="2829" startTime="2023-12-29 16:45:03" endTime="2023-12-29 19:22:57" />
+        <skill typeID="3453" level="3" startSP="2829" endSP="16000" startTime="2023-12-29 19:22:57" endTime="2023-12-30 08:53:29" />
+        <skill typeID="22578" level="4" startSP="162519" endSP="181020" startTime="2023-12-30 08:53:29" endTime="2023-12-31 07:19:00" />
+        <skill typeID="3425" level="4" startSP="16000" endSP="90510" startTime="2023-12-31 07:19:00" endTime="2024-01-03 19:30:32" />
       </queue>
       <marketOrders>
         <sell orderID="6652737348" orderState="Active" price="20.0" volRemaining="6377" issued="2023-11-30T10:16:59Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
@@ -267,40 +266,40 @@
       <industryJobs>
         <job jobID="540531953" jobState="Active" startDate="2023-12-11T19:09:15Z" endDate="2023-12-20T16:29:15Z" pauseDate="0001-01-01T00:00:00" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.4265987Z" />
       </industryJobs>
-      <eveMailMessages>394979936,394975451,394974915,394969719,394965514,394965463,394965365,394960545,394960524,394959333,394958386,394958257,394958203,394958045,394957951,394957739,394940720,394940333,394940287,394940229,394939607,394938426,394932811,394873526,394850848,394823413,394812155,394809877,394788544,394753790,394738685,394738653,394736391,394735111,394730287,394728857,394727722,393512682,393496375,393496218,393490855,393490711</eveMailMessages>
+      <eveMailMessages>394985733,394979936,394975451,394974915,394969719,394965514,394965463,394965365,394960545,394960524,394959333,394958386,394958257,394958203,394958045,394957951,394957739,394940720,394940333,394940287,394940229,394939607,394938426,394932811,394873526,394850848,394823413,394812155,394809877,394788544,394753790,394738685,394738653,394736391,394735111,394730287,394728857,394727722,393512682,393496375,393496218,393490855</eveMailMessages>
       <eveNotifications>1792747696,1870016327,1870023196,1870038650,1870041183,1870043887,1870054198,1870057039,1870057699,1870059719,1870064567,1870066429,1870071576,1870075748,1870083184,1870090581,1870094298,1870098085,1870138709,1870143095,1870153826,1870155987,1870159005,1870159421,1870161050,1870161051,1870161523,1870161811,1870169305,1870170288,1870190398,1870203465,1870206298,1870208598,1870217858,1870217864,1870219207,1870219927,1870222291,1870225757,1870229394,1870229678,1870233604,1870237216,1870238913,1870278122,1870558390,1870561682,1870562950,1870564840,1870571034,1870572980,1870575039,1870576461,1870582886,1870589318,1870594283,1870596740,1870597181,1870601842,1870605540,1870608210,1870612478,1870667945,1870669933,1870674378,1870855821,1870867005,1870871328,1870872292,1870876053,1870881176,1870884363,1870888789,1870892353,1870947818,1870984624,1870986683,1870989197,1870989295,1870995409,1870999355,1871001558,1871006085,1871015483,1871016962,1871022409,1871377986,1871400008,1871401233,1871402921,1871406462,1871423074,1871425321,1871427923,1871434459,1871437693,1871438508,1871445311,1871447266,1871451771,1871452293,1871455616,1871455811,1871458411,1871464126,1871474680,1871490393,1871497727,1871604410,1871612386,1871629080,1871640815,1871642954,1871643480,1874626264,1874626265,1874639433,1874639434,1874639727,1875239662,1875553296,1878608537,1878617142,1878629685,1878639470,1878661001,1878673885,1878694832,1878694833,1878699789,1878709757,1878715586,1878723334,1878742061,1878754768,1878764484,1879174470,1879175850,1879176423,1879176961,1884575104,1884641619,1884680665,1884693968,1884697666,1884703095,1884723519,1884728717,1884735459,1884746486,1886227468,1886352616,1887240691,1887240821,1887240870,1887493706,1887494318,1887561708,1887623664,1888021039</eveNotifications>
       <lastUpdates>
-        <apiUpdate method="CharacterSheet" time="2023-12-27T19:08:10.5580603Z" />
-        <apiUpdate method="Location" time="2023-12-27T19:08:11.5467827Z" />
-        <apiUpdate method="Clones" time="2023-12-27T19:08:11.6162475Z" />
-        <apiUpdate method="Implants" time="2023-12-27T19:08:11.6052771Z" />
-        <apiUpdate method="Ship" time="2023-12-27T19:08:11.6362605Z" />
-        <apiUpdate method="Skills" time="2023-12-27T19:08:11.6643602Z" />
-        <apiUpdate method="SkillQueue" time="2023-12-28T02:08:34.1146433Z" />
-        <apiUpdate method="EmploymentHistory" time="2023-12-27T19:08:11.543535Z" />
-        <apiUpdate method="Standings" time="2023-12-28T02:09:10.6021428Z" />
-        <apiUpdate method="ContactList" time="2023-12-28T02:08:32.019613Z" />
+        <apiUpdate method="CharacterSheet" time="2023-12-28T15:26:07.4628342Z" />
+        <apiUpdate method="Location" time="2023-12-28T15:26:08.2679031Z" />
+        <apiUpdate method="Clones" time="2023-12-28T15:26:08.3535238Z" />
+        <apiUpdate method="Implants" time="2023-12-28T15:26:08.4204789Z" />
+        <apiUpdate method="Ship" time="2023-12-28T15:26:08.3585104Z" />
+        <apiUpdate method="Skills" time="2023-12-28T15:26:08.4637333Z" />
+        <apiUpdate method="SkillQueue" time="2023-12-28T15:26:07.2846536Z" />
+        <apiUpdate method="EmploymentHistory" time="2023-12-28T15:26:08.3975399Z" />
+        <apiUpdate method="Standings" time="2023-12-28T15:26:06.1591526Z" />
+        <apiUpdate method="ContactList" time="2023-12-28T15:26:06.1512011Z" />
         <apiUpdate method="FactionalWarfareStats" time="0001-01-01T00:00:00" />
-        <apiUpdate method="Medals" time="2023-12-27T11:12:13.1025393Z" />
-        <apiUpdate method="KillLog" time="2023-12-28T02:08:32.0265952Z" />
-        <apiUpdate method="AssetList" time="2023-12-28T02:09:17.6783844Z" />
-        <apiUpdate method="MarketOrders" time="2023-12-28T02:08:13.7740513Z" />
-        <apiUpdate method="Contracts" time="2023-12-28T02:08:32.0405572Z" />
-        <apiUpdate method="WalletJournal" time="2023-12-28T02:09:10.9203574Z" />
-        <apiUpdate method="AccountBalance" time="2023-12-27T19:08:11.5932057Z" />
-        <apiUpdate method="WalletTransactions" time="2023-12-28T02:09:10.6500149Z" />
-        <apiUpdate method="IndustryJobs" time="2023-12-28T02:08:13.7750485Z" />
-        <apiUpdate method="ResearchPoints" time="2023-12-28T02:08:35.0985999Z" />
-        <apiUpdate method="MailMessages" time="2023-12-28T02:08:13.8338911Z" />
+        <apiUpdate method="Medals" time="2023-12-28T15:26:06.1392061Z" />
+        <apiUpdate method="KillLog" time="2023-12-28T15:26:06.1122775Z" />
+        <apiUpdate method="AssetList" time="2023-12-28T15:26:06.1823652Z" />
+        <apiUpdate method="MarketOrders" time="2023-12-28T15:26:06.1292329Z" />
+        <apiUpdate method="Contracts" time="2023-12-28T15:26:06.1611467Z" />
+        <apiUpdate method="WalletJournal" time="2023-12-28T15:26:06.5778783Z" />
+        <apiUpdate method="AccountBalance" time="2023-12-28T15:26:08.3052328Z" />
+        <apiUpdate method="WalletTransactions" time="2023-12-28T15:26:06.1723915Z" />
+        <apiUpdate method="IndustryJobs" time="2023-12-28T15:26:06.1561603Z" />
+        <apiUpdate method="ResearchPoints" time="2023-12-28T15:26:06.1551628Z" />
+        <apiUpdate method="MailMessages" time="2023-12-28T15:26:06.1973246Z" />
         <apiUpdate method="MailingLists" time="0001-01-01T00:00:00" />
-        <apiUpdate method="Notifications" time="2023-12-28T02:08:13.8220298Z" />
+        <apiUpdate method="Notifications" time="2023-12-28T15:26:06.1923383Z" />
         <apiUpdate method="UpcomingCalendarEvents" time="0001-01-01T00:00:00" />
-        <apiUpdate method="PlanetaryColonies" time="2023-12-28T02:08:13.7740513Z" />
-        <apiUpdate method="LoyaltyPoints" time="2023-12-28T02:08:35.0985999Z" />
-        <apiUpdate method="CorporationMedals" time="2023-12-27T11:12:13.5329552Z" />
-        <apiUpdate method="CorporationMarketOrders" time="2023-12-28T02:08:33.1614181Z" />
-        <apiUpdate method="CorporationContracts" time="2023-12-28T02:08:33.1684Z" />
-        <apiUpdate method="CorporationIndustryJobs" time="2023-12-28T02:08:33.2728955Z" />
+        <apiUpdate method="PlanetaryColonies" time="2023-12-28T15:26:06.1402032Z" />
+        <apiUpdate method="LoyaltyPoints" time="2023-12-28T15:26:06.1481818Z" />
+        <apiUpdate method="CorporationMedals" time="2023-12-28T15:26:06.3944943Z" />
+        <apiUpdate method="CorporationMarketOrders" time="2023-12-28T15:26:06.3030422Z" />
+        <apiUpdate method="CorporationContracts" time="2023-12-28T15:26:06.4891997Z" />
+        <apiUpdate method="CorporationIndustryJobs" time="2023-12-28T15:26:06.3020447Z" />
       </lastUpdates>
     </ccp>
     <ccp guid="4b10300c-fd72-4ce4-a36e-e89f5881d9db" label="Missiles Gunnery">
@@ -327,7 +326,7 @@
       <jumpFatigue>0001-01-01 00:00:00</jumpFatigue>
       <jumpLastUpdate>0001-01-01 00:00:00</jumpLastUpdate>
       <certificates />
-      <balance>41389.1</balance>
+      <balance>427789.1</balance>
       <shipName>[Corma] </shipName>
       <shipTypeName>Cormorant</shipTypeName>
       <lastKnownLocation>
@@ -356,7 +355,7 @@
         <skill typeID="3437" name="Drone Avionics" level="3" activelevel="3" skillpoints="8000" ownsBook="true" isKnown="true" />
         <skill typeID="23618" name="Drone Durability" level="2" activelevel="2" skillpoints="7072" ownsBook="true" isKnown="true" />
         <skill typeID="3442" name="Drone Interfacing" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
-        <skill typeID="12305" name="Drone Navigation" level="3" activelevel="2" skillpoints="8000" ownsBook="true" isKnown="true" />
+        <skill typeID="12305" name="Drone Navigation" level="3" activelevel="3" skillpoints="8000" ownsBook="true" isKnown="true" />
         <skill typeID="23606" name="Drone Sharpshooting" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
         <skill typeID="3436" name="Drones" level="4" activelevel="4" skillpoints="45255" ownsBook="true" isKnown="true" />
         <skill typeID="24241" name="Light Drone Operation" level="3" activelevel="3" skillpoints="8000" ownsBook="true" isKnown="true" />
@@ -389,7 +388,7 @@
         <skill typeID="12442" name="Missile Projection" level="2" activelevel="2" skillpoints="5657" ownsBook="true" isKnown="true" />
         <skill typeID="21071" name="Rapid Launch" level="3" activelevel="3" skillpoints="16003" ownsBook="true" isKnown="true" />
         <skill typeID="20314" name="Target Navigation Prediction" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
-        <skill typeID="20315" name="Warhead Upgrades" level="2" activelevel="2" skillpoints="8697" ownsBook="true" isKnown="true" />
+        <skill typeID="20315" name="Warhead Upgrades" level="2" activelevel="2" skillpoints="21765" ownsBook="true" isKnown="true" />
         <skill typeID="3452" name="Acceleration Control" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
         <skill typeID="3450" name="Afterburner" level="3" activelevel="3" skillpoints="8000" ownsBook="true" isKnown="true" />
         <skill typeID="3453" name="Evasive Maneuvering" level="1" activelevel="1" skillpoints="500" ownsBook="true" isKnown="true" />
@@ -463,26 +462,26 @@
         <selectedIndex>0</selectedIndex>
       </implants>
       <queue>
-        <skill typeID="20315" level="3" startSP="7072" endSP="40000" startTime="2023-12-28 00:25:20" endTime="2023-12-29 11:49:43" />
-        <skill typeID="20312" level="3" startSP="7072" endSP="40000" startTime="2023-12-29 11:49:43" endTime="2023-12-30 23:14:07" />
-        <skill typeID="3436" level="5" startSP="45255" endSP="256000" startTime="2023-12-30 23:14:07" endTime="2024-01-09 13:33:27" />
-        <skill typeID="3442" level="1" startSP="0" endSP="1250" startTime="2024-01-09 13:33:27" endTime="2024-01-09 14:55:25" />
-        <skill typeID="3442" level="2" startSP="1250" endSP="7072" startTime="2024-01-09 14:55:25" endTime="2024-01-09 21:17:12" />
-        <skill typeID="3442" level="3" startSP="7072" endSP="40000" startTime="2024-01-09 21:17:12" endTime="2024-01-11 09:16:24" />
-        <skill typeID="12441" level="4" startSP="16000" endSP="90510" startTime="2024-01-11 09:16:24" endTime="2024-01-14 17:23:30" />
-        <skill typeID="21071" level="4" startSP="16003" endSP="90510" startTime="2024-01-14 17:23:30" endTime="2024-01-18 01:30:24" />
-        <skill typeID="3321" level="5" startSP="90644" endSP="512000" startTime="2024-01-18 01:30:24" endTime="2024-02-05 22:34:40" />
-        <skill typeID="3318" level="5" startSP="238472" endSP="512000" startTime="2024-02-05 22:34:40" endTime="2024-02-18 04:41:38" />
-        <skill typeID="3424" level="5" startSP="90510" endSP="512000" startTime="2024-02-18 04:41:38" endTime="2024-03-08 17:00:58" />
+        <skill typeID="20315" level="3" startSP="7072" endSP="40000" startTime="2023-12-28 00:25:19" endTime="2023-12-29 11:49:42" />
+        <skill typeID="20312" level="3" startSP="7072" endSP="40000" startTime="2023-12-29 11:49:42" endTime="2023-12-30 23:14:06" />
+        <skill typeID="3436" level="5" startSP="45255" endSP="256000" startTime="2023-12-30 23:14:06" endTime="2024-01-09 13:33:26" />
+        <skill typeID="3442" level="1" startSP="0" endSP="1250" startTime="2024-01-09 13:33:26" endTime="2024-01-09 14:55:24" />
+        <skill typeID="3442" level="2" startSP="1250" endSP="7072" startTime="2024-01-09 14:55:24" endTime="2024-01-09 21:17:11" />
+        <skill typeID="3442" level="3" startSP="7072" endSP="40000" startTime="2024-01-09 21:17:11" endTime="2024-01-11 09:16:23" />
+        <skill typeID="12441" level="4" startSP="16000" endSP="90510" startTime="2024-01-11 09:16:23" endTime="2024-01-14 17:23:29" />
+        <skill typeID="21071" level="4" startSP="16003" endSP="90510" startTime="2024-01-14 17:23:29" endTime="2024-01-18 01:30:23" />
+        <skill typeID="3321" level="5" startSP="90644" endSP="512000" startTime="2024-01-18 01:30:23" endTime="2024-02-05 22:34:39" />
+        <skill typeID="3318" level="5" startSP="238472" endSP="512000" startTime="2024-02-05 22:34:39" endTime="2024-02-18 04:41:37" />
+        <skill typeID="3424" level="5" startSP="90510" endSP="512000" startTime="2024-02-18 04:41:37" endTime="2024-03-08 17:00:57" />
       </queue>
       <marketOrders>
-        <buy orderID="6675481997" orderState="Fulfilled" price="1135000.0" volRemaining="0" issued="2023-12-26T16:49:48Z" issuedFor="Corporation" lastStateChange="2023-12-27T19:08:09.9434742Z" />
-        <buy orderID="6675482178" orderState="Fulfilled" price="812800.0" volRemaining="0" issued="2023-12-26T16:50:06Z" issuedFor="Corporation" lastStateChange="2023-12-27T19:08:09.9434742Z" />
-        <buy orderID="6675486208" orderState="Fulfilled" price="311000.0" volRemaining="0" issued="2023-12-26T16:56:07Z" issuedFor="Corporation" lastStateChange="2023-12-27T19:08:09.9434742Z" />
-        <buy orderID="6675516605" orderState="Fulfilled" price="1000000.0" volRemaining="0" issued="2023-12-26T17:36:23Z" issuedFor="Corporation" lastStateChange="2023-12-27T19:08:09.9434742Z" />
-        <buy orderID="6675521595" orderState="Fulfilled" price="100000.0" volRemaining="0" issued="2023-12-26T17:43:38Z" issuedFor="Corporation" lastStateChange="2023-12-27T19:08:09.9434742Z" />
-        <buy orderID="6675521756" orderState="Fulfilled" price="150000.0" volRemaining="0" issued="2023-12-26T17:43:55Z" issuedFor="Corporation" lastStateChange="2023-12-27T19:08:09.9434742Z" />
-        <buy orderID="6675521875" orderState="Fulfilled" price="200000.0" volRemaining="0" issued="2023-12-26T17:44:08Z" issuedFor="Corporation" lastStateChange="2023-12-27T19:08:09.9434742Z" />
+        <buy orderID="6675481997" orderState="Fulfilled" price="1135000.0" volRemaining="0" issued="2023-12-26T16:49:48Z" issuedFor="Corporation" lastStateChange="2023-12-28T15:26:06.5349618Z" />
+        <buy orderID="6675482178" orderState="Fulfilled" price="812800.0" volRemaining="0" issued="2023-12-26T16:50:06Z" issuedFor="Corporation" lastStateChange="2023-12-28T15:26:06.5349618Z" />
+        <buy orderID="6675486208" orderState="Fulfilled" price="311000.0" volRemaining="0" issued="2023-12-26T16:56:07Z" issuedFor="Corporation" lastStateChange="2023-12-28T15:26:06.5349618Z" />
+        <buy orderID="6675516605" orderState="Fulfilled" price="1000000.0" volRemaining="0" issued="2023-12-26T17:36:23Z" issuedFor="Corporation" lastStateChange="2023-12-28T15:26:06.5349618Z" />
+        <buy orderID="6675521595" orderState="Fulfilled" price="100000.0" volRemaining="0" issued="2023-12-26T17:43:38Z" issuedFor="Corporation" lastStateChange="2023-12-28T15:26:06.5349618Z" />
+        <buy orderID="6675521756" orderState="Fulfilled" price="150000.0" volRemaining="0" issued="2023-12-26T17:43:55Z" issuedFor="Corporation" lastStateChange="2023-12-28T15:26:06.5349618Z" />
+        <buy orderID="6675521875" orderState="Fulfilled" price="200000.0" volRemaining="0" issued="2023-12-26T17:44:08Z" issuedFor="Corporation" lastStateChange="2023-12-28T15:26:06.5349618Z" />
         <buy orderID="6676316838" orderState="Fulfilled" price="598100.0" volRemaining="0" issued="2023-12-27T17:04:12Z" issuedFor="Character" lastStateChange="2023-12-27T17:41:13.2075911Z" />
         <buy orderID="6676317289" orderState="Fulfilled" price="840000.0" volRemaining="0" issued="2023-12-27T17:04:44Z" issuedFor="Character" lastStateChange="2023-12-27T17:41:13.2075911Z" />
         <buy orderID="6676317352" orderState="Fulfilled" price="849000.0" volRemaining="0" issued="2023-12-27T17:04:48Z" issuedFor="Character" lastStateChange="2023-12-27T17:41:13.2075911Z" />
@@ -503,8 +502,8 @@
         <buy orderID="6676347356" orderState="Fulfilled" price="99950.0" volRemaining="0" issued="2023-12-27T17:40:49Z" issuedFor="Character" lastStateChange="2023-12-27T17:41:13.2075911Z" />
         <buy orderID="6676347452" orderState="Fulfilled" price="99950.0" volRemaining="0" issued="2023-12-27T17:40:54Z" issuedFor="Character" lastStateChange="2023-12-27T17:41:13.2075911Z" />
         <sell orderID="6675525490" orderState="Fulfilled" price="350000.0" volRemaining="0" issued="2023-12-26T17:48:23Z" issuedFor="Character" lastStateChange="2023-12-27T11:12:13.8140431Z" />
-        <sell orderID="6675525827" orderState="Fulfilled" price="20000.0" volRemaining="1" issued="2023-12-26T17:48:49Z" issuedFor="Character" lastStateChange="2023-12-28T00:08:12.6578133Z" />
-        <sell orderID="6675526158" orderState="Active" price="400000.0" volRemaining="1" issued="2023-12-26T17:49:16Z" issuedFor="Character" lastStateChange="2023-12-26T20:24:22.3116784Z" />
+        <sell orderID="6675525827" orderState="Fulfilled" price="20000.0" volRemaining="0" issued="2023-12-26T17:48:49Z" issuedFor="Character" lastStateChange="2023-12-28T00:08:12.6578133Z" />
+        <sell orderID="6675526158" orderState="Fulfilled" price="400000.0" volRemaining="0" issued="2023-12-26T17:49:16Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5349618Z" />
         <buy orderID="6675522182" orderState="Fulfilled" price="100000.0" volRemaining="0" issued="2023-12-26T17:44:37Z" issuedFor="Character" lastStateChange="2023-12-26T20:24:22.3116784Z" />
         <sell orderID="6675534664" orderState="Fulfilled" price="4995000.0" volRemaining="0" issued="2023-12-26T18:00:10Z" issuedFor="Character" lastStateChange="2023-12-26T20:24:22.3116784Z" />
         <sell orderID="6675534665" orderState="Fulfilled" price="997000.0" volRemaining="0" issued="2023-12-26T18:00:10Z" issuedFor="Character" lastStateChange="2023-12-26T20:24:22.3116784Z" />
@@ -591,40 +590,40 @@
         <job jobID="524653294" jobState="Active" startDate="2023-06-21T10:29:59Z" endDate="2023-06-21T11:52:18Z" pauseDate="0001-01-01T00:00:00" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.4734626Z" />
         <job jobID="524653232" jobState="Active" startDate="2023-06-21T10:28:55Z" endDate="2023-06-21T10:37:09Z" pauseDate="0001-01-01T00:00:00" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.4734626Z" />
       </industryJobs>
-      <eveMailMessages>394979936,394975451,394974915,394969719,394965514,394965463,394965365,394960545,394960524,394959333,394958386,394958257,394958203,394958045,394957951,394957739,394957721,394940720,394940333,394940287,394940229,394938426,394933468,394932811,394873526,394850848,394823413,394788544,394753790,394749389,394738685,394738653,394736598,394736539,394736489,394730287,394730017,394728393,394716091,394714631,394488230,394430840,394392561,394119769,393645346,393597717</eveMailMessages>
+      <eveMailMessages>394985733,394979936,394975451,394974915,394969719,394965514,394965463,394965365,394960545,394960524,394959333,394958386,394958257,394958203,394958045,394957951,394957739,394957721,394940720,394940333,394940287,394940229,394938426,394933468,394932811,394873526,394850848,394823413,394788544,394753790,394749389,394738685,394738653,394736598,394736539,394736489,394730287,394730017,394728393,394716091,394714631,394488230,394430840,394392561,394119769,393645346</eveMailMessages>
       <eveNotifications>1791989017,1792021699,1792026752,1792051020,1792201837,1792255423,1792256043,1792256045,1792260022,1792262422,1792262423,1792709234,1792948950,1792948951,1792951090,1793260701,1793263697,1793264083,1793265440,1793266894,1794135560,1794136061,1794137503,1794141220,1794141221,1794666795,1794673653,1837745845,1837745846,1837745848,1837749639,1837751219,1837959353,1837960835,1837972493,1837972494,1837972496,1838066849,1838067279,1870038650,1874639433,1874639434,1874639727,1875140133,1875152717,1875239662,1875253466,1875272401,1875385461,1875468127,1875470026,1875475426,1875480990,1875488732,1875504687,1875517023,1875524449,1875549935,1875553296,1875557576,1878815688,1879174470,1879175850,1879176423,1879176961,1879187610,1879209345,1879209597,1879209645,1879222313,1884574993,1884622704,1886227468,1887240691,1887240821,1887240870,1887493706,1887494318,1887561708,1887623664,1888036417,1888038225</eveNotifications>
       <lastUpdates>
-        <apiUpdate method="CharacterSheet" time="2023-12-27T19:08:10.5590585Z" />
-        <apiUpdate method="Location" time="2023-12-27T19:08:11.5547299Z" />
-        <apiUpdate method="Clones" time="2023-12-27T19:08:11.6162475Z" />
-        <apiUpdate method="Implants" time="2023-12-27T19:08:11.6062736Z" />
-        <apiUpdate method="Ship" time="2023-12-27T19:08:11.6252583Z" />
-        <apiUpdate method="Skills" time="2023-12-27T19:08:11.7031154Z" />
-        <apiUpdate method="SkillQueue" time="2023-12-28T01:12:55.5341401Z" />
-        <apiUpdate method="EmploymentHistory" time="2023-12-27T19:08:11.5497438Z" />
-        <apiUpdate method="Standings" time="2023-12-28T02:09:10.5682333Z" />
-        <apiUpdate method="ContactList" time="2023-12-28T02:08:32.0475656Z" />
+        <apiUpdate method="CharacterSheet" time="2023-12-28T15:26:07.5352387Z" />
+        <apiUpdate method="Location" time="2023-12-28T15:26:08.2848147Z" />
+        <apiUpdate method="Clones" time="2023-12-28T15:26:08.3925534Z" />
+        <apiUpdate method="Implants" time="2023-12-28T15:26:08.3565157Z" />
+        <apiUpdate method="Ship" time="2023-12-28T15:26:08.3925534Z" />
+        <apiUpdate method="Skills" time="2023-12-28T15:26:08.4194812Z" />
+        <apiUpdate method="SkillQueue" time="2023-12-28T15:26:07.4219527Z" />
+        <apiUpdate method="EmploymentHistory" time="2023-12-28T15:26:08.3555184Z" />
+        <apiUpdate method="Standings" time="2023-12-28T15:26:06.2501838Z" />
+        <apiUpdate method="ContactList" time="2023-12-28T15:26:06.5040177Z" />
         <apiUpdate method="FactionalWarfareStats" time="0001-01-01T00:00:00" />
-        <apiUpdate method="Medals" time="2023-12-27T11:12:13.2284433Z" />
-        <apiUpdate method="KillLog" time="2023-12-28T02:08:32.0385631Z" />
-        <apiUpdate method="AssetList" time="2023-12-28T02:09:17.7222402Z" />
-        <apiUpdate method="MarketOrders" time="2023-12-28T02:08:13.7640774Z" />
-        <apiUpdate method="Contracts" time="2023-12-28T02:08:32.0126321Z" />
-        <apiUpdate method="WalletJournal" time="2023-12-28T02:09:10.8285372Z" />
-        <apiUpdate method="AccountBalance" time="2023-12-27T19:08:11.5921812Z" />
-        <apiUpdate method="WalletTransactions" time="2023-12-28T02:09:10.6001483Z" />
-        <apiUpdate method="IndustryJobs" time="2023-12-28T02:08:13.793997Z" />
-        <apiUpdate method="ResearchPoints" time="2023-12-28T02:08:35.0985999Z" />
-        <apiUpdate method="MailMessages" time="2023-12-28T02:08:13.7730579Z" />
+        <apiUpdate method="Medals" time="2023-12-28T15:26:06.2511812Z" />
+        <apiUpdate method="KillLog" time="2023-12-28T15:26:06.2471916Z" />
+        <apiUpdate method="AssetList" time="2023-12-28T15:26:06.2631492Z" />
+        <apiUpdate method="MarketOrders" time="2023-12-28T15:26:06.274119Z" />
+        <apiUpdate method="Contracts" time="2023-12-28T15:26:06.2930692Z" />
+        <apiUpdate method="WalletJournal" time="2023-12-28T15:26:06.5189778Z" />
+        <apiUpdate method="AccountBalance" time="2023-12-28T15:26:08.3088508Z" />
+        <apiUpdate method="WalletTransactions" time="2023-12-28T15:26:06.4433231Z" />
+        <apiUpdate method="IndustryJobs" time="2023-12-28T15:26:06.335955Z" />
+        <apiUpdate method="ResearchPoints" time="2023-12-28T15:26:06.3020447Z" />
+        <apiUpdate method="MailMessages" time="2023-12-28T15:26:06.4074587Z" />
         <apiUpdate method="MailingLists" time="0001-01-01T00:00:00" />
-        <apiUpdate method="Notifications" time="2023-12-28T02:08:14.8337388Z" />
+        <apiUpdate method="Notifications" time="2023-12-28T15:26:06.3618847Z" />
         <apiUpdate method="UpcomingCalendarEvents" time="0001-01-01T00:00:00" />
-        <apiUpdate method="PlanetaryColonies" time="2023-12-28T02:08:13.7800361Z" />
-        <apiUpdate method="LoyaltyPoints" time="2023-12-28T02:08:35.0946096Z" />
-        <apiUpdate method="CorporationMedals" time="2023-12-27T11:12:13.5612589Z" />
-        <apiUpdate method="CorporationMarketOrders" time="2023-12-28T02:08:33.1674024Z" />
-        <apiUpdate method="CorporationContracts" time="2023-12-28T02:08:33.1723889Z" />
-        <apiUpdate method="CorporationIndustryJobs" time="2023-12-28T02:08:33.2140792Z" />
+        <apiUpdate method="PlanetaryColonies" time="2023-12-28T15:26:06.5030201Z" />
+        <apiUpdate method="LoyaltyPoints" time="2023-12-28T15:26:06.2940665Z" />
+        <apiUpdate method="CorporationMedals" time="2023-12-28T15:26:06.4622715Z" />
+        <apiUpdate method="CorporationMarketOrders" time="2023-12-28T15:26:06.3775392Z" />
+        <apiUpdate method="CorporationContracts" time="2023-12-28T15:26:06.5030201Z" />
+        <apiUpdate method="CorporationIndustryJobs" time="2023-12-28T15:26:06.4662617Z" />
       </lastUpdates>
     </ccp>
     <ccp guid="20c7bab8-567c-43f8-83d1-b548db1c35f4" label="GILA">
@@ -691,10 +690,10 @@
         <skill typeID="3418" name="Capacitor Management" level="4" activelevel="4" skillpoints="135765" ownsBook="true" isKnown="true" />
         <skill typeID="3417" name="Capacitor Systems Operation" level="3" activelevel="3" skillpoints="8000" ownsBook="true" isKnown="true" />
         <skill typeID="3426" name="CPU Management" level="5" activelevel="5" skillpoints="256000" ownsBook="true" isKnown="true" />
-        <skill typeID="3432" name="Electronics Upgrades" level="4" activelevel="4" skillpoints="171111" ownsBook="true" isKnown="true" />
+        <skill typeID="3432" name="Electronics Upgrades" level="4" activelevel="4" skillpoints="184811" ownsBook="true" isKnown="true" />
         <skill typeID="3424" name="Energy Grid Upgrades" level="4" activelevel="4" skillpoints="90510" ownsBook="true" isKnown="true" />
         <skill typeID="3413" name="Power Grid Management" level="5" activelevel="5" skillpoints="256000" ownsBook="true" isKnown="true" />
-        <skill typeID="3318" name="Weapon Upgrades" level="5" activelevel="4" skillpoints="512000" ownsBook="true" isKnown="true" />
+        <skill typeID="3318" name="Weapon Upgrades" level="5" activelevel="5" skillpoints="512000" ownsBook="true" isKnown="true" />
         <skill typeID="3316" name="Controlled Bursts" level="2" activelevel="2" skillpoints="2829" ownsBook="true" isKnown="true" />
         <skill typeID="3300" name="Gunnery" level="4" activelevel="4" skillpoints="45255" ownsBook="true" isKnown="true" />
         <skill typeID="3312" name="Motion Prediction" level="2" activelevel="2" skillpoints="2829" ownsBook="true" isKnown="true" />
@@ -791,8 +790,8 @@
         <selectedIndex>0</selectedIndex>
       </implants>
       <queue>
-        <skill typeID="3432" level="5" startSP="90510" endSP="512000" startTime="2023-12-24 15:30:08" endTime="2024-01-11 15:47:59" />
-        <skill typeID="3424" level="5" startSP="90510" endSP="512000" startTime="2024-01-11 15:47:59" endTime="2024-01-29 16:05:49" />
+        <skill typeID="3432" level="5" startSP="90510" endSP="512000" startTime="2023-12-24 15:30:07" endTime="2024-01-11 15:47:58" />
+        <skill typeID="3424" level="5" startSP="90510" endSP="512000" startTime="2024-01-11 15:47:58" endTime="2024-01-29 16:05:48" />
       </queue>
       <marketOrders>
         <sell orderID="6651376616" orderState="Fulfilled" price="23900.0" volRemaining="0" issued="2023-11-28T20:52:25Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6452979Z" />
@@ -813,40 +812,40 @@
         <contract contractID="199431545" contractState="Deleted" contractType="ItemExchange" issuedFor="Character" />
       </contracts>
       <industryJobs />
-      <eveMailMessages>394979936,394975451,394974915,394969719,394965514,394965463,394965365,394960545,394960524,394959333,394958386,394958257,394958203,394958045,394957951,394957739,394956139,394940720,394940287,394940229,394939607,394938426,394933468,394932811,394873526,394850848,394823413,394812155,394809877,394788544,394753790,394749389,394736598,394736539,394736489,394736391,394730287,394730017,394728393,394241361,394135749,394135045,393996078,393991301,393856497,393732876,393666634</eveMailMessages>
+      <eveMailMessages>394985733,394979936,394975451,394974915,394969719,394965514,394965463,394965365,394960545,394960524,394959333,394958386,394958257,394958203,394958045,394957951,394957739,394956139,394940720,394940287,394940229,394939607,394938426,394933468,394932811,394873526,394850848,394823413,394812155,394809877,394788544,394753790,394749389,394736598,394736539,394736489,394736391,394730287,394730017,394728393,394241361,394135749,394135045,393996078,393991301,393856497,393732876</eveMailMessages>
       <eveNotifications>1649737666,1649740776,1681732705,1681745161,1681767124,1685221012,1685228872,1686085891,1686085892,1686214101,1701261419,1702547719,1710409832,1714750073,1714754700,1715840035,1715851252,1718215253,1720092870,1722596296,1724514891,1727225756,1728438087,1730230153,1730700809,1730981825,1737036293,1737036730,1737037062,1737037405,1737037894,1737038273,1737038520,1737038881,1737039551,1737040155,1737040880,1737103622,1737104032,1737104428,1737104758,1737105035,1737105197,1737105564,1737106057,1737106406,1743822795,1743826655,1745171208,1746638275,1753282655,1753293662,1754302658,1759004515,1763938307,1766732046,1766732069,1766880058,1766881702,1773741153,1788840919,1788841482,1788843962,1791033183,1792664312,1792747951,1794625724,1795067406,1795563296,1795565413,1796991099,1799630406,1799635729,1799644226,1799668933,1799671608,1800491590,1801181298,1802153828,1802155331,1802157921,1803180925,1805014705,1805380366,1805380396,1805380421,1805380466,1805670719,1806021510,1806027289,1806028484,1806036409,1806038046,1806050067,1806051768,1806060334,1806062325,1806065997,1806479593,1806479698,1806481184,1806482277,1806488999,1806490793,1806491419,1806491510,1806700980,1806883441,1806890668,1806894625,1806935555,1806981759,1807342811,1807374366,1807384906,1808310252,1808318428,1808736099,1808743417,1809168516,1809595834,1809603116,1809629659,1810594560,1811024017,1813460976,1814402933,1815583993,1815589831,1816418811,1822937591,1823914057,1823914493,1823916780,1823922467,1823924630,1823925097,1824748092,1824823180,1824881401,1825307257,1828679289,1833863393,1833869624,1833877047,1833884508,1833892985,1834004883,1834767075,1834772668,1834779522,1834781058,1834785447,1834807410,1834810361,1834891394,1834893417,1835640032,1835714183,1835795495,1835835021,1836216066,1836220397,1836236208,1836240440,1836245182,1836248970,1837068031,1837074052,1837224929,1838478662,1839549188,1839549635,1839577297,1839577306,1839592915,1839592939,1839959453,1839999250,1840022399,1840439910,1840439960,1840441813,1840441863,1840442411,1840442511,1840443615,1840443820,1840444725,1840445866,1840446351,1840448568,1840448659,1840450691,1840450779,1840451290,1840451399,1840452217,1840452446,1840453237,1840454890,1840507197,1843840265,1843848326,1843850361,1843860940,1844390302,1844398849,1844748089,1844782160,1844864070,1844890244,1844898651,1844900141,1844907096,1845221331,1845343232,1845746064,1845773440,1846828348,1846837756,1846839318,1846840297,1846847476,1846849207,1847819184,1847867479,1847886348,1847908652,1847911553,1847912309,1847924768,1848219707,1848226714,1848230652,1848234681,1848254086,1848264790,1848627485,1848654982,1849224618,1849233411,1849237267,1849246021,1849324462,1849347732,1849357858,1849375660,1849433424,1849672685,1849676392,1850338129,1850364294,1850497566,1850792660,1850803821,1852269067,1852340118,1854736784,1854740342,1854748256,1854751303,1854758674,1854783391,1854798523,1854802150,1854815595,1854822510,1854829885,1855379627,1855693086,1855695119,1855714230,1855721840,1855742819,1855750682,1855763965,1855767960,1855769819,1855771891,1855775673,1855787039,1855791696,1855808473,1855812392,1855820043,1855824816,1855824991,1855832721,1855842940,1855843959,1856881437,1856909846,1856922633,1856975291,1857060834,1857079057,1858069023,1858069210,1858069834,1858070071,1858075575,1858075779,1858076409,1858076640,1858086528,1858086752,1858087031,1858087169,1858087748,1858087864,1858088774,1858089201,1858089632,1858089930,1858091905,1858092110,1858092356,1858092503,1858093093,1858093245,1858094128,1858094609,1858095037,1858095038,1858095386,1858097326,1858097399,1858097484,1858097903,1858108409,1858108547,1858108702,1858108941,1858109135,1863859639,1865395534,1866359503,1866359507,1866360602,1867698230,1868686990,1868686995,1870713642,1870713643,1870713644,1870713645,1870739830,1870787550,1870794957,1870801108,1874622904,1884575157,1884622776,1886352924</eveNotifications>
       <lastUpdates>
-        <apiUpdate method="CharacterSheet" time="2023-12-27T19:08:10.5398509Z" />
-        <apiUpdate method="Location" time="2023-12-27T19:08:11.5607144Z" />
-        <apiUpdate method="Clones" time="2023-12-27T19:08:11.6292719Z" />
-        <apiUpdate method="Implants" time="2023-12-27T19:08:11.6533224Z" />
-        <apiUpdate method="Ship" time="2023-12-27T19:08:11.6252583Z" />
-        <apiUpdate method="Skills" time="2023-12-27T19:08:11.6663246Z" />
-        <apiUpdate method="SkillQueue" time="2023-12-28T02:08:34.1296032Z" />
-        <apiUpdate method="EmploymentHistory" time="2023-12-27T19:08:11.5527359Z" />
-        <apiUpdate method="Standings" time="2023-12-28T02:09:10.5652417Z" />
-        <apiUpdate method="ContactList" time="2023-12-28T02:08:31.9977014Z" />
+        <apiUpdate method="CharacterSheet" time="2023-12-28T15:26:07.2255935Z" />
+        <apiUpdate method="Location" time="2023-12-28T15:26:08.2778759Z" />
+        <apiUpdate method="Clones" time="2023-12-28T15:26:08.354521Z" />
+        <apiUpdate method="Implants" time="2023-12-28T15:26:08.3585104Z" />
+        <apiUpdate method="Ship" time="2023-12-28T15:26:08.3525268Z" />
+        <apiUpdate method="Skills" time="2023-12-28T15:26:08.42397Z" />
+        <apiUpdate method="SkillQueue" time="2023-12-28T15:26:07.3349484Z" />
+        <apiUpdate method="EmploymentHistory" time="2023-12-28T15:26:08.2749096Z" />
+        <apiUpdate method="Standings" time="2023-12-28T15:26:06.2890793Z" />
+        <apiUpdate method="ContactList" time="2023-12-28T15:26:06.2322318Z" />
         <apiUpdate method="FactionalWarfareStats" time="0001-01-01T00:00:00" />
-        <apiUpdate method="Medals" time="2023-12-27T11:12:13.061548Z" />
-        <apiUpdate method="KillLog" time="2023-12-28T02:08:32.0395789Z" />
-        <apiUpdate method="AssetList" time="2023-12-28T02:09:15.6947059Z" />
-        <apiUpdate method="MarketOrders" time="2023-12-28T02:08:13.7221894Z" />
-        <apiUpdate method="Contracts" time="2023-12-28T02:08:33.2609269Z" />
-        <apiUpdate method="WalletJournal" time="2023-12-28T02:09:10.8006124Z" />
-        <apiUpdate method="AccountBalance" time="2023-12-27T19:08:11.607297Z" />
-        <apiUpdate method="WalletTransactions" time="2023-12-28T02:09:12.6539174Z" />
-        <apiUpdate method="IndustryJobs" time="2023-12-28T02:08:14.787862Z" />
-        <apiUpdate method="ResearchPoints" time="2023-12-28T02:08:35.089623Z" />
-        <apiUpdate method="MailMessages" time="2023-12-28T02:08:13.8139438Z" />
+        <apiUpdate method="Medals" time="2023-12-28T15:26:06.1551628Z" />
+        <apiUpdate method="KillLog" time="2023-12-28T15:26:06.170397Z" />
+        <apiUpdate method="AssetList" time="2023-12-28T15:26:06.2511812Z" />
+        <apiUpdate method="MarketOrders" time="2023-12-28T15:26:06.1262409Z" />
+        <apiUpdate method="Contracts" time="2023-12-28T15:26:06.1963283Z" />
+        <apiUpdate method="WalletJournal" time="2023-12-28T15:26:06.4443199Z" />
+        <apiUpdate method="AccountBalance" time="2023-12-28T15:26:08.3052328Z" />
+        <apiUpdate method="WalletTransactions" time="2023-12-28T15:26:06.4652636Z" />
+        <apiUpdate method="IndustryJobs" time="2023-12-28T15:26:06.1713939Z" />
+        <apiUpdate method="ResearchPoints" time="2023-12-28T15:26:06.2182688Z" />
+        <apiUpdate method="MailMessages" time="2023-12-28T15:26:06.3110206Z" />
         <apiUpdate method="MailingLists" time="0001-01-01T00:00:00" />
-        <apiUpdate method="Notifications" time="2023-12-28T02:08:13.7213352Z" />
+        <apiUpdate method="Notifications" time="2023-12-28T15:26:06.1302306Z" />
         <apiUpdate method="UpcomingCalendarEvents" time="0001-01-01T00:00:00" />
-        <apiUpdate method="PlanetaryColonies" time="2023-12-28T02:08:13.7880136Z" />
-        <apiUpdate method="LoyaltyPoints" time="2023-12-28T02:08:35.1275211Z" />
-        <apiUpdate method="CorporationMedals" time="2023-12-27T11:12:13.2245401Z" />
-        <apiUpdate method="CorporationMarketOrders" time="2023-12-28T02:09:23.7146478Z" />
-        <apiUpdate method="CorporationContracts" time="2023-12-28T02:08:34.3001476Z" />
-        <apiUpdate method="CorporationIndustryJobs" time="2023-12-28T02:09:24.7427321Z" />
+        <apiUpdate method="PlanetaryColonies" time="2023-12-28T15:26:06.1913407Z" />
+        <apiUpdate method="LoyaltyPoints" time="2023-12-28T15:26:06.3110206Z" />
+        <apiUpdate method="CorporationMedals" time="2023-12-28T15:26:06.4403302Z" />
+        <apiUpdate method="CorporationMarketOrders" time="2023-12-28T16:12:22.1169635Z" />
+        <apiUpdate method="CorporationContracts" time="2023-12-28T15:26:06.473242Z" />
+        <apiUpdate method="CorporationIndustryJobs" time="2023-12-28T16:12:22.1256363Z" />
       </lastUpdates>
     </ccp>
     <ccp guid="984696ef-cc83-4a75-8620-18746a418d19" label="Drones Gunnery">
@@ -896,7 +895,7 @@
         <booster>3</booster>
       </attributes>
       <skills>
-        <skill typeID="3394" name="Hull Upgrades" level="3" activelevel="2" skillpoints="16000" ownsBook="true" isKnown="true" />
+        <skill typeID="3394" name="Hull Upgrades" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
         <skill typeID="3392" name="Mechanics" level="3" activelevel="3" skillpoints="8000" ownsBook="true" isKnown="true" />
         <skill typeID="16069" name="Remote Armor Repair Systems" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="false" />
         <skill typeID="3393" name="Repair Systems" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="false" />
@@ -924,10 +923,10 @@
         <skill typeID="3316" name="Controlled Bursts" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
         <skill typeID="3300" name="Gunnery" level="4" activelevel="4" skillpoints="45255" ownsBook="true" isKnown="true" />
         <skill typeID="3312" name="Motion Prediction" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
-        <skill typeID="3310" name="Rapid Firing" level="3" activelevel="3" skillpoints="43981" ownsBook="true" isKnown="true" />
+        <skill typeID="3310" name="Rapid Firing" level="3" activelevel="3" skillpoints="61896" ownsBook="true" isKnown="true" />
         <skill typeID="3311" name="Sharpshooter" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
         <skill typeID="3303" name="Small Energy Turret" level="3" activelevel="3" skillpoints="8000" ownsBook="true" isKnown="true" />
-        <skill typeID="3301" name="Small Hybrid Turret" level="4" activelevel="3" skillpoints="45255" ownsBook="true" isKnown="true" />
+        <skill typeID="3301" name="Small Hybrid Turret" level="4" activelevel="4" skillpoints="45255" ownsBook="true" isKnown="true" />
         <skill typeID="3302" name="Small Projectile Turret" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="false" />
         <skill typeID="3315" name="Surgical Strike" level="3" activelevel="3" skillpoints="32000" ownsBook="true" isKnown="true" />
         <skill typeID="3317" name="Trajectory Analysis" level="3" activelevel="3" skillpoints="40153" ownsBook="true" isKnown="true" />
@@ -1017,22 +1016,22 @@
         <selectedIndex>0</selectedIndex>
       </implants>
       <queue>
-        <skill typeID="3310" level="4" startSP="16000" endSP="90510" startTime="2023-12-27 04:13:28" endTime="2023-12-29 21:35:03" />
-        <skill typeID="3312" level="4" startSP="16000" endSP="90510" startTime="2023-12-29 21:35:03" endTime="2024-01-01 14:56:37" />
-        <skill typeID="3316" level="4" startSP="16000" endSP="90510" startTime="2024-01-01 14:56:37" endTime="2024-01-04 08:18:12" />
-        <skill typeID="24241" level="4" startSP="8000" endSP="45255" startTime="2024-01-04 08:18:12" endTime="2024-01-06 01:01:09" />
-        <skill typeID="23606" level="4" startSP="8000" endSP="45255" startTime="2024-01-06 01:01:09" endTime="2024-01-07 17:44:06" />
-        <skill typeID="12305" level="4" startSP="8000" endSP="45255" startTime="2024-01-07 17:44:06" endTime="2024-01-09 10:27:03" />
-        <skill typeID="3437" level="4" startSP="8000" endSP="45255" startTime="2024-01-09 10:27:03" endTime="2024-01-11 03:10:00" />
-        <skill typeID="33699" level="4" startSP="16000" endSP="90510" startTime="2024-01-11 03:10:00" endTime="2024-01-14 12:35:54" />
-        <skill typeID="3394" level="4" startSP="16000" endSP="90510" startTime="2024-01-14 12:35:54" endTime="2024-01-18 13:59:50" />
-        <skill typeID="3315" level="4" startSP="32000" endSP="181020" startTime="2024-01-18 13:59:50" endTime="2024-01-24 00:42:59" />
-        <skill typeID="3317" level="4" startSP="40153" endSP="226275" startTime="2024-01-24 00:42:59" endTime="2024-01-30 19:58:53" />
-        <skill typeID="23618" level="4" startSP="40000" endSP="226275" startTime="2024-01-30 19:58:53" endTime="2024-02-08 07:33:38" />
-        <skill typeID="3413" level="5" startSP="177585" endSP="256000" startTime="2024-02-08 07:33:38" endTime="2024-02-12 14:03:50" />
+        <skill typeID="3310" level="4" startSP="16000" endSP="90510" startTime="2023-12-27 04:13:27" endTime="2023-12-29 21:35:02" />
+        <skill typeID="3312" level="4" startSP="16000" endSP="90510" startTime="2023-12-29 21:35:02" endTime="2024-01-01 14:56:36" />
+        <skill typeID="3316" level="4" startSP="16000" endSP="90510" startTime="2024-01-01 14:56:36" endTime="2024-01-04 08:18:11" />
+        <skill typeID="24241" level="4" startSP="8000" endSP="45255" startTime="2024-01-04 08:18:11" endTime="2024-01-06 01:01:08" />
+        <skill typeID="23606" level="4" startSP="8000" endSP="45255" startTime="2024-01-06 01:01:08" endTime="2024-01-07 17:44:05" />
+        <skill typeID="12305" level="4" startSP="8000" endSP="45255" startTime="2024-01-07 17:44:05" endTime="2024-01-09 10:27:02" />
+        <skill typeID="3437" level="4" startSP="8000" endSP="45255" startTime="2024-01-09 10:27:02" endTime="2024-01-11 03:09:59" />
+        <skill typeID="33699" level="4" startSP="16000" endSP="90510" startTime="2024-01-11 03:09:59" endTime="2024-01-14 12:35:53" />
+        <skill typeID="3394" level="4" startSP="16000" endSP="90510" startTime="2024-01-14 12:35:53" endTime="2024-01-18 13:59:49" />
+        <skill typeID="3315" level="4" startSP="32000" endSP="181020" startTime="2024-01-18 13:59:49" endTime="2024-01-24 00:42:58" />
+        <skill typeID="3317" level="4" startSP="40153" endSP="226275" startTime="2024-01-24 00:42:58" endTime="2024-01-30 19:58:52" />
+        <skill typeID="23618" level="4" startSP="40000" endSP="226275" startTime="2024-01-30 19:58:52" endTime="2024-02-08 07:33:37" />
+        <skill typeID="3413" level="5" startSP="177585" endSP="256000" startTime="2024-02-08 07:33:37" endTime="2024-02-12 14:03:49" />
       </queue>
       <marketOrders>
-        <buy orderID="6673976868" orderState="Fulfilled" price="248900.0" volRemaining="0" issued="2023-12-24T16:56:34Z" issuedFor="Corporation" lastStateChange="2023-12-27T19:08:09.9224488Z" />
+        <buy orderID="6673976868" orderState="Fulfilled" price="248900.0" volRemaining="0" issued="2023-12-24T16:56:34Z" issuedFor="Corporation" lastStateChange="2023-12-28T15:26:06.8588832Z" />
         <sell orderID="6673989184" orderState="Fulfilled" price="876000.0" volRemaining="0" issued="2023-12-24T17:14:44Z" issuedFor="Character" lastStateChange="2023-12-24T21:51:13.4044786Z" />
         <sell orderID="6673983052" orderState="Active" price="24540.0" volRemaining="1" issued="2023-12-24T17:05:52Z" issuedFor="Character" lastStateChange="2023-12-24T17:14:10.5850132Z" />
         <buy orderID="6673953426" orderState="Fulfilled" price="482300.0" volRemaining="0" issued="2023-12-24T16:25:29Z" issuedFor="Character" lastStateChange="2023-12-24T17:14:10.5850132Z" />
@@ -1083,40 +1082,40 @@
       <industryJobs>
         <job jobID="542090264" jobState="Active" startDate="2023-12-25T17:16:36Z" endDate="2024-01-05T04:41:36Z" pauseDate="0001-01-01T00:00:00" issuedFor="Character" lastStateChange="2023-12-26T07:36:27.5028703Z" />
       </industryJobs>
-      <eveMailMessages>394979936,394975451,394974915,394969719,394965365,394960545,394960524,394959333,394940720,394940333,394940287,394940229,394939607,394938426,394933468,394932811,394873526,394850848,394820122,394812155,394809877,394802873,394787991,394761107,394759438,388211584,379739899</eveMailMessages>
+      <eveMailMessages>394985733,394979936,394975451,394974915,394969719,394965365,394960545,394960524,394959333,394940720,394940333,394940287,394940229,394939607,394938426,394933468,394932811,394873526,394850848,394820122,394812155,394809877,394802873,394787991,394761107,394759438,388211584,379739899</eveMailMessages>
       <eveNotifications>1874717444,1874718453,1874730943,1874739833,1874749268,1874759847,1874760027,1874770809,1874771328,1874774427,1874782413,1874785809,1874792156,1875254086,1875827511,1876393496,1876405917,1876421785,1876425906,1876450866,1876454137,1876454294,1876458569,1876459568,1876473389,1876522648,1878815687,1878824165,1879169848,1879169849,1879205985,1879222833,1879459307,1879465381,1879466675,1884574935,1884622642,1886372827,1886918506,1886928441,1887083274</eveNotifications>
       <lastUpdates>
-        <apiUpdate method="CharacterSheet" time="2023-12-27T19:08:10.5570628Z" />
-        <apiUpdate method="Location" time="2023-12-27T19:08:11.5727554Z" />
-        <apiUpdate method="Clones" time="2023-12-27T19:08:11.6462608Z" />
-        <apiUpdate method="Implants" time="2023-12-27T19:08:11.6342666Z" />
-        <apiUpdate method="Ship" time="2023-12-27T19:08:11.6543201Z" />
-        <apiUpdate method="Skills" time="2023-12-27T19:08:11.6866609Z" />
-        <apiUpdate method="SkillQueue" time="2023-12-28T02:08:33.1524422Z" />
-        <apiUpdate method="EmploymentHistory" time="2023-12-27T19:08:11.5748958Z" />
-        <apiUpdate method="Standings" time="2023-12-28T02:09:10.5961593Z" />
-        <apiUpdate method="ContactList" time="2023-12-28T02:08:32.0814474Z" />
+        <apiUpdate method="CharacterSheet" time="2023-12-28T15:26:07.5160763Z" />
+        <apiUpdate method="Location" time="2023-12-28T15:26:08.3062324Z" />
+        <apiUpdate method="Clones" time="2023-12-28T15:26:08.3945481Z" />
+        <apiUpdate method="Implants" time="2023-12-28T15:26:08.401529Z" />
+        <apiUpdate method="Ship" time="2023-12-28T15:26:08.3965433Z" />
+        <apiUpdate method="Skills" time="2023-12-28T15:26:08.42397Z" />
+        <apiUpdate method="SkillQueue" time="2023-12-28T15:26:07.3429284Z" />
+        <apiUpdate method="EmploymentHistory" time="2023-12-28T15:26:08.401529Z" />
+        <apiUpdate method="Standings" time="2023-12-28T15:26:06.3080286Z" />
+        <apiUpdate method="ContactList" time="2023-12-28T15:26:06.3954913Z" />
         <apiUpdate method="FactionalWarfareStats" time="0001-01-01T00:00:00" />
-        <apiUpdate method="Medals" time="2023-12-27T11:12:13.1806192Z" />
-        <apiUpdate method="KillLog" time="2023-12-28T02:08:32.0315806Z" />
-        <apiUpdate method="AssetList" time="2023-12-28T02:09:17.6903252Z" />
-        <apiUpdate method="MarketOrders" time="2023-12-28T02:08:13.7760452Z" />
-        <apiUpdate method="Contracts" time="2023-12-28T02:08:32.0365681Z" />
-        <apiUpdate method="WalletJournal" time="2023-12-28T02:09:11.2504743Z" />
-        <apiUpdate method="AccountBalance" time="2023-12-27T19:08:11.6162475Z" />
-        <apiUpdate method="WalletTransactions" time="2023-12-28T02:09:13.7510157Z" />
-        <apiUpdate method="IndustryJobs" time="2023-12-28T02:08:13.7860187Z" />
-        <apiUpdate method="ResearchPoints" time="2023-12-28T02:08:35.1175498Z" />
-        <apiUpdate method="MailMessages" time="2023-12-28T02:08:13.7870166Z" />
+        <apiUpdate method="Medals" time="2023-12-28T15:26:06.3100243Z" />
+        <apiUpdate method="KillLog" time="2023-12-28T15:26:06.2511812Z" />
+        <apiUpdate method="AssetList" time="2023-12-28T15:26:06.3219918Z" />
+        <apiUpdate method="MarketOrders" time="2023-12-28T15:26:06.4940441Z" />
+        <apiUpdate method="Contracts" time="2023-12-28T15:26:06.3219918Z" />
+        <apiUpdate method="WalletJournal" time="2023-12-28T15:26:06.9020498Z" />
+        <apiUpdate method="AccountBalance" time="2023-12-28T15:26:08.3525268Z" />
+        <apiUpdate method="WalletTransactions" time="2023-12-28T15:26:06.4891997Z" />
+        <apiUpdate method="IndustryJobs" time="2023-12-28T15:26:06.2721248Z" />
+        <apiUpdate method="ResearchPoints" time="2023-12-28T15:26:06.4752375Z" />
+        <apiUpdate method="MailMessages" time="2023-12-28T15:26:06.3229891Z" />
         <apiUpdate method="MailingLists" time="0001-01-01T00:00:00" />
-        <apiUpdate method="Notifications" time="2023-12-28T02:08:14.8457066Z" />
+        <apiUpdate method="Notifications" time="2023-12-28T15:26:06.3925002Z" />
         <apiUpdate method="UpcomingCalendarEvents" time="0001-01-01T00:00:00" />
-        <apiUpdate method="PlanetaryColonies" time="2023-12-28T02:08:13.8069622Z" />
-        <apiUpdate method="LoyaltyPoints" time="2023-12-28T02:08:39.1925167Z" />
-        <apiUpdate method="CorporationMedals" time="2023-12-27T11:12:13.6042028Z" />
-        <apiUpdate method="CorporationMarketOrders" time="2023-12-28T02:08:34.0757477Z" />
-        <apiUpdate method="CorporationContracts" time="2023-12-28T02:08:33.1713929Z" />
-        <apiUpdate method="CorporationIndustryJobs" time="2023-12-28T02:08:33.1951031Z" />
+        <apiUpdate method="PlanetaryColonies" time="2023-12-28T15:26:06.3100243Z" />
+        <apiUpdate method="LoyaltyPoints" time="2023-12-28T15:26:06.2890793Z" />
+        <apiUpdate method="CorporationMedals" time="2023-12-28T15:26:06.5030201Z" />
+        <apiUpdate method="CorporationMarketOrders" time="2023-12-28T15:26:06.5109993Z" />
+        <apiUpdate method="CorporationContracts" time="2023-12-28T15:26:06.4882022Z" />
+        <apiUpdate method="CorporationIndustryJobs" time="2023-12-28T15:26:06.4882022Z" />
       </lastUpdates>
     </ccp>
     <ccp guid="24677fa6-bdd9-4e3a-b270-5c33d768fefd" label="Drones Missiles Gunnery">
@@ -1151,7 +1150,7 @@
         <stationID>60005014</stationID>
         <structureID>0</structureID>
       </lastKnownLocation>
-      <securityStatus>0</securityStatus>
+      <securityStatus>0.018588054</securityStatus>
       <cloneStateOverride>Auto</cloneStateOverride>
       <employmentHistory>
         <record corporationID="98743399" corporationName="Dee Cartel" startDate="2023-06-23 18:37:00" />
@@ -1171,7 +1170,7 @@
         <skill typeID="16069" name="Remote Armor Repair Systems" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
         <skill typeID="3393" name="Repair Systems" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
         <skill typeID="3437" name="Drone Avionics" level="4" activelevel="4" skillpoints="45255" ownsBook="true" isKnown="true" />
-        <skill typeID="23618" name="Drone Durability" level="3" activelevel="3" skillpoints="113206" ownsBook="true" isKnown="true" />
+        <skill typeID="23618" name="Drone Durability" level="3" activelevel="3" skillpoints="126274" ownsBook="true" isKnown="true" />
         <skill typeID="3442" name="Drone Interfacing" level="3" activelevel="3" skillpoints="40000" ownsBook="true" isKnown="true" />
         <skill typeID="12305" name="Drone Navigation" level="4" activelevel="4" skillpoints="45255" ownsBook="true" isKnown="true" />
         <skill typeID="23606" name="Drone Sharpshooting" level="4" activelevel="4" skillpoints="45255" ownsBook="true" isKnown="true" />
@@ -1205,7 +1204,7 @@
         <skill typeID="12442" name="Missile Projection" level="2" activelevel="2" skillpoints="5657" ownsBook="true" isKnown="true" />
         <skill typeID="21071" name="Rapid Launch" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
         <skill typeID="3320" name="Rockets" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
-        <skill typeID="20314" name="Target Navigation Prediction" level="3" activelevel="2" skillpoints="16000" ownsBook="true" isKnown="true" />
+        <skill typeID="20314" name="Target Navigation Prediction" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
         <skill typeID="20315" name="Warhead Upgrades" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
         <skill typeID="3452" name="Acceleration Control" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
         <skill typeID="3450" name="Afterburner" level="3" activelevel="3" skillpoints="8000" ownsBook="true" isKnown="true" />
@@ -1272,7 +1271,7 @@
         <selectedIndex>0</selectedIndex>
       </implants>
       <queue>
-        <skill typeID="23618" level="4" startSP="62526" endSP="226275" startTime="2023-12-25 19:40:33" endTime="2024-01-02 03:45:00" />
+        <skill typeID="23618" level="4" startSP="62526" endSP="226275" startTime="2023-12-25 19:40:32" endTime="2024-01-02 03:44:59" />
       </queue>
       <marketOrders>
         <buy orderID="6673674622" orderState="Fulfilled" price="91810.0" volRemaining="0" issued="2023-12-24T08:59:37Z" issuedFor="Character" lastStateChange="2023-12-24T11:32:40.1170279Z" />
@@ -1347,40 +1346,40 @@
         <contract contractID="199481926" contractState="Finished" contractType="ItemExchange" issuedFor="Character" />
       </contracts>
       <industryJobs />
-      <eveMailMessages>394979936,394975451,394974915,394969719,394965514,394965463,394965365,394960545,394960524,394959333,394958386,394958257,394958203,394958045,394957951,394957739,394940720,394940333,394940287,394940229,394939607,394933468,394932811,394873526,394850848,394823413,394812155,394809877,394788544,394753790,394749389,394738685,394738653,394736598,394736539,394736489,394736391,394730287,394730017,394728393,393512682,393496375,393496218,393490855,393490711,393490698,393490647,393490608</eveMailMessages>
+      <eveMailMessages>394985733,394979936,394975451,394974915,394969719,394965514,394965463,394965365,394960545,394960524,394959333,394958386,394958257,394958203,394958045,394957951,394957739,394940720,394940333,394940287,394940229,394939607,394933468,394932811,394873526,394850848,394823413,394812155,394809877,394788544,394753790,394749389,394738685,394738653,394736598,394736539,394736489,394736391,394730287,394730017,394728393,393512682,393496375,393496218,393490855,393490711,393490698,393490647</eveMailMessages>
       <eveNotifications>1792747715,1870038650,1874639433,1874639434,1874639727,1875239662,1875553296,1879174470,1879175850,1879176423,1879176961,1884588007,1885013146,1885015687,1885015717,1885023398,1885025004,1885026167,1885192332,1885195650,1885203312,1885204607,1885209672,1885211110,1885211821,1885217065,1885220574,1885926033,1885927219,1885936667,1886186820,1886200872,1886203903,1886206899,1886207715,1886207716,1886208133,1886209847,1886212469,1886212656,1886220686,1886221729,1886227468,1886229589,1886352712,1887240691,1887240821,1887240870,1887493706,1887494318,1887561708,1887623664</eveNotifications>
       <lastUpdates>
-        <apiUpdate method="CharacterSheet" time="2023-12-27T19:08:10.5580603Z" />
-        <apiUpdate method="Location" time="2023-12-27T19:08:11.5648961Z" />
-        <apiUpdate method="Clones" time="2023-12-27T19:08:11.622267Z" />
-        <apiUpdate method="Implants" time="2023-12-27T19:08:11.642269Z" />
-        <apiUpdate method="Ship" time="2023-12-27T19:08:11.6472312Z" />
-        <apiUpdate method="Skills" time="2023-12-27T19:08:11.6714679Z" />
-        <apiUpdate method="SkillQueue" time="2023-12-28T02:08:34.1405732Z" />
-        <apiUpdate method="EmploymentHistory" time="2023-12-27T19:08:11.5648961Z" />
-        <apiUpdate method="Standings" time="2023-12-28T02:09:10.5522762Z" />
-        <apiUpdate method="ContactList" time="2023-12-28T02:08:32.0455728Z" />
+        <apiUpdate method="CharacterSheet" time="2023-12-28T15:26:07.454126Z" />
+        <apiUpdate method="Location" time="2023-12-28T15:26:08.3052328Z" />
+        <apiUpdate method="Clones" time="2023-12-28T15:26:08.3975399Z" />
+        <apiUpdate method="Implants" time="2023-12-28T15:26:08.3955452Z" />
+        <apiUpdate method="Ship" time="2023-12-28T15:26:08.3975399Z" />
+        <apiUpdate method="Skills" time="2023-12-28T15:26:08.4229701Z" />
+        <apiUpdate method="SkillQueue" time="2023-12-28T15:26:07.3737325Z" />
+        <apiUpdate method="EmploymentHistory" time="2023-12-28T15:26:08.4545434Z" />
+        <apiUpdate method="Standings" time="2023-12-28T15:26:06.3020447Z" />
+        <apiUpdate method="ContactList" time="2023-12-28T15:26:06.3060337Z" />
         <apiUpdate method="FactionalWarfareStats" time="0001-01-01T00:00:00" />
-        <apiUpdate method="Medals" time="2023-12-27T11:12:13.0186034Z" />
-        <apiUpdate method="KillLog" time="2023-12-28T02:08:32.0236028Z" />
-        <apiUpdate method="AssetList" time="2023-12-28T02:09:19.7212401Z" />
-        <apiUpdate method="MarketOrders" time="2023-12-28T02:08:13.7582365Z" />
-        <apiUpdate method="Contracts" time="2023-12-28T02:08:32.0265952Z" />
-        <apiUpdate method="WalletJournal" time="2023-12-28T02:09:10.6200953Z" />
-        <apiUpdate method="AccountBalance" time="2023-12-27T19:08:11.6172735Z" />
-        <apiUpdate method="WalletTransactions" time="2023-12-28T02:09:10.5782075Z" />
-        <apiUpdate method="IndustryJobs" time="2023-12-28T02:08:13.7760452Z" />
-        <apiUpdate method="ResearchPoints" time="2023-12-28T02:08:35.1055807Z" />
-        <apiUpdate method="MailMessages" time="2023-12-28T02:08:13.7989847Z" />
+        <apiUpdate method="Medals" time="2023-12-28T15:26:06.2651433Z" />
+        <apiUpdate method="KillLog" time="2023-12-28T15:26:06.2352235Z" />
+        <apiUpdate method="AssetList" time="2023-12-28T15:26:06.2382154Z" />
+        <apiUpdate method="MarketOrders" time="2023-12-28T15:26:06.3090268Z" />
+        <apiUpdate method="Contracts" time="2023-12-28T15:26:06.1664051Z" />
+        <apiUpdate method="WalletJournal" time="2023-12-28T15:26:06.4930466Z" />
+        <apiUpdate method="AccountBalance" time="2023-12-28T15:26:08.3664896Z" />
+        <apiUpdate method="WalletTransactions" time="2023-12-28T15:26:06.301048Z" />
+        <apiUpdate method="IndustryJobs" time="2023-12-28T15:26:06.2511812Z" />
+        <apiUpdate method="ResearchPoints" time="2023-12-28T15:26:06.194333Z" />
+        <apiUpdate method="MailMessages" time="2023-12-28T15:26:06.3369519Z" />
         <apiUpdate method="MailingLists" time="0001-01-01T00:00:00" />
-        <apiUpdate method="Notifications" time="2023-12-28T02:08:13.8270492Z" />
+        <apiUpdate method="Notifications" time="2023-12-28T15:26:06.2491863Z" />
         <apiUpdate method="UpcomingCalendarEvents" time="0001-01-01T00:00:00" />
-        <apiUpdate method="PlanetaryColonies" time="2023-12-28T02:08:13.805965Z" />
-        <apiUpdate method="LoyaltyPoints" time="2023-12-28T02:08:39.1705379Z" />
-        <apiUpdate method="CorporationMedals" time="2023-12-27T11:12:13.5544269Z" />
-        <apiUpdate method="CorporationMarketOrders" time="2023-12-28T02:08:33.1803674Z" />
-        <apiUpdate method="CorporationContracts" time="2023-12-28T02:08:33.2778815Z" />
-        <apiUpdate method="CorporationIndustryJobs" time="2023-12-28T02:08:33.1684Z" />
+        <apiUpdate method="PlanetaryColonies" time="2023-12-28T15:26:06.3100243Z" />
+        <apiUpdate method="LoyaltyPoints" time="2023-12-28T15:26:06.2731221Z" />
+        <apiUpdate method="CorporationMedals" time="2023-12-28T15:26:06.4160783Z" />
+        <apiUpdate method="CorporationMarketOrders" time="2023-12-28T15:26:06.479227Z" />
+        <apiUpdate method="CorporationContracts" time="2023-12-28T15:26:06.4882022Z" />
+        <apiUpdate method="CorporationIndustryJobs" time="2023-12-28T15:26:06.3110206Z" />
       </lastUpdates>
     </ccp>
     <ccp guid="b869a88a-da3e-45c8-85d5-cd5ae62864ff" label="Shields Drones Missiles">
@@ -1415,7 +1414,7 @@
         <stationID>60000541</stationID>
         <structureID>0</structureID>
       </lastKnownLocation>
-      <securityStatus>0.34627634500000004</securityStatus>
+      <securityStatus>0.36008524000000003</securityStatus>
       <cloneStateOverride>Alpha</cloneStateOverride>
       <employmentHistory>
         <record corporationID="98743399" corporationName="Dee Cartel" startDate="2023-06-23 18:34:00" />
@@ -1475,9 +1474,9 @@
         <skill typeID="3324" name="Heavy Missiles" level="3" activelevel="3" skillpoints="24000" ownsBook="true" isKnown="true" />
         <skill typeID="3321" name="Light Missiles" level="4" activelevel="4" skillpoints="90510" ownsBook="true" isKnown="true" />
         <skill typeID="12441" name="Missile Bombardment" level="4" activelevel="4" skillpoints="90510" ownsBook="true" isKnown="true" />
-        <skill typeID="3319" name="Missile Launcher Operation" level="4" activelevel="4" skillpoints="165522" ownsBook="true" isKnown="true" />
+        <skill typeID="3319" name="Missile Launcher Operation" level="4" activelevel="4" skillpoints="181752" ownsBook="true" isKnown="true" />
         <skill typeID="12442" name="Missile Projection" level="2" activelevel="2" skillpoints="5657" ownsBook="true" isKnown="true" />
-        <skill typeID="21071" name="Rapid Launch" level="4" activelevel="3" skillpoints="90510" ownsBook="true" isKnown="true" />
+        <skill typeID="21071" name="Rapid Launch" level="4" activelevel="4" skillpoints="90510" ownsBook="true" isKnown="true" />
         <skill typeID="3320" name="Rockets" level="1" activelevel="1" skillpoints="250" ownsBook="true" isKnown="true" />
         <skill typeID="20314" name="Target Navigation Prediction" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
         <skill typeID="20315" name="Warhead Upgrades" level="3" activelevel="3" skillpoints="40000" ownsBook="true" isKnown="true" />
@@ -1558,53 +1557,52 @@
         <selectedIndex>0</selectedIndex>
       </implants>
       <queue>
-        <skill typeID="3319" level="5" startSP="45255" endSP="256000" startTime="2023-12-23 18:02:33" endTime="2023-12-31 08:30:21" />
-        <skill typeID="28164" level="2" startSP="750" endSP="4243" startTime="2023-12-31 08:30:21" endTime="2023-12-31 13:04:18" />
-        <skill typeID="28164" level="3" startSP="4243" endSP="24000" startTime="2023-12-31 13:04:18" endTime="2024-01-01 14:53:52" />
+        <skill typeID="3319" level="5" startSP="45255" endSP="256000" startTime="2023-12-23 18:02:32" endTime="2023-12-31 08:30:20" />
+        <skill typeID="28164" level="2" startSP="750" endSP="4243" startTime="2023-12-31 08:30:20" endTime="2023-12-31 13:04:17" />
+        <skill typeID="28164" level="3" startSP="4243" endSP="24000" startTime="2023-12-31 13:04:17" endTime="2024-01-01 14:53:51" />
       </queue>
       <marketOrders>
         <sell orderID="6663504085" orderState="Active" price="200000.0" volRemaining="1" issued="2023-12-12T06:41:10Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
         <sell orderID="6663504313" orderState="Active" price="125100.0" volRemaining="100" issued="2023-12-12T06:41:55Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
         <sell orderID="6663504576" orderState="Fulfilled" price="60010.0" volRemaining="0" issued="2023-12-12T06:42:38Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
         <sell orderID="6663504617" orderState="Fulfilled" price="12270.0" volRemaining="0" issued="2023-12-12T06:42:48Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
-        <buy orderID="6671279058" orderState="Fulfilled" price="43400.0" volRemaining="0" issued="2023-12-21T13:11:51Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.598469Z" />
       </marketOrders>
       <contracts />
       <industryJobs />
       <eveMailMessages>394979936,394975451,394974915,394965514,394965463,394965365,394960545,394960524,394959333,394958386,394958257,394958203,394958045,394957951,394957739,394940720,394940333,394940287,394940229,394939607,394938426,394933468,394873526,394850848,394823413,394812155,394809877,394788544,394753790,394749389,394738685,394738653,394736598,394736539,394736489,394736391,394730287,394730017,394728393,393512682,393496375,393496218,393490855,393490711,386028525,381617258</eveMailMessages>
       <eveNotifications>1068084539,1068885727,1071249069,1071252021,1087968996,1251838933,1252619560,1273647061,1377415462,1792747640,1870038650,1874639433,1874639434,1874639727,1875239662,1875553296,1879036411,1879036412,1879036414,1879064047,1879159003,1879174470,1879175850,1879176423,1879176961,1879268067,1879270748,1879273788,1879276704,1879278980,1884530659,1884544873,1884547721,1884550572,1884560066,1884561572,1884562556,1884567111,1884568678,1884573268,1884577050,1884584314,1884585800,1884587451,1884600499,1884622384,1886227468,1886352556,1887240691,1887240821,1887240870,1887493706,1887494318,1887561708,1887623664</eveNotifications>
       <lastUpdates>
-        <apiUpdate method="CharacterSheet" time="2023-12-27T19:08:10.5590585Z" />
-        <apiUpdate method="Location" time="2023-12-27T19:08:11.5891795Z" />
-        <apiUpdate method="Clones" time="2023-12-27T19:08:11.6503279Z" />
-        <apiUpdate method="Implants" time="2023-12-27T19:08:11.6432419Z" />
-        <apiUpdate method="Ship" time="2023-12-27T19:08:11.6513555Z" />
-        <apiUpdate method="Skills" time="2023-12-27T19:08:11.7081073Z" />
-        <apiUpdate method="SkillQueue" time="2023-12-28T02:08:33.083031Z" />
-        <apiUpdate method="EmploymentHistory" time="2023-12-27T19:08:11.5860567Z" />
-        <apiUpdate method="Standings" time="2023-12-28T02:09:10.5632471Z" />
-        <apiUpdate method="ContactList" time="2023-12-28T02:08:32.0425948Z" />
+        <apiUpdate method="CharacterSheet" time="2023-12-28T15:26:07.5243266Z" />
+        <apiUpdate method="Location" time="2023-12-28T15:26:08.3062324Z" />
+        <apiUpdate method="Clones" time="2023-12-28T15:26:08.3985373Z" />
+        <apiUpdate method="Implants" time="2023-12-28T15:26:08.3995345Z" />
+        <apiUpdate method="Ship" time="2023-12-28T15:26:08.3925534Z" />
+        <apiUpdate method="Skills" time="2023-12-28T15:26:08.42397Z" />
+        <apiUpdate method="SkillQueue" time="2023-12-28T15:26:07.3259714Z" />
+        <apiUpdate method="EmploymentHistory" time="2023-12-28T15:26:08.4164898Z" />
+        <apiUpdate method="Standings" time="2023-12-28T15:26:06.3708607Z" />
+        <apiUpdate method="ContactList" time="2023-12-28T15:26:06.4752375Z" />
         <apiUpdate method="FactionalWarfareStats" time="0001-01-01T00:00:00" />
-        <apiUpdate method="Medals" time="2023-12-27T11:12:13.2245401Z" />
-        <apiUpdate method="KillLog" time="2023-12-28T02:08:32.0265952Z" />
-        <apiUpdate method="AssetList" time="2023-12-28T02:09:21.7652734Z" />
-        <apiUpdate method="MarketOrders" time="2023-12-28T02:08:13.7830282Z" />
-        <apiUpdate method="Contracts" time="2023-12-28T02:08:32.0116346Z" />
-        <apiUpdate method="WalletJournal" time="2023-12-28T02:09:10.6789373Z" />
-        <apiUpdate method="AccountBalance" time="2023-12-27T19:08:11.6262949Z" />
-        <apiUpdate method="WalletTransactions" time="2023-12-28T02:09:10.6869166Z" />
-        <apiUpdate method="IndustryJobs" time="2023-12-28T02:08:13.7860187Z" />
-        <apiUpdate method="ResearchPoints" time="2023-12-28T02:08:35.1255269Z" />
-        <apiUpdate method="MailMessages" time="2023-12-28T02:08:13.8408723Z" />
+        <apiUpdate method="Medals" time="2023-12-28T15:26:06.3319654Z" />
+        <apiUpdate method="KillLog" time="2023-12-28T15:26:06.3755625Z" />
+        <apiUpdate method="AssetList" time="2023-12-28T15:26:06.4064619Z" />
+        <apiUpdate method="MarketOrders" time="2023-12-28T15:26:06.3349572Z" />
+        <apiUpdate method="Contracts" time="2023-12-28T15:26:06.3765418Z" />
+        <apiUpdate method="WalletJournal" time="2023-12-28T15:26:06.4832164Z" />
+        <apiUpdate method="AccountBalance" time="2023-12-28T15:26:08.354521Z" />
+        <apiUpdate method="WalletTransactions" time="2023-12-28T15:26:06.3934965Z" />
+        <apiUpdate method="IndustryJobs" time="2023-12-28T15:26:06.3915016Z" />
+        <apiUpdate method="ResearchPoints" time="2023-12-28T15:26:06.3229891Z" />
+        <apiUpdate method="MailMessages" time="2023-12-28T15:26:06.4622715Z" />
         <apiUpdate method="MailingLists" time="0001-01-01T00:00:00" />
-        <apiUpdate method="Notifications" time="2023-12-28T02:08:14.8187786Z" />
+        <apiUpdate method="Notifications" time="2023-12-28T15:26:06.405465Z" />
         <apiUpdate method="UpcomingCalendarEvents" time="0001-01-01T00:00:00" />
-        <apiUpdate method="PlanetaryColonies" time="2023-12-28T02:08:13.8079596Z" />
-        <apiUpdate method="LoyaltyPoints" time="2023-12-28T02:08:35.1045835Z" />
-        <apiUpdate method="CorporationMedals" time="2023-12-27T11:12:13.546619Z" />
-        <apiUpdate method="CorporationMarketOrders" time="2023-12-28T02:08:33.1981229Z" />
-        <apiUpdate method="CorporationContracts" time="2023-12-28T02:08:33.1921124Z" />
-        <apiUpdate method="CorporationIndustryJobs" time="2023-12-28T02:08:33.2060744Z" />
+        <apiUpdate method="PlanetaryColonies" time="2023-12-28T15:26:06.3755625Z" />
+        <apiUpdate method="LoyaltyPoints" time="2023-12-28T15:26:06.3369519Z" />
+        <apiUpdate method="CorporationMedals" time="2023-12-28T15:26:06.4453172Z" />
+        <apiUpdate method="CorporationMarketOrders" time="2023-12-28T15:26:06.3479223Z" />
+        <apiUpdate method="CorporationContracts" time="2023-12-28T15:26:06.4752375Z" />
+        <apiUpdate method="CorporationIndustryJobs" time="2023-12-28T15:26:06.4453172Z" />
       </lastUpdates>
     </ccp>
     <ccp guid="43cde78d-f909-49c8-9a50-3ee87b81d6c3" label="!!!Missiles">
@@ -1661,13 +1659,13 @@
         <skill typeID="16069" name="Remote Armor Repair Systems" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
         <skill typeID="3393" name="Repair Systems" level="3" activelevel="3" skillpoints="8000" ownsBook="true" isKnown="true" />
         <skill typeID="3437" name="Drone Avionics" level="3" activelevel="3" skillpoints="8000" ownsBook="true" isKnown="true" />
-        <skill typeID="23618" name="Drone Durability" level="2" activelevel="0" skillpoints="38176" ownsBook="true" isKnown="true" />
+        <skill typeID="23618" name="Drone Durability" level="3" activelevel="3" skillpoints="40000" ownsBook="true" isKnown="true" />
         <skill typeID="3442" name="Drone Interfacing" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
         <skill typeID="12305" name="Drone Navigation" level="3" activelevel="3" skillpoints="8000" ownsBook="true" isKnown="true" />
         <skill typeID="23606" name="Drone Sharpshooting" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
-        <skill typeID="3436" name="Drones" level="4" activelevel="4" skillpoints="45255" ownsBook="true" isKnown="true" />
-        <skill typeID="24241" name="Light Drone Operation" level="4" activelevel="3" skillpoints="45255" ownsBook="true" isKnown="true" />
-        <skill typeID="33699" name="Medium Drone Operation" level="3" activelevel="1" skillpoints="16000" ownsBook="true" isKnown="true" />
+        <skill typeID="3436" name="Drones" level="4" activelevel="4" skillpoints="56288" ownsBook="true" isKnown="true" />
+        <skill typeID="24241" name="Light Drone Operation" level="4" activelevel="4" skillpoints="45255" ownsBook="true" isKnown="true" />
+        <skill typeID="33699" name="Medium Drone Operation" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
         <skill typeID="3438" name="Mining Drone Operation" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
         <skill typeID="3427" name="Electronic Warfare" level="1" activelevel="1" skillpoints="500" ownsBook="true" isKnown="true" />
         <skill typeID="3435" name="Propulsion Jamming" level="1" activelevel="1" skillpoints="750" ownsBook="true" isKnown="true" />
@@ -1780,15 +1778,14 @@
         <selectedIndex>0</selectedIndex>
       </implants>
       <queue>
-        <skill typeID="23618" level="3" startSP="7072" endSP="40000" startTime="2023-12-26 16:10:37" endTime="2023-12-28 04:09:49" />
-        <skill typeID="3436" level="5" startSP="45255" endSP="256000" startTime="2023-12-28 04:09:49" endTime="2024-01-06 18:29:10" />
-        <skill typeID="23606" level="1" startSP="0" endSP="250" startTime="2024-01-06 18:29:10" endTime="2024-01-06 18:45:34" />
-        <skill typeID="3442" level="1" startSP="0" endSP="1250" startTime="2024-01-06 18:45:34" endTime="2024-01-06 20:07:32" />
-        <skill typeID="23606" level="2" startSP="250" endSP="1415" startTime="2024-01-06 20:07:32" endTime="2024-01-06 21:23:55" />
-        <skill typeID="3442" level="2" startSP="1250" endSP="7072" startTime="2024-01-06 21:23:55" endTime="2024-01-07 03:45:41" />
-        <skill typeID="23606" level="3" startSP="1415" endSP="8000" startTime="2024-01-07 03:45:41" endTime="2024-01-07 10:57:30" />
-        <skill typeID="3442" level="3" startSP="7072" endSP="40000" startTime="2024-01-07 10:57:30" endTime="2024-01-08 22:56:42" />
-        <skill typeID="3413" level="5" startSP="182952" endSP="256000" startTime="2024-01-08 22:56:42" endTime="2024-01-12 08:06:34" />
+        <skill typeID="3436" level="5" startSP="45255" endSP="256000" startTime="2023-12-28 04:09:48" endTime="2024-01-06 18:29:09" />
+        <skill typeID="23606" level="1" startSP="0" endSP="250" startTime="2024-01-06 18:29:09" endTime="2024-01-06 18:45:33" />
+        <skill typeID="3442" level="1" startSP="0" endSP="1250" startTime="2024-01-06 18:45:33" endTime="2024-01-06 20:07:31" />
+        <skill typeID="23606" level="2" startSP="250" endSP="1415" startTime="2024-01-06 20:07:31" endTime="2024-01-06 21:23:54" />
+        <skill typeID="3442" level="2" startSP="1250" endSP="7072" startTime="2024-01-06 21:23:54" endTime="2024-01-07 03:45:40" />
+        <skill typeID="23606" level="3" startSP="1415" endSP="8000" startTime="2024-01-07 03:45:40" endTime="2024-01-07 10:57:29" />
+        <skill typeID="3442" level="3" startSP="7072" endSP="40000" startTime="2024-01-07 10:57:29" endTime="2024-01-08 22:56:41" />
+        <skill typeID="3413" level="5" startSP="182952" endSP="256000" startTime="2024-01-08 22:56:41" endTime="2024-01-12 08:06:33" />
       </queue>
       <marketOrders>
         <buy orderID="6673382477" orderState="Fulfilled" price="1355000.0" volRemaining="0" issued="2023-12-23T22:57:17Z" issuedFor="Character" lastStateChange="2023-12-24T11:32:40.1180249Z" />
@@ -1832,37 +1829,37 @@
       <eveMailMessages>394979936,394975451,394974915,394965514,394965463,394965365,394960545,394960524,394959333,394958386,394958257,394958203,394958045,394957951,394957739,394940720,394940333,394940287,394940229,394939607,394938426,394933468,394932811,394873526,394823413,394812155,394809877,394808706,394788544,394753790,394749389,394738685,394738653,394736598,394736539,394736489,394736391,394730287,394730017,394728393,393512682,393496375,393496218,393490855,393490711,393490698</eveMailMessages>
       <eveNotifications>1765807848,1765807983,1765808645,1765855446,1765856052,1765856053,1765860335,1765870564,1765924083,1765925355,1765926343,1765928119,1765934792,1765942420,1765986402,1766004282,1766007672,1766007681,1766016903,1767585214,1767585215,1767958006,1767958007,1767961034,1768391653,1768429534,1768596781,1769162252,1769176597,1769530178,1777938284,1777938286,1792003813,1792747649,1792936933,1875136045,1875136046,1875136047,1875136048,1875136049,1875138654,1875151954,1875239662,1875553296,1878470095,1878482072,1878502705,1878506521,1878510973,1879174470,1879175850,1879176423,1879176961,1884622495,1886227468,1886352658,1887240691,1887240821,1887240870,1887493706,1887494318,1887561708,1887623664</eveNotifications>
       <lastUpdates>
-        <apiUpdate method="CharacterSheet" time="2023-12-27T19:08:10.5590585Z" />
-        <apiUpdate method="Location" time="2023-12-27T19:08:11.590146Z" />
-        <apiUpdate method="Clones" time="2023-12-27T19:08:11.6442646Z" />
-        <apiUpdate method="Implants" time="2023-12-27T19:08:11.6362605Z" />
-        <apiUpdate method="Ship" time="2023-12-27T19:08:11.6372586Z" />
-        <apiUpdate method="Skills" time="2023-12-27T19:08:11.7021183Z" />
-        <apiUpdate method="SkillQueue" time="2023-12-28T02:08:33.1035762Z" />
-        <apiUpdate method="EmploymentHistory" time="2023-12-27T19:08:11.5677455Z" />
-        <apiUpdate method="Standings" time="2023-12-28T02:09:10.5772098Z" />
-        <apiUpdate method="ContactList" time="2023-12-28T02:08:32.0405572Z" />
+        <apiUpdate method="CharacterSheet" time="2023-12-28T15:26:07.5198376Z" />
+        <apiUpdate method="Location" time="2023-12-28T15:26:08.2848147Z" />
+        <apiUpdate method="Clones" time="2023-12-28T15:26:08.3985373Z" />
+        <apiUpdate method="Implants" time="2023-12-28T15:26:08.3842967Z" />
+        <apiUpdate method="Ship" time="2023-12-28T15:26:08.3965433Z" />
+        <apiUpdate method="Skills" time="2023-12-28T15:26:08.4214761Z" />
+        <apiUpdate method="SkillQueue" time="2023-12-28T15:26:07.3299616Z" />
+        <apiUpdate method="EmploymentHistory" time="2023-12-28T15:26:08.4025265Z" />
+        <apiUpdate method="Standings" time="2023-12-28T15:26:06.2302366Z" />
+        <apiUpdate method="ContactList" time="2023-12-28T15:26:06.1823652Z" />
         <apiUpdate method="FactionalWarfareStats" time="0001-01-01T00:00:00" />
-        <apiUpdate method="Medals" time="2023-12-27T11:12:13.1142515Z" />
-        <apiUpdate method="KillLog" time="2023-12-28T02:08:32.0255974Z" />
-        <apiUpdate method="AssetList" time="2023-12-28T02:09:18.7628731Z" />
-        <apiUpdate method="MarketOrders" time="2023-12-28T02:08:13.7850225Z" />
-        <apiUpdate method="Contracts" time="2023-12-28T02:08:32.0236028Z" />
-        <apiUpdate method="WalletJournal" time="2023-12-28T02:09:10.6669697Z" />
-        <apiUpdate method="AccountBalance" time="2023-12-27T19:08:11.6362605Z" />
-        <apiUpdate method="WalletTransactions" time="2023-12-28T02:09:10.6839253Z" />
-        <apiUpdate method="IndustryJobs" time="2023-12-28T02:08:13.7910057Z" />
-        <apiUpdate method="ResearchPoints" time="2023-12-28T02:08:35.1135594Z" />
-        <apiUpdate method="MailMessages" time="2023-12-28T02:08:13.805965Z" />
+        <apiUpdate method="Medals" time="2023-12-28T15:26:06.1963283Z" />
+        <apiUpdate method="KillLog" time="2023-12-28T15:26:06.1903435Z" />
+        <apiUpdate method="AssetList" time="2023-12-28T15:26:06.37355Z" />
+        <apiUpdate method="MarketOrders" time="2023-12-28T15:26:06.479227Z" />
+        <apiUpdate method="Contracts" time="2023-12-28T15:26:06.1963283Z" />
+        <apiUpdate method="WalletJournal" time="2023-12-28T15:26:06.4443199Z" />
+        <apiUpdate method="AccountBalance" time="2023-12-28T15:26:08.354521Z" />
+        <apiUpdate method="WalletTransactions" time="2023-12-28T15:26:06.2501838Z" />
+        <apiUpdate method="IndustryJobs" time="2023-12-28T15:26:06.19533Z" />
+        <apiUpdate method="ResearchPoints" time="2023-12-28T15:26:06.2890793Z" />
+        <apiUpdate method="MailMessages" time="2023-12-28T15:26:06.3885103Z" />
         <apiUpdate method="MailingLists" time="0001-01-01T00:00:00" />
-        <apiUpdate method="Notifications" time="2023-12-28T02:08:13.8041007Z" />
+        <apiUpdate method="Notifications" time="2023-12-28T15:26:06.3479223Z" />
         <apiUpdate method="UpcomingCalendarEvents" time="0001-01-01T00:00:00" />
-        <apiUpdate method="PlanetaryColonies" time="2023-12-28T02:08:13.7900554Z" />
-        <apiUpdate method="LoyaltyPoints" time="2023-12-28T02:08:35.1145569Z" />
-        <apiUpdate method="CorporationMedals" time="2023-12-27T11:12:13.5612589Z" />
-        <apiUpdate method="CorporationMarketOrders" time="2023-12-28T02:08:33.1624154Z" />
-        <apiUpdate method="CorporationContracts" time="2023-12-28T02:08:33.2689062Z" />
-        <apiUpdate method="CorporationIndustryJobs" time="2023-12-28T02:08:33.1634162Z" />
+        <apiUpdate method="PlanetaryColonies" time="2023-12-28T15:26:06.3349572Z" />
+        <apiUpdate method="LoyaltyPoints" time="2023-12-28T15:26:06.19533Z" />
+        <apiUpdate method="CorporationMedals" time="2023-12-28T15:26:06.4752375Z" />
+        <apiUpdate method="CorporationMarketOrders" time="2023-12-28T15:26:06.405465Z" />
+        <apiUpdate method="CorporationContracts" time="2023-12-28T15:26:06.4453172Z" />
+        <apiUpdate method="CorporationIndustryJobs" time="2023-12-28T15:26:06.4473116Z" />
       </lastUpdates>
     </ccp>
     <ccp guid="4ff89e78-4550-46a1-a16d-1c3b8a60c83c" label="Corax/Drake">
@@ -1879,7 +1876,7 @@
       <allianceName>(None)</allianceName>
       <allianceID>0</allianceID>
       <factionID>0</factionID>
-      <freeSkillPoints>41368</freeSkillPoints>
+      <freeSkillPoints>90368</freeSkillPoints>
       <freeRespecs>2</freeRespecs>
       <cloneJumpDate>0001-01-01 00:00:00</cloneJumpDate>
       <lastRespecDate>2023-12-27 14:50:07</lastRespecDate>
@@ -1889,15 +1886,15 @@
       <jumpFatigue>0001-01-01 00:00:00</jumpFatigue>
       <jumpLastUpdate>0001-01-01 00:00:00</jumpLastUpdate>
       <certificates />
-      <balance>3661619.27</balance>
-      <shipName>Subrat Lordessa 80km</shipName>
+      <balance>1094655.2</balance>
+      <shipName>Sub-r</shipName>
       <shipTypeName>Corax</shipTypeName>
       <lastKnownLocation>
-        <solarSystemID>30000142</solarSystemID>
-        <stationID>60003760</stationID>
+        <solarSystemID>30002755</solarSystemID>
+        <stationID>60014677</stationID>
         <structureID>0</structureID>
       </lastKnownLocation>
-      <securityStatus>0.023665347</securityStatus>
+      <securityStatus>0.031768450000000004</securityStatus>
       <cloneStateOverride>Auto</cloneStateOverride>
       <employmentHistory>
         <record corporationID="98756871" corporationName="Heirs of Holes" startDate="2023-12-11 20:34:00" />
@@ -1946,6 +1943,7 @@
         <skill typeID="3315" name="Surgical Strike" level="3" activelevel="3" skillpoints="32000" ownsBook="true" isKnown="true" />
         <skill typeID="3317" name="Trajectory Analysis" level="3" activelevel="3" skillpoints="40000" ownsBook="true" isKnown="true" />
         <skill typeID="20312" name="Guided Missile Precision" level="3" activelevel="3" skillpoints="40000" ownsBook="true" isKnown="true" />
+        <skill typeID="20210" name="Light Missile Specialization" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
         <skill typeID="3321" name="Light Missiles" level="4" activelevel="4" skillpoints="90510" ownsBook="true" isKnown="true" />
         <skill typeID="12441" name="Missile Bombardment" level="4" activelevel="4" skillpoints="90510" ownsBook="true" isKnown="true" />
         <skill typeID="3319" name="Missile Launcher Operation" level="5" activelevel="5" skillpoints="256000" ownsBook="true" isKnown="true" />
@@ -1974,7 +1972,7 @@
         <skill typeID="3551" name="Survey" level="3" activelevel="3" skillpoints="8000" ownsBook="true" isKnown="true" />
         <skill typeID="3402" name="Science" level="4" activelevel="4" skillpoints="45255" ownsBook="true" isKnown="true" />
         <skill typeID="21059" name="Shield Compensation" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
-        <skill typeID="3419" name="Shield Management" level="3" activelevel="3" skillpoints="33813" ownsBook="true" isKnown="true" />
+        <skill typeID="3419" name="Shield Management" level="3" activelevel="3" skillpoints="45406" ownsBook="true" isKnown="true" />
         <skill typeID="3416" name="Shield Operation" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
         <skill typeID="3425" name="Shield Upgrades" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
         <skill typeID="3420" name="Tactical Shield Manipulation" level="3" activelevel="3" skillpoints="32000" ownsBook="true" isKnown="true" />
@@ -1989,6 +1987,7 @@
         <skill typeID="3342" name="Caldari Hauler" level="1" activelevel="1" skillpoints="1000" ownsBook="true" isKnown="true" />
         <skill typeID="33093" name="Gallente Destroyer" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
         <skill typeID="3328" name="Gallente Frigate" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
+        <skill typeID="3340" name="Gallente Hauler" level="1" activelevel="1" skillpoints="1000" ownsBook="true" isKnown="true" />
         <skill typeID="32918" name="Mining Frigate" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
         <skill typeID="33094" name="Minmatar Destroyer" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
         <skill typeID="3329" name="Minmatar Frigate" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
@@ -2016,15 +2015,66 @@
         <selectedIndex>0</selectedIndex>
       </implants>
       <queue>
-        <skill typeID="3419" level="4" startSP="28571" endSP="135765" startTime="2023-12-27 19:48:57" endTime="2024-01-02 05:44:52" />
-        <skill typeID="3321" level="5" startSP="90510" endSP="512000" startTime="2024-01-02 05:44:52" endTime="2024-01-18 01:28:07" />
-        <skill typeID="3432" level="4" startSP="16000" endSP="90510" startTime="2024-01-18 01:28:07" endTime="2024-01-21 19:47:01" />
-        <skill typeID="20210" level="1" startSP="0" endSP="750" startTime="2024-01-21 19:47:01" endTime="2024-01-21 20:27:34" />
-        <skill typeID="20210" level="2" startSP="750" endSP="4243" startTime="2024-01-21 20:27:34" endTime="2024-01-21 23:36:22" />
-        <skill typeID="20210" level="3" startSP="4243" endSP="24000" startTime="2024-01-21 23:36:22" endTime="2024-01-22 17:24:19" />
-        <skill typeID="3394" level="4" startSP="16000" endSP="90510" startTime="2024-01-22 17:24:19" endTime="2024-01-26 11:43:14" />
+        <skill typeID="3419" level="4" startSP="28571" endSP="135765" startTime="2023-12-27 19:48:56" endTime="2024-01-02 05:44:51" />
+        <skill typeID="3321" level="5" startSP="90510" endSP="512000" startTime="2024-01-02 05:44:51" endTime="2024-01-18 01:28:06" />
+        <skill typeID="3432" level="4" startSP="16000" endSP="90510" startTime="2024-01-18 01:28:06" endTime="2024-01-21 19:47:00" />
+        <skill typeID="20210" level="1" startSP="0" endSP="750" startTime="2024-01-21 19:47:00" endTime="2024-01-21 20:27:33" />
+        <skill typeID="20210" level="2" startSP="750" endSP="4243" startTime="2024-01-21 20:27:33" endTime="2024-01-21 23:36:21" />
+        <skill typeID="20210" level="3" startSP="4243" endSP="24000" startTime="2024-01-21 23:36:21" endTime="2024-01-22 17:24:18" />
+        <skill typeID="3394" level="4" startSP="16000" endSP="90510" startTime="2024-01-22 17:24:18" endTime="2024-01-26 11:43:13" />
       </queue>
       <marketOrders>
+        <buy orderID="6676421256" orderState="Fulfilled" price="895000.0" volRemaining="0" issued="2023-12-27T19:12:25Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444069" orderState="Fulfilled" price="28520.0" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444070" orderState="Fulfilled" price="441.3" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444071" orderState="Fulfilled" price="24.25" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444072" orderState="Fulfilled" price="24.25" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444073" orderState="Fulfilled" price="28.07" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444074" orderState="Fulfilled" price="163300.0" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444075" orderState="Fulfilled" price="165900.0" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444076" orderState="Fulfilled" price="66700.0" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444077" orderState="Fulfilled" price="14.0" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444078" orderState="Fulfilled" price="600.0" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444079" orderState="Fulfilled" price="54070.0" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444080" orderState="Fulfilled" price="54020.0" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444081" orderState="Fulfilled" price="54030.0" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444082" orderState="Fulfilled" price="876.1" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444083" orderState="Fulfilled" price="20560.0" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444085" orderState="Fulfilled" price="6702.0" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444086" orderState="Fulfilled" price="13260.0" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444087" orderState="Fulfilled" price="4206.0" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444088" orderState="Fulfilled" price="14.0" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444089" orderState="Fulfilled" price="6860.0" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444090" orderState="Fulfilled" price="1200.0" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444091" orderState="Fulfilled" price="7003.0" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444092" orderState="Fulfilled" price="7740.0" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444093" orderState="Fulfilled" price="8000.0" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444094" orderState="Fulfilled" price="10410.0" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444095" orderState="Fulfilled" price="2606.0" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444096" orderState="Fulfilled" price="3809.0" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444097" orderState="Fulfilled" price="4524.0" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444098" orderState="Fulfilled" price="431.7" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444099" orderState="Fulfilled" price="2300.0" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444100" orderState="Fulfilled" price="31.01" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444101" orderState="Fulfilled" price="2201.0" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444102" orderState="Fulfilled" price="2810.0" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444103" orderState="Fulfilled" price="1861.0" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444104" orderState="Fulfilled" price="950.1" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444105" orderState="Fulfilled" price="12.15" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444106" orderState="Fulfilled" price="10.61" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444107" orderState="Fulfilled" price="13.9" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444108" orderState="Fulfilled" price="1198.0" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444109" orderState="Fulfilled" price="6.06" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444110" orderState="Fulfilled" price="15.99" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444111" orderState="Fulfilled" price="8.01" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444112" orderState="Fulfilled" price="6.96" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676444113" orderState="Fulfilled" price="3.58" volRemaining="0" issued="2023-12-27T19:40:19Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <buy orderID="6676444501" orderState="Fulfilled" price="4900000.0" volRemaining="0" issued="2023-12-27T19:40:43Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <buy orderID="6676489198" orderState="Fulfilled" price="438.4" volRemaining="0" issued="2023-12-27T20:36:37Z" issuedFor="Corporation" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676503036" orderState="Fulfilled" price="3.07" volRemaining="0" issued="2023-12-27T20:51:52Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676503037" orderState="Fulfilled" price="6.01" volRemaining="0" issued="2023-12-27T20:51:52Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676503038" orderState="Fulfilled" price="44.0" volRemaining="0" issued="2023-12-27T20:51:52Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
+        <sell orderID="6676503039" orderState="Fulfilled" price="355.0" volRemaining="0" issued="2023-12-27T20:51:52Z" issuedFor="Character" lastStateChange="2023-12-28T15:26:06.5189778Z" />
         <buy orderID="6676196990" orderState="Fulfilled" price="30000.0" volRemaining="0" issued="2023-12-27T14:22:58Z" issuedFor="Character" lastStateChange="2023-12-27T19:08:09.8375299Z" />
         <buy orderID="6676196991" orderState="Fulfilled" price="100000.0" volRemaining="0" issued="2023-12-27T14:22:58Z" issuedFor="Character" lastStateChange="2023-12-27T19:08:09.8375299Z" />
         <buy orderID="6676198059" orderState="Fulfilled" price="250000.0" volRemaining="0" issued="2023-12-27T14:24:37Z" issuedFor="Character" lastStateChange="2023-12-27T19:08:09.8375299Z" />
@@ -2091,37 +2141,37 @@
       <eveMailMessages>394975451,394974915,394965514,394965463,394965365,394960545,394960524,394959333,394958386,394958257,394958203,394958045,394957951,394957739,394957721,394940720,394940333,394940287,394940229,394939607,394938426,394933468,394932811,394873526,394850848,394823413,394812155,394809877,394788544,394753790,394749389,394738685,394738653,394736598,394736539,394736489,394736391,394730287,394730017,394728393,393512693,393496375,393496218,393490855,393490711,393490698,393490647,393490608</eveMailMessages>
       <eveNotifications>1766312700,1766312743,1766313473,1792747436,1870038650,1874639433,1874639434,1874639727,1875239662,1875553296,1876405473,1876425301,1878789857,1878794412,1878804135,1878806272,1878815553,1878816428,1878818143,1878819737,1878827943,1878830725,1878830956,1878834200,1878835607,1878835611,1878838456,1878842763,1878845227,1878848426,1878848800,1878849023,1878849484,1878855061,1884575423,1884622853,1886351975,1886372827,1886918506,1886928441,1887083274,1887996695,1888083538,1888125034,1888128294,1888131055,1888134707</eveNotifications>
       <lastUpdates>
-        <apiUpdate method="CharacterSheet" time="2023-12-27T19:08:10.5560658Z" />
-        <apiUpdate method="Location" time="2023-12-27T19:08:11.5617593Z" />
-        <apiUpdate method="Clones" time="2023-12-27T19:08:11.6392532Z" />
-        <apiUpdate method="Implants" time="2023-12-27T19:08:11.6402506Z" />
-        <apiUpdate method="Ship" time="2023-12-27T19:08:11.6492264Z" />
-        <apiUpdate method="Skills" time="2023-12-27T19:08:11.6794474Z" />
-        <apiUpdate method="SkillQueue" time="2023-12-28T01:42:39.5932848Z" />
-        <apiUpdate method="EmploymentHistory" time="2023-12-27T19:08:11.559863Z" />
-        <apiUpdate method="Standings" time="2023-12-28T02:09:10.5642442Z" />
-        <apiUpdate method="ContactList" time="2023-12-28T02:08:33.080039Z" />
+        <apiUpdate method="CharacterSheet" time="2023-12-28T15:26:07.5021822Z" />
+        <apiUpdate method="Location" time="2023-12-28T15:26:08.3062324Z" />
+        <apiUpdate method="Clones" time="2023-12-28T15:26:08.3935507Z" />
+        <apiUpdate method="Implants" time="2023-12-28T15:26:08.4035239Z" />
+        <apiUpdate method="Ship" time="2023-12-28T15:26:08.415493Z" />
+        <apiUpdate method="Skills" time="2023-12-28T15:26:08.426987Z" />
+        <apiUpdate method="SkillQueue" time="2023-12-28T15:28:18.3301089Z" />
+        <apiUpdate method="EmploymentHistory" time="2023-12-28T15:26:08.401529Z" />
+        <apiUpdate method="Standings" time="2023-12-28T15:26:06.3309679Z" />
+        <apiUpdate method="ContactList" time="2023-12-28T15:26:06.3319654Z" />
         <apiUpdate method="FactionalWarfareStats" time="0001-01-01T00:00:00" />
-        <apiUpdate method="Medals" time="2023-12-27T11:12:13.5349067Z" />
-        <apiUpdate method="KillLog" time="2023-12-28T02:08:32.003656Z" />
-        <apiUpdate method="AssetList" time="2023-12-28T02:09:18.7548962Z" />
-        <apiUpdate method="MarketOrders" time="2023-12-28T02:08:13.7860187Z" />
-        <apiUpdate method="Contracts" time="2023-12-28T02:08:32.0255974Z" />
-        <apiUpdate method="WalletJournal" time="2023-12-28T02:09:10.675946Z" />
-        <apiUpdate method="AccountBalance" time="2023-12-27T19:08:11.607297Z" />
-        <apiUpdate method="WalletTransactions" time="2023-12-28T02:09:11.6320235Z" />
-        <apiUpdate method="IndustryJobs" time="2023-12-28T01:10:24.1938285Z" />
-        <apiUpdate method="ResearchPoints" time="2023-12-28T02:08:35.106578Z" />
-        <apiUpdate method="MailMessages" time="2023-12-28T02:08:13.7810323Z" />
+        <apiUpdate method="Medals" time="2023-12-28T15:26:06.3765418Z" />
+        <apiUpdate method="KillLog" time="2023-12-28T15:26:06.3030422Z" />
+        <apiUpdate method="AssetList" time="2023-12-28T15:26:06.3708607Z" />
+        <apiUpdate method="MarketOrders" time="2023-12-28T15:26:06.2731221Z" />
+        <apiUpdate method="Contracts" time="2023-12-28T15:26:06.4473116Z" />
+        <apiUpdate method="WalletJournal" time="2023-12-28T15:26:06.473242Z" />
+        <apiUpdate method="AccountBalance" time="2023-12-28T15:26:08.3925534Z" />
+        <apiUpdate method="WalletTransactions" time="2023-12-28T15:26:06.3745472Z" />
+        <apiUpdate method="IndustryJobs" time="2023-12-28T15:26:06.4612743Z" />
+        <apiUpdate method="ResearchPoints" time="2023-12-28T15:26:06.3934965Z" />
+        <apiUpdate method="MailMessages" time="2023-12-28T15:26:06.4433231Z" />
         <apiUpdate method="MailingLists" time="0001-01-01T00:00:00" />
-        <apiUpdate method="Notifications" time="2023-12-28T02:08:14.8307457Z" />
+        <apiUpdate method="Notifications" time="2023-12-28T15:26:06.37355Z" />
         <apiUpdate method="UpcomingCalendarEvents" time="0001-01-01T00:00:00" />
-        <apiUpdate method="PlanetaryColonies" time="2023-12-28T02:08:13.8190493Z" />
-        <apiUpdate method="LoyaltyPoints" time="2023-12-28T02:08:35.0976022Z" />
-        <apiUpdate method="CorporationMedals" time="2023-12-27T11:12:13.5544269Z" />
-        <apiUpdate method="CorporationMarketOrders" time="2023-12-28T02:08:33.2699037Z" />
-        <apiUpdate method="CorporationContracts" time="2023-12-28T02:08:33.2040789Z" />
-        <apiUpdate method="CorporationIndustryJobs" time="2023-12-28T02:08:33.1584269Z" />
+        <apiUpdate method="PlanetaryColonies" time="2023-12-28T15:26:06.3469257Z" />
+        <apiUpdate method="LoyaltyPoints" time="2023-12-28T15:26:06.3479223Z" />
+        <apiUpdate method="CorporationMedals" time="2023-12-28T15:26:06.4822182Z" />
+        <apiUpdate method="CorporationMarketOrders" time="2023-12-28T15:28:17.1618793Z" />
+        <apiUpdate method="CorporationContracts" time="2023-12-28T15:26:06.4882022Z" />
+        <apiUpdate method="CorporationIndustryJobs" time="2023-12-28T15:26:06.4930466Z" />
       </lastUpdates>
     </ccp>
     <ccp guid="189f4f00-773e-4f3a-b5fa-81474cfcebd5" label="Dragoon/Prophecy">
@@ -2228,8 +2278,8 @@
         <skill typeID="3425" name="Shield Upgrades" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
         <skill typeID="3420" name="Tactical Shield Manipulation" level="3" activelevel="3" skillpoints="32000" ownsBook="true" isKnown="true" />
         <skill typeID="3356" name="Negotiation" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
-        <skill typeID="33095" name="Amarr Battlecruiser" level="2" activelevel="0" skillpoints="20833" ownsBook="true" isKnown="true" />
-        <skill typeID="3335" name="Amarr Cruiser" level="3" activelevel="1" skillpoints="40000" ownsBook="true" isKnown="true" />
+        <skill typeID="33095" name="Amarr Battlecruiser" level="2" activelevel="0" skillpoints="36641" ownsBook="true" isKnown="true" />
+        <skill typeID="3335" name="Amarr Cruiser" level="3" activelevel="3" skillpoints="40000" ownsBook="true" isKnown="true" />
         <skill typeID="33091" name="Amarr Destroyer" level="4" activelevel="4" skillpoints="90510" ownsBook="true" isKnown="true" />
         <skill typeID="3331" name="Amarr Frigate" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
         <skill typeID="3343" name="Amarr Hauler" level="1" activelevel="1" skillpoints="1000" ownsBook="true" isKnown="true" />
@@ -2272,36 +2322,36 @@
         <skill typeID="24241" level="5" startSP="45255" endSP="256000" startTime="2024-01-20 18:31:57" endTime="2024-01-30 08:51:18" />
       </queue>
       <marketOrders>
-        <buy orderID="6674011693" orderState="Fulfilled" price="1000000.0" volRemaining="0" issued="2023-12-24T17:47:09Z" issuedFor="Corporation" lastStateChange="2023-12-27T19:08:09.9224488Z" />
-        <buy orderID="6674018301" orderState="Fulfilled" price="1000000.0" volRemaining="0" issued="2023-12-24T17:56:26Z" issuedFor="Corporation" lastStateChange="2023-12-27T19:08:09.9224488Z" />
-        <buy orderID="6674018520" orderState="Fulfilled" price="2500000.0" volRemaining="0" issued="2023-12-24T17:56:49Z" issuedFor="Corporation" lastStateChange="2023-12-27T19:08:09.9224488Z" />
-        <buy orderID="6674018707" orderState="Fulfilled" price="100000.0" volRemaining="0" issued="2023-12-24T17:57:12Z" issuedFor="Corporation" lastStateChange="2023-12-27T19:08:09.9224488Z" />
-        <buy orderID="6674018851" orderState="Fulfilled" price="125000.0" volRemaining="0" issued="2023-12-24T17:57:28Z" issuedFor="Corporation" lastStateChange="2023-12-27T19:08:09.9224488Z" />
-        <buy orderID="6674018983" orderState="Fulfilled" price="500000.0" volRemaining="0" issued="2023-12-24T17:57:40Z" issuedFor="Corporation" lastStateChange="2023-12-27T19:08:09.9224488Z" />
-        <buy orderID="6674019096" orderState="Fulfilled" price="45000.0" volRemaining="0" issued="2023-12-24T17:57:50Z" issuedFor="Corporation" lastStateChange="2023-12-27T19:08:09.9224488Z" />
-        <buy orderID="6674050200" orderState="Fulfilled" price="100000.0" volRemaining="0" issued="2023-12-24T18:44:38Z" issuedFor="Corporation" lastStateChange="2023-12-27T19:08:09.9224488Z" />
-        <buy orderID="6674050928" orderState="Fulfilled" price="750000.0" volRemaining="0" issued="2023-12-24T18:45:52Z" issuedFor="Corporation" lastStateChange="2023-12-27T19:08:09.9224488Z" />
-        <buy orderID="6674051657" orderState="Fulfilled" price="100000.0" volRemaining="0" issued="2023-12-24T18:47:12Z" issuedFor="Corporation" lastStateChange="2023-12-27T19:08:09.9224488Z" />
-        <buy orderID="6674051745" orderState="Fulfilled" price="150000.0" volRemaining="0" issued="2023-12-24T18:47:22Z" issuedFor="Corporation" lastStateChange="2023-12-27T19:08:09.9224488Z" />
-        <buy orderID="6674201563" orderState="Fulfilled" price="575800.0" volRemaining="0" issued="2023-12-24T22:46:14Z" issuedFor="Corporation" lastStateChange="2023-12-27T19:08:09.9224488Z" />
-        <buy orderID="6674201611" orderState="Fulfilled" price="947900.0" volRemaining="0" issued="2023-12-24T22:46:23Z" issuedFor="Corporation" lastStateChange="2023-12-27T19:08:09.9224488Z" />
-        <buy orderID="6674203353" orderState="Fulfilled" price="1998000.0" volRemaining="0" issued="2023-12-24T22:49:16Z" issuedFor="Corporation" lastStateChange="2023-12-27T19:08:09.9224488Z" />
-        <buy orderID="6674206285" orderState="Fulfilled" price="199700.0" volRemaining="0" issued="2023-12-24T22:54:34Z" issuedFor="Corporation" lastStateChange="2023-12-27T19:08:09.9224488Z" />
-        <buy orderID="6674206913" orderState="Fulfilled" price="440000.0" volRemaining="0" issued="2023-12-24T22:55:33Z" issuedFor="Corporation" lastStateChange="2023-12-27T19:08:09.9224488Z" />
-        <buy orderID="6674207101" orderState="Fulfilled" price="78970.0" volRemaining="0" issued="2023-12-24T22:55:54Z" issuedFor="Corporation" lastStateChange="2023-12-27T19:08:09.9224488Z" />
-        <buy orderID="6674207175" orderState="Fulfilled" price="20000.0" volRemaining="0" issued="2023-12-24T22:56:07Z" issuedFor="Corporation" lastStateChange="2023-12-27T19:08:09.9224488Z" />
-        <buy orderID="6674207592" orderState="Fulfilled" price="44400.0" volRemaining="0" issued="2023-12-24T22:57:03Z" issuedFor="Corporation" lastStateChange="2023-12-27T19:08:09.9224488Z" />
-        <buy orderID="6674207788" orderState="Fulfilled" price="440000.0" volRemaining="0" issued="2023-12-24T22:57:32Z" issuedFor="Corporation" lastStateChange="2023-12-27T19:08:09.9224488Z" />
-        <buy orderID="6674208642" orderState="Fulfilled" price="199700.0" volRemaining="0" issued="2023-12-24T22:58:50Z" issuedFor="Corporation" lastStateChange="2023-12-27T19:08:09.9224488Z" />
-        <buy orderID="6674208774" orderState="Fulfilled" price="78980.0" volRemaining="0" issued="2023-12-24T22:59:00Z" issuedFor="Corporation" lastStateChange="2023-12-27T19:08:09.9224488Z" />
-        <buy orderID="6674208827" orderState="Fulfilled" price="44400.0" volRemaining="0" issued="2023-12-24T22:59:09Z" issuedFor="Corporation" lastStateChange="2023-12-27T19:08:09.9224488Z" />
-        <buy orderID="6674208943" orderState="Fulfilled" price="23000.0" volRemaining="0" issued="2023-12-24T22:59:14Z" issuedFor="Corporation" lastStateChange="2023-12-27T19:08:09.9224488Z" />
-        <buy orderID="6674238147" orderState="Fulfilled" price="59000.0" volRemaining="0" issued="2023-12-25T00:00:45Z" issuedFor="Corporation" lastStateChange="2023-12-27T19:08:09.9224488Z" />
-        <buy orderID="6674476488" orderState="Fulfilled" price="31940.0" volRemaining="0" issued="2023-12-25T09:47:55Z" issuedFor="Corporation" lastStateChange="2023-12-27T19:08:09.9224488Z" />
-        <buy orderID="6674483959" orderState="Fulfilled" price="34990.0" volRemaining="0" issued="2023-12-25T10:03:54Z" issuedFor="Corporation" lastStateChange="2023-12-27T19:08:09.9224488Z" />
-        <buy orderID="6674492696" orderState="Fulfilled" price="21310.0" volRemaining="0" issued="2023-12-25T10:23:45Z" issuedFor="Corporation" lastStateChange="2023-12-27T19:08:09.9224488Z" />
-        <buy orderID="6674492745" orderState="Fulfilled" price="31670.0" volRemaining="0" issued="2023-12-25T10:23:54Z" issuedFor="Corporation" lastStateChange="2023-12-27T19:08:09.9224488Z" />
-        <buy orderID="6674492756" orderState="Fulfilled" price="31670.0" volRemaining="0" issued="2023-12-25T10:23:58Z" issuedFor="Corporation" lastStateChange="2023-12-27T19:08:09.9224488Z" />
+        <buy orderID="6674011693" orderState="Fulfilled" price="1000000.0" volRemaining="0" issued="2023-12-24T17:47:09Z" issuedFor="Corporation" lastStateChange="2023-12-28T15:26:06.4383359Z" />
+        <buy orderID="6674018301" orderState="Fulfilled" price="1000000.0" volRemaining="0" issued="2023-12-24T17:56:26Z" issuedFor="Corporation" lastStateChange="2023-12-28T15:26:06.4383359Z" />
+        <buy orderID="6674018520" orderState="Fulfilled" price="2500000.0" volRemaining="0" issued="2023-12-24T17:56:49Z" issuedFor="Corporation" lastStateChange="2023-12-28T15:26:06.4383359Z" />
+        <buy orderID="6674018707" orderState="Fulfilled" price="100000.0" volRemaining="0" issued="2023-12-24T17:57:12Z" issuedFor="Corporation" lastStateChange="2023-12-28T15:26:06.4383359Z" />
+        <buy orderID="6674018851" orderState="Fulfilled" price="125000.0" volRemaining="0" issued="2023-12-24T17:57:28Z" issuedFor="Corporation" lastStateChange="2023-12-28T15:26:06.4383359Z" />
+        <buy orderID="6674018983" orderState="Fulfilled" price="500000.0" volRemaining="0" issued="2023-12-24T17:57:40Z" issuedFor="Corporation" lastStateChange="2023-12-28T15:26:06.4383359Z" />
+        <buy orderID="6674019096" orderState="Fulfilled" price="45000.0" volRemaining="0" issued="2023-12-24T17:57:50Z" issuedFor="Corporation" lastStateChange="2023-12-28T15:26:06.4383359Z" />
+        <buy orderID="6674050200" orderState="Fulfilled" price="100000.0" volRemaining="0" issued="2023-12-24T18:44:38Z" issuedFor="Corporation" lastStateChange="2023-12-28T15:26:06.4383359Z" />
+        <buy orderID="6674050928" orderState="Fulfilled" price="750000.0" volRemaining="0" issued="2023-12-24T18:45:52Z" issuedFor="Corporation" lastStateChange="2023-12-28T15:26:06.4383359Z" />
+        <buy orderID="6674051657" orderState="Fulfilled" price="100000.0" volRemaining="0" issued="2023-12-24T18:47:12Z" issuedFor="Corporation" lastStateChange="2023-12-28T15:26:06.4383359Z" />
+        <buy orderID="6674051745" orderState="Fulfilled" price="150000.0" volRemaining="0" issued="2023-12-24T18:47:22Z" issuedFor="Corporation" lastStateChange="2023-12-28T15:26:06.4383359Z" />
+        <buy orderID="6674201563" orderState="Fulfilled" price="575800.0" volRemaining="0" issued="2023-12-24T22:46:14Z" issuedFor="Corporation" lastStateChange="2023-12-28T15:26:06.4383359Z" />
+        <buy orderID="6674201611" orderState="Fulfilled" price="947900.0" volRemaining="0" issued="2023-12-24T22:46:23Z" issuedFor="Corporation" lastStateChange="2023-12-28T15:26:06.4383359Z" />
+        <buy orderID="6674203353" orderState="Fulfilled" price="1998000.0" volRemaining="0" issued="2023-12-24T22:49:16Z" issuedFor="Corporation" lastStateChange="2023-12-28T15:26:06.4383359Z" />
+        <buy orderID="6674206285" orderState="Fulfilled" price="199700.0" volRemaining="0" issued="2023-12-24T22:54:34Z" issuedFor="Corporation" lastStateChange="2023-12-28T15:26:06.4383359Z" />
+        <buy orderID="6674206913" orderState="Fulfilled" price="440000.0" volRemaining="0" issued="2023-12-24T22:55:33Z" issuedFor="Corporation" lastStateChange="2023-12-28T15:26:06.4383359Z" />
+        <buy orderID="6674207101" orderState="Fulfilled" price="78970.0" volRemaining="0" issued="2023-12-24T22:55:54Z" issuedFor="Corporation" lastStateChange="2023-12-28T15:26:06.4383359Z" />
+        <buy orderID="6674207175" orderState="Fulfilled" price="20000.0" volRemaining="0" issued="2023-12-24T22:56:07Z" issuedFor="Corporation" lastStateChange="2023-12-28T15:26:06.4383359Z" />
+        <buy orderID="6674207592" orderState="Fulfilled" price="44400.0" volRemaining="0" issued="2023-12-24T22:57:03Z" issuedFor="Corporation" lastStateChange="2023-12-28T15:26:06.4383359Z" />
+        <buy orderID="6674207788" orderState="Fulfilled" price="440000.0" volRemaining="0" issued="2023-12-24T22:57:32Z" issuedFor="Corporation" lastStateChange="2023-12-28T15:26:06.4383359Z" />
+        <buy orderID="6674208642" orderState="Fulfilled" price="199700.0" volRemaining="0" issued="2023-12-24T22:58:50Z" issuedFor="Corporation" lastStateChange="2023-12-28T15:26:06.4383359Z" />
+        <buy orderID="6674208774" orderState="Fulfilled" price="78980.0" volRemaining="0" issued="2023-12-24T22:59:00Z" issuedFor="Corporation" lastStateChange="2023-12-28T15:26:06.4383359Z" />
+        <buy orderID="6674208827" orderState="Fulfilled" price="44400.0" volRemaining="0" issued="2023-12-24T22:59:09Z" issuedFor="Corporation" lastStateChange="2023-12-28T15:26:06.4383359Z" />
+        <buy orderID="6674208943" orderState="Fulfilled" price="23000.0" volRemaining="0" issued="2023-12-24T22:59:14Z" issuedFor="Corporation" lastStateChange="2023-12-28T15:26:06.4383359Z" />
+        <buy orderID="6674238147" orderState="Fulfilled" price="59000.0" volRemaining="0" issued="2023-12-25T00:00:45Z" issuedFor="Corporation" lastStateChange="2023-12-28T15:26:06.4383359Z" />
+        <buy orderID="6674476488" orderState="Fulfilled" price="31940.0" volRemaining="0" issued="2023-12-25T09:47:55Z" issuedFor="Corporation" lastStateChange="2023-12-28T15:26:06.4383359Z" />
+        <buy orderID="6674483959" orderState="Fulfilled" price="34990.0" volRemaining="0" issued="2023-12-25T10:03:54Z" issuedFor="Corporation" lastStateChange="2023-12-28T15:26:06.4383359Z" />
+        <buy orderID="6674492696" orderState="Fulfilled" price="21310.0" volRemaining="0" issued="2023-12-25T10:23:45Z" issuedFor="Corporation" lastStateChange="2023-12-28T15:26:06.4383359Z" />
+        <buy orderID="6674492745" orderState="Fulfilled" price="31670.0" volRemaining="0" issued="2023-12-25T10:23:54Z" issuedFor="Corporation" lastStateChange="2023-12-28T15:26:06.4383359Z" />
+        <buy orderID="6674492756" orderState="Fulfilled" price="31670.0" volRemaining="0" issued="2023-12-25T10:23:58Z" issuedFor="Corporation" lastStateChange="2023-12-28T15:26:06.4383359Z" />
         <buy orderID="6674464778" orderState="Fulfilled" price="4500000.0" volRemaining="0" issued="2023-12-25T09:22:09Z" issuedFor="Character" lastStateChange="2023-12-25T13:39:22.4779667Z" />
         <buy orderID="6674492851" orderState="Fulfilled" price="20720.0" volRemaining="0" issued="2023-12-25T10:24:13Z" issuedFor="Character" lastStateChange="2023-12-25T13:39:22.4779667Z" />
         <buy orderID="6674493093" orderState="Fulfilled" price="20720.0" volRemaining="0" issued="2023-12-25T10:24:49Z" issuedFor="Character" lastStateChange="2023-12-25T13:39:22.4779667Z" />
@@ -2373,40 +2423,40 @@
         <contract contractID="199521594" contractState="Finished" contractType="ItemExchange" issuedFor="Character" />
       </contracts>
       <industryJobs />
-      <eveMailMessages>394979936,394975451,394974915,394969719,394965514,394965463,394958386,394958257,394958203,394958045,394957951,394957739,394957721,394940720,394940333,394940229,394939607,394938426,394933468,394932811,394873526,394850848,394823413,394812155,394809877,394788544,394753790,394749389,394738685,394738653,394736598,394736539,394736489,394736391,394730287,394730017,394728393,393512682,393496375,393496218,393490855,393490711,393490698,393490647,393490608</eveMailMessages>
+      <eveMailMessages>394985733,394979936,394975451,394974915,394969719,394965514,394965463,394958386,394958257,394958203,394958045,394957951,394957739,394957721,394940720,394940333,394940229,394939607,394938426,394933468,394932811,394873526,394850848,394823413,394812155,394809877,394788544,394753790,394749389,394738685,394738653,394736598,394736539,394736489,394736391,394730287,394730017,394728393,393512682,393496375,393496218,393490855,393490711,393490698,393490647</eveMailMessages>
       <eveNotifications>1765944512,1792747961,1876425309,1886352010,1886372827,1886530240,1886550308,1886555215,1886558508,1886563137,1886567682,1886573438,1886577102,1886750426,1886760709,1886918506,1886928441,1887079270,1887083274,1887084606,1887085073,1887086884,1887088878,1887091313,1887092442</eveNotifications>
       <lastUpdates>
-        <apiUpdate method="CharacterSheet" time="2023-12-27T19:08:10.5601908Z" />
-        <apiUpdate method="Location" time="2023-12-27T19:08:11.5881486Z" />
-        <apiUpdate method="Clones" time="2023-12-27T19:08:11.6563492Z" />
-        <apiUpdate method="Implants" time="2023-12-27T19:08:11.6402506Z" />
-        <apiUpdate method="Ship" time="2023-12-27T19:08:11.6472312Z" />
-        <apiUpdate method="Skills" time="2023-12-27T19:08:11.6724946Z" />
-        <apiUpdate method="SkillQueue" time="2023-12-28T01:10:44.6257696Z" />
-        <apiUpdate method="EmploymentHistory" time="2023-12-27T19:08:11.5767461Z" />
-        <apiUpdate method="Standings" time="2023-12-28T02:09:10.5642442Z" />
-        <apiUpdate method="ContactList" time="2023-12-28T02:08:32.0525254Z" />
+        <apiUpdate method="CharacterSheet" time="2023-12-28T15:26:07.2235988Z" />
+        <apiUpdate method="Location" time="2023-12-28T15:26:08.2728891Z" />
+        <apiUpdate method="Clones" time="2023-12-28T15:26:08.3525268Z" />
+        <apiUpdate method="Implants" time="2023-12-28T15:26:08.3654915Z" />
+        <apiUpdate method="Ship" time="2023-12-28T15:26:08.3272351Z" />
+        <apiUpdate method="Skills" time="2023-12-28T15:26:08.4174869Z" />
+        <apiUpdate method="SkillQueue" time="2023-12-28T15:26:07.4029284Z" />
+        <apiUpdate method="EmploymentHistory" time="2023-12-28T15:26:08.4214761Z" />
+        <apiUpdate method="Standings" time="2023-12-28T15:26:06.3090268Z" />
+        <apiUpdate method="ContactList" time="2023-12-28T15:26:06.1684021Z" />
         <apiUpdate method="FactionalWarfareStats" time="0001-01-01T00:00:00" />
-        <apiUpdate method="Medals" time="2023-12-27T11:12:13.17086Z" />
-        <apiUpdate method="KillLog" time="2023-12-28T02:08:32.0315806Z" />
-        <apiUpdate method="AssetList" time="2023-12-28T02:09:21.7493428Z" />
-        <apiUpdate method="MarketOrders" time="2023-12-28T02:08:13.7860187Z" />
-        <apiUpdate method="Contracts" time="2023-12-28T02:08:33.079041Z" />
-        <apiUpdate method="WalletJournal" time="2023-12-28T02:09:10.6360522Z" />
-        <apiUpdate method="AccountBalance" time="2023-12-27T19:08:11.6432419Z" />
-        <apiUpdate method="WalletTransactions" time="2023-12-28T02:09:10.6749482Z" />
-        <apiUpdate method="IndustryJobs" time="2023-12-28T02:08:13.7790385Z" />
-        <apiUpdate method="ResearchPoints" time="2023-12-28T02:08:35.1036106Z" />
-        <apiUpdate method="MailMessages" time="2023-12-28T02:08:13.7989847Z" />
+        <apiUpdate method="Medals" time="2023-12-28T15:26:06.1272379Z" />
+        <apiUpdate method="KillLog" time="2023-12-28T15:26:06.3030422Z" />
+        <apiUpdate method="AssetList" time="2023-12-28T15:26:06.2731221Z" />
+        <apiUpdate method="MarketOrders" time="2023-12-28T15:26:06.1674046Z" />
+        <apiUpdate method="Contracts" time="2023-12-28T15:26:06.170397Z" />
+        <apiUpdate method="WalletJournal" time="2023-12-28T15:26:06.4940441Z" />
+        <apiUpdate method="AccountBalance" time="2023-12-28T15:26:08.3242745Z" />
+        <apiUpdate method="WalletTransactions" time="2023-12-28T15:26:06.335955Z" />
+        <apiUpdate method="IndustryJobs" time="2023-12-28T15:26:06.1491796Z" />
+        <apiUpdate method="ResearchPoints" time="2023-12-28T15:26:06.2651433Z" />
+        <apiUpdate method="MailMessages" time="2023-12-28T15:26:06.274119Z" />
         <apiUpdate method="MailingLists" time="0001-01-01T00:00:00" />
-        <apiUpdate method="Notifications" time="2023-12-28T02:08:13.805965Z" />
+        <apiUpdate method="Notifications" time="2023-12-28T15:26:06.3765418Z" />
         <apiUpdate method="UpcomingCalendarEvents" time="0001-01-01T00:00:00" />
-        <apiUpdate method="PlanetaryColonies" time="2023-12-28T02:08:13.7999822Z" />
-        <apiUpdate method="LoyaltyPoints" time="2023-12-28T02:08:35.1045835Z" />
-        <apiUpdate method="CorporationMedals" time="2023-12-27T11:12:13.5758992Z" />
-        <apiUpdate method="CorporationMarketOrders" time="2023-12-28T02:08:33.1931083Z" />
-        <apiUpdate method="CorporationContracts" time="2023-12-28T02:08:33.2090938Z" />
-        <apiUpdate method="CorporationIndustryJobs" time="2023-12-28T02:08:33.1871243Z" />
+        <apiUpdate method="PlanetaryColonies" time="2023-12-28T15:26:06.2890793Z" />
+        <apiUpdate method="LoyaltyPoints" time="2023-12-28T15:26:06.3100243Z" />
+        <apiUpdate method="CorporationMedals" time="2023-12-28T15:26:06.4752375Z" />
+        <apiUpdate method="CorporationMarketOrders" time="2023-12-28T15:26:06.4662617Z" />
+        <apiUpdate method="CorporationContracts" time="2023-12-28T15:26:06.4403302Z" />
+        <apiUpdate method="CorporationIndustryJobs" time="2023-12-28T15:26:06.5189778Z" />
       </lastUpdates>
     </ccp>
     <ccp guid="30a81906-50db-444c-9ebf-d77bcee9229f" label="Gunnery Drones">
@@ -2459,7 +2509,7 @@
         <skill typeID="3394" name="Hull Upgrades" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
         <skill typeID="3392" name="Mechanics" level="3" activelevel="3" skillpoints="8000" ownsBook="true" isKnown="true" />
         <skill typeID="3437" name="Drone Avionics" level="1" activelevel="1" skillpoints="250" ownsBook="true" isKnown="true" />
-        <skill typeID="3436" name="Drones" level="4" activelevel="4" skillpoints="242216" ownsBook="true" isKnown="true" />
+        <skill typeID="3436" name="Drones" level="4" activelevel="4" skillpoints="254862" ownsBook="true" isKnown="true" />
         <skill typeID="24241" name="Light Drone Operation" level="1" activelevel="1" skillpoints="250" ownsBook="true" isKnown="true" />
         <skill typeID="3427" name="Electronic Warfare" level="1" activelevel="1" skillpoints="500" ownsBook="true" isKnown="true" />
         <skill typeID="3435" name="Propulsion Jamming" level="1" activelevel="1" skillpoints="750" ownsBook="true" isKnown="true" />
@@ -2532,7 +2582,7 @@
         <selectedIndex>0</selectedIndex>
       </implants>
       <queue>
-        <skill typeID="3436" level="5" startSP="45255" endSP="256000" startTime="2023-12-18 23:19:29" endTime="2023-12-28 17:29:09" />
+        <skill typeID="3436" level="5" startSP="45255" endSP="256000" startTime="2023-12-18 23:19:28" endTime="2023-12-28 17:29:08" />
       </queue>
       <marketOrders>
         <sell orderID="6659891604" orderState="Active" price="2000.0" volRemaining="300" issued="2023-12-08T10:14:18Z" issuedFor="Character" lastStateChange="2023-12-22T07:37:22.0322713Z" />
@@ -2541,40 +2591,40 @@
       </marketOrders>
       <contracts />
       <industryJobs />
-      <eveMailMessages>394979936,394975451,394974915,394969719,394965514,394965463,394965365,394960545,394960524,394959333,394958386,394958257,394958203,394958045,394957951,394957739,394957721,394940720,394940333,394940287,394939607,394938426,394933468,394932811,394873526,394850848,394848084,394823413,388211584,379739899</eveMailMessages>
+      <eveMailMessages>394985733,394979936,394975451,394974915,394969719,394965514,394965463,394965365,394960545,394960524,394959333,394958386,394958257,394958203,394958045,394957951,394957739,394957721,394940720,394940333,394940287,394939607,394938426,394933468,394932811,394873526,394850848,394848084,394823413,388211584,379739899</eveMailMessages>
       <eveNotifications>1876425288,1876435329,1876528157,1876546405,1876551220,1876552033,1876559285,1876561275,1876563837,1876564249,1876567144,1876579508,1876581191,1876593229,1876594544,1876598252,1876600121,1876628436,1876636112,1876637924,1876640976,1876643452,1876664301,1876666177,1876667829,1876667832,1876667836,1876667839,1876668238,1876669383,1876676883,1876676884,1876676887,1876678625,1878279220,1878295564,1878298453,1878489449,1878824111,1879222489,1886372827,1886918506,1886928441,1887083274</eveNotifications>
       <lastUpdates>
-        <apiUpdate method="CharacterSheet" time="2023-12-27T19:08:10.5560658Z" />
-        <apiUpdate method="Location" time="2023-12-27T19:08:11.5757495Z" />
-        <apiUpdate method="Clones" time="2023-12-27T19:08:11.6242888Z" />
-        <apiUpdate method="Implants" time="2023-12-27T19:08:11.6573492Z" />
-        <apiUpdate method="Ship" time="2023-12-27T19:08:11.6524131Z" />
-        <apiUpdate method="Skills" time="2023-12-27T19:08:11.7061082Z" />
-        <apiUpdate method="SkillQueue" time="2023-12-28T02:08:33.0896103Z" />
-        <apiUpdate method="EmploymentHistory" time="2023-12-27T19:08:11.5617593Z" />
-        <apiUpdate method="Standings" time="2023-12-28T02:09:10.5532742Z" />
-        <apiUpdate method="ContactList" time="2023-12-28T02:08:32.0365681Z" />
+        <apiUpdate method="CharacterSheet" time="2023-12-28T15:26:07.528827Z" />
+        <apiUpdate method="Location" time="2023-12-28T15:26:08.3052328Z" />
+        <apiUpdate method="Clones" time="2023-12-28T15:26:08.354521Z" />
+        <apiUpdate method="Implants" time="2023-12-28T15:26:08.4229701Z" />
+        <apiUpdate method="Ship" time="2023-12-28T15:26:08.4005319Z" />
+        <apiUpdate method="Skills" time="2023-12-28T15:26:08.4214761Z" />
+        <apiUpdate method="SkillQueue" time="2023-12-28T15:26:07.3469433Z" />
+        <apiUpdate method="EmploymentHistory" time="2023-12-28T15:26:08.3644947Z" />
+        <apiUpdate method="Standings" time="2023-12-28T15:26:06.2701298Z" />
+        <apiUpdate method="ContactList" time="2023-12-28T15:26:06.2940665Z" />
         <apiUpdate method="FactionalWarfareStats" time="0001-01-01T00:00:00" />
-        <apiUpdate method="Medals" time="2023-12-27T11:12:13.0722828Z" />
-        <apiUpdate method="KillLog" time="2023-12-28T02:08:32.0285896Z" />
-        <apiUpdate method="AssetList" time="2023-12-28T02:09:20.7396894Z" />
-        <apiUpdate method="MarketOrders" time="2023-12-28T02:08:13.7860187Z" />
-        <apiUpdate method="Contracts" time="2023-12-28T02:08:32.0395789Z" />
-        <apiUpdate method="WalletJournal" time="2023-12-28T02:09:10.730799Z" />
-        <apiUpdate method="AccountBalance" time="2023-12-27T19:08:11.6043243Z" />
-        <apiUpdate method="WalletTransactions" time="2023-12-28T02:09:10.6151096Z" />
-        <apiUpdate method="IndustryJobs" time="2023-12-28T02:08:13.7660725Z" />
-        <apiUpdate method="ResearchPoints" time="2023-12-28T02:08:35.0927581Z" />
-        <apiUpdate method="MailMessages" time="2023-12-28T02:08:14.7888894Z" />
+        <apiUpdate method="Medals" time="2023-12-28T15:26:06.3954913Z" />
+        <apiUpdate method="KillLog" time="2023-12-28T15:26:06.2900766Z" />
+        <apiUpdate method="AssetList" time="2023-12-28T15:26:06.2940665Z" />
+        <apiUpdate method="MarketOrders" time="2023-12-28T15:26:06.4910495Z" />
+        <apiUpdate method="Contracts" time="2023-12-28T15:26:06.4453172Z" />
+        <apiUpdate method="WalletJournal" time="2023-12-28T15:26:06.4160783Z" />
+        <apiUpdate method="AccountBalance" time="2023-12-28T15:26:08.3915564Z" />
+        <apiUpdate method="WalletTransactions" time="2023-12-28T15:26:06.3219918Z" />
+        <apiUpdate method="IndustryJobs" time="2023-12-28T15:26:06.2721248Z" />
+        <apiUpdate method="ResearchPoints" time="2023-12-28T15:26:06.2721248Z" />
+        <apiUpdate method="MailMessages" time="2023-12-28T15:26:06.3628824Z" />
         <apiUpdate method="MailingLists" time="0001-01-01T00:00:00" />
-        <apiUpdate method="Notifications" time="2023-12-28T02:08:14.8098027Z" />
+        <apiUpdate method="Notifications" time="2023-12-28T15:26:06.3698638Z" />
         <apiUpdate method="UpcomingCalendarEvents" time="0001-01-01T00:00:00" />
-        <apiUpdate method="PlanetaryColonies" time="2023-12-28T02:08:13.7840241Z" />
-        <apiUpdate method="LoyaltyPoints" time="2023-12-28T02:08:35.1055807Z" />
-        <apiUpdate method="CorporationMedals" time="2023-12-27T11:12:13.5554027Z" />
-        <apiUpdate method="CorporationMarketOrders" time="2023-12-28T02:08:33.1404741Z" />
-        <apiUpdate method="CorporationContracts" time="2023-12-28T02:08:33.1723889Z" />
-        <apiUpdate method="CorporationIndustryJobs" time="2023-12-28T02:08:33.1444636Z" />
+        <apiUpdate method="PlanetaryColonies" time="2023-12-28T15:26:06.2900766Z" />
+        <apiUpdate method="LoyaltyPoints" time="2023-12-28T15:26:06.3209943Z" />
+        <apiUpdate method="CorporationMedals" time="2023-12-28T15:26:06.4064619Z" />
+        <apiUpdate method="CorporationMarketOrders" time="2023-12-28T15:26:06.4930466Z" />
+        <apiUpdate method="CorporationContracts" time="2023-12-28T15:26:06.4882022Z" />
+        <apiUpdate method="CorporationIndustryJobs" time="2023-12-28T15:26:06.4930466Z" />
       </lastUpdates>
     </ccp>
     <ccp guid="6a8afb03-621f-41b4-8c6d-1f8c188e4787" label="Missiles">
@@ -2648,7 +2698,7 @@
         <skill typeID="3317" name="Trajectory Analysis" level="1" activelevel="1" skillpoints="1250" ownsBook="true" isKnown="true" />
         <skill typeID="20312" name="Guided Missile Precision" level="3" activelevel="3" skillpoints="40000" ownsBook="true" isKnown="true" />
         <skill typeID="20210" name="Light Missile Specialization" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
-        <skill typeID="3321" name="Light Missiles" level="4" activelevel="4" skillpoints="367458" ownsBook="true" isKnown="true" />
+        <skill typeID="3321" name="Light Missiles" level="4" activelevel="4" skillpoints="380526" ownsBook="true" isKnown="true" />
         <skill typeID="12441" name="Missile Bombardment" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
         <skill typeID="3319" name="Missile Launcher Operation" level="4" activelevel="4" skillpoints="45255" ownsBook="true" isKnown="true" />
         <skill typeID="12442" name="Missile Projection" level="2" activelevel="2" skillpoints="5657" ownsBook="true" isKnown="true" />
@@ -2721,21 +2771,21 @@
         <selectedIndex>0</selectedIndex>
       </implants>
       <queue>
-        <skill typeID="3321" level="5" startSP="95562" endSP="512000" startTime="2023-12-15 21:48:32" endTime="2024-01-03 13:35:30" />
-        <skill typeID="20210" level="1" startSP="0" endSP="750" startTime="2024-01-03 13:35:30" endTime="2024-01-03 14:23:53" />
-        <skill typeID="20210" level="2" startSP="750" endSP="4243" startTime="2024-01-03 14:23:53" endTime="2024-01-03 18:09:14" />
-        <skill typeID="20210" level="3" startSP="4243" endSP="24000" startTime="2024-01-03 18:09:14" endTime="2024-01-04 15:23:53" />
-        <skill typeID="3424" level="3" startSP="2829" endSP="16000" startTime="2024-01-04 15:23:53" endTime="2024-01-05 06:01:57" />
-        <skill typeID="3424" level="4" startSP="16000" endSP="90510" startTime="2024-01-05 06:01:57" endTime="2024-01-08 16:49:17" />
-        <skill typeID="3425" level="3" startSP="2829" endSP="16000" startTime="2024-01-08 16:49:17" endTime="2024-01-09 07:27:21" />
-        <skill typeID="3425" level="4" startSP="16000" endSP="90510" startTime="2024-01-09 07:27:21" endTime="2024-01-12 18:14:41" />
-        <skill typeID="3420" level="3" startSP="5657" endSP="32000" startTime="2024-01-12 18:14:41" endTime="2024-01-13 23:30:53" />
-        <skill typeID="3420" level="4" startSP="32000" endSP="181020" startTime="2024-01-13 23:30:53" endTime="2024-01-20 21:05:33" />
-        <skill typeID="12441" level="4" startSP="16000" endSP="90510" startTime="2024-01-20 21:05:33" endTime="2024-01-24 05:12:39" />
-        <skill typeID="3436" level="2" startSP="253" endSP="1415" startTime="2024-01-24 05:12:39" endTime="2024-01-24 06:28:50" />
-        <skill typeID="3436" level="3" startSP="1415" endSP="8000" startTime="2024-01-24 06:28:50" endTime="2024-01-24 13:40:39" />
-        <skill typeID="3436" level="4" startSP="8000" endSP="45255" startTime="2024-01-24 13:40:39" endTime="2024-01-26 06:23:36" />
-        <skill typeID="3436" level="5" startSP="45255" endSP="256000" startTime="2024-01-26 06:23:36" endTime="2024-02-04 20:42:56" />
+        <skill typeID="3321" level="5" startSP="95562" endSP="512000" startTime="2023-12-15 21:48:31" endTime="2024-01-03 13:35:29" />
+        <skill typeID="20210" level="1" startSP="0" endSP="750" startTime="2024-01-03 13:35:29" endTime="2024-01-03 14:23:52" />
+        <skill typeID="20210" level="2" startSP="750" endSP="4243" startTime="2024-01-03 14:23:52" endTime="2024-01-03 18:09:13" />
+        <skill typeID="20210" level="3" startSP="4243" endSP="24000" startTime="2024-01-03 18:09:13" endTime="2024-01-04 15:23:52" />
+        <skill typeID="3424" level="3" startSP="2829" endSP="16000" startTime="2024-01-04 15:23:52" endTime="2024-01-05 06:01:56" />
+        <skill typeID="3424" level="4" startSP="16000" endSP="90510" startTime="2024-01-05 06:01:56" endTime="2024-01-08 16:49:16" />
+        <skill typeID="3425" level="3" startSP="2829" endSP="16000" startTime="2024-01-08 16:49:16" endTime="2024-01-09 07:27:20" />
+        <skill typeID="3425" level="4" startSP="16000" endSP="90510" startTime="2024-01-09 07:27:20" endTime="2024-01-12 18:14:40" />
+        <skill typeID="3420" level="3" startSP="5657" endSP="32000" startTime="2024-01-12 18:14:40" endTime="2024-01-13 23:30:52" />
+        <skill typeID="3420" level="4" startSP="32000" endSP="181020" startTime="2024-01-13 23:30:52" endTime="2024-01-20 21:05:32" />
+        <skill typeID="12441" level="4" startSP="16000" endSP="90510" startTime="2024-01-20 21:05:32" endTime="2024-01-24 05:12:38" />
+        <skill typeID="3436" level="2" startSP="253" endSP="1415" startTime="2024-01-24 05:12:38" endTime="2024-01-24 06:28:49" />
+        <skill typeID="3436" level="3" startSP="1415" endSP="8000" startTime="2024-01-24 06:28:49" endTime="2024-01-24 13:40:38" />
+        <skill typeID="3436" level="4" startSP="8000" endSP="45255" startTime="2024-01-24 13:40:38" endTime="2024-01-26 06:23:35" />
+        <skill typeID="3436" level="5" startSP="45255" endSP="256000" startTime="2024-01-26 06:23:35" endTime="2024-02-04 20:42:55" />
       </queue>
       <marketOrders>
         <sell orderID="6664381856" orderState="Active" price="5751.0" volRemaining="1" issued="2023-12-13T09:42:14Z" issuedFor="Character" lastStateChange="2023-12-22T07:32:02.6609427Z" />
@@ -2759,40 +2809,40 @@
         <contract contractID="199181352" contractState="Finished" contractType="ItemExchange" issuedFor="Character" />
       </contracts>
       <industryJobs />
-      <eveMailMessages>394979936,394975451,394974915,394969719,394965514,394965463,394965365,394960545,394960524,394959333,394958386,394958257,394958203,394958045,394957951,394957739,394957721,394940720,394940333,394940287,394940229,394939607,394938426,394933468,394932811,388211584,379739899</eveMailMessages>
+      <eveMailMessages>394985733,394979936,394975451,394974915,394969719,394965514,394965463,394965365,394960545,394960524,394959333,394958386,394958257,394958203,394958045,394957951,394957739,394957721,394940720,394940333,394940287,394940229,394939607,394938426,394933468,394932811,388211584,379739899</eveMailMessages>
       <eveNotifications>1879460658,1879460939,1879505355,1879512968,1879591442,1879592906,1879595332,1879619223,1879621483,1879623136,1879654670,1879660252,1879668346,1879673092,1879676295,1879679166,1879679723,1879688898,1879758295,1879763297,1879770273,1879777236,1879787262,1879794411,1879804313,1880066059,1880069415,1880078363,1880082780,1880086715,1880093078,1880097497,1880107305,1880165118,1880169104,1880170800,1880173243,1880178347,1880181615,1880181842,1880471511,1880473217,1880475755,1880479494,1880783596,1880803412,1880803526,1880805739,1880810076,1880931667,1880936704,1880945454,1880949045,1880950868,1880954249,1880957686,1880960499,1880969855,1880975892,1880981684,1880984123,1880997872,1881002778,1881006147,1881060254,1881061358,1881063881,1881069877,1881074514,1881077335,1881079054,1881086480,1881092918,1881095390,1881096652,1881099973,1881101062,1881107363,1881113921,1881118158,1881122569,1881123397,1881130847,1881143548,1881145129,1881190833,1884574678,1884622425,1885156830,1886372827,1886918506,1886928441,1887083274</eveNotifications>
       <lastUpdates>
-        <apiUpdate method="CharacterSheet" time="2023-12-27T19:08:10.5510465Z" />
-        <apiUpdate method="Location" time="2023-12-27T19:08:11.5627591Z" />
-        <apiUpdate method="Clones" time="2023-12-27T19:08:11.6142528Z" />
-        <apiUpdate method="Implants" time="2023-12-27T19:08:11.5993208Z" />
-        <apiUpdate method="Ship" time="2023-12-27T19:08:11.6462608Z" />
-        <apiUpdate method="Skills" time="2023-12-27T19:08:11.7011208Z" />
-        <apiUpdate method="SkillQueue" time="2023-12-28T02:08:34.1386217Z" />
-        <apiUpdate method="EmploymentHistory" time="2023-12-27T19:08:11.5587486Z" />
-        <apiUpdate method="Standings" time="2023-12-28T02:09:10.5762123Z" />
-        <apiUpdate method="ContactList" time="2023-12-28T02:08:33.0740547Z" />
+        <apiUpdate method="CharacterSheet" time="2023-12-28T15:26:07.4952179Z" />
+        <apiUpdate method="Location" time="2023-12-28T15:26:08.3167997Z" />
+        <apiUpdate method="Clones" time="2023-12-28T15:26:08.3955452Z" />
+        <apiUpdate method="Implants" time="2023-12-28T15:26:08.3935507Z" />
+        <apiUpdate method="Ship" time="2023-12-28T15:26:08.42397Z" />
+        <apiUpdate method="Skills" time="2023-12-28T15:26:08.4682679Z" />
+        <apiUpdate method="SkillQueue" time="2023-12-28T15:26:07.3983109Z" />
+        <apiUpdate method="EmploymentHistory" time="2023-12-28T15:26:08.4174869Z" />
+        <apiUpdate method="Standings" time="2023-12-28T15:26:06.4393327Z" />
+        <apiUpdate method="ContactList" time="2023-12-28T15:26:06.4453172Z" />
         <apiUpdate method="FactionalWarfareStats" time="0001-01-01T00:00:00" />
-        <apiUpdate method="Medals" time="2023-12-27T11:12:13.1025393Z" />
-        <apiUpdate method="KillLog" time="2023-12-28T02:08:32.0395789Z" />
-        <apiUpdate method="AssetList" time="2023-12-28T02:09:21.7612837Z" />
-        <apiUpdate method="MarketOrders" time="2023-12-28T02:08:13.7910057Z" />
-        <apiUpdate method="Contracts" time="2023-12-28T02:08:32.0285896Z" />
-        <apiUpdate method="WalletJournal" time="2023-12-28T02:09:10.7367837Z" />
-        <apiUpdate method="AccountBalance" time="2023-12-27T19:08:11.6092902Z" />
-        <apiUpdate method="WalletTransactions" time="2023-12-28T02:09:13.6692354Z" />
-        <apiUpdate method="IndustryJobs" time="2023-12-28T01:10:24.1688669Z" />
-        <apiUpdate method="ResearchPoints" time="2023-12-28T02:08:35.1006243Z" />
-        <apiUpdate method="MailMessages" time="2023-12-28T02:08:13.8259405Z" />
+        <apiUpdate method="Medals" time="2023-12-28T15:26:06.4353438Z" />
+        <apiUpdate method="KillLog" time="2023-12-28T15:26:06.3954913Z" />
+        <apiUpdate method="AssetList" time="2023-12-28T15:26:06.4403302Z" />
+        <apiUpdate method="MarketOrders" time="2023-12-28T15:26:06.4014764Z" />
+        <apiUpdate method="Contracts" time="2023-12-28T15:26:06.4403302Z" />
+        <apiUpdate method="WalletJournal" time="2023-12-28T15:26:06.5200028Z" />
+        <apiUpdate method="AccountBalance" time="2023-12-28T15:26:08.3945481Z" />
+        <apiUpdate method="WalletTransactions" time="2023-12-28T15:26:06.4891997Z" />
+        <apiUpdate method="IndustryJobs" time="2023-12-28T15:26:06.3954913Z" />
+        <apiUpdate method="ResearchPoints" time="2023-12-28T15:26:06.3489195Z" />
+        <apiUpdate method="MailMessages" time="2023-12-28T15:26:06.4542952Z" />
         <apiUpdate method="MailingLists" time="0001-01-01T00:00:00" />
-        <apiUpdate method="Notifications" time="2023-12-28T02:08:13.7979868Z" />
+        <apiUpdate method="Notifications" time="2023-12-28T15:26:06.4622715Z" />
         <apiUpdate method="UpcomingCalendarEvents" time="0001-01-01T00:00:00" />
-        <apiUpdate method="PlanetaryColonies" time="2023-12-28T02:08:13.7840241Z" />
-        <apiUpdate method="LoyaltyPoints" time="2023-12-28T02:08:35.0906201Z" />
-        <apiUpdate method="CorporationMedals" time="2023-12-27T11:12:13.574953Z" />
-        <apiUpdate method="CorporationMarketOrders" time="2023-12-28T02:08:33.201087Z" />
-        <apiUpdate method="CorporationContracts" time="2023-12-28T02:08:33.1514457Z" />
-        <apiUpdate method="CorporationIndustryJobs" time="2023-12-28T02:08:33.1624154Z" />
+        <apiUpdate method="PlanetaryColonies" time="2023-12-28T15:26:06.4642673Z" />
+        <apiUpdate method="LoyaltyPoints" time="2023-12-28T15:26:06.4433231Z" />
+        <apiUpdate method="CorporationMedals" time="2023-12-28T15:26:06.4930466Z" />
+        <apiUpdate method="CorporationMarketOrders" time="2023-12-28T15:26:06.5200028Z" />
+        <apiUpdate method="CorporationContracts" time="2023-12-28T15:26:06.4742401Z" />
+        <apiUpdate method="CorporationIndustryJobs" time="2023-12-28T15:26:06.4872047Z" />
       </lastUpdates>
     </ccp>
     <ccp guid="1a11620b-a063-4259-8b5f-420d4fdb38f8" label="Drones">
@@ -2854,10 +2904,10 @@
         <skill typeID="3435" name="Propulsion Jamming" level="1" activelevel="1" skillpoints="750" ownsBook="true" isKnown="true" />
         <skill typeID="3418" name="Capacitor Management" level="3" activelevel="3" skillpoints="24000" ownsBook="true" isKnown="true" />
         <skill typeID="3417" name="Capacitor Systems Operation" level="3" activelevel="3" skillpoints="8000" ownsBook="true" isKnown="true" />
-        <skill typeID="3426" name="CPU Management" level="5" activelevel="4" skillpoints="256000" ownsBook="true" isKnown="true" />
+        <skill typeID="3426" name="CPU Management" level="5" activelevel="5" skillpoints="256000" ownsBook="true" isKnown="true" />
         <skill typeID="3432" name="Electronics Upgrades" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
         <skill typeID="3424" name="Energy Grid Upgrades" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
-        <skill typeID="3413" name="Power Grid Management" level="4" activelevel="4" skillpoints="77674" ownsBook="true" isKnown="true" />
+        <skill typeID="3413" name="Power Grid Management" level="4" activelevel="4" skillpoints="90320" ownsBook="true" isKnown="true" />
         <skill typeID="28164" name="Thermodynamics" level="1" activelevel="1" skillpoints="750" ownsBook="true" isKnown="true" />
         <skill typeID="3318" name="Weapon Upgrades" level="4" activelevel="4" skillpoints="90510" ownsBook="true" isKnown="true" />
         <skill typeID="3316" name="Controlled Bursts" level="2" activelevel="2" skillpoints="2829" ownsBook="true" isKnown="true" />
@@ -2914,7 +2964,7 @@
         <selectedIndex>0</selectedIndex>
       </implants>
       <queue>
-        <skill typeID="3413" level="5" startSP="45255" endSP="256000" startTime="2023-12-26 14:08:56" endTime="2024-01-05 08:18:36" />
+        <skill typeID="3413" level="5" startSP="45255" endSP="256000" startTime="2023-12-26 14:08:55" endTime="2024-01-05 08:18:35" />
       </queue>
       <marketOrders />
       <contracts>
@@ -2924,37 +2974,37 @@
       <eveMailMessages>394979936,394975451,394974915,394965514,394965463,394965365,394960545,394960524,394959333,394958386,394958257,394958203,394958045,394957951,394957739,394957721,379830902,376864829,376864550,376864283,376864173,376863727,376863535,376817589</eveMailMessages>
       <eveNotifications>1879461766,1879462401,1886372827,1886918506,1886928441,1887083274</eveNotifications>
       <lastUpdates>
-        <apiUpdate method="CharacterSheet" time="2023-12-27T19:08:10.5418451Z" />
-        <apiUpdate method="Location" time="2023-12-27T19:08:11.5668912Z" />
-        <apiUpdate method="Clones" time="2023-12-27T19:08:11.675458Z" />
-        <apiUpdate method="Implants" time="2023-12-27T19:08:11.6553174Z" />
-        <apiUpdate method="Ship" time="2023-12-27T19:08:11.6533224Z" />
-        <apiUpdate method="Skills" time="2023-12-27T19:08:11.7131786Z" />
-        <apiUpdate method="SkillQueue" time="2023-12-28T02:08:33.0810359Z" />
-        <apiUpdate method="EmploymentHistory" time="2023-12-27T19:08:11.5627591Z" />
-        <apiUpdate method="Standings" time="2023-12-28T02:09:10.5772098Z" />
-        <apiUpdate method="ContactList" time="2023-12-28T02:08:32.0595341Z" />
+        <apiUpdate method="CharacterSheet" time="2023-12-28T15:26:07.5876082Z" />
+        <apiUpdate method="Location" time="2023-12-28T15:26:08.3062324Z" />
+        <apiUpdate method="Clones" time="2023-12-28T15:26:08.4005319Z" />
+        <apiUpdate method="Implants" time="2023-12-28T15:26:08.4025265Z" />
+        <apiUpdate method="Ship" time="2023-12-28T15:26:08.3985373Z" />
+        <apiUpdate method="Skills" time="2023-12-28T15:26:08.4350188Z" />
+        <apiUpdate method="SkillQueue" time="2023-12-28T15:26:07.383847Z" />
+        <apiUpdate method="EmploymentHistory" time="2023-12-28T15:26:08.401529Z" />
+        <apiUpdate method="Standings" time="2023-12-28T15:26:06.3915016Z" />
+        <apiUpdate method="ContactList" time="2023-12-28T15:26:06.3745472Z" />
         <apiUpdate method="FactionalWarfareStats" time="0001-01-01T00:00:00" />
-        <apiUpdate method="Medals" time="2023-12-27T11:12:12.9824915Z" />
-        <apiUpdate method="KillLog" time="2023-12-28T02:08:33.0760494Z" />
-        <apiUpdate method="AssetList" time="2023-12-28T02:09:24.7796331Z" />
-        <apiUpdate method="MarketOrders" time="2023-12-28T02:08:13.7790385Z" />
-        <apiUpdate method="Contracts" time="2023-12-28T02:08:32.0255974Z" />
-        <apiUpdate method="WalletJournal" time="2023-12-28T02:09:10.688911Z" />
-        <apiUpdate method="AccountBalance" time="2023-12-27T19:08:11.610288Z" />
-        <apiUpdate method="WalletTransactions" time="2023-12-28T02:09:10.6879137Z" />
-        <apiUpdate method="IndustryJobs" time="2023-12-28T02:08:13.7730579Z" />
-        <apiUpdate method="ResearchPoints" time="2023-12-28T02:08:35.1225632Z" />
-        <apiUpdate method="MailMessages" time="2023-12-28T02:08:13.8079596Z" />
+        <apiUpdate method="Medals" time="2023-12-28T15:26:06.3925002Z" />
+        <apiUpdate method="KillLog" time="2023-12-28T15:26:06.335955Z" />
+        <apiUpdate method="AssetList" time="2023-12-28T15:26:06.3698638Z" />
+        <apiUpdate method="MarketOrders" time="2023-12-28T15:26:06.4822182Z" />
+        <apiUpdate method="Contracts" time="2023-12-28T15:26:06.3209943Z" />
+        <apiUpdate method="WalletJournal" time="2023-12-28T15:26:06.4393327Z" />
+        <apiUpdate method="AccountBalance" time="2023-12-28T15:26:08.3925534Z" />
+        <apiUpdate method="WalletTransactions" time="2023-12-28T15:26:06.4393327Z" />
+        <apiUpdate method="IndustryJobs" time="2023-12-28T15:26:06.3934965Z" />
+        <apiUpdate method="ResearchPoints" time="2023-12-28T15:26:06.4064619Z" />
+        <apiUpdate method="MailMessages" time="2023-12-28T15:26:06.4074587Z" />
         <apiUpdate method="MailingLists" time="0001-01-01T00:00:00" />
-        <apiUpdate method="Notifications" time="2023-12-28T02:08:13.8757784Z" />
+        <apiUpdate method="Notifications" time="2023-12-28T15:26:06.3915016Z" />
         <apiUpdate method="UpcomingCalendarEvents" time="0001-01-01T00:00:00" />
-        <apiUpdate method="PlanetaryColonies" time="2023-12-28T02:08:13.7920029Z" />
-        <apiUpdate method="LoyaltyPoints" time="2023-12-28T02:08:35.0906201Z" />
-        <apiUpdate method="CorporationMedals" time="2023-12-27T11:12:13.5066024Z" />
-        <apiUpdate method="CorporationMarketOrders" time="2023-12-28T02:08:33.2649483Z" />
-        <apiUpdate method="CorporationContracts" time="2023-12-28T02:08:33.2040789Z" />
-        <apiUpdate method="CorporationIndustryJobs" time="2023-12-28T02:08:33.189119Z" />
+        <apiUpdate method="PlanetaryColonies" time="2023-12-28T15:26:06.3944943Z" />
+        <apiUpdate method="LoyaltyPoints" time="2023-12-28T15:26:06.3925002Z" />
+        <apiUpdate method="CorporationMedals" time="2023-12-28T15:26:06.4882022Z" />
+        <apiUpdate method="CorporationMarketOrders" time="2023-12-28T15:26:06.4920495Z" />
+        <apiUpdate method="CorporationContracts" time="2023-12-28T15:26:06.4950413Z" />
+        <apiUpdate method="CorporationIndustryJobs" time="2023-12-28T15:26:06.4882022Z" />
       </lastUpdates>
     </ccp>
     <ccp guid="76d49468-8620-4e30-89eb-154f0e6e0be8" label="Algos/Myrmidon">
@@ -3008,7 +3058,7 @@
         <skill typeID="3392" name="Mechanics" level="3" activelevel="3" skillpoints="8000" ownsBook="true" isKnown="true" />
         <skill typeID="3393" name="Repair Systems" level="1" activelevel="1" skillpoints="250" ownsBook="true" isKnown="true" />
         <skill typeID="3437" name="Drone Avionics" level="1" activelevel="1" skillpoints="250" ownsBook="true" isKnown="true" />
-        <skill typeID="3436" name="Drones" level="3" activelevel="3" skillpoints="41658" ownsBook="true" isKnown="true" />
+        <skill typeID="3436" name="Drones" level="4" activelevel="3" skillpoints="56201" ownsBook="true" isKnown="true" />
         <skill typeID="12486" name="Gallente Drone Specialization" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
         <skill typeID="24241" name="Light Drone Operation" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
         <skill typeID="33699" name="Medium Drone Operation" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
@@ -3080,20 +3130,19 @@
         <selectedIndex>0</selectedIndex>
       </implants>
       <queue>
-        <skill typeID="3436" level="4" startSP="12019" endSP="45255" startTime="2023-12-26 21:32:01" endTime="2023-12-28 05:38:45" />
-        <skill typeID="3436" level="5" startSP="45255" endSP="256000" startTime="2023-12-28 05:38:45" endTime="2024-01-05 17:15:51" />
-        <skill typeID="33093" level="1" startSP="0" endSP="500" startTime="2024-01-05 17:15:51" endTime="2024-01-05 17:44:01" />
-        <skill typeID="12486" level="1" startSP="0" endSP="1250" startTime="2024-01-05 17:44:01" endTime="2024-01-05 18:56:29" />
-        <skill typeID="3394" level="4" startSP="16000" endSP="90510" startTime="2024-01-05 18:56:29" endTime="2024-01-09 13:15:23" />
-        <skill typeID="24241" level="1" startSP="0" endSP="250" startTime="2024-01-09 13:15:23" endTime="2024-01-09 13:29:53" />
-        <skill typeID="24241" level="2" startSP="250" endSP="1415" startTime="2024-01-09 13:29:53" endTime="2024-01-09 14:37:25" />
-        <skill typeID="24241" level="3" startSP="1415" endSP="8000" startTime="2024-01-09 14:37:25" endTime="2024-01-09 20:59:09" />
-        <skill typeID="24241" level="4" startSP="8000" endSP="45255" startTime="2024-01-09 20:59:09" endTime="2024-01-11 08:58:52" />
-        <skill typeID="24241" level="5" startSP="45255" endSP="256000" startTime="2024-01-11 08:58:52" endTime="2024-01-19 20:35:58" />
-        <skill typeID="33699" level="1" startSP="0" endSP="500" startTime="2024-01-19 20:35:58" endTime="2024-01-19 21:04:57" />
-        <skill typeID="3301" level="4" startSP="8000" endSP="45255" startTime="2024-01-19 21:04:57" endTime="2024-01-21 08:03:50" />
-        <skill typeID="3301" level="5" startSP="45255" endSP="256000" startTime="2024-01-21 08:03:50" endTime="2024-01-29 13:56:47" />
-        <skill typeID="3318" level="4" startSP="16000" endSP="90510" startTime="2024-01-29 13:56:47" endTime="2024-02-01 08:10:39" />
+        <skill typeID="3436" level="5" startSP="45255" endSP="256000" startTime="2023-12-28 05:38:44" endTime="2024-01-05 17:15:50" />
+        <skill typeID="33093" level="1" startSP="0" endSP="500" startTime="2024-01-05 17:15:50" endTime="2024-01-05 17:44:00" />
+        <skill typeID="12486" level="1" startSP="0" endSP="1250" startTime="2024-01-05 17:44:00" endTime="2024-01-05 18:56:28" />
+        <skill typeID="3394" level="4" startSP="16000" endSP="90510" startTime="2024-01-05 18:56:28" endTime="2024-01-09 13:15:22" />
+        <skill typeID="24241" level="1" startSP="0" endSP="250" startTime="2024-01-09 13:15:22" endTime="2024-01-09 13:29:52" />
+        <skill typeID="24241" level="2" startSP="250" endSP="1415" startTime="2024-01-09 13:29:52" endTime="2024-01-09 14:37:24" />
+        <skill typeID="24241" level="3" startSP="1415" endSP="8000" startTime="2024-01-09 14:37:24" endTime="2024-01-09 20:59:08" />
+        <skill typeID="24241" level="4" startSP="8000" endSP="45255" startTime="2024-01-09 20:59:08" endTime="2024-01-11 08:58:51" />
+        <skill typeID="24241" level="5" startSP="45255" endSP="256000" startTime="2024-01-11 08:58:51" endTime="2024-01-19 20:35:57" />
+        <skill typeID="33699" level="1" startSP="0" endSP="500" startTime="2024-01-19 20:35:57" endTime="2024-01-19 21:04:56" />
+        <skill typeID="3301" level="4" startSP="8000" endSP="45255" startTime="2024-01-19 21:04:56" endTime="2024-01-21 08:03:49" />
+        <skill typeID="3301" level="5" startSP="45255" endSP="256000" startTime="2024-01-21 08:03:49" endTime="2024-01-29 13:56:46" />
+        <skill typeID="3318" level="4" startSP="16000" endSP="90510" startTime="2024-01-29 13:56:46" endTime="2024-02-01 08:10:38" />
       </queue>
       <marketOrders>
         <buy orderID="6675648261" orderState="Fulfilled" price="4695000.0" volRemaining="0" issued="2023-12-26T20:30:50Z" issuedFor="Character" lastStateChange="2023-12-27T11:12:13.1718359Z" />
@@ -3120,33 +3169,33 @@
       <eveMailMessages>394979936,394975451</eveMailMessages>
       <eveNotifications>1887445746,1887446256,1887607893,1887616721,1887618761,1887619942,1887622897,1887629225</eveNotifications>
       <lastUpdates>
-        <apiUpdate method="CharacterSheet" time="2023-12-27T19:08:10.5560658Z" />
-        <apiUpdate method="Location" time="2023-12-27T19:08:11.5767461Z" />
-        <apiUpdate method="Clones" time="2023-12-27T19:08:11.6603412Z" />
-        <apiUpdate method="Implants" time="2023-12-27T19:08:11.6593439Z" />
-        <apiUpdate method="Ship" time="2023-12-27T19:08:11.6613383Z" />
-        <apiUpdate method="Skills" time="2023-12-27T19:08:11.7151125Z" />
-        <apiUpdate method="SkillQueue" time="2023-12-28T02:08:33.1275086Z" />
-        <apiUpdate method="EmploymentHistory" time="2023-12-27T19:08:11.5767461Z" />
-        <apiUpdate method="Standings" time="2023-12-28T02:09:10.5642442Z" />
-        <apiUpdate method="ContactList" time="2023-12-28T02:08:32.0415555Z" />
+        <apiUpdate method="CharacterSheet" time="2023-12-28T15:26:07.2265921Z" />
+        <apiUpdate method="Location" time="2023-12-28T15:26:08.2788731Z" />
+        <apiUpdate method="Clones" time="2023-12-28T15:26:08.3595082Z" />
+        <apiUpdate method="Implants" time="2023-12-28T15:26:08.3965433Z" />
+        <apiUpdate method="Ship" time="2023-12-28T15:26:08.3935507Z" />
+        <apiUpdate method="Skills" time="2023-12-28T15:26:08.4204789Z" />
+        <apiUpdate method="SkillQueue" time="2023-12-28T15:26:07.3185858Z" />
+        <apiUpdate method="EmploymentHistory" time="2023-12-28T15:26:08.3955452Z" />
+        <apiUpdate method="Standings" time="2023-12-28T15:26:06.1903435Z" />
+        <apiUpdate method="ContactList" time="2023-12-28T15:26:06.1973246Z" />
         <apiUpdate method="FactionalWarfareStats" time="0001-01-01T00:00:00" />
-        <apiUpdate method="Medals" time="2023-12-27T14:08:22.8966654Z" />
-        <apiUpdate method="KillLog" time="2023-12-28T02:08:32.0395789Z" />
-        <apiUpdate method="AssetList" time="2023-12-28T02:09:17.6773591Z" />
-        <apiUpdate method="MarketOrders" time="2023-12-28T02:08:13.8009785Z" />
-        <apiUpdate method="Contracts" time="2023-12-28T02:08:32.0315806Z" />
-        <apiUpdate method="WalletJournal" time="2023-12-28T02:09:10.7876468Z" />
-        <apiUpdate method="AccountBalance" time="2023-12-27T19:08:11.6182744Z" />
-        <apiUpdate method="WalletTransactions" time="2023-12-28T02:09:10.5811988Z" />
-        <apiUpdate method="IndustryJobs" time="2023-12-28T02:08:13.7780702Z" />
-        <apiUpdate method="ResearchPoints" time="2023-12-28T02:08:35.1165522Z" />
-        <apiUpdate method="MailMessages" time="2023-12-28T02:08:13.801976Z" />
+        <apiUpdate method="Medals" time="2023-12-28T15:26:06.1713939Z" />
+        <apiUpdate method="KillLog" time="2023-12-28T15:26:06.19533Z" />
+        <apiUpdate method="AssetList" time="2023-12-28T15:26:06.1903435Z" />
+        <apiUpdate method="MarketOrders" time="2023-12-28T15:26:06.2162735Z" />
+        <apiUpdate method="Contracts" time="2023-12-28T15:26:06.1803704Z" />
+        <apiUpdate method="WalletJournal" time="2023-12-28T15:26:06.4652636Z" />
+        <apiUpdate method="AccountBalance" time="2023-12-28T15:26:08.3098508Z" />
+        <apiUpdate method="WalletTransactions" time="2023-12-28T15:26:06.4393327Z" />
+        <apiUpdate method="IndustryJobs" time="2023-12-28T15:26:06.1843606Z" />
+        <apiUpdate method="ResearchPoints" time="2023-12-28T15:26:06.2721248Z" />
+        <apiUpdate method="MailMessages" time="2023-12-28T15:26:06.2182688Z" />
         <apiUpdate method="MailingLists" time="0001-01-01T00:00:00" />
-        <apiUpdate method="Notifications" time="2023-12-28T02:08:13.8628137Z" />
+        <apiUpdate method="Notifications" time="2023-12-28T15:26:06.2312341Z" />
         <apiUpdate method="UpcomingCalendarEvents" time="0001-01-01T00:00:00" />
-        <apiUpdate method="PlanetaryColonies" time="2023-12-28T02:08:13.8149426Z" />
-        <apiUpdate method="LoyaltyPoints" time="2023-12-28T02:08:35.0936119Z" />
+        <apiUpdate method="PlanetaryColonies" time="2023-12-28T15:26:06.2491863Z" />
+        <apiUpdate method="LoyaltyPoints" time="2023-12-28T15:26:06.170397Z" />
         <apiUpdate method="CorporationMedals" time="0001-01-01T00:00:00" />
         <apiUpdate method="CorporationMarketOrders" time="0001-01-01T00:00:00" />
         <apiUpdate method="CorporationContracts" time="0001-01-01T00:00:00" />
@@ -3214,10 +3263,10 @@
         <skill typeID="3418" name="Capacitor Management" level="3" activelevel="3" skillpoints="24000" ownsBook="true" isKnown="true" />
         <skill typeID="3417" name="Capacitor Systems Operation" level="3" activelevel="3" skillpoints="8000" ownsBook="true" isKnown="true" />
         <skill typeID="3426" name="CPU Management" level="4" activelevel="4" skillpoints="45255" ownsBook="true" isKnown="true" />
-        <skill typeID="3432" name="Electronics Upgrades" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
-        <skill typeID="3424" name="Energy Grid Upgrades" level="3" activelevel="2" skillpoints="16000" ownsBook="true" isKnown="true" />
+        <skill typeID="3432" name="Electronics Upgrades" level="3" activelevel="3" skillpoints="25035" ownsBook="true" isKnown="true" />
+        <skill typeID="3424" name="Energy Grid Upgrades" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
         <skill typeID="3413" name="Power Grid Management" level="4" activelevel="4" skillpoints="45255" ownsBook="true" isKnown="true" />
-        <skill typeID="3318" name="Weapon Upgrades" level="2" activelevel="2" skillpoints="12389" ownsBook="true" isKnown="true" />
+        <skill typeID="3318" name="Weapon Upgrades" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
         <skill typeID="3316" name="Controlled Bursts" level="1" activelevel="1" skillpoints="500" ownsBook="true" isKnown="true" />
         <skill typeID="3300" name="Gunnery" level="4" activelevel="4" skillpoints="45255" ownsBook="true" isKnown="true" />
         <skill typeID="3312" name="Motion Prediction" level="2" activelevel="2" skillpoints="2829" ownsBook="true" isKnown="true" />
@@ -3274,12 +3323,11 @@
         <selectedIndex>0</selectedIndex>
       </implants>
       <queue>
-        <skill typeID="3318" level="3" startSP="2829" endSP="16000" startTime="2023-12-27 15:32:53" endTime="2023-12-28 06:10:57" />
-        <skill typeID="3432" level="4" startSP="16000" endSP="90510" startTime="2023-12-28 06:10:57" endTime="2023-12-31 16:58:17" />
-        <skill typeID="3318" level="4" startSP="16000" endSP="90510" startTime="2023-12-31 16:58:17" endTime="2024-01-04 03:45:37" />
-        <skill typeID="3424" level="4" startSP="16000" endSP="90510" startTime="2024-01-04 03:45:37" endTime="2024-01-07 14:32:57" />
-        <skill typeID="3418" level="4" startSP="24000" endSP="135765" startTime="2024-01-07 14:32:57" endTime="2024-01-12 18:43:57" />
-        <skill typeID="3394" level="4" startSP="16000" endSP="90510" startTime="2024-01-12 18:43:57" endTime="2024-01-16 05:31:17" />
+        <skill typeID="3432" level="4" startSP="16000" endSP="90510" startTime="2023-12-28 06:10:56" endTime="2023-12-31 16:58:16" />
+        <skill typeID="3318" level="4" startSP="16000" endSP="90510" startTime="2023-12-31 16:58:16" endTime="2024-01-04 03:45:36" />
+        <skill typeID="3424" level="4" startSP="16000" endSP="90510" startTime="2024-01-04 03:45:36" endTime="2024-01-07 14:32:56" />
+        <skill typeID="3418" level="4" startSP="24000" endSP="135765" startTime="2024-01-07 14:32:56" endTime="2024-01-12 18:43:56" />
+        <skill typeID="3394" level="4" startSP="16000" endSP="90510" startTime="2024-01-12 18:43:56" endTime="2024-01-16 05:31:16" />
       </queue>
       <marketOrders>
         <buy orderID="6675793128" orderState="Fulfilled" price="59990.0" volRemaining="0" issued="2023-12-27T00:17:57Z" issuedFor="Character" lastStateChange="2023-12-27T11:12:13.3699642Z" />
@@ -3312,33 +3360,33 @@
       <eveMailMessages>394979936</eveMailMessages>
       <eveNotifications>1887446012,1887446058,1887651132</eveNotifications>
       <lastUpdates>
-        <apiUpdate method="CharacterSheet" time="2023-12-27T19:08:10.5570628Z" />
-        <apiUpdate method="Location" time="2023-12-27T19:08:11.5870254Z" />
-        <apiUpdate method="Clones" time="2023-12-27T19:08:11.6272533Z" />
-        <apiUpdate method="Implants" time="2023-12-27T19:08:11.641247Z" />
-        <apiUpdate method="Ship" time="2023-12-27T19:08:11.6735329Z" />
-        <apiUpdate method="Skills" time="2023-12-27T19:08:11.7021183Z" />
-        <apiUpdate method="SkillQueue" time="2023-12-28T02:08:34.1306003Z" />
-        <apiUpdate method="EmploymentHistory" time="2023-12-27T19:08:11.5840614Z" />
-        <apiUpdate method="Standings" time="2023-12-28T02:09:10.5782075Z" />
-        <apiUpdate method="ContactList" time="2023-12-28T02:08:33.0946002Z" />
+        <apiUpdate method="CharacterSheet" time="2023-12-28T15:26:07.2337341Z" />
+        <apiUpdate method="Location" time="2023-12-28T15:26:08.3062324Z" />
+        <apiUpdate method="Clones" time="2023-12-28T15:26:08.4214761Z" />
+        <apiUpdate method="Implants" time="2023-12-28T15:26:08.3985373Z" />
+        <apiUpdate method="Ship" time="2023-12-28T15:26:08.4025265Z" />
+        <apiUpdate method="Skills" time="2023-12-28T15:26:08.4508156Z" />
+        <apiUpdate method="SkillQueue" time="2023-12-28T15:26:07.3379407Z" />
+        <apiUpdate method="EmploymentHistory" time="2023-12-28T15:26:08.4005319Z" />
+        <apiUpdate method="Standings" time="2023-12-28T15:26:06.3725565Z" />
+        <apiUpdate method="ContactList" time="2023-12-28T15:26:06.4802244Z" />
         <apiUpdate method="FactionalWarfareStats" time="0001-01-01T00:00:00" />
-        <apiUpdate method="Medals" time="2023-12-27T14:08:22.9903655Z" />
-        <apiUpdate method="KillLog" time="2023-12-28T02:08:32.0425948Z" />
-        <apiUpdate method="AssetList" time="2023-12-28T02:09:21.0268088Z" />
-        <apiUpdate method="MarketOrders" time="2023-12-28T02:08:13.7830282Z" />
-        <apiUpdate method="Contracts" time="2023-12-28T02:08:33.0836998Z" />
-        <apiUpdate method="WalletJournal" time="2023-12-28T02:09:10.6988842Z" />
-        <apiUpdate method="AccountBalance" time="2023-12-27T19:08:11.6172735Z" />
-        <apiUpdate method="WalletTransactions" time="2023-12-28T02:09:10.5612529Z" />
-        <apiUpdate method="IndustryJobs" time="2023-12-28T02:08:13.793997Z" />
-        <apiUpdate method="ResearchPoints" time="2023-12-28T02:08:35.1175498Z" />
-        <apiUpdate method="MailMessages" time="2023-12-28T02:08:13.8009785Z" />
+        <apiUpdate method="Medals" time="2023-12-28T15:26:06.3628824Z" />
+        <apiUpdate method="KillLog" time="2023-12-28T15:26:06.3954913Z" />
+        <apiUpdate method="AssetList" time="2023-12-28T15:26:06.405465Z" />
+        <apiUpdate method="MarketOrders" time="2023-12-28T15:26:06.4383359Z" />
+        <apiUpdate method="Contracts" time="2023-12-28T15:26:06.3755625Z" />
+        <apiUpdate method="WalletJournal" time="2023-12-28T15:26:06.4920495Z" />
+        <apiUpdate method="AccountBalance" time="2023-12-28T15:26:08.3945481Z" />
+        <apiUpdate method="WalletTransactions" time="2023-12-28T15:26:06.3944943Z" />
+        <apiUpdate method="IndustryJobs" time="2023-12-28T15:26:06.3708607Z" />
+        <apiUpdate method="ResearchPoints" time="2023-12-28T15:26:06.3499171Z" />
+        <apiUpdate method="MailMessages" time="2023-12-28T15:26:06.4722448Z" />
         <apiUpdate method="MailingLists" time="0001-01-01T00:00:00" />
-        <apiUpdate method="Notifications" time="2023-12-28T02:08:13.7910057Z" />
+        <apiUpdate method="Notifications" time="2023-12-28T15:26:06.4353438Z" />
         <apiUpdate method="UpcomingCalendarEvents" time="0001-01-01T00:00:00" />
-        <apiUpdate method="PlanetaryColonies" time="2023-12-28T02:08:13.8209249Z" />
-        <apiUpdate method="LoyaltyPoints" time="2023-12-28T02:08:35.131511Z" />
+        <apiUpdate method="PlanetaryColonies" time="2023-12-28T15:26:06.4353438Z" />
+        <apiUpdate method="LoyaltyPoints" time="2023-12-28T15:26:06.3745472Z" />
         <apiUpdate method="CorporationMedals" time="0001-01-01T00:00:00" />
         <apiUpdate method="CorporationMarketOrders" time="0001-01-01T00:00:00" />
         <apiUpdate method="CorporationContracts" time="0001-01-01T00:00:00" />
@@ -4070,9 +4118,6 @@
     </plan>
     <plan name="Al AbyDee" owner="76d49468-8620-4e30-89eb-154f0e6e0be8" description="">
       <sorting criteria="None" order="None" groupByPriority="false" />
-      <entry skillID="3436" skill="Drones" level="4" priority="1" type="Planned">
-        <notes>Drones, Al AbyDee, El AbyDee, Mi AbyDeeBee 80km 200m</notes>
-      </entry>
       <entry skillID="3436" skill="Drones" level="5" priority="1" type="Planned">
         <notes>Drones, Al AbyDee, El AbyDee, Mi AbyDeeBee 80km 200m</notes>
       </entry>
