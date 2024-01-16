@@ -1,0 +1,17 @@
+2024-01-16 11:26:23.549    app     info:    Startup arguments    [ '--squirrel-uninstall', '1.2.1' ]
+2024-01-16 11:26:23.590    app     info:    [elg-events] Sending event    eve_launcher.electron.application.SquirrelUninstall
+2024-01-16 11:26:23.591    app     info:    [vanguard-uninstaller] Removing Vanguard prerequisites
+2024-01-16 11:26:23.591    app     info:    [vanguard-uninstaller] Uninstalling EAC
+2024-01-16 11:26:23.592    app     info:    [uninstall] Removing launcher settings from electron app data directory    { path: 'C:\\Users\\Dmytro\\AppData\\Roaming\\EVE Online' }
+2024-01-16 11:26:23.612    app     info:    Application quitting. Cleanup needed: true
+2024-01-16 11:26:23.613    app     info:    [elg-events] Sending event    eve_launcher.electron.application.LauncherShutdown
+2024-01-16 11:26:23.618    app     info:    [preload] High DPI scaling enabled by settings
+2024-01-16 11:26:23.621    app     info:    app.quit called, but we are still sending ELG events.
+2024-01-16 11:26:23.707    app     info:    [i18next] Changed language    en
+2024-01-16 11:26:23.773    app    error:    (node:8812) UnhandledPromiseRejectionWarning: Error: ENOENT: no such file or directory, stat 'C:\CCP\EVE Online\eve-vanguard-tq\Windows\EasyAntiCheat\EasyAntiCheat_EOS_Setup.exe'
+(Use `eve-online --trace-warnings ...` to show where the warning was created)    []
+2024-01-16 11:26:23.774    app    error:    (node:8812) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)    []
+2024-01-16 11:26:23.775    app     info:    [uninstall] Removing game client directory: C:\CCP\EVE Online
+2024-01-16 11:26:23.824    app     info:    Application quitting. Cleanup needed: false
+2024-01-16 11:26:23.824    app     info:    app.quit called, but cleanup has already been performed. Quitting.
+2024-01-16 11:26:23.825    app     info:    Application closed    0
