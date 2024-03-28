@@ -317,3 +317,14 @@
 2024-03-28 15:29:44.523    app     info:    [server-manager] Ready to play!
 2024-03-28 15:29:44.530    app     info:    [server-manager] Finished refresh cycle for Tranquility
 2024-03-28 15:29:44.542    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.GameClientExited
+2024-03-28 15:34:35.874    app     info:    [tray] Quitting application from tray
+2024-03-28 15:34:35.878    app     info:    Application quitting. Cleanup needed: true
+2024-03-28 15:34:35.881    app     info:    [elg-events] Queueing shutdown event    eve_launcher.electron.application.LauncherShutdown
+2024-03-28 15:34:35.886    app     info:    app.quit called, but we are still sending ELG events.
+2024-03-28 15:34:35.886    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.application.LauncherShutdown
+2024-03-28 15:34:36.136    app     info:    [elg-events] Shutdown event timeout passed
+2024-03-28 15:34:36.137    app     info:    ELG stream closed, quitting.
+2024-03-28 15:34:36.139    app     info:    [main-window] Main window closing    { windowId: 2 }
+2024-03-28 15:34:36.141    app     info:    [elg-events] gRPC connection aborted
+2024-03-28 15:34:36.142    app     info:    ELG stream closed, quitting.
+2024-03-28 15:34:36.150    app     info:    Application closed    0
