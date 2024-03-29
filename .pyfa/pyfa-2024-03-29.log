@@ -1,0 +1,473 @@
+[2024-03-29 00:10:55.971412] DEBUG: service.fit: Changing character (9) for fit ID: 11
+[2024-03-29 00:10:55.976399] INFO: service.fit: ==========recalc: Subrat 80C Explorer==========
+[2024-03-29 00:10:55.976399] INFO: eos.saveddata.fit: Starting fit calculation on: Fit(ID=11, ship=Corax, name=Subrat 80C Explorer) at 0x2006b6b04d0, calc: LOCAL
+[2024-03-29 00:10:55.976399] INFO: eos.saveddata.fit: Fit is not yet calculated; will be running local calcs for Fit(ID=11, ship=Corax, name=Subrat 80C Explorer) at 0x2006b6b04d0
+[2024-03-29 00:10:55.990389] DEBUG: eos.saveddata.fit: Done with fit calculation
+[2024-03-29 00:10:55.990389] INFO: service.fit: ==========recalc time: 0.013990163803100586==========
+[2024-03-29 00:11:19.193812] DEBUG: gui.contextMenu: 160 new IDs created for this menu
+[2024-03-29 00:11:22.734714] DEBUG: gui.fitCommands.calc.module.changeCharges: Doing change of module charges according to map {3: 35794} on fit 11
+[2024-03-29 00:11:22.734714] DEBUG: gui.fitCommands.calc.module.changeCharges: Setting charge Item(ID=35794, name=Missile Range Script, display=Missile Range Script) at 0x2006de41a10 for Module(ID=35788, name=Missile Guidance Computer I) at 0x2006b65fe10 on fit 11
+[2024-03-29 00:11:22.735712] INFO: service.fit: ==========recalc: Subrat 80C Explorer==========
+[2024-03-29 00:11:22.735712] INFO: eos.saveddata.fit: Starting fit calculation on: Fit(ID=11, ship=Corax, name=Subrat 80C Explorer) at 0x2006b6b04d0, calc: LOCAL
+[2024-03-29 00:11:22.735712] INFO: eos.saveddata.fit: Fit is not yet calculated; will be running local calcs for Fit(ID=11, ship=Corax, name=Subrat 80C Explorer) at 0x2006b6b04d0
+[2024-03-29 00:11:22.736710] DEBUG: eos.gamedata: Loading scriptMissileGuidanceComputerAOECloudSizeBonusBonus (Effect6128)
+[2024-03-29 00:11:22.736710] DEBUG: eos.gamedata: Loading scriptMissileGuidanceComputerAOEVelocityBonusBonus (Effect6129)
+[2024-03-29 00:11:22.736710] DEBUG: eos.gamedata: Loading scriptMissileGuidanceComputerMissileVelocityBonusBonus (Effect6130)
+[2024-03-29 00:11:22.736710] DEBUG: eos.gamedata: Loading scriptMissileGuidanceComputerExplosionDelayBonusBonus (Effect6131)
+[2024-03-29 00:11:22.752695] DEBUG: eos.saveddata.fit: Done with fit calculation
+[2024-03-29 00:11:22.753693] INFO: service.fit: ==========recalc time: 0.017980575561523438==========
+[2024-03-29 00:11:22.753693] DEBUG: service.fit: Check states for fit ID: Subrat 80C Explorer (Corax)
+[2024-03-29 00:12:01.907623] DEBUG: service.fit: Clearing fit for fit ID: 11
+[2024-03-29 00:12:01.916503] DEBUG: service.fit: Changing character (9) for fit ID: 11
+[2024-03-29 00:12:01.916503] INFO: service.fit: ==========recalc: Subrat 80C Explorer==========
+[2024-03-29 00:12:01.917501] INFO: eos.saveddata.fit: Starting fit calculation on: Fit(ID=11, ship=Corax, name=Subrat 80C Explorer) at 0x2006b6b04d0, calc: LOCAL
+[2024-03-29 00:12:01.917501] INFO: eos.saveddata.fit: Fit is not yet calculated; will be running local calcs for Fit(ID=11, ship=Corax, name=Subrat 80C Explorer) at 0x2006b6b04d0
+[2024-03-29 00:12:01.944456] DEBUG: eos.saveddata.fit: Done with fit calculation
+[2024-03-29 00:12:01.945457] INFO: service.fit: ==========recalc time: 0.02895355224609375==========
+[2024-03-29 00:13:55.896209] DEBUG: service.fit: Getting count of all fits for: 16236
+[2024-03-29 00:13:55.901197] DEBUG: service.fit: Getting count of all fits for: 73789
+[2024-03-29 00:13:55.904187] DEBUG: service.fit: Getting count of all fits for: 32874
+[2024-03-29 00:13:55.906182] DEBUG: service.fit: Getting count of all fits for: 32876
+[2024-03-29 00:13:55.909174] DEBUG: service.fit: Getting count of all fits for: 16238
+[2024-03-29 00:13:55.912166] DEBUG: service.fit: Getting count of all fits for: 73795
+[2024-03-29 00:13:55.914161] DEBUG: service.fit: Getting count of all fits for: 32872
+[2024-03-29 00:13:55.916156] DEBUG: service.fit: Getting count of all fits for: 16240
+[2024-03-29 00:13:55.919148] DEBUG: service.fit: Getting count of all fits for: 73796
+[2024-03-29 00:13:55.921142] DEBUG: service.fit: Getting count of all fits for: 32878
+[2024-03-29 00:13:55.923137] DEBUG: service.fit: Getting count of all fits for: 16242
+[2024-03-29 00:13:55.925132] DEBUG: service.fit: Getting count of all fits for: 73794
+[2024-03-29 00:13:55.928123] DEBUG: service.fit: Getting count of all fits for: 78333
+[2024-03-29 00:13:55.930118] DEBUG: service.fit: Getting count of all fits for: 78367
+[2024-03-29 00:13:55.932112] DEBUG: service.fit: Getting count of all fits for: 42685
+[2024-03-29 00:13:55.936102] DEBUG: service.fit: Getting count of all fits for: 49710
+[2024-03-29 00:13:59.422112] DEBUG: gui.shipBrowser: Populate ship category list.
+[2024-03-29 00:14:03.092950] DEBUG: service.fit: Getting count of all fits for: 2161
+[2024-03-29 00:14:03.099932] DEBUG: service.fit: Getting count of all fits for: 37453
+[2024-03-29 00:14:03.103921] DEBUG: service.fit: Getting count of all fits for: 589
+[2024-03-29 00:14:03.107910] DEBUG: service.fit: Getting count of all fits for: 17703
+[2024-03-29 00:14:03.111900] DEBUG: service.fit: Getting count of all fits for: 590
+[2024-03-29 00:14:03.114892] DEBUG: service.fit: Getting count of all fits for: 29248
+[2024-03-29 00:14:03.118881] DEBUG: service.fit: Getting count of all fits for: 72907
+[2024-03-29 00:14:03.122870] DEBUG: service.fit: Getting count of all fits for: 597
+[2024-03-29 00:14:03.126860] DEBUG: service.fit: Getting count of all fits for: 591
+[2024-03-29 00:14:03.130849] DEBUG: service.fit: Getting count of all fits for: 582
+[2024-03-29 00:14:03.133841] DEBUG: service.fit: Getting count of all fits for: 17619
+[2024-03-29 00:14:03.137829] DEBUG: service.fit: Getting count of all fits for: 583
+[2024-03-29 00:14:03.142817] DEBUG: service.fit: Getting count of all fits for: 584
+[2024-03-29 00:14:03.145809] DEBUG: service.fit: Getting count of all fits for: 37455
+[2024-03-29 00:14:03.149798] DEBUG: service.fit: Getting count of all fits for: 605
+[2024-03-29 00:14:03.153788] DEBUG: service.fit: Getting count of all fits for: 72904
+[2024-03-29 00:14:03.156780] DEBUG: service.fit: Getting count of all fits for: 602
+[2024-03-29 00:14:03.160769] DEBUG: service.fit: Getting count of all fits for: 603
+[2024-03-29 00:14:03.166753] DEBUG: service.fit: Getting count of all fits for: 608
+[2024-03-29 00:14:03.170742] DEBUG: service.fit: Getting count of all fits for: 17841
+[2024-03-29 00:14:03.174732] DEBUG: service.fit: Getting count of all fits for: 607
+[2024-03-29 00:14:03.178720] DEBUG: service.fit: Getting count of all fits for: 72913
+[2024-03-29 00:14:03.182710] DEBUG: service.fit: Getting count of all fits for: 594
+[2024-03-29 00:14:03.186700] DEBUG: service.fit: Getting count of all fits for: 609
+[2024-03-29 00:14:03.189691] DEBUG: service.fit: Getting count of all fits for: 37456
+[2024-03-29 00:14:03.193681] DEBUG: service.fit: Getting count of all fits for: 592
+[2024-03-29 00:14:03.196673] DEBUG: service.fit: Getting count of all fits for: 593
+[2024-03-29 00:14:03.200662] DEBUG: service.fit: Getting count of all fits for: 598
+[2024-03-29 00:14:03.203654] DEBUG: service.fit: Getting count of all fits for: 599
+[2024-03-29 00:14:03.207643] DEBUG: service.fit: Getting count of all fits for: 586
+[2024-03-29 00:14:03.211633] DEBUG: service.fit: Getting count of all fits for: 72903
+[2024-03-29 00:14:03.215622] DEBUG: service.fit: Getting count of all fits for: 17812
+[2024-03-29 00:14:03.218614] DEBUG: service.fit: Getting count of all fits for: 587
+[2024-03-29 00:14:03.222604] DEBUG: service.fit: Getting count of all fits for: 585
+[2024-03-29 00:14:03.225596] DEBUG: service.fit: Getting count of all fits for: 3766
+[2024-03-29 00:14:03.230583] DEBUG: service.fit: Getting count of all fits for: 37454
+[2024-03-29 00:14:03.234572] DEBUG: service.fit: Getting count of all fits for: 33468
+[2024-03-29 00:14:03.238561] DEBUG: service.fit: Getting count of all fits for: 32880
+[2024-03-29 00:14:03.241553] DEBUG: service.fit: Getting count of all fits for: 17928
+[2024-03-29 00:14:03.245542] DEBUG: service.fit: Getting count of all fits for: 17932
+[2024-03-29 00:14:03.248534] DEBUG: service.fit: Getting count of all fits for: 17926
+[2024-03-29 00:14:03.252523] DEBUG: service.fit: Getting count of all fits for: 17924
+[2024-03-29 00:14:03.256512] DEBUG: service.fit: Getting count of all fits for: 17930
+[2024-03-29 00:14:03.260502] DEBUG: service.fit: Getting count of all fits for: 33816
+[2024-03-29 00:14:03.264492] DEBUG: service.fit: Getting count of all fits for: 47269
+[2024-03-29 00:14:03.269479] DEBUG: service.fit: Getting count of all fits for: 54731
+[2024-03-29 00:14:03.298431] DEBUG: service.fit: Fetching all fits for ship ID: 17619
+[2024-03-29 00:14:06.693975] DEBUG: service.fit: Getting count of all fits for: 2161
+[2024-03-29 00:14:06.697964] DEBUG: service.fit: Getting count of all fits for: 37453
+[2024-03-29 00:14:06.700956] DEBUG: service.fit: Getting count of all fits for: 589
+[2024-03-29 00:14:06.702951] DEBUG: service.fit: Getting count of all fits for: 17703
+[2024-03-29 00:14:06.705942] DEBUG: service.fit: Getting count of all fits for: 590
+[2024-03-29 00:14:06.707938] DEBUG: service.fit: Getting count of all fits for: 29248
+[2024-03-29 00:14:06.709932] DEBUG: service.fit: Getting count of all fits for: 72907
+[2024-03-29 00:14:06.712924] DEBUG: service.fit: Getting count of all fits for: 597
+[2024-03-29 00:14:06.714919] DEBUG: service.fit: Getting count of all fits for: 591
+[2024-03-29 00:14:06.716914] DEBUG: service.fit: Getting count of all fits for: 582
+[2024-03-29 00:14:06.719906] DEBUG: service.fit: Getting count of all fits for: 17619
+[2024-03-29 00:14:06.722898] DEBUG: service.fit: Getting count of all fits for: 583
+[2024-03-29 00:14:06.728882] DEBUG: service.fit: Getting count of all fits for: 584
+[2024-03-29 00:14:06.730876] DEBUG: service.fit: Getting count of all fits for: 37455
+[2024-03-29 00:14:06.732871] DEBUG: service.fit: Getting count of all fits for: 605
+[2024-03-29 00:14:06.734865] DEBUG: service.fit: Getting count of all fits for: 72904
+[2024-03-29 00:14:06.736860] DEBUG: service.fit: Getting count of all fits for: 602
+[2024-03-29 00:14:06.739852] DEBUG: service.fit: Getting count of all fits for: 603
+[2024-03-29 00:14:06.742844] DEBUG: service.fit: Getting count of all fits for: 608
+[2024-03-29 00:14:06.745836] DEBUG: service.fit: Getting count of all fits for: 17841
+[2024-03-29 00:14:06.747830] DEBUG: service.fit: Getting count of all fits for: 607
+[2024-03-29 00:14:06.749826] DEBUG: service.fit: Getting count of all fits for: 72913
+[2024-03-29 00:14:06.751820] DEBUG: service.fit: Getting count of all fits for: 594
+[2024-03-29 00:14:06.753815] DEBUG: service.fit: Getting count of all fits for: 609
+[2024-03-29 00:14:06.756807] DEBUG: service.fit: Getting count of all fits for: 37456
+[2024-03-29 00:14:06.758802] DEBUG: service.fit: Getting count of all fits for: 592
+[2024-03-29 00:14:06.760797] DEBUG: service.fit: Getting count of all fits for: 593
+[2024-03-29 00:14:06.762790] DEBUG: service.fit: Getting count of all fits for: 598
+[2024-03-29 00:14:06.765783] DEBUG: service.fit: Getting count of all fits for: 599
+[2024-03-29 00:14:06.767778] DEBUG: service.fit: Getting count of all fits for: 586
+[2024-03-29 00:14:06.770769] DEBUG: service.fit: Getting count of all fits for: 72903
+[2024-03-29 00:14:06.772765] DEBUG: service.fit: Getting count of all fits for: 17812
+[2024-03-29 00:14:06.774760] DEBUG: service.fit: Getting count of all fits for: 587
+[2024-03-29 00:14:06.776754] DEBUG: service.fit: Getting count of all fits for: 585
+[2024-03-29 00:14:06.778748] DEBUG: service.fit: Getting count of all fits for: 3766
+[2024-03-29 00:14:06.781741] DEBUG: service.fit: Getting count of all fits for: 37454
+[2024-03-29 00:14:06.783735] DEBUG: service.fit: Getting count of all fits for: 33468
+[2024-03-29 00:14:06.786728] DEBUG: service.fit: Getting count of all fits for: 32880
+[2024-03-29 00:14:06.788722] DEBUG: service.fit: Getting count of all fits for: 17928
+[2024-03-29 00:14:06.790716] DEBUG: service.fit: Getting count of all fits for: 17932
+[2024-03-29 00:14:06.793709] DEBUG: service.fit: Getting count of all fits for: 17926
+[2024-03-29 00:14:06.795703] DEBUG: service.fit: Getting count of all fits for: 17924
+[2024-03-29 00:14:06.797698] DEBUG: service.fit: Getting count of all fits for: 17930
+[2024-03-29 00:14:06.800690] DEBUG: service.fit: Getting count of all fits for: 33816
+[2024-03-29 00:14:06.802685] DEBUG: service.fit: Getting count of all fits for: 47269
+[2024-03-29 00:14:06.804679] DEBUG: service.fit: Getting count of all fits for: 54731
+[2024-03-29 00:14:14.648919] DEBUG: service.fit: Getting count of all fits for: 2161
+[2024-03-29 00:14:14.649917] DEBUG: service.fit: Getting count of all fits for: 37453
+[2024-03-29 00:14:14.649917] DEBUG: service.fit: Getting count of all fits for: 589
+[2024-03-29 00:14:14.650914] DEBUG: service.fit: Getting count of all fits for: 17703
+[2024-03-29 00:14:14.651940] DEBUG: service.fit: Getting count of all fits for: 590
+[2024-03-29 00:14:14.651940] DEBUG: service.fit: Getting count of all fits for: 29248
+[2024-03-29 00:14:14.652937] DEBUG: service.fit: Getting count of all fits for: 72907
+[2024-03-29 00:14:14.653934] DEBUG: service.fit: Getting count of all fits for: 597
+[2024-03-29 00:14:14.653934] DEBUG: service.fit: Getting count of all fits for: 591
+[2024-03-29 00:14:14.654932] DEBUG: service.fit: Getting count of all fits for: 582
+[2024-03-29 00:14:14.655902] DEBUG: service.fit: Getting count of all fits for: 17619
+[2024-03-29 00:14:14.659890] DEBUG: service.fit: Getting count of all fits for: 583
+[2024-03-29 00:14:14.659890] DEBUG: service.fit: Getting count of all fits for: 584
+[2024-03-29 00:14:14.660887] DEBUG: service.fit: Getting count of all fits for: 37455
+[2024-03-29 00:14:14.661885] DEBUG: service.fit: Getting count of all fits for: 605
+[2024-03-29 00:14:14.661885] DEBUG: service.fit: Getting count of all fits for: 72904
+[2024-03-29 00:14:14.662882] DEBUG: service.fit: Getting count of all fits for: 602
+[2024-03-29 00:14:14.662882] DEBUG: service.fit: Getting count of all fits for: 603
+[2024-03-29 00:14:14.666872] DEBUG: service.fit: Getting count of all fits for: 608
+[2024-03-29 00:14:14.666872] DEBUG: service.fit: Getting count of all fits for: 17841
+[2024-03-29 00:14:14.667869] DEBUG: service.fit: Getting count of all fits for: 607
+[2024-03-29 00:14:14.668866] DEBUG: service.fit: Getting count of all fits for: 72913
+[2024-03-29 00:14:14.668866] DEBUG: service.fit: Getting count of all fits for: 594
+[2024-03-29 00:14:14.669863] DEBUG: service.fit: Getting count of all fits for: 609
+[2024-03-29 00:14:14.669863] DEBUG: service.fit: Getting count of all fits for: 37456
+[2024-03-29 00:14:14.670889] DEBUG: service.fit: Getting count of all fits for: 592
+[2024-03-29 00:14:14.671887] DEBUG: service.fit: Getting count of all fits for: 593
+[2024-03-29 00:14:14.674850] DEBUG: service.fit: Getting count of all fits for: 598
+[2024-03-29 00:14:14.676845] DEBUG: service.fit: Getting count of all fits for: 599
+[2024-03-29 00:14:14.676845] DEBUG: service.fit: Getting count of all fits for: 586
+[2024-03-29 00:14:14.677842] DEBUG: service.fit: Getting count of all fits for: 72903
+[2024-03-29 00:14:14.677842] DEBUG: service.fit: Getting count of all fits for: 17812
+[2024-03-29 00:14:14.678868] DEBUG: service.fit: Getting count of all fits for: 587
+[2024-03-29 00:14:14.679865] DEBUG: service.fit: Getting count of all fits for: 585
+[2024-03-29 00:14:14.679865] DEBUG: service.fit: Getting count of all fits for: 3766
+[2024-03-29 00:14:14.680834] DEBUG: service.fit: Getting count of all fits for: 37454
+[2024-03-29 00:14:14.680834] DEBUG: service.fit: Getting count of all fits for: 33468
+[2024-03-29 00:14:14.681859] DEBUG: service.fit: Getting count of all fits for: 32880
+[2024-03-29 00:14:14.682857] DEBUG: service.fit: Getting count of all fits for: 17928
+[2024-03-29 00:14:14.682857] DEBUG: service.fit: Getting count of all fits for: 17932
+[2024-03-29 00:14:14.683854] DEBUG: service.fit: Getting count of all fits for: 17926
+[2024-03-29 00:14:14.683854] DEBUG: service.fit: Getting count of all fits for: 17924
+[2024-03-29 00:14:14.684851] DEBUG: service.fit: Getting count of all fits for: 17930
+[2024-03-29 00:14:14.685849] DEBUG: service.fit: Getting count of all fits for: 33816
+[2024-03-29 00:14:14.685849] DEBUG: service.fit: Getting count of all fits for: 47269
+[2024-03-29 00:14:14.686847] DEBUG: service.fit: Getting count of all fits for: 54731
+[2024-03-29 00:14:15.773572] DEBUG: service.fit: Fetching all fits for ship ID: 593
+[2024-03-29 00:14:20.148879] DEBUG: gui.builtinViews.fittingView: ====== Fit Selected: <gui.builtinViews.fittingView.FittingView object at 0x000002006C7D36D0>True
+[2024-03-29 00:14:20.150905] INFO: service.fit: ==========recalc: Trista RDrone 75km 8m==========
+[2024-03-29 00:14:20.191792] INFO: eos.saveddata.fit: Starting fit calculation on: Fit(ID=28, ship=Tristan, name=Trista RDrone 75km 8m) at 0x2006c951ad0, calc: LOCAL
+[2024-03-29 00:14:20.192790] INFO: eos.saveddata.fit: Fit is not yet calculated; will be running local calcs for Fit(ID=28, ship=Tristan, name=Trista RDrone 75km 8m) at 0x2006c951ad0
+[2024-03-29 00:14:20.194784] DEBUG: eos.gamedata: Loading shipBonusHybridTrackingGF2 (Effect2504)
+[2024-03-29 00:14:20.194784] DEBUG: eos.gamedata: Loading shipBonusDroneHitpointsGF (Effect5087)
+[2024-03-29 00:14:20.194784] DEBUG: eos.gamedata: Loading shipBonusDroneTrackingGF (Effect5111)
+[2024-03-29 00:14:20.195784] DEBUG: eos.gamedata: Loading targetAttack (Effect10)
+[2024-03-29 00:14:20.195784] DEBUG: eos.gamedata: Loading cpuMultiplierPostMulCpuOutputShip (Effect536)
+[2024-03-29 00:14:20.195784] DEBUG: eos.gamedata: Loading moduleBonusDroneDamageAmplifier (Effect6556)
+[2024-03-29 00:14:20.195784] DEBUG: eos.gamedata: Loading moduleBonusAfterburner (Effect6731)
+[2024-03-29 00:14:20.195784] DEBUG: eos.gamedata: Loading shieldBoosting (Effect4)
+[2024-03-29 00:14:20.195784] DEBUG: eos.gamedata: Loading overloadSelfShieldBonusDurationBonus (Effect3201)
+[2024-03-29 00:14:20.195784] DEBUG: eos.gamedata: Loading droneRangeBonusAdd (Effect2000)
+[2024-03-29 00:14:20.195784] DEBUG: eos.gamedata: Loading drawbackSigRad (Effect2716)
+[2024-03-29 00:14:20.195784] DEBUG: eos.gamedata: Loading modifyShieldResonancePostPercentPassive (Effect2795)
+[2024-03-29 00:14:20.195784] DEBUG: eos.gamedata: Loading drawbackCPUOutput (Effect2713)
+[2024-03-29 00:14:20.215728] DEBUG: eos.saveddata.fit: Done with fit calculation
+[2024-03-29 00:14:20.215728] INFO: service.fit: ==========recalc time: 0.06482291221618652==========
+[2024-03-29 00:14:20.215728] DEBUG: service.fit: Check states for fit ID: Trista RDrone 75km 8m (Tristan)
+[2024-03-29 00:14:20.217728] DEBUG: service.fit: Switching fit to fit ID: 28
+[2024-03-29 00:15:30.004339] DEBUG: service.fit: Clearing fit for fit ID: 28
+[2024-03-29 00:15:30.012319] DEBUG: service.fit: Changing character (9) for fit ID: 28
+[2024-03-29 00:15:30.012319] INFO: service.fit: ==========recalc: Trista RDrone 75km 8m==========
+[2024-03-29 00:15:30.012319] INFO: eos.saveddata.fit: Starting fit calculation on: Fit(ID=28, ship=Tristan, name=Trista RDrone 75km 8m) at 0x2006c951ad0, calc: LOCAL
+[2024-03-29 00:15:30.012319] INFO: eos.saveddata.fit: Fit is not yet calculated; will be running local calcs for Fit(ID=28, ship=Tristan, name=Trista RDrone 75km 8m) at 0x2006c951ad0
+[2024-03-29 00:15:30.031267] DEBUG: eos.saveddata.fit: Done with fit calculation
+[2024-03-29 00:15:30.031267] INFO: service.fit: ==========recalc time: 0.01894855499267578==========
+[2024-03-29 00:16:40.030772] DEBUG: service.fit: Getting count of all fits for: 2161
+[2024-03-29 00:16:40.032767] DEBUG: service.fit: Getting count of all fits for: 37453
+[2024-03-29 00:16:40.033764] DEBUG: service.fit: Getting count of all fits for: 589
+[2024-03-29 00:16:40.034761] DEBUG: service.fit: Getting count of all fits for: 17703
+[2024-03-29 00:16:40.034761] DEBUG: service.fit: Getting count of all fits for: 590
+[2024-03-29 00:16:40.035787] DEBUG: service.fit: Getting count of all fits for: 29248
+[2024-03-29 00:16:40.035787] DEBUG: service.fit: Getting count of all fits for: 72907
+[2024-03-29 00:16:40.036784] DEBUG: service.fit: Getting count of all fits for: 597
+[2024-03-29 00:16:40.037782] DEBUG: service.fit: Getting count of all fits for: 591
+[2024-03-29 00:16:40.037782] DEBUG: service.fit: Getting count of all fits for: 582
+[2024-03-29 00:16:40.038781] DEBUG: service.fit: Getting count of all fits for: 17619
+[2024-03-29 00:16:40.042740] DEBUG: service.fit: Getting count of all fits for: 583
+[2024-03-29 00:16:40.042740] DEBUG: service.fit: Getting count of all fits for: 584
+[2024-03-29 00:16:40.043737] DEBUG: service.fit: Getting count of all fits for: 37455
+[2024-03-29 00:16:40.043737] DEBUG: service.fit: Getting count of all fits for: 605
+[2024-03-29 00:16:40.044735] DEBUG: service.fit: Getting count of all fits for: 72904
+[2024-03-29 00:16:40.045732] DEBUG: service.fit: Getting count of all fits for: 602
+[2024-03-29 00:16:40.045732] DEBUG: service.fit: Getting count of all fits for: 603
+[2024-03-29 00:16:40.049722] DEBUG: service.fit: Getting count of all fits for: 608
+[2024-03-29 00:16:40.050720] DEBUG: service.fit: Getting count of all fits for: 17841
+[2024-03-29 00:16:40.050720] DEBUG: service.fit: Getting count of all fits for: 607
+[2024-03-29 00:16:40.051716] DEBUG: service.fit: Getting count of all fits for: 72913
+[2024-03-29 00:16:40.052714] DEBUG: service.fit: Getting count of all fits for: 594
+[2024-03-29 00:16:40.052714] DEBUG: service.fit: Getting count of all fits for: 609
+[2024-03-29 00:16:40.053711] DEBUG: service.fit: Getting count of all fits for: 37456
+[2024-03-29 00:16:40.053711] DEBUG: service.fit: Getting count of all fits for: 592
+[2024-03-29 00:16:40.054737] DEBUG: service.fit: Getting count of all fits for: 593
+[2024-03-29 00:16:40.058698] DEBUG: service.fit: Getting count of all fits for: 598
+[2024-03-29 00:16:40.058698] DEBUG: service.fit: Getting count of all fits for: 599
+[2024-03-29 00:16:40.059695] DEBUG: service.fit: Getting count of all fits for: 586
+[2024-03-29 00:16:40.060692] DEBUG: service.fit: Getting count of all fits for: 72903
+[2024-03-29 00:16:40.060692] DEBUG: service.fit: Getting count of all fits for: 17812
+[2024-03-29 00:16:40.061717] DEBUG: service.fit: Getting count of all fits for: 587
+[2024-03-29 00:16:40.061717] DEBUG: service.fit: Getting count of all fits for: 585
+[2024-03-29 00:16:40.062715] DEBUG: service.fit: Getting count of all fits for: 3766
+[2024-03-29 00:16:40.062715] DEBUG: service.fit: Getting count of all fits for: 37454
+[2024-03-29 00:16:40.063714] DEBUG: service.fit: Getting count of all fits for: 33468
+[2024-03-29 00:16:40.064711] DEBUG: service.fit: Getting count of all fits for: 32880
+[2024-03-29 00:16:40.064711] DEBUG: service.fit: Getting count of all fits for: 17928
+[2024-03-29 00:16:40.065711] DEBUG: service.fit: Getting count of all fits for: 17932
+[2024-03-29 00:16:40.065711] DEBUG: service.fit: Getting count of all fits for: 17926
+[2024-03-29 00:16:40.066704] DEBUG: service.fit: Getting count of all fits for: 17924
+[2024-03-29 00:16:40.067702] DEBUG: service.fit: Getting count of all fits for: 17930
+[2024-03-29 00:16:40.067702] DEBUG: service.fit: Getting count of all fits for: 33816
+[2024-03-29 00:16:40.068700] DEBUG: service.fit: Getting count of all fits for: 47269
+[2024-03-29 00:16:40.069698] DEBUG: service.fit: Getting count of all fits for: 54731
+[2024-03-29 00:16:41.933103] DEBUG: gui.shipBrowser: Populate ship category list.
+[2024-03-29 00:16:43.264103] DEBUG: service.fit: Getting count of all fits for: 16236
+[2024-03-29 00:16:43.264103] DEBUG: service.fit: Getting count of all fits for: 73789
+[2024-03-29 00:16:43.265100] DEBUG: service.fit: Getting count of all fits for: 32874
+[2024-03-29 00:16:43.266097] DEBUG: service.fit: Getting count of all fits for: 32876
+[2024-03-29 00:16:43.269089] DEBUG: service.fit: Getting count of all fits for: 16238
+[2024-03-29 00:16:43.272081] DEBUG: service.fit: Getting count of all fits for: 73795
+[2024-03-29 00:16:43.277067] DEBUG: service.fit: Getting count of all fits for: 32872
+[2024-03-29 00:16:43.278066] DEBUG: service.fit: Getting count of all fits for: 16240
+[2024-03-29 00:16:43.281057] DEBUG: service.fit: Getting count of all fits for: 73796
+[2024-03-29 00:16:43.282055] DEBUG: service.fit: Getting count of all fits for: 32878
+[2024-03-29 00:16:43.283052] DEBUG: service.fit: Getting count of all fits for: 16242
+[2024-03-29 00:16:43.283052] DEBUG: service.fit: Getting count of all fits for: 73794
+[2024-03-29 00:16:43.284050] DEBUG: service.fit: Getting count of all fits for: 78333
+[2024-03-29 00:16:43.285047] DEBUG: service.fit: Getting count of all fits for: 78367
+[2024-03-29 00:16:43.285047] DEBUG: service.fit: Getting count of all fits for: 42685
+[2024-03-29 00:16:43.289035] DEBUG: service.fit: Getting count of all fits for: 49710
+[2024-03-29 00:16:45.878084] DEBUG: service.fit: Fetching all fits for ship ID: 32876
+[2024-03-29 00:16:47.220651] DEBUG: gui.builtinViews.fittingView: ====== Fit Selected: <gui.builtinViews.fittingView.FittingView object at 0x000002006C7D36D0>True
+[2024-03-29 00:16:47.223643] DEBUG: service.fit: Switching fit to fit ID: 11
+[2024-03-29 00:16:51.932866] DEBUG: gui.builtinViews.fittingView: ====== Fit Selected: <gui.builtinViews.fittingView.FittingView object at 0x000002006C7D36D0>True
+[2024-03-29 00:16:51.937881] INFO: service.fit: ==========recalc: Subrat Abyssette 70km Alpha+400kSP 15m==========
+[2024-03-29 00:16:51.962813] INFO: eos.saveddata.fit: Starting fit calculation on: Fit(ID=9, ship=Corax, name=Subrat Abyssette 70km Alpha+400kSP 15m) at 0x2006ebd5250, calc: LOCAL
+[2024-03-29 00:16:51.964808] INFO: eos.saveddata.fit: Fit is not yet calculated; will be running local calcs for Fit(ID=9, ship=Corax, name=Subrat Abyssette 70km Alpha+400kSP 15m) at 0x2006ebd5250
+[2024-03-29 00:16:51.965809] DEBUG: eos.gamedata: Loading probeLaunching (Effect3793)
+[2024-03-29 00:16:51.965809] ERROR: eos.gamedata: AttributeError generating handler: module 'eos.effects' has no attribute 'Effect3793'
+[2024-03-29 00:16:51.966803] DEBUG: eos.gamedata: Loading missileLauncherSpeedMultiplierPassive (Effect2799)
+[2024-03-29 00:16:51.991709] DEBUG: eos.saveddata.fit: Running self-projection for Fit(ID=9, ship=Corax, name=Subrat Abyssette 70km Alpha+400kSP 15m) at 0x2006ebd5250
+[2024-03-29 00:16:51.991709] DEBUG: eos.saveddata.fit: Done with fit calculation
+[2024-03-29 00:16:51.991709] INFO: service.fit: ==========recalc time: 0.05382823944091797==========
+[2024-03-29 00:16:51.992735] DEBUG: service.fit: Check states for fit ID: Subrat Abyssette 70km Alpha+400kSP 15m (Corax)
+[2024-03-29 00:16:51.993731] DEBUG: service.fit: Switching fit to fit ID: 9
+[2024-03-29 00:16:56.260457] DEBUG: gui.builtinViews.fittingView: ====== Fit Selected: <gui.builtinViews.fittingView.FittingView object at 0x000002006C7D36D0>True
+[2024-03-29 00:16:56.261456] DEBUG: service.fit: Switching fit to fit ID: 11
+[2024-03-29 00:16:58.956459] DEBUG: gui.builtinViews.fittingView: ====== Fit Selected: <gui.builtinViews.fittingView.FittingView object at 0x000002006C7D36D0>True
+[2024-03-29 00:16:58.958450] DEBUG: service.fit: Switching fit to fit ID: 9
+[2024-03-29 00:17:00.220602] DEBUG: gui.builtinViews.fittingView: ====== Fit Selected: <gui.builtinViews.fittingView.FittingView object at 0x000002006C7D36D0>True
+[2024-03-29 00:17:00.223623] INFO: service.fit: ==========recalc: Subrat Abyssette 70km Alpha+400kSP 15m==========
+[2024-03-29 00:17:00.236588] INFO: eos.saveddata.fit: Starting fit calculation on: Fit(ID=17, ship=Corax, name=Subrat Abyssette 70km Alpha+400kSP 15m) at 0x2006909cc50, calc: LOCAL
+[2024-03-29 00:17:00.238554] INFO: eos.saveddata.fit: Fit is not yet calculated; will be running local calcs for Fit(ID=17, ship=Corax, name=Subrat Abyssette 70km Alpha+400kSP 15m) at 0x2006909cc50
+[2024-03-29 00:17:00.265510] DEBUG: eos.saveddata.fit: Done with fit calculation
+[2024-03-29 00:17:00.265510] INFO: service.fit: ==========recalc time: 0.04188728332519531==========
+[2024-03-29 00:17:00.266508] DEBUG: service.fit: Check states for fit ID: Subrat Abyssette 70km Alpha+400kSP 15m (Corax)
+[2024-03-29 00:17:00.267506] DEBUG: service.fit: Switching fit to fit ID: 17
+[2024-03-29 00:17:01.877000] DEBUG: gui.builtinViews.fittingView: ====== Fit Selected: <gui.builtinViews.fittingView.FittingView object at 0x000002006C7D36D0>True
+[2024-03-29 00:17:01.878026] DEBUG: service.fit: Switching fit to fit ID: 11
+[2024-03-29 00:17:05.492556] DEBUG: gui.builtinViews.fittingView: ====== Fit Selected: <gui.builtinViews.fittingView.FittingView object at 0x000002006C7D36D0>True
+[2024-03-29 00:17:05.497542] INFO: service.fit: ==========recalc: Corax 0/Ebyss 3m==========
+[2024-03-29 00:17:05.529485] INFO: eos.saveddata.fit: Starting fit calculation on: Fit(ID=21, ship=Corax, name=Corax 0/Ebyss 3m) at 0x2006ec10990, calc: LOCAL
+[2024-03-29 00:17:05.530482] INFO: eos.saveddata.fit: Fit is not yet calculated; will be running local calcs for Fit(ID=21, ship=Corax, name=Corax 0/Ebyss 3m) at 0x2006ec10990
+[2024-03-29 00:17:05.531463] DEBUG: eos.gamedata: Loading shieldCapacityBonusOnline (Effect21)
+[2024-03-29 00:17:05.531463] DEBUG: eos.gamedata: Loading addToSignatureRadius2 (Effect2029)
+[2024-03-29 00:17:05.531463] DEBUG: eos.gamedata: Loading modifyShieldResonancePostPercent (Effect2052)
+[2024-03-29 00:17:05.531463] DEBUG: eos.gamedata: Loading overloadSelfRangeBonus (Effect3174)
+[2024-03-29 00:17:05.531463] DEBUG: eos.gamedata: Loading remoteWebifierFalloff (Effect6426)
+[2024-03-29 00:17:05.531463] DEBUG: eos.gamedata: Loading shieldBoosting (Effect4)
+[2024-03-29 00:17:05.532477] DEBUG: eos.gamedata: Loading overloadSelfShieldBonusDurationBonus (Effect3201)
+[2024-03-29 00:17:05.532477] DEBUG: eos.gamedata: Loading drawbackSigRad (Effect2716)
+[2024-03-29 00:17:05.532477] DEBUG: eos.gamedata: Loading modifyShieldResonancePostPercentPassive (Effect2795)
+[2024-03-29 00:17:05.551398] DEBUG: eos.saveddata.fit: Done with fit calculation
+[2024-03-29 00:17:05.551398] INFO: service.fit: ==========recalc time: 0.05385613441467285==========
+[2024-03-29 00:17:05.551398] DEBUG: service.fit: Check states for fit ID: Corax 0/Ebyss 3m (Corax)
+[2024-03-29 00:17:05.552426] DEBUG: service.fit: Switching fit to fit ID: 21
+[2024-03-29 00:17:09.877029] DEBUG: gui.builtinViews.fittingView: ====== Fit Selected: <gui.builtinViews.fittingView.FittingView object at 0x000002006C7D36D0>True
+[2024-03-29 00:17:09.878056] DEBUG: service.fit: Switching fit to fit ID: 11
+[2024-03-29 00:18:17.783660] DEBUG: service.fit: Getting count of all fits for: 16236
+[2024-03-29 00:18:17.785654] DEBUG: service.fit: Getting count of all fits for: 73789
+[2024-03-29 00:18:17.785654] DEBUG: service.fit: Getting count of all fits for: 32874
+[2024-03-29 00:18:17.786652] DEBUG: service.fit: Getting count of all fits for: 32876
+[2024-03-29 00:18:17.790641] DEBUG: service.fit: Getting count of all fits for: 16238
+[2024-03-29 00:18:17.792635] DEBUG: service.fit: Getting count of all fits for: 73795
+[2024-03-29 00:18:17.794630] DEBUG: service.fit: Getting count of all fits for: 32872
+[2024-03-29 00:18:17.795627] DEBUG: service.fit: Getting count of all fits for: 16240
+[2024-03-29 00:18:17.798620] DEBUG: service.fit: Getting count of all fits for: 73796
+[2024-03-29 00:18:17.799617] DEBUG: service.fit: Getting count of all fits for: 32878
+[2024-03-29 00:18:17.800615] DEBUG: service.fit: Getting count of all fits for: 16242
+[2024-03-29 00:18:17.800615] DEBUG: service.fit: Getting count of all fits for: 73794
+[2024-03-29 00:18:17.801611] DEBUG: service.fit: Getting count of all fits for: 78333
+[2024-03-29 00:18:17.802609] DEBUG: service.fit: Getting count of all fits for: 78367
+[2024-03-29 00:18:17.802609] DEBUG: service.fit: Getting count of all fits for: 42685
+[2024-03-29 00:18:17.805601] DEBUG: service.fit: Getting count of all fits for: 49710
+[2024-03-29 00:18:19.293800] DEBUG: gui.shipBrowser: Populate ship category list.
+[2024-03-29 00:18:20.905403] DEBUG: service.fit: Getting count of all fits for: 2161
+[2024-03-29 00:18:20.906401] DEBUG: service.fit: Getting count of all fits for: 37453
+[2024-03-29 00:18:20.907398] DEBUG: service.fit: Getting count of all fits for: 589
+[2024-03-29 00:18:20.907398] DEBUG: service.fit: Getting count of all fits for: 17703
+[2024-03-29 00:18:20.908423] DEBUG: service.fit: Getting count of all fits for: 590
+[2024-03-29 00:18:20.909425] DEBUG: service.fit: Getting count of all fits for: 29248
+[2024-03-29 00:18:20.909425] DEBUG: service.fit: Getting count of all fits for: 72907
+[2024-03-29 00:18:20.910418] DEBUG: service.fit: Getting count of all fits for: 597
+[2024-03-29 00:18:20.910418] DEBUG: service.fit: Getting count of all fits for: 591
+[2024-03-29 00:18:20.911416] DEBUG: service.fit: Getting count of all fits for: 582
+[2024-03-29 00:18:20.912414] DEBUG: service.fit: Getting count of all fits for: 17619
+[2024-03-29 00:18:20.915376] DEBUG: service.fit: Getting count of all fits for: 583
+[2024-03-29 00:18:20.916374] DEBUG: service.fit: Getting count of all fits for: 584
+[2024-03-29 00:18:20.917372] DEBUG: service.fit: Getting count of all fits for: 37455
+[2024-03-29 00:18:20.917372] DEBUG: service.fit: Getting count of all fits for: 605
+[2024-03-29 00:18:20.918369] DEBUG: service.fit: Getting count of all fits for: 72904
+[2024-03-29 00:18:20.918369] DEBUG: service.fit: Getting count of all fits for: 602
+[2024-03-29 00:18:20.919366] DEBUG: service.fit: Getting count of all fits for: 603
+[2024-03-29 00:18:20.922357] DEBUG: service.fit: Getting count of all fits for: 608
+[2024-03-29 00:18:20.923355] DEBUG: service.fit: Getting count of all fits for: 17841
+[2024-03-29 00:18:20.924352] DEBUG: service.fit: Getting count of all fits for: 607
+[2024-03-29 00:18:20.924352] DEBUG: service.fit: Getting count of all fits for: 72913
+[2024-03-29 00:18:20.925350] DEBUG: service.fit: Getting count of all fits for: 594
+[2024-03-29 00:18:20.926347] DEBUG: service.fit: Getting count of all fits for: 609
+[2024-03-29 00:18:20.926347] DEBUG: service.fit: Getting count of all fits for: 37456
+[2024-03-29 00:18:20.927376] DEBUG: service.fit: Getting count of all fits for: 592
+[2024-03-29 00:18:20.927376] DEBUG: service.fit: Getting count of all fits for: 593
+[2024-03-29 00:18:20.930336] DEBUG: service.fit: Getting count of all fits for: 598
+[2024-03-29 00:18:20.932332] DEBUG: service.fit: Getting count of all fits for: 599
+[2024-03-29 00:18:20.932332] DEBUG: service.fit: Getting count of all fits for: 586
+[2024-03-29 00:18:20.933361] DEBUG: service.fit: Getting count of all fits for: 72903
+[2024-03-29 00:18:20.934354] DEBUG: service.fit: Getting count of all fits for: 17812
+[2024-03-29 00:18:20.934354] DEBUG: service.fit: Getting count of all fits for: 587
+[2024-03-29 00:18:20.935354] DEBUG: service.fit: Getting count of all fits for: 585
+[2024-03-29 00:18:20.936349] DEBUG: service.fit: Getting count of all fits for: 3766
+[2024-03-29 00:18:20.936349] DEBUG: service.fit: Getting count of all fits for: 37454
+[2024-03-29 00:18:20.937347] DEBUG: service.fit: Getting count of all fits for: 33468
+[2024-03-29 00:18:20.937347] DEBUG: service.fit: Getting count of all fits for: 32880
+[2024-03-29 00:18:20.938343] DEBUG: service.fit: Getting count of all fits for: 17928
+[2024-03-29 00:18:20.939341] DEBUG: service.fit: Getting count of all fits for: 17932
+[2024-03-29 00:18:20.939341] DEBUG: service.fit: Getting count of all fits for: 17926
+[2024-03-29 00:18:20.940310] DEBUG: service.fit: Getting count of all fits for: 17924
+[2024-03-29 00:18:20.941317] DEBUG: service.fit: Getting count of all fits for: 17930
+[2024-03-29 00:18:20.941317] DEBUG: service.fit: Getting count of all fits for: 33816
+[2024-03-29 00:18:20.942333] DEBUG: service.fit: Getting count of all fits for: 47269
+[2024-03-29 00:18:20.942333] DEBUG: service.fit: Getting count of all fits for: 54731
+[2024-03-29 00:18:22.125778] DEBUG: service.fit: Fetching all fits for ship ID: 593
+[2024-03-29 00:18:24.765310] DEBUG: gui.builtinViews.fittingView: ====== Fit Selected: <gui.builtinViews.fittingView.FittingView object at 0x000002006C7D36D0>True
+[2024-03-29 00:18:24.767333] INFO: service.fit: ==========recalc: Trista RDrone 75km 8m==========
+[2024-03-29 00:18:24.799248] INFO: eos.saveddata.fit: Starting fit calculation on: Fit(ID=28, ship=Tristan, name=Trista RDrone 75km 8m) at 0x2006ec04090, calc: LOCAL
+[2024-03-29 00:18:24.801242] INFO: eos.saveddata.fit: Fit is not yet calculated; will be running local calcs for Fit(ID=28, ship=Tristan, name=Trista RDrone 75km 8m) at 0x2006ec04090
+[2024-03-29 00:18:24.803237] DEBUG: eos.gamedata: Loading targetAttack (Effect10)
+[2024-03-29 00:18:24.803237] DEBUG: eos.gamedata: Loading cpuMultiplierPostMulCpuOutputShip (Effect536)
+[2024-03-29 00:18:24.803237] DEBUG: eos.gamedata: Loading moduleBonusDroneDamageAmplifier (Effect6556)
+[2024-03-29 00:18:24.803237] DEBUG: eos.gamedata: Loading moduleBonusAfterburner (Effect6731)
+[2024-03-29 00:18:24.803237] DEBUG: eos.gamedata: Loading droneRangeBonusAdd (Effect2000)
+[2024-03-29 00:18:24.803237] DEBUG: eos.gamedata: Loading drawbackCPUOutput (Effect2713)
+[2024-03-29 00:18:24.820163] DEBUG: eos.saveddata.fit: Done with fit calculation
+[2024-03-29 00:18:24.820163] INFO: service.fit: ==========recalc time: 0.05382728576660156==========
+[2024-03-29 00:18:24.820163] DEBUG: service.fit: Check states for fit ID: Trista RDrone 75km 8m (Tristan)
+[2024-03-29 00:18:24.822158] DEBUG: service.fit: Switching fit to fit ID: 28
+[2024-03-29 00:18:31.237047] DEBUG: gui.fitCommands.calc.drone.localRemove: Doing removal of inf local drones at position 0 from fit 28
+[2024-03-29 00:18:31.245024] INFO: service.fit: ==========recalc: Trista RDrone 75km 8m==========
+[2024-03-29 00:18:31.245024] INFO: eos.saveddata.fit: Starting fit calculation on: Fit(ID=28, ship=Tristan, name=Trista RDrone 75km 8m) at 0x2006ec04090, calc: LOCAL
+[2024-03-29 00:18:31.245024] INFO: eos.saveddata.fit: Fit is not yet calculated; will be running local calcs for Fit(ID=28, ship=Tristan, name=Trista RDrone 75km 8m) at 0x2006ec04090
+[2024-03-29 00:18:31.263005] DEBUG: eos.saveddata.fit: Done with fit calculation
+[2024-03-29 00:18:31.263005] INFO: service.fit: ==========recalc time: 0.01798081398010254==========
+[2024-03-29 00:18:36.109174] DEBUG: gui.fitCommands.calc.cargo.remove: Doing removal of cargo <CargoInfo(itemID=28668, amount=inf)> to fit 28
+[2024-03-29 00:18:57.816564] DEBUG: service.fit: Getting count of all fits for: 2161
+[2024-03-29 00:18:57.818559] DEBUG: service.fit: Getting count of all fits for: 37453
+[2024-03-29 00:18:57.819556] DEBUG: service.fit: Getting count of all fits for: 589
+[2024-03-29 00:18:57.819556] DEBUG: service.fit: Getting count of all fits for: 17703
+[2024-03-29 00:18:57.820588] DEBUG: service.fit: Getting count of all fits for: 590
+[2024-03-29 00:18:57.821579] DEBUG: service.fit: Getting count of all fits for: 29248
+[2024-03-29 00:18:57.821579] DEBUG: service.fit: Getting count of all fits for: 72907
+[2024-03-29 00:18:57.822576] DEBUG: service.fit: Getting count of all fits for: 597
+[2024-03-29 00:18:57.822576] DEBUG: service.fit: Getting count of all fits for: 591
+[2024-03-29 00:18:57.823573] DEBUG: service.fit: Getting count of all fits for: 582
+[2024-03-29 00:18:57.824571] DEBUG: service.fit: Getting count of all fits for: 17619
+[2024-03-29 00:18:57.827535] DEBUG: service.fit: Getting count of all fits for: 583
+[2024-03-29 00:18:57.828532] DEBUG: service.fit: Getting count of all fits for: 584
+[2024-03-29 00:18:57.828532] DEBUG: service.fit: Getting count of all fits for: 37455
+[2024-03-29 00:18:57.829530] DEBUG: service.fit: Getting count of all fits for: 605
+[2024-03-29 00:18:57.830527] DEBUG: service.fit: Getting count of all fits for: 72904
+[2024-03-29 00:18:57.831525] DEBUG: service.fit: Getting count of all fits for: 602
+[2024-03-29 00:18:57.831525] DEBUG: service.fit: Getting count of all fits for: 603
+[2024-03-29 00:18:57.835514] DEBUG: service.fit: Getting count of all fits for: 608
+[2024-03-29 00:18:57.836511] DEBUG: service.fit: Getting count of all fits for: 17841
+[2024-03-29 00:18:57.837508] DEBUG: service.fit: Getting count of all fits for: 607
+[2024-03-29 00:18:57.837508] DEBUG: service.fit: Getting count of all fits for: 72913
+[2024-03-29 00:18:57.838505] DEBUG: service.fit: Getting count of all fits for: 594
+[2024-03-29 00:18:57.839503] DEBUG: service.fit: Getting count of all fits for: 609
+[2024-03-29 00:18:57.839503] DEBUG: service.fit: Getting count of all fits for: 37456
+[2024-03-29 00:18:57.840528] DEBUG: service.fit: Getting count of all fits for: 592
+[2024-03-29 00:18:57.840528] DEBUG: service.fit: Getting count of all fits for: 593
+[2024-03-29 00:18:57.844489] DEBUG: service.fit: Getting count of all fits for: 598
+[2024-03-29 00:18:57.845487] DEBUG: service.fit: Getting count of all fits for: 599
+[2024-03-29 00:18:57.845487] DEBUG: service.fit: Getting count of all fits for: 586
+[2024-03-29 00:18:57.846484] DEBUG: service.fit: Getting count of all fits for: 72903
+[2024-03-29 00:18:57.847482] DEBUG: service.fit: Getting count of all fits for: 17812
+[2024-03-29 00:18:57.847482] DEBUG: service.fit: Getting count of all fits for: 587
+[2024-03-29 00:18:57.848507] DEBUG: service.fit: Getting count of all fits for: 585
+[2024-03-29 00:18:57.848507] DEBUG: service.fit: Getting count of all fits for: 3766
+[2024-03-29 00:18:57.849504] DEBUG: service.fit: Getting count of all fits for: 37454
+[2024-03-29 00:18:57.850504] DEBUG: service.fit: Getting count of all fits for: 33468
+[2024-03-29 00:18:57.850504] DEBUG: service.fit: Getting count of all fits for: 32880
+[2024-03-29 00:18:57.851471] DEBUG: service.fit: Getting count of all fits for: 17928
+[2024-03-29 00:18:57.852497] DEBUG: service.fit: Getting count of all fits for: 17932
+[2024-03-29 00:18:57.852497] DEBUG: service.fit: Getting count of all fits for: 17926
+[2024-03-29 00:18:57.853494] DEBUG: service.fit: Getting count of all fits for: 17924
+[2024-03-29 00:18:57.853494] DEBUG: service.fit: Getting count of all fits for: 17930
+[2024-03-29 00:18:57.854491] DEBUG: service.fit: Getting count of all fits for: 33816
+[2024-03-29 00:18:57.855488] DEBUG: service.fit: Getting count of all fits for: 47269
+[2024-03-29 00:18:57.855488] DEBUG: service.fit: Getting count of all fits for: 54731
+[2024-03-29 00:18:58.653896] DEBUG: gui.shipBrowser: Populate ship category list.
+[2024-03-29 00:18:59.664559] DEBUG: service.fit: Getting count of all fits for: 16236
+[2024-03-29 00:18:59.665557] DEBUG: service.fit: Getting count of all fits for: 73789
+[2024-03-29 00:18:59.665557] DEBUG: service.fit: Getting count of all fits for: 32874
+[2024-03-29 00:18:59.666554] DEBUG: service.fit: Getting count of all fits for: 32876
+[2024-03-29 00:18:59.669546] DEBUG: service.fit: Getting count of all fits for: 16238
+[2024-03-29 00:18:59.672538] DEBUG: service.fit: Getting count of all fits for: 73795
+[2024-03-29 00:18:59.674533] DEBUG: service.fit: Getting count of all fits for: 32872
+[2024-03-29 00:18:59.675530] DEBUG: service.fit: Getting count of all fits for: 16240
+[2024-03-29 00:18:59.677524] DEBUG: service.fit: Getting count of all fits for: 73796
+[2024-03-29 00:18:59.677524] DEBUG: service.fit: Getting count of all fits for: 32878
+[2024-03-29 00:18:59.678522] DEBUG: service.fit: Getting count of all fits for: 16242
+[2024-03-29 00:18:59.679519] DEBUG: service.fit: Getting count of all fits for: 73794
+[2024-03-29 00:18:59.679519] DEBUG: service.fit: Getting count of all fits for: 78333
+[2024-03-29 00:18:59.680517] DEBUG: service.fit: Getting count of all fits for: 78367
+[2024-03-29 00:18:59.680517] DEBUG: service.fit: Getting count of all fits for: 42685
+[2024-03-29 00:18:59.684506] DEBUG: service.fit: Getting count of all fits for: 49710
+[2024-03-29 00:19:02.717573] DEBUG: service.fit: Fetching all fits for ship ID: 32876
+[2024-03-29 00:19:03.973021] DEBUG: gui.builtinViews.fittingView: ====== Fit Selected: <gui.builtinViews.fittingView.FittingView object at 0x000002006C7D36D0>True
+[2024-03-29 00:19:03.975045] DEBUG: service.fit: Switching fit to fit ID: 11
