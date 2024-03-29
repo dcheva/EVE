@@ -33,18 +33,7 @@
 		"clientManagement": {
 			"processes": {
 				"eve-online": {
-					"tranquility": [
-						{
-							"processId": 9192,
-							"createdDate": 1711669468823,
-							"username": "ababa.halamaha",
-							"userId": 29797650,
-							"characterId": 2122199031,
-							"profile": "Default",
-							"dxVersion": "dx12",
-							"foundDate": 1711669468834
-						}
-					]
+					"tranquility": []
 				}
 			},
 			"temporaryProcesses": {}

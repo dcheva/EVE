@@ -29,6 +29,7 @@ copy core_char_2121853336.dat core_char_2121853336.dat /Y
 copy core_char_2121853336.dat core_char_2121878074.dat /Y
 copy core_char_2121853336.dat core_char_2121891348.dat /Y
 copy core_char_2121853336.dat core_char_2122197514.dat /Y
+copy core_char_2121853336.dat core_char_2122199031.dat /Y
 
 @echo Copy users 
 copy core_user_29280260.dat core_user_2110311.dat /Y
@@ -44,3 +45,4 @@ copy core_user_29280260.dat core_user_28182799.dat /Y
 copy core_user_29280260.dat core_user_29280260.dat /Y
 copy core_user_29280260.dat core_user_29285645.dat /Y
 copy core_user_29280260.dat core_user_29795975.dat /Y
+copy core_user_29280260.dat core_user_29797650.dat /Y
