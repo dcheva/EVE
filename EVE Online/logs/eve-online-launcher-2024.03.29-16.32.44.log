@@ -1,0 +1,1066 @@
+2024-03-29 16:32:44.369    app     info:    [migrations] Migrating state from version 202403211101 to 202403211101
+2024-03-29 16:32:44.594    app     info:    [self-update] Configuring update feed.
+2024-03-29 16:32:44.594    app     info:    [self-update] Update feed set to: https://launcher.ccpgames.com/eve-online/release/win32/x64/
+2024-03-29 16:32:44.606    app     info:    Startup arguments    []
+2024-03-29 16:32:44.676    app     info:    [self-update] Auto-updating is now enabled
+2024-03-29 16:32:44.677    app     info:    [migrations] Migrating state from version 202403211101 to 202403211101
+2024-03-29 16:32:44.682    app     info:    [third-party-authentications] Checking for Steam startup
+2024-03-29 16:32:45.075    app     info:    [migrations] Migrating secured state from version 202403201100 to 202403201100
+2024-03-29 16:32:45.157    app     info:    [elg-events] Queueing event    eve_launcher.electron.application.LauncherStarted
+2024-03-29 16:32:45.207    app     info:    [authentication] Token for '16492377' on 'tranquility' is expired, refresh is required
+2024-03-29 16:32:45.208    app     info:    [authentication] Refreshing token for '16492377' on 'tranquility'
+2024-03-29 16:32:45.209    app     info:    [authentication] Token for '17525312' on 'tranquility' is expired, refresh is required
+2024-03-29 16:32:45.209    app     info:    [authentication] Refreshing token for '17525312' on 'tranquility'
+2024-03-29 16:32:45.209    app     info:    [authentication] Token for '29280260' on 'tranquility' is expired, refresh is required
+2024-03-29 16:32:45.209    app     info:    [authentication] Refreshing token for '29280260' on 'tranquility'
+2024-03-29 16:32:45.210    app     info:    [authentication] Token for '18034259' on 'tranquility' is expired, refresh is required
+2024-03-29 16:32:45.210    app     info:    [authentication] Refreshing token for '18034259' on 'tranquility'
+2024-03-29 16:32:45.210    app     info:    [authentication] Token for '28182799' on 'tranquility' is expired, refresh is required
+2024-03-29 16:32:45.211    app     info:    [authentication] Refreshing token for '28182799' on 'tranquility'
+2024-03-29 16:32:45.211    app     info:    [authentication] Token for '2110311' on 'tranquility' is expired, refresh is required
+2024-03-29 16:32:45.211    app     info:    [authentication] Refreshing token for '2110311' on 'tranquility'
+2024-03-29 16:32:45.212    app     info:    [authentication] Token for '23622903' on 'tranquility' is expired, refresh is required
+2024-03-29 16:32:45.212    app     info:    [authentication] Refreshing token for '23622903' on 'tranquility'
+2024-03-29 16:32:45.212    app     info:    [authentication] Token for '29795975' on 'tranquility' is expired, refresh is required
+2024-03-29 16:32:45.213    app     info:    [authentication] Refreshing token for '29795975' on 'tranquility'
+2024-03-29 16:32:45.227    app     info:    [analytics] Application name:    EVE Online
+2024-03-29 16:32:45.227    app     info:    [analytics] Application version:    1.3.3
+2024-03-29 16:32:45.228    app     info:    [analytics] Domain    undefined
+2024-03-29 16:32:45.229    app     info:    [analytics] Working directory    C:\Games\Steam\steamapps\common\Eve Online\app-1.3.3
+2024-03-29 16:32:45.229    app     info:    [analytics] Username contains UTF8?    false
+2024-03-29 16:32:45.596    app     info:    [elg-events] Queueing event    eve_launcher.electron.application.PdmLoaded
+2024-03-29 16:32:45.603    app     info:    [elg-events] Queueing event    eve_launcher.electron.application.CoreDataLoaded
+2024-03-29 16:32:45.606    app     info:    [analytics] Operating system    {
+  type: 'Windows',
+  name: 'Windows 10 Education',
+  version: '10.0 (19045)'
+}
+2024-03-29 16:32:45.607    app     info:    [analytics] Encryption available:    true
+2024-03-29 16:32:45.608    app     info:    [analytics] Machine UUID    4E9F516C-5B97-47C6-8C67-E93D943CB7C8
+2024-03-29 16:32:45.608    app     info:    [analytics] PDM Version    2.1.4
+2024-03-29 16:32:45.608    app     info:    [analytics] Release channel    release
+2024-03-29 16:32:45.609    app     info:    [initializers] Shared cache directory set to    C:\CCP\EVE Online
+2024-03-29 16:32:45.642    app     info:    [initializers] Shared cache drive free space: 78,87 GiB / 433,74 GiB
+2024-03-29 16:32:45.642    app     info:    [feature-flags] Initializing feature flag client
+2024-03-29 16:32:45.649    app     info:    [i18next] Changed language    en
+2024-03-29 16:32:45.673    app     info:    [shared-cache] Looking for profiles in 'c_ccp_eve_online_tq_tranquility'...
+2024-03-29 16:32:45.674    app     info:    [shared-cache] Looking for profiles in 'c_ccp_eve_online_sisi_singularity'...
+2024-03-29 16:32:45.674    app     info:    [shared-cache] Looking for profiles in 'c_ccp_eve_online_thunderdome_thunderdome'...
+2024-03-29 16:32:45.680    app     info:    [scheduler] Starting scheduler background
+2024-03-29 16:32:45.703    app    error:    (node:8040) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 scheduler/triggered listeners added to [IpcMainImpl]. Use emitter.setMaxListeners() to increase limit
+(Use `eve-online --trace-warnings ...` to show where the warning was created)    []
+2024-03-29 16:32:45.714    app     info:    [shared-cache] Processed 0 profiles from disk
+2024-03-29 16:32:45.740    app     info:    [steam-auth] Steam startup detected
+2024-03-29 16:32:45.748    app     info:    [authentication] Generated login URL with state 'bBdJdFSSBrFgoblirx-Epw7XNABJ1LVoaSi9pJ2onXQ' for 'tranquility' using clientID 'eveLauncherTQ'
+2024-03-29 16:32:45.748    app     info:    [third-party-authentications] Done checking third party startups
+2024-03-29 16:32:45.824    app     info:    [first-run] Application has been run before: 2024-03-28T11:50:09.863Z
+2024-03-29 16:32:45.848    app     info:    [cache-protocol] Found 0 entries to remove
+2024-03-29 16:32:45.848    app     info:    [cache-protocol] Nothing to clean up.
+2024-03-29 16:32:45.861    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2024-03-29 16:32:45.902    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.application.LauncherStarted
+2024-03-29 16:32:45.903    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.application.PdmLoaded
+2024-03-29 16:32:45.912    app     info:    [customer-information] Agreements have been updated
+2024-03-29 16:32:45.913    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.application.CoreDataLoaded
+2024-03-29 16:32:45.926    app     info:    [customer-information] Agreements have been updated
+2024-03-29 16:32:45.949    app     info:    info: [LaunchDarkly] LaunchDarkly client initialized    []
+2024-03-29 16:32:45.950    app     info:    info: [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/64c3d12e27a4b11365012d39/eyJrZXkiOiI0YTQzNmFkYi00Yjk5LTQwYTctODViMC00MmUyMDZmNDEyODYiLCJraW5kIjoidXNlciIsImN1c3RvbSI6eyJpc0ZpcnN0UnVuIjpmYWxzZSwiZGF5c1NpbmNlRmlyc3RSdW4iOjEsImxhbmd1YWdlIjoiZW4iLCJhcHBsaWNhdGlvbiI6ImV2ZS1vbmxpbmUiLCJ2ZXJzaW9uIjoiMS4zLjMiLCJwbGF0Zm9ybSI6IndpbmRvd3MiLCJpc0dlRm9yY2VOb3ciOmZhbHNlLCJvc1ZlcnNpb25EZXByZWNhdGVkIjpmYWxzZSwidXNlcklkcyI6WzE2NDkyMzc3LDI5Nzk3NjUwLDIxMTAzMTEsMjk3OTc2NTBdLCJvbWVnYUNvdW50IjowLCJhbHBoYUNvdW50Ijo5LCJhY2NvdW50Q291bnQiOjksIm9sZGVzdEFjY291bnRBZ2UiOjYxMDYsInlvdW5nZXN0QWNjb3VudEFnZSI6MH19?withReasons=true    []
+2024-03-29 16:32:45.951    app     info:    [feature-flags] Client 4a436adb... ready, fetching flags
+2024-03-29 16:32:45.952    app     info:    [self-update] Auto-updating is now enabled
+2024-03-29 16:32:45.955    app     info:    [feature-flags] Received 27 flags for client 4a436adb...
+2024-03-29 16:32:45.956    app     info:    [feature-flags] Client initialized with key 4a436adb...
+2024-03-29 16:32:45.959    app     info:    [self-update] Configuring update feed.
+2024-03-29 16:32:45.959    app     info:    [self-update] Update feed set to: https://launcher.ccpgames.com/eve-online/release/win32/x64/
+2024-03-29 16:32:45.959    app     info:    [self-update] Auto-updating is now enabled
+2024-03-29 16:32:45.960    app     info:    [customer-information] Getting character information for '29797650' on 'tranquility'
+2024-03-29 16:32:45.960    app     info:    [customer-information] Getting Omega status for '29797650' on 'tranquility'
+2024-03-29 16:32:45.961    app     info:    [virtual-goods] Getting Plex status for '29797650' on 'tranquility'
+2024-03-29 16:32:45.997    app     info:    [authentication] Token for '17525312' on 'tranquility' has been successfully refreshed
+2024-03-29 16:32:46.001    app     info:    [elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensRefreshed
+2024-03-29 16:32:46.022    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensRefreshed
+2024-03-29 16:32:46.024    app     info:    [customer-information] Getting character information for '17525312' on 'tranquility'
+2024-03-29 16:32:46.024    app     info:    [customer-information] Getting Omega status for '17525312' on 'tranquility'
+2024-03-29 16:32:46.025    app     info:    [virtual-goods] Getting Plex status for '17525312' on 'tranquility'
+2024-03-29 16:32:46.027    app     info:    [authentication] Token for '16492377' on 'tranquility' has been successfully refreshed
+2024-03-29 16:32:46.030    app     info:    [elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensRefreshed
+2024-03-29 16:32:46.053    app     info:    [customer-information] Getting character information for '16492377' on 'tranquility'
+2024-03-29 16:32:46.054    app     info:    [customer-information] Getting Omega status for '16492377' on 'tranquility'
+2024-03-29 16:32:46.054    app     info:    [virtual-goods] Getting Plex status for '16492377' on 'tranquility'
+2024-03-29 16:32:46.056    app     info:    [authentication] Token for '29280260' on 'tranquility' has been successfully refreshed
+2024-03-29 16:32:46.059    app     info:    [elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensRefreshed
+2024-03-29 16:32:46.081    app     info:    [customer-information] Getting character information for '29280260' on 'tranquility'
+2024-03-29 16:32:46.081    app     info:    [customer-information] Getting Omega status for '29280260' on 'tranquility'
+2024-03-29 16:32:46.082    app     info:    [virtual-goods] Getting Plex status for '29280260' on 'tranquility'
+2024-03-29 16:32:46.084    app     info:    [authentication] Token for '29795975' on 'tranquility' has been successfully refreshed
+2024-03-29 16:32:46.087    app     info:    [elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensRefreshed
+2024-03-29 16:32:46.108    app     info:    [customer-information] Getting character information for '29795975' on 'tranquility'
+2024-03-29 16:32:46.108    app     info:    [customer-information] Getting Omega status for '29795975' on 'tranquility'
+2024-03-29 16:32:46.108    app     info:    [virtual-goods] Getting Plex status for '29795975' on 'tranquility'
+2024-03-29 16:32:46.111    app     info:    [authentication] Token for '23622903' on 'tranquility' has been successfully refreshed
+2024-03-29 16:32:46.114    app     info:    [elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensRefreshed
+2024-03-29 16:32:46.134    app     info:    [customer-information] Getting character information for '23622903' on 'tranquility'
+2024-03-29 16:32:46.135    app     info:    [customer-information] Getting Omega status for '23622903' on 'tranquility'
+2024-03-29 16:32:46.135    app     info:    [virtual-goods] Getting Plex status for '23622903' on 'tranquility'
+2024-03-29 16:32:46.137    app     info:    [authentication] Token for '2110311' on 'tranquility' has been successfully refreshed
+2024-03-29 16:32:46.142    app     info:    [elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensRefreshed
+2024-03-29 16:32:46.162    app     info:    [customer-information] Getting character information for '2110311' on 'tranquility'
+2024-03-29 16:32:46.163    app     info:    [customer-information] Getting Omega status for '2110311' on 'tranquility'
+2024-03-29 16:32:46.163    app     info:    [virtual-goods] Getting Plex status for '2110311' on 'tranquility'
+2024-03-29 16:32:46.165    app     info:    [authentication] Token for '28182799' on 'tranquility' has been successfully refreshed
+2024-03-29 16:32:46.169    app     info:    [elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensRefreshed
+2024-03-29 16:32:46.191    app     info:    [customer-information] Getting character information for '28182799' on 'tranquility'
+2024-03-29 16:32:46.191    app     info:    [customer-information] Getting Omega status for '28182799' on 'tranquility'
+2024-03-29 16:32:46.191    app     info:    [virtual-goods] Getting Plex status for '28182799' on 'tranquility'
+2024-03-29 16:32:46.195    app     info:    [authentication] Token for '18034259' on 'tranquility' has been successfully refreshed
+2024-03-29 16:32:46.198    app     info:    [elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensRefreshed
+2024-03-29 16:32:46.220    app     info:    [customer-information] Getting character information for '18034259' on 'tranquility'
+2024-03-29 16:32:46.221    app     info:    [customer-information] Getting Omega status for '18034259' on 'tranquility'
+2024-03-29 16:32:46.221    app     info:    [virtual-goods] Getting Plex status for '18034259' on 'tranquility'
+2024-03-29 16:32:46.224    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensRefreshed
+2024-03-29 16:32:46.232    app     info:    [server-manager] Previous Tranquility build: 2532064, current build: 2532064
+2024-03-29 16:32:46.233    app     info:    [server-manager] Tranquility build is unchanged.
+2024-03-29 16:32:46.242    app     info:    [server-manager] Ready to play!
+2024-03-29 16:32:46.247    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2024-03-29 16:32:46.251    app     info:    [esi] Fetching character details for 2122199031
+2024-03-29 16:32:46.276    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensRefreshed
+2024-03-29 16:32:46.285    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensRefreshed
+2024-03-29 16:32:46.288    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensRefreshed
+2024-03-29 16:32:46.293    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensRefreshed
+2024-03-29 16:32:46.296    app     info:    [virtual-goods] Fetched Plex status for '29797650' on 'tranquility'
+2024-03-29 16:32:46.305    app     info:    [AuthenticationMiddleware] Successfully restored 10 / 10 users
+2024-03-29 16:32:46.306    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensRefreshed
+2024-03-29 16:32:46.308    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensRefreshed
+2024-03-29 16:32:46.371    app     info:    [virtual-goods] Fetched Plex status for '23622903' on 'tranquility'
+2024-03-29 16:32:46.381    app     info:    [virtual-goods] Fetched Plex status for '2110311' on 'tranquility'
+2024-03-29 16:32:46.393    app     info:    [virtual-goods] Fetched Plex status for '17525312' on 'tranquility'
+2024-03-29 16:32:46.405    app     info:    [virtual-goods] Fetched Plex status for '29280260' on 'tranquility'
+2024-03-29 16:32:46.415    app     info:    [virtual-goods] Fetched Plex status for '18034259' on 'tranquility'
+2024-03-29 16:32:46.428    app     info:    [esi] Fetching character details for 2113875139, 2121174871
+2024-03-29 16:32:46.447    app     info:    [customer-information] Agreement status has been fetched for user '29280260'
+2024-03-29 16:32:46.458    app     info:    [customer-information] Agreement status has been fetched for user '17525312'
+2024-03-29 16:32:46.460    app     info:    [esi] Fetching character details for 2121174545
+2024-03-29 16:32:46.480    app     info:    [customer-information] Agreement status has been fetched for user '16492377'
+2024-03-29 16:32:46.502    app     info:    [customer-information] Agreement status has been fetched for user '29795975'
+2024-03-29 16:32:46.503    app     info:    [virtual-goods] Fetched Plex status for '16492377' on 'tranquility'
+2024-03-29 16:32:46.512    app     info:    [virtual-goods] Fetched Plex status for '29795975' on 'tranquility'
+2024-03-29 16:32:46.525    app     info:    [esi] Fetching character details for 2121853336
+2024-03-29 16:32:46.539    app     info:    [esi] Fetching character details for 578564394, 2115457291
+2024-03-29 16:32:46.578    app     info:    [customer-information] Agreement status has been fetched for user '28182799'
+2024-03-29 16:32:46.581    app     info:    [esi] Fetching character details for 2118248041, 2121175776
+2024-03-29 16:32:46.595    app     info:    [esi] Fetching character details for 2114656127, 2121178396
+2024-03-29 16:32:46.606    app     info:    [AuthenticationMiddleware] User information updated
+2024-03-29 16:32:46.637    app     info:    [customer-information] Agreement status has been fetched for user '18034259'
+2024-03-29 16:32:46.647    app     info:    [AuthenticationMiddleware] User information updated
+2024-03-29 16:32:46.659    app     info:    [AuthenticationMiddleware] User information updated
+2024-03-29 16:32:46.667    app     info:    [customer-information] Agreement status has been fetched for user '2110311'
+2024-03-29 16:32:46.668    app     info:    [AuthenticationMiddleware] User information updated
+2024-03-29 16:32:46.670    app     info:    [esi] Fetching character details for 2115031890, 2121177973
+2024-03-29 16:32:46.682    app     info:    [AuthenticationMiddleware] User information updated
+2024-03-29 16:32:46.690    app     info:    [customer-information] Agreement status has been fetched for user '23622903'
+2024-03-29 16:32:46.690    app     info:    [AuthenticationMiddleware] User information updated
+2024-03-29 16:32:46.708    app     info:    [esi] Fetching character details for 2122197514
+2024-03-29 16:32:46.717    app     info:    [AuthenticationMiddleware] User information updated
+2024-03-29 16:32:46.719    app     info:    [virtual-goods] Fetched Plex status for '28182799' on 'tranquility'
+2024-03-29 16:32:46.727    app     info:    [AuthenticationMiddleware] User information updated
+2024-03-29 16:32:46.760    app     info:    [elg-events] Queueing event    eve_launcher.electron.application.RendererLoaded
+2024-03-29 16:32:46.761    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.application.RendererLoaded
+2024-03-29 16:32:46.772    app     info:    [scheduler] Starting scheduler foreground
+2024-03-29 16:32:46.797    app     info:    [content-delivery-trace] Fetching CDN trace data from https://binaries.eveonline.com/cdn-cgi/trace
+2024-03-29 16:32:46.811    app     info:    [creatives] Requesting creatives
+2024-03-29 16:32:46.832    app     info:    [main-window] Registering main window    { windowId: 2 }
+2024-03-29 16:32:46.833    app     info:    [authentication-handler] Creating login window using URI https://login.eveonline.com/account/logoff?lang=en&ReturnUrl=%2Fv2%2Foauth%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3DeveLauncherTQ%26scope%3DeveClientLogin%2Bcisservice.customerRead.v1%2Bcisservice.customerWrite.v1%2Bcisservice.userProfileBasic.v1%2Bvgs.transactionRead.v1%2Bvgs.marketAccess.v1%26redirect_uri%3Dhttps%253A%252F%252Flogin.eveonline.com%252Flauncher%253Fclient_id%253DeveLauncherTQ%26state%3DbBdJdFSSBrFgoblirx-Epw7XNABJ1LVoaSi9pJ2onXQ%26code_challenge_method%3DS256%26code_challenge%3DgiJwYk8YHG2bv5A8JaF7Vr0v_p40PcasQ70H-dDQs4U%26steam_ticket%3D1400000034cb08536cab7b871bd7f11a01001001bae60666180000000100000002000000405a6b4694054918c122330007000000b200000032000000040000001bd7f11a0100100134210000726473b0ad01a8c0000000005a570566da06216601002f220200000000004e6c315e8673ffcaf8efa67467ae7785db04f9e2e66eb066e63b10a454708c2ec5fe55655c5a09ba5af247239d8aadc0d446465661c4563b86b4bce4ffa04211f3dbee3b05fca8a8bc53feeceed39c66b41dd321b01a7aff49f46fb32e2f082de8a1b7a222e470f92c886bf8bba78d47e94ca14cad73aba7619e757449686f69
+2024-03-29 16:32:46.865     ui     info:    [i18next] Requesting missing translation en readnought title title    ccp://launcher/renderer/main_window/index.js    2
+2024-03-29 16:32:46.947    app     info:    [jukebox] Fetched 2 jukebox playlists
+2024-03-29 16:32:47.012    app     info:    [creatives] Received 3 creatives
+2024-03-29 16:32:47.068    app     info:    [esi] Fetched 1 character details for 29797650
+2024-03-29 16:32:47.207    app     info:    [esi] Fetched 2 character details for 23622903
+2024-03-29 16:32:47.210    app     info:    [esi] Fetched 1 character details for 29280260
+2024-03-29 16:32:47.215    app     info:    [esi] Fetched 2 character details for 16492377
+2024-03-29 16:32:47.226    app     info:    [esi] Fetched 2 character details for 2110311
+2024-03-29 16:32:47.244    app     info:    [esi] Fetched 2 character details for 18034259
+2024-03-29 16:32:47.253    app     info:    [esi] Fetched 2 character details for 17525312
+2024-03-29 16:32:47.258    app     info:    [esi] Fetched 1 character details for 28182799
+2024-03-29 16:32:47.262    app     info:    [esi] Fetched 1 character details for 29795975
+2024-03-29 16:32:47.462    app     info:    [elg-events] Queueing event    eve_launcher.electron.authentication.UserAuthenticated
+2024-03-29 16:32:47.462    app     info:    [authentication-handler] Navigation to login completed, receiving code & state    {
+  state: 'bBdJdFSSBrFgoblirx-Epw7XNABJ1LVoaSi9pJ2onXQ',
+  code: 'YJJDW7M-EU-2R-PIsHoHuQ'
+}
+2024-03-29 16:32:47.466    app     info:    [elg-events] Queueing event    eve_launcher.electron.authentication.LoginWindowClosed
+2024-03-29 16:32:47.472    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserAuthenticated
+2024-03-29 16:32:47.477    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.LoginWindowClosed
+2024-03-29 16:32:47.614    app     info:    [elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensReceived
+2024-03-29 16:32:47.634    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensReceived
+2024-03-29 16:32:47.655    app     info:    [AuthenticationMiddleware] User information updated
+2024-03-29 16:32:48.920     ui     info:    Initializing captcha    ccp://launcher/renderer/main_window/index.js    2
+2024-03-29 16:32:49.420     ui     warn:    Deprecated API for given entry type.    https://www.gstatic.com/recaptcha/releases/moV1mTgQ6S91nuTnmll4Y9yf/recaptcha__en.js    536
+2024-03-29 16:32:50.035    app     info:    [analytics] Hardware rendering enabled:    true    { disabledViaCommandline: false, disabledViaSettings: false }
+2024-03-29 16:32:51.796    app     info:    [self-update] Checking for application updates.
+2024-03-29 16:32:52.617    app     info:    [self-update] No application updates were found.
+2024-03-29 16:32:54.830    app    error:    [authentication] Could not refresh token for '29285645' on 'tranquility' Tokens for '29285645' on 'tranquility' are invalid, refresh was skipped    m [InvalidTokenError]: Tokens for '29285645' on 'tranquility' are invalid, refresh was skipped
+    at j (C:\Games\Steam\steamapps\common\Eve Online\app-1.3.3\resources\app.asar\.webpack\main\index.js:8:2006343)
+    at C:\Games\Steam\steamapps\common\Eve Online\app-1.3.3\resources\app.asar\.webpack\main\index.js:8:2801034
+    at y (C:\Games\Steam\steamapps\common\Eve Online\app-1.3.3\resources\app.asar\.webpack\main\index.js:8:614681)
+    at v (C:\Games\Steam\steamapps\common\Eve Online\app-1.3.3\resources\app.asar\.webpack\main\index.js:8:614737)
+    at w (C:\Games\Steam\steamapps\common\Eve Online\app-1.3.3\resources\app.asar\.webpack\main\index.js:8:615056)
+    at C:\Games\Steam\steamapps\common\Eve Online\app-1.3.3\resources\app.asar\.webpack\main\index.js:8:2804885
+2024-03-29 16:32:54.831    app    error:    [AuthenticationMiddleware] Could not update data on active user change Tokens for '29285645' on 'tranquility' are invalid, refresh was skipped    m [InvalidTokenError]: Tokens for '29285645' on 'tranquility' are invalid, refresh was skipped
+    at j (C:\Games\Steam\steamapps\common\Eve Online\app-1.3.3\resources\app.asar\.webpack\main\index.js:8:2006343)
+    at C:\Games\Steam\steamapps\common\Eve Online\app-1.3.3\resources\app.asar\.webpack\main\index.js:8:2801034
+    at y (C:\Games\Steam\steamapps\common\Eve Online\app-1.3.3\resources\app.asar\.webpack\main\index.js:8:614681)
+    at v (C:\Games\Steam\steamapps\common\Eve Online\app-1.3.3\resources\app.asar\.webpack\main\index.js:8:614737)
+    at w (C:\Games\Steam\steamapps\common\Eve Online\app-1.3.3\resources\app.asar\.webpack\main\index.js:8:615056)
+    at C:\Games\Steam\steamapps\common\Eve Online\app-1.3.3\resources\app.asar\.webpack\main\index.js:8:2804885
+2024-03-29 16:32:56.877    app     info:    [authentication] Generated login URL with state 'j1qE4hg3wLyxSgvkJA-r4m4GuIZi1Te-tJOOqGYMe9s' for 'tranquility' using clientID 'eveLauncherTQ'
+2024-03-29 16:32:56.878    app     info:    [authentication-handler] Creating login window using URI https://login.eveonline.com/account/logoff?lang=en&ReturnUrl=%2Fv2%2Foauth%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3DeveLauncherTQ%26scope%3DeveClientLogin%2Bcisservice.customerRead.v1%2Bcisservice.customerWrite.v1%2Bcisservice.userProfileBasic.v1%2Bvgs.transactionRead.v1%2Bvgs.marketAccess.v1%26redirect_uri%3Dhttps%253A%252F%252Flogin.eveonline.com%252Flauncher%253Fclient_id%253DeveLauncherTQ%26state%3Dj1qE4hg3wLyxSgvkJA-r4m4GuIZi1Te-tJOOqGYMe9s%26code_challenge_method%3DS256%26code_challenge%3DbAEJyMVBhtYz9d8i4jF53s0Pa_dAvCUBQH9WbUBOIvw
+2024-03-29 16:32:57.472    app     info:    [elg-events] Queueing event    eve_launcher.electron.authentication.LoginWindowOpened
+2024-03-29 16:32:57.475    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.LoginWindowOpened
+2024-03-29 16:33:08.402    app     info:    [scheduler] Stopped scheduler foreground
+2024-03-29 16:33:08.403    app     info:    [ipc-requests] Handling requests in the background
+2024-03-29 16:33:09.404    app     info:    [ipc-requests] No longer handling requests in the background
+2024-03-29 16:33:15.778    app     warn:    Could not connect to LogLite    [
+  Error: connect ECONNREFUSED 127.0.0.1:3273
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16) {
+    errno: -4078,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '127.0.0.1',
+    port: 3273
+  }
+]
+2024-03-29 16:35:00.619    app     info:    [scheduler] Starting scheduler foreground
+2024-03-29 16:35:00.632    app    error:    [authentication] Could not refresh token for '29285645' on 'tranquility' Tokens for '29285645' on 'tranquility' are invalid, refresh was skipped    m [InvalidTokenError]: Tokens for '29285645' on 'tranquility' are invalid, refresh was skipped
+    at j (C:\Games\Steam\steamapps\common\Eve Online\app-1.3.3\resources\app.asar\.webpack\main\index.js:8:2006343)
+    at C:\Games\Steam\steamapps\common\Eve Online\app-1.3.3\resources\app.asar\.webpack\main\index.js:8:2801034
+    at y (C:\Games\Steam\steamapps\common\Eve Online\app-1.3.3\resources\app.asar\.webpack\main\index.js:8:614681)
+    at v (C:\Games\Steam\steamapps\common\Eve Online\app-1.3.3\resources\app.asar\.webpack\main\index.js:8:614737)
+    at w (C:\Games\Steam\steamapps\common\Eve Online\app-1.3.3\resources\app.asar\.webpack\main\index.js:8:615056)
+    at C:\Games\Steam\steamapps\common\Eve Online\app-1.3.3\resources\app.asar\.webpack\main\index.js:8:2804885
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+2024-03-29 16:35:00.633    app    error:    [AuthenticationMiddleware] Could not update data on active user change Tokens for '29285645' on 'tranquility' are invalid, refresh was skipped    m [InvalidTokenError]: Tokens for '29285645' on 'tranquility' are invalid, refresh was skipped
+    at j (C:\Games\Steam\steamapps\common\Eve Online\app-1.3.3\resources\app.asar\.webpack\main\index.js:8:2006343)
+    at C:\Games\Steam\steamapps\common\Eve Online\app-1.3.3\resources\app.asar\.webpack\main\index.js:8:2801034
+    at y (C:\Games\Steam\steamapps\common\Eve Online\app-1.3.3\resources\app.asar\.webpack\main\index.js:8:614681)
+    at v (C:\Games\Steam\steamapps\common\Eve Online\app-1.3.3\resources\app.asar\.webpack\main\index.js:8:614737)
+    at w (C:\Games\Steam\steamapps\common\Eve Online\app-1.3.3\resources\app.asar\.webpack\main\index.js:8:615056)
+    at C:\Games\Steam\steamapps\common\Eve Online\app-1.3.3\resources\app.asar\.webpack\main\index.js:8:2804885
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+2024-03-29 16:35:05.897    app     info:    [elg-events] Queueing event    eve_launcher.electron.authentication.UserAuthenticated
+2024-03-29 16:35:05.898    app     info:    [authentication-handler] Navigation to login completed, receiving code & state    {
+  state: 'j1qE4hg3wLyxSgvkJA-r4m4GuIZi1Te-tJOOqGYMe9s',
+  code: 'TO3etQoNJUq_z6vh3gz6gg'
+}
+2024-03-29 16:35:05.904    app     info:    [elg-events] Queueing event    eve_launcher.electron.authentication.LoginWindowClosed
+2024-03-29 16:35:05.915    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserAuthenticated
+2024-03-29 16:35:05.917    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.LoginWindowClosed
+2024-03-29 16:35:06.106    app     info:    [elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensReceived
+2024-03-29 16:35:06.140    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensReceived
+2024-03-29 16:35:06.145    app     info:    [customer-information] Getting character information for '29285645' on 'tranquility'
+2024-03-29 16:35:06.156    app     info:    [customer-information] Getting Omega status for '29285645' on 'tranquility'
+2024-03-29 16:35:06.168    app     info:    [virtual-goods] Getting Plex status for '29285645' on 'tranquility'
+2024-03-29 16:35:06.276    app     info:    [virtual-goods] Fetched Plex status for '29285645' on 'tranquility'
+2024-03-29 16:35:06.290    app     info:    info: [LaunchDarkly] Closing stream connection    []
+2024-03-29 16:35:06.290    app     info:    info: [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/64c3d12e27a4b11365012d39/eyJrZXkiOiI0YTQzNmFkYi00Yjk5LTQwYTctODViMC00MmUyMDZmNDEyODYiLCJraW5kIjoidXNlciIsImN1c3RvbSI6eyJpc0ZpcnN0UnVuIjpmYWxzZSwiZGF5c1NpbmNlRmlyc3RSdW4iOjEsImxhbmd1YWdlIjoiZW4iLCJhcHBsaWNhdGlvbiI6ImV2ZS1vbmxpbmUiLCJ2ZXJzaW9uIjoiMS4zLjMiLCJwbGF0Zm9ybSI6IndpbmRvd3MiLCJpc0dlRm9yY2VOb3ciOmZhbHNlLCJvc1ZlcnNpb25EZXByZWNhdGVkIjpmYWxzZSwidXNlcklkcyI6WzE2NDkyMzc3LDI5Nzk3NjUwLDIxMTAzMTEsMjk3OTc2NTBdLCJvbWVnYUNvdW50IjowLCJhbHBoYUNvdW50IjoxMCwiYWNjb3VudENvdW50IjoxMCwib2xkZXN0QWNjb3VudEFnZSI6NjEwNiwieW91bmdlc3RBY2NvdW50QWdlIjowfX0?withReasons=true    []
+2024-03-29 16:35:06.297    app     info:    [esi] Fetching character details for 2121878074
+2024-03-29 16:35:06.319    app     info:    [customer-information] Agreement status has been fetched for user '29285645'
+2024-03-29 16:35:06.338    app     info:    [AuthenticationMiddleware] User information updated
+2024-03-29 16:35:06.963    app     info:    [esi] Fetched 1 character details for 29285645
+2024-03-29 16:35:14.504    app     info:    [client-queue] Queued client startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  userId: 29285645,
+  characterId: 2121878074,
+  profile: ''
+}
+2024-03-29 16:35:14.509    app     info:    [elg-events] Queueing event    eve_launcher.electron.eve_client.ClientQueued
+2024-03-29 16:35:14.510    app     info:    [client-queue] No clients running for tranquility, copying files before starting a client
+2024-03-29 16:35:14.510    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.ClientQueued
+2024-03-29 16:35:14.524    app     info:    [elg-events] Queueing event    eve_launcher.electron.eve_client.CopyingFilesStarted
+2024-03-29 16:35:14.525    app     info:    [binary-copier] Copying 195 files (230 MB) to 'C:\CCP\EVE Online\tq'
+2024-03-29 16:35:14.526    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.CopyingFilesStarted
+2024-03-29 16:35:15.368    app     info:    [binary-copier] Removing old binaries
+2024-03-29 16:35:15.388    app     info:    [binary-copier] Copying binaries from ResFiles
+2024-03-29 16:35:15.390    app    error:    [client-queue] Failed to copy binaries, trying to recover from this failure The file 'C:\CCP\EVE Online\ResFiles\d5\d5f922c8571bc487_9ca0bf08e251ad93155d926bba191c5c' does not exist    I [BinaryCopyFileMissingError]: The file 'C:\CCP\EVE Online\ResFiles\d5\d5f922c8571bc487_9ca0bf08e251ad93155d926bba191c5c' does not exist
+    at B.copyEntryAsync (C:\Games\Steam\steamapps\common\Eve Online\app-1.3.3\resources\app.asar\.webpack\main\index.js:8:2053916)
+2024-03-29 16:35:15.402    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2024-03-29 16:35:15.425    app     info:    [binary-copier] Finished copying 0 files to 'C:\CCP\EVE Online\tq' in 0.905 seconds
+2024-03-29 16:35:15.429    app     info:    [elg-events] Queueing event    eve_launcher.electron.eve_client.CopyingFilesFinished
+2024-03-29 16:35:15.429    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.CopyingFilesFinished
+2024-03-29 16:35:15.553    app     info:    [server-manager] Previous Tranquility build: None, current build: 2532064
+2024-03-29 16:35:15.568    app     info:    [elg-events] Queueing event    eve_launcher.electron.eve_client.GameClientUpdateStarted
+2024-03-29 16:35:15.569    app     info:    [server-manager] Starting download of build 2532064 for Tranquility.
+2024-03-29 16:35:15.602    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.GameClientUpdateStarted
+2024-03-29 16:35:15.671    app     info:    [server-manager] Downloading binary chunks in 10 files (97.6 MB)
+2024-03-29 16:35:15.675    app     info:    [download-from-manifest] Preparing to download 10 files    { cdn: 1, concurrent: 10 }
+2024-03-29 16:35:16.753    app     info:    [server-manager] Downloaded 10.54 MiB/93.07 MiB at 10.36 MiB/s
+2024-03-29 16:35:17.754    app     info:    [server-manager] Downloaded 17.99 MiB/93.07 MiB at 6.71 MiB/s
+2024-03-29 16:35:18.754    app     info:    [server-manager] Downloaded 27.87 MiB/93.07 MiB at 14.72 MiB/s
+2024-03-29 16:35:19.766    app     info:    [server-manager] Downloaded 37.65 MiB/93.07 MiB at 9.96 MiB/s
+2024-03-29 16:35:20.780    app     info:    [server-manager] Downloaded 47.58 MiB/93.07 MiB at 9.98 MiB/s
+2024-03-29 16:35:21.785    app     info:    [server-manager] Downloaded 57.49 MiB/93.07 MiB at 9.99 MiB/s
+2024-03-29 16:35:22.790    app     info:    [server-manager] Downloaded 67.37 MiB/93.07 MiB at 9.90 MiB/s
+2024-03-29 16:35:23.802    app     info:    [server-manager] Downloaded 77.12 MiB/93.07 MiB at 9.92 MiB/s
+2024-03-29 16:35:24.807    app     info:    [server-manager] Downloaded 87.01 MiB/93.07 MiB at 9.91 MiB/s
+2024-03-29 16:35:25.163    app     info:    [download-from-manifest] Downloaded 10 files (92,07 MiB) in 9.490 seconds
+2024-03-29 16:35:25.164    app     info:    [download-from-manifest] Average download speed: 9,70 MiB/s
+2024-03-29 16:35:25.164    app     info:    [server-manager] Unpacking binary chunks
+2024-03-29 16:35:25.821    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 16/195
+2024-03-29 16:35:26.849    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 137/195
+2024-03-29 16:35:27.895    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 192/195
+2024-03-29 16:35:27.896    app     info:    [chunk-unpacker] Unpacked chunks, and wrote 195 files (230 MB) in 2.727 seconds
+2024-03-29 16:35:27.896    app     info:    [chunk-unpacker] Average unpacking speed: 84.2 MB/s
+2024-03-29 16:35:27.934    app     info:    [elg-events] Queueing event    eve_launcher.electron.eve_client.CopyingFilesStarted
+2024-03-29 16:35:27.936    app     info:    [binary-copier] Copying 195 files (230 MB) to 'C:\CCP\EVE Online\tq'
+2024-03-29 16:35:27.938    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.CopyingFilesStarted
+2024-03-29 16:35:27.950    app     info:    [binary-copier] Removing old binaries
+2024-03-29 16:35:27.953    app     info:    [binary-copier] Copying binaries from ResFiles
+2024-03-29 16:35:28.054    app     info:    [binary-copier] Finished copying 195 files to 'C:\CCP\EVE Online\tq' in 0.125 seconds
+2024-03-29 16:35:28.057    app     info:    [elg-events] Queueing event    eve_launcher.electron.eve_client.CopyingFilesFinished
+2024-03-29 16:35:28.058    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.CopyingFilesFinished
+2024-03-29 16:35:28.363    app     info:    [server-manager] Downloading prefetch chunks in 442 files (4.63 GB)
+2024-03-29 16:35:28.367    app     info:    [download-from-manifest] Preparing to download 442 files    { cdn: 2, concurrent: 10 }
+2024-03-29 16:35:28.895    app     info:    [server-manager] Downloaded 2.04 MiB/4.32 GiB at 7.98 kiB/s
+2024-03-29 16:35:29.951    app     info:    [server-manager] Downloaded 12.81 MiB/4.32 GiB at 5.12 MiB/s
+2024-03-29 16:35:30.962    app     info:    [server-manager] Downloaded 22.63 MiB/4.32 GiB at 9.53 MiB/s
+2024-03-29 16:35:31.966    app     info:    [server-manager] Downloaded 32.56 MiB/4.32 GiB at 9.90 MiB/s
+2024-03-29 16:35:32.979    app     info:    [server-manager] Downloaded 42.34 MiB/4.32 GiB at 9.97 MiB/s
+2024-03-29 16:35:33.982    app     info:    [server-manager] Downloaded 52.29 MiB/4.32 GiB at 10.08 MiB/s
+2024-03-29 16:35:34.987    app     info:    [server-manager] Downloaded 62.13 MiB/4.32 GiB at 14.83 MiB/s
+2024-03-29 16:35:35.995    app     info:    [server-manager] Downloaded 71.97 MiB/4.32 GiB at 9.78 MiB/s
+2024-03-29 16:35:37.009    app     info:    [server-manager] Downloaded 81.81 MiB/4.32 GiB at 9.98 MiB/s
+2024-03-29 16:35:38.017    app     info:    [server-manager] Downloaded 91.80 MiB/4.32 GiB at 15.08 MiB/s
+2024-03-29 16:35:39.021    app     info:    [server-manager] Downloaded 101.67 MiB/4.32 GiB at 5.22 MiB/s
+2024-03-29 16:35:40.030    app     info:    [server-manager] Downloaded 111.52 MiB/4.32 GiB at 9.79 MiB/s
+2024-03-29 16:35:41.037    app     info:    [server-manager] Downloaded 121.32 MiB/4.32 GiB at 9.72 MiB/s
+2024-03-29 16:35:41.060    app     info:    [scheduler] Stopped scheduler foreground
+2024-03-29 16:35:41.061    app     info:    [ipc-requests] Handling requests in the background
+2024-03-29 16:35:41.678    app     info:    [scheduler] Starting scheduler foreground
+2024-03-29 16:35:42.041    app     info:    [server-manager] Downloaded 131.27 MiB/4.32 GiB at 14.72 MiB/s
+2024-03-29 16:35:42.074    app     info:    [ipc-requests] No longer handling requests in the background
+2024-03-29 16:35:42.113    app     info:    [scheduler] Stopped scheduler foreground
+2024-03-29 16:35:42.114    app     info:    [ipc-requests] Handling requests in the background
+2024-03-29 16:35:43.046    app     info:    [server-manager] Downloaded 140.83 MiB/4.32 GiB at 9.63 MiB/s
+2024-03-29 16:35:43.113    app     info:    [ipc-requests] No longer handling requests in the background
+2024-03-29 16:35:44.051    app     info:    [server-manager] Downloaded 150.61 MiB/4.32 GiB at 9.84 MiB/s
+2024-03-29 16:35:45.057    app     info:    [server-manager] Downloaded 160.54 MiB/4.32 GiB at 10.01 MiB/s
+2024-03-29 16:35:46.072    app     info:    [server-manager] Downloaded 170.28 MiB/4.32 GiB at 9.78 MiB/s
+2024-03-29 16:35:46.109    app     info:    [scheduler] Starting scheduler foreground
+2024-03-29 16:35:46.834    app     info:    [scheduler] Stopped scheduler foreground
+2024-03-29 16:35:46.835    app     info:    [ipc-requests] Handling requests in the background
+2024-03-29 16:35:47.077    app     info:    [server-manager] Downloaded 180.29 MiB/4.32 GiB at 10.27 MiB/s
+2024-03-29 16:35:47.835    app     info:    [ipc-requests] No longer handling requests in the background
+2024-03-29 16:35:48.093    app     info:    [server-manager] Downloaded 190.03 MiB/4.32 GiB at 9.77 MiB/s
+2024-03-29 16:35:49.097    app     info:    [server-manager] Downloaded 200.15 MiB/4.32 GiB at 5.44 MiB/s
+2024-03-29 16:35:50.103    app     info:    [server-manager] Downloaded 209.82 MiB/4.32 GiB at 14.65 MiB/s
+2024-03-29 16:35:51.107    app     info:    [server-manager] Downloaded 219.38 MiB/4.32 GiB at 9.99 MiB/s
+2024-03-29 16:35:52.111    app     info:    [server-manager] Downloaded 228.64 MiB/4.32 GiB at 9.28 MiB/s
+2024-03-29 16:35:53.121    app     info:    [server-manager] Downloaded 238.03 MiB/4.32 GiB at 9.28 MiB/s
+2024-03-29 16:35:54.125    app     info:    [server-manager] Downloaded 248.10 MiB/4.32 GiB at 14.06 MiB/s
+2024-03-29 16:35:55.145    app     info:    [server-manager] Downloaded 257.87 MiB/4.32 GiB at 5.34 MiB/s
+2024-03-29 16:35:56.146    app     info:    [server-manager] Downloaded 267.07 MiB/4.32 GiB at 13.69 MiB/s
+2024-03-29 16:35:57.140    app     info:    [server-manager] Downloaded 276.79 MiB/4.32 GiB at 9.72 MiB/s
+2024-03-29 16:35:58.150    app     info:    [server-manager] Downloaded 286.65 MiB/4.32 GiB at 9.88 MiB/s
+2024-03-29 16:35:59.155    app     info:    [server-manager] Downloaded 296.61 MiB/4.32 GiB at 9.77 MiB/s
+2024-03-29 16:36:00.159    app     info:    [server-manager] Downloaded 306.39 MiB/4.32 GiB at 14.48 MiB/s
+2024-03-29 16:36:01.175    app     info:    [server-manager] Downloaded 316.28 MiB/4.32 GiB at 5.11 MiB/s
+2024-03-29 16:36:02.180    app     info:    [server-manager] Downloaded 326.14 MiB/4.32 GiB at 9.80 MiB/s
+2024-03-29 16:36:03.184    app     info:    [server-manager] Downloaded 336.01 MiB/4.32 GiB at 9.89 MiB/s
+2024-03-29 16:36:04.189    app     info:    [server-manager] Downloaded 345.72 MiB/4.32 GiB at 9.94 MiB/s
+2024-03-29 16:36:05.197    app     info:    [server-manager] Downloaded 355.54 MiB/4.32 GiB at 9.75 MiB/s
+2024-03-29 16:36:06.202    app     info:    [server-manager] Downloaded 365.34 MiB/4.32 GiB at 9.61 MiB/s
+2024-03-29 16:36:07.212    app     info:    [server-manager] Downloaded 374.77 MiB/4.32 GiB at 14.09 MiB/s
+2024-03-29 16:36:08.215    app     info:    [server-manager] Downloaded 384.13 MiB/4.32 GiB at 9.53 MiB/s
+2024-03-29 16:36:09.219    app     info:    [server-manager] Downloaded 393.53 MiB/4.32 GiB at 9.06 MiB/s
+2024-03-29 16:36:10.224    app     info:    [server-manager] Downloaded 402.93 MiB/4.32 GiB at 9.21 MiB/s
+2024-03-29 16:36:11.232    app     info:    [server-manager] Downloaded 412.89 MiB/4.32 GiB at 14.53 MiB/s
+2024-03-29 16:36:12.237    app     info:    [server-manager] Downloaded 422.64 MiB/4.32 GiB at 9.67 MiB/s
+2024-03-29 16:36:13.242    app     info:    [server-manager] Downloaded 432.38 MiB/4.32 GiB at 14.86 MiB/s
+2024-03-29 16:36:14.252    app     info:    [server-manager] Downloaded 442.34 MiB/4.32 GiB at 15.02 MiB/s
+2024-03-29 16:36:15.258    app     info:    [server-manager] Downloaded 452.21 MiB/4.32 GiB at 14.72 MiB/s
+2024-03-29 16:36:16.263    app     info:    [server-manager] Downloaded 462.01 MiB/4.32 GiB at 9.76 MiB/s
+2024-03-29 16:36:17.273    app     info:    [server-manager] Downloaded 471.98 MiB/4.32 GiB at 10.13 MiB/s
+2024-03-29 16:36:18.279    app     info:    [server-manager] Downloaded 481.77 MiB/4.32 GiB at 9.75 MiB/s
+2024-03-29 16:36:19.284    app     info:    [server-manager] Downloaded 491.60 MiB/4.32 GiB at 9.72 MiB/s
+2024-03-29 16:36:20.287    app     info:    [server-manager] Downloaded 501.28 MiB/4.32 GiB at 5.16 MiB/s
+2024-03-29 16:36:21.297    app     info:    [server-manager] Downloaded 511.11 MiB/4.32 GiB at 10.14 MiB/s
+2024-03-29 16:36:22.302    app     info:    [server-manager] Downloaded 520.99 MiB/4.32 GiB at 5.13 MiB/s
+2024-03-29 16:36:23.311    app     info:    [server-manager] Downloaded 530.63 MiB/4.32 GiB at 14.48 MiB/s
+2024-03-29 16:36:24.325    app     info:    [server-manager] Downloaded 540.48 MiB/4.32 GiB at 9.96 MiB/s
+2024-03-29 16:36:25.330    app     info:    [server-manager] Downloaded 550.45 MiB/4.32 GiB at 10.09 MiB/s
+2024-03-29 16:36:26.335    app     info:    [server-manager] Downloaded 560.31 MiB/4.32 GiB at 9.95 MiB/s
+2024-03-29 16:36:27.349    app     info:    [server-manager] Downloaded 570.28 MiB/4.32 GiB at 10.00 MiB/s
+2024-03-29 16:36:28.354    app     info:    [server-manager] Downloaded 580.14 MiB/4.32 GiB at 9.61 MiB/s
+2024-03-29 16:36:29.360    app     info:    [server-manager] Downloaded 589.94 MiB/4.32 GiB at 9.81 MiB/s
+2024-03-29 16:36:30.368    app     info:    [server-manager] Downloaded 599.85 MiB/4.32 GiB at 14.88 MiB/s
+2024-03-29 16:36:31.376    app     info:    [server-manager] Downloaded 609.71 MiB/4.32 GiB at 9.84 MiB/s
+2024-03-29 16:36:32.379    app     info:    [server-manager] Downloaded 619.54 MiB/4.32 GiB at 4.69 MiB/s
+2024-03-29 16:36:33.384    app     info:    [server-manager] Downloaded 629.38 MiB/4.32 GiB at 4.94 MiB/s
+2024-03-29 16:36:34.394    app     info:    [server-manager] Downloaded 639.09 MiB/4.32 GiB at 14.69 MiB/s
+2024-03-29 16:36:35.402    app     info:    [server-manager] Downloaded 649.23 MiB/4.32 GiB at 9.88 MiB/s
+2024-03-29 16:36:36.409    app     info:    [server-manager] Downloaded 658.95 MiB/4.32 GiB at 14.78 MiB/s
+2024-03-29 16:36:37.415    app     info:    [server-manager] Downloaded 668.88 MiB/4.32 GiB at 5.29 MiB/s
+2024-03-29 16:36:38.426    app     info:    [server-manager] Downloaded 678.46 MiB/4.32 GiB at 14.55 MiB/s
+2024-03-29 16:36:39.439    app     info:    [server-manager] Downloaded 688.45 MiB/4.32 GiB at 9.94 MiB/s
+2024-03-29 16:36:40.444    app     info:    [server-manager] Downloaded 698.31 MiB/4.32 GiB at 10.07 MiB/s
+2024-03-29 16:36:41.448    app     info:    [server-manager] Downloaded 707.84 MiB/4.32 GiB at 14.32 MiB/s
+2024-03-29 16:36:42.455    app     info:    [server-manager] Downloaded 717.04 MiB/4.32 GiB at 4.55 MiB/s
+2024-03-29 16:36:43.466    app     info:    [server-manager] Downloaded 726.31 MiB/4.32 GiB at 9.36 MiB/s
+2024-03-29 16:36:44.471    app     info:    [server-manager] Downloaded 735.85 MiB/4.32 GiB at 9.44 MiB/s
+2024-03-29 16:36:45.476    app     info:    [server-manager] Downloaded 745.35 MiB/4.32 GiB at 9.56 MiB/s
+2024-03-29 16:36:46.481    app     info:    [server-manager] Downloaded 754.78 MiB/4.32 GiB at 9.17 MiB/s
+2024-03-29 16:36:47.485    app     info:    [server-manager] Downloaded 764.01 MiB/4.32 GiB at 9.23 MiB/s
+2024-03-29 16:36:48.490    app     info:    [server-manager] Downloaded 773.35 MiB/4.32 GiB at 9.19 MiB/s
+2024-03-29 16:36:49.495    app     info:    [server-manager] Downloaded 782.67 MiB/4.32 GiB at 9.25 MiB/s
+2024-03-29 16:36:50.500    app     info:    [server-manager] Downloaded 792.38 MiB/4.32 GiB at 9.91 MiB/s
+2024-03-29 16:36:51.517    app     info:    [server-manager] Downloaded 802.30 MiB/4.32 GiB at 14.28 MiB/s
+2024-03-29 16:36:52.533    app     info:    [server-manager] Downloaded 812.05 MiB/4.32 GiB at 14.87 MiB/s
+2024-03-29 16:36:53.538    app     info:    [server-manager] Downloaded 821.99 MiB/4.32 GiB at 10.34 MiB/s
+2024-03-29 16:36:54.538    app     info:    [server-manager] Downloaded 831.93 MiB/4.32 GiB at 9.94 MiB/s
+2024-03-29 16:36:55.543    app     info:    [server-manager] Downloaded 841.51 MiB/4.32 GiB at 9.17 MiB/s
+2024-03-29 16:36:56.549    app     info:    [server-manager] Downloaded 851.30 MiB/4.32 GiB at 9.82 MiB/s
+2024-03-29 16:36:57.554    app     info:    [server-manager] Downloaded 861.15 MiB/4.32 GiB at 14.92 MiB/s
+2024-03-29 16:36:58.565    app     info:    [server-manager] Downloaded 870.88 MiB/4.32 GiB at 14.66 MiB/s
+2024-03-29 16:36:59.575    app     info:    [server-manager] Downloaded 880.70 MiB/4.32 GiB at 14.72 MiB/s
+2024-03-29 16:37:00.577    app     info:    [server-manager] Downloaded 890.52 MiB/4.32 GiB at 4.99 MiB/s
+2024-03-29 16:37:01.582    app     info:    [server-manager] Downloaded 900.36 MiB/4.32 GiB at 9.96 MiB/s
+2024-03-29 16:37:02.587    app     info:    [server-manager] Downloaded 910.07 MiB/4.32 GiB at 9.48 MiB/s
+2024-03-29 16:37:03.603    app     info:    [server-manager] Downloaded 919.61 MiB/4.32 GiB at 9.68 MiB/s
+2024-03-29 16:37:04.608    app     info:    [server-manager] Downloaded 928.87 MiB/4.32 GiB at 9.59 MiB/s
+2024-03-29 16:37:05.613    app     info:    [server-manager] Downloaded 938.77 MiB/4.32 GiB at 10.17 MiB/s
+2024-03-29 16:37:06.617    app     info:    [server-manager] Downloaded 948.39 MiB/4.32 GiB at 9.54 MiB/s
+2024-03-29 16:37:07.627    app     info:    [server-manager] Downloaded 957.84 MiB/4.32 GiB at 14.36 MiB/s
+2024-03-29 16:37:08.633    app     info:    [server-manager] Downloaded 967.51 MiB/4.32 GiB at 9.47 MiB/s
+2024-03-29 16:37:09.648    app     info:    [server-manager] Downloaded 977.09 MiB/4.32 GiB at 9.65 MiB/s
+2024-03-29 16:37:10.652    app     info:    [server-manager] Downloaded 986.74 MiB/4.32 GiB at 4.74 MiB/s
+2024-03-29 16:37:11.656    app     info:    [server-manager] Downloaded 996.54 MiB/4.32 GiB at 5.07 MiB/s
+2024-03-29 16:37:12.661    app     info:    [server-manager] Downloaded 1,006.46 MiB/4.32 GiB at 9.86 MiB/s
+2024-03-29 16:37:13.675    app     info:    [server-manager] Downloaded 1,016.17 MiB/4.32 GiB at 14.59 MiB/s
+2024-03-29 16:37:14.688    app     info:    [server-manager] Downloaded 1.00 GiB/4.32 GiB at 10.09 MiB/s
+2024-03-29 16:37:15.696    app     info:    [server-manager] Downloaded 1.01 GiB/4.32 GiB at 9.78 MiB/s
+2024-03-29 16:37:16.707    app     info:    [server-manager] Downloaded 1.02 GiB/4.32 GiB at 9.70 MiB/s
+2024-03-29 16:37:17.712    app     info:    [server-manager] Downloaded 1.03 GiB/4.32 GiB at 9.22 MiB/s
+2024-03-29 16:37:18.721    app     info:    [server-manager] Downloaded 1.04 GiB/4.32 GiB at 9.80 MiB/s
+2024-03-29 16:37:19.726    app     info:    [server-manager] Downloaded 1.05 GiB/4.32 GiB at 9.57 MiB/s
+2024-03-29 16:37:20.730    app     info:    [server-manager] Downloaded 1.06 GiB/4.32 GiB at 9.48 MiB/s
+2024-03-29 16:37:21.734    app     info:    [server-manager] Downloaded 1.07 GiB/4.32 GiB at 13.48 MiB/s
+2024-03-29 16:37:22.758    app     info:    [server-manager] Downloaded 1.08 GiB/4.32 GiB at 4.83 MiB/s
+2024-03-29 16:37:23.763    app     info:    [server-manager] Downloaded 1.09 GiB/4.32 GiB at 14.84 MiB/s
+2024-03-29 16:37:24.763    app     info:    [server-manager] Downloaded 1.10 GiB/4.32 GiB at 4.86 MiB/s
+2024-03-29 16:37:25.767    app     info:    [server-manager] Downloaded 1.11 GiB/4.32 GiB at 14.36 MiB/s
+2024-03-29 16:37:26.783    app     info:    [server-manager] Downloaded 1.12 GiB/4.32 GiB at 5.53 MiB/s
+2024-03-29 16:37:27.792    app     info:    [server-manager] Downloaded 1.12 GiB/4.32 GiB at 9.81 MiB/s
+2024-03-29 16:37:28.799    app     info:    [server-manager] Downloaded 1.13 GiB/4.32 GiB at 10.00 MiB/s
+2024-03-29 16:37:29.805    app     info:    [server-manager] Downloaded 1.14 GiB/4.32 GiB at 4.72 MiB/s
+2024-03-29 16:37:30.809    app     info:    [server-manager] Downloaded 1.15 GiB/4.32 GiB at 9.67 MiB/s
+2024-03-29 16:37:31.813    app     info:    [server-manager] Downloaded 1.16 GiB/4.32 GiB at 9.23 MiB/s
+2024-03-29 16:37:32.821    app     info:    [server-manager] Downloaded 1.17 GiB/4.32 GiB at 13.87 MiB/s
+2024-03-29 16:37:33.825    app     info:    [server-manager] Downloaded 1.18 GiB/4.32 GiB at 8.80 MiB/s
+2024-03-29 16:37:34.830    app     info:    [server-manager] Downloaded 1.19 GiB/4.32 GiB at 9.03 MiB/s
+2024-03-29 16:37:35.834    app     info:    [server-manager] Downloaded 1.20 GiB/4.32 GiB at 10.09 MiB/s
+2024-03-29 16:37:36.840    app     info:    [server-manager] Downloaded 1.21 GiB/4.32 GiB at 14.25 MiB/s
+2024-03-29 16:37:37.846    app     info:    [server-manager] Downloaded 1.22 GiB/4.32 GiB at 4.69 MiB/s
+2024-03-29 16:37:38.853    app     info:    [server-manager] Downloaded 1.23 GiB/4.32 GiB at 9.73 MiB/s
+2024-03-29 16:37:39.770    app     info:    [scheduler] Starting scheduler foreground
+2024-03-29 16:37:39.864    app     info:    [server-manager] Downloaded 1.24 GiB/4.32 GiB at 9.75 MiB/s
+2024-03-29 16:37:40.869    app     info:    [server-manager] Downloaded 1.25 GiB/4.32 GiB at 5.26 MiB/s
+2024-03-29 16:37:41.881    app     info:    [server-manager] Downloaded 1.25 GiB/4.32 GiB at 9.92 MiB/s
+2024-03-29 16:37:42.887    app     info:    [server-manager] Downloaded 1.26 GiB/4.32 GiB at 14.10 MiB/s
+2024-03-29 16:37:43.891    app     info:    [server-manager] Downloaded 1.27 GiB/4.32 GiB at 4.84 MiB/s
+2024-03-29 16:37:44.896    app     info:    [server-manager] Downloaded 1.28 GiB/4.32 GiB at 14.29 MiB/s
+2024-03-29 16:37:45.900    app     info:    [server-manager] Downloaded 1.29 GiB/4.32 GiB at 9.39 MiB/s
+2024-03-29 16:37:46.261    app     warn:    [ipc-requests] Shared cache is already in use by eve-online on tranquility (updating)
+2024-03-29 16:37:46.261    app     warn:    [ipc-requests] Server manager cannot start for tranquility because required resources are not available
+2024-03-29 16:37:46.904    app     info:    [server-manager] Downloaded 1.30 GiB/4.32 GiB at 14.63 MiB/s
+2024-03-29 16:37:47.909    app     info:    [server-manager] Downloaded 1.31 GiB/4.32 GiB at 9.58 MiB/s
+2024-03-29 16:37:48.914    app     info:    [server-manager] Downloaded 1.32 GiB/4.32 GiB at 9.81 MiB/s
+2024-03-29 16:37:49.917    app     info:    [server-manager] Downloaded 1.33 GiB/4.32 GiB at 14.52 MiB/s
+2024-03-29 16:37:50.922    app     info:    [server-manager] Downloaded 1.34 GiB/4.32 GiB at 9.75 MiB/s
+2024-03-29 16:37:51.811    app     info:    [self-update] Checking for application updates.
+2024-03-29 16:37:51.925    app     info:    [server-manager] Downloaded 1.35 GiB/4.32 GiB at 9.61 MiB/s
+2024-03-29 16:37:52.228    app     info:    [self-update] No application updates were found.
+2024-03-29 16:37:52.929    app     info:    [server-manager] Downloaded 1.36 GiB/4.32 GiB at 9.33 MiB/s
+2024-03-29 16:37:53.933    app     info:    [server-manager] Downloaded 1.37 GiB/4.32 GiB at 9.69 MiB/s
+2024-03-29 16:37:54.939    app     info:    [server-manager] Downloaded 1.38 GiB/4.32 GiB at 9.69 MiB/s
+2024-03-29 16:37:55.944    app     info:    [server-manager] Downloaded 1.39 GiB/4.32 GiB at 9.95 MiB/s
+2024-03-29 16:37:56.948    app     info:    [server-manager] Downloaded 1.40 GiB/4.32 GiB at 14.37 MiB/s
+2024-03-29 16:37:57.948    app     info:    [server-manager] Downloaded 1.41 GiB/4.32 GiB at 9.53 MiB/s
+2024-03-29 16:37:58.964    app     info:    [server-manager] Downloaded 1.41 GiB/4.32 GiB at 9.78 MiB/s
+2024-03-29 16:37:59.969    app     info:    [server-manager] Downloaded 1.42 GiB/4.32 GiB at 14.48 MiB/s
+2024-03-29 16:38:00.973    app     info:    [server-manager] Downloaded 1.43 GiB/4.32 GiB at 9.81 MiB/s
+2024-03-29 16:38:01.980    app     info:    [server-manager] Downloaded 1.44 GiB/4.32 GiB at 9.45 MiB/s
+2024-03-29 16:38:02.984    app     info:    [server-manager] Downloaded 1.45 GiB/4.32 GiB at 9.59 MiB/s
+2024-03-29 16:38:03.989    app     info:    [server-manager] Downloaded 1.46 GiB/4.32 GiB at 9.41 MiB/s
+2024-03-29 16:38:04.993    app     info:    [server-manager] Downloaded 1.47 GiB/4.32 GiB at 14.28 MiB/s
+2024-03-29 16:38:05.993    app     info:    [server-manager] Downloaded 1.48 GiB/4.32 GiB at 5.03 MiB/s
+2024-03-29 16:38:06.997    app     info:    [server-manager] Downloaded 1.49 GiB/4.32 GiB at 8.94 MiB/s
+2024-03-29 16:38:08.001    app     info:    [server-manager] Downloaded 1.50 GiB/4.32 GiB at 9.03 MiB/s
+2024-03-29 16:38:09.006    app     info:    [server-manager] Downloaded 1.51 GiB/4.32 GiB at 9.38 MiB/s
+2024-03-29 16:38:10.011    app     info:    [server-manager] Downloaded 1.52 GiB/4.32 GiB at 9.50 MiB/s
+2024-03-29 16:38:11.015    app     info:    [server-manager] Downloaded 1.53 GiB/4.32 GiB at 14.02 MiB/s
+2024-03-29 16:38:12.015    app     info:    [server-manager] Downloaded 1.53 GiB/4.32 GiB at 9.53 MiB/s
+2024-03-29 16:38:13.021    app     info:    [server-manager] Downloaded 1.54 GiB/4.32 GiB at 14.85 MiB/s
+2024-03-29 16:38:14.024    app     info:    [server-manager] Downloaded 1.55 GiB/4.32 GiB at 9.62 MiB/s
+2024-03-29 16:38:15.029    app     info:    [server-manager] Downloaded 1.56 GiB/4.32 GiB at 14.47 MiB/s
+2024-03-29 16:38:16.032    app     info:    [server-manager] Downloaded 1.57 GiB/4.32 GiB at 9.52 MiB/s
+2024-03-29 16:38:17.039    app     info:    [server-manager] Downloaded 1.58 GiB/4.32 GiB at 13.93 MiB/s
+2024-03-29 16:38:18.046    app     info:    [server-manager] Downloaded 1.59 GiB/4.32 GiB at 14.27 MiB/s
+2024-03-29 16:38:19.046    app     info:    [server-manager] Downloaded 1.60 GiB/4.32 GiB at 14.02 MiB/s
+2024-03-29 16:38:20.051    app     info:    [server-manager] Downloaded 1.61 GiB/4.32 GiB at 9.54 MiB/s
+2024-03-29 16:38:21.055    app     info:    [server-manager] Downloaded 1.62 GiB/4.32 GiB at 9.48 MiB/s
+2024-03-29 16:38:22.060    app     info:    [server-manager] Downloaded 1.63 GiB/4.32 GiB at 9.95 MiB/s
+2024-03-29 16:38:23.064    app     info:    [server-manager] Downloaded 1.64 GiB/4.32 GiB at 14.77 MiB/s
+2024-03-29 16:38:24.068    app     info:    [server-manager] Downloaded 1.65 GiB/4.32 GiB at 9.68 MiB/s
+2024-03-29 16:38:25.073    app     info:    [server-manager] Downloaded 1.66 GiB/4.32 GiB at 9.69 MiB/s
+2024-03-29 16:38:26.077    app     info:    [server-manager] Downloaded 1.67 GiB/4.32 GiB at 10.06 MiB/s
+2024-03-29 16:38:27.081    app     info:    [server-manager] Downloaded 1.68 GiB/4.32 GiB at 9.97 MiB/s
+2024-03-29 16:38:28.085    app     info:    [server-manager] Downloaded 1.69 GiB/4.32 GiB at 10.10 MiB/s
+2024-03-29 16:38:29.089    app     info:    [server-manager] Downloaded 1.70 GiB/4.32 GiB at 14.91 MiB/s
+2024-03-29 16:38:30.089    app     info:    [server-manager] Downloaded 1.71 GiB/4.32 GiB at 9.70 MiB/s
+2024-03-29 16:38:31.091    app     info:    [server-manager] Downloaded 1.71 GiB/4.32 GiB at 9.71 MiB/s
+2024-03-29 16:38:32.096    app     info:    [server-manager] Downloaded 1.72 GiB/4.32 GiB at 9.92 MiB/s
+2024-03-29 16:38:32.277    app     info:    [scheduler] Stopped scheduler foreground
+2024-03-29 16:38:32.278    app     info:    [ipc-requests] Handling requests in the background
+2024-03-29 16:38:33.101    app     info:    [server-manager] Downloaded 1.73 GiB/4.32 GiB at 9.84 MiB/s
+2024-03-29 16:38:33.279    app     info:    [ipc-requests] No longer handling requests in the background
+2024-03-29 16:38:34.108    app     info:    [server-manager] Downloaded 1.74 GiB/4.32 GiB at 9.33 MiB/s
+2024-03-29 16:38:35.116    app     info:    [server-manager] Downloaded 1.75 GiB/4.32 GiB at 4.98 MiB/s
+2024-03-29 16:38:36.121    app     info:    [server-manager] Downloaded 1.76 GiB/4.32 GiB at 5.17 MiB/s
+2024-03-29 16:38:37.126    app     info:    [server-manager] Downloaded 1.77 GiB/4.32 GiB at 14.73 MiB/s
+2024-03-29 16:38:38.130    app     info:    [server-manager] Downloaded 1.78 GiB/4.32 GiB at 9.83 MiB/s
+2024-03-29 16:38:39.134    app     info:    [server-manager] Downloaded 1.79 GiB/4.32 GiB at 9.77 MiB/s
+2024-03-29 16:38:40.142    app     info:    [server-manager] Downloaded 1.80 GiB/4.32 GiB at 9.81 MiB/s
+2024-03-29 16:38:41.147    app     info:    [server-manager] Downloaded 1.81 GiB/4.32 GiB at 9.81 MiB/s
+2024-03-29 16:38:42.151    app     info:    [server-manager] Downloaded 1.82 GiB/4.32 GiB at 14.64 MiB/s
+2024-03-29 16:38:43.152    app     info:    [server-manager] Downloaded 1.83 GiB/4.32 GiB at 9.57 MiB/s
+2024-03-29 16:38:44.152    app     info:    [server-manager] Downloaded 1.84 GiB/4.32 GiB at 14.74 MiB/s
+2024-03-29 16:38:45.168    app     info:    [server-manager] Downloaded 1.85 GiB/4.32 GiB at 5.26 MiB/s
+2024-03-29 16:38:46.181    app     info:    [server-manager] Downloaded 1.86 GiB/4.32 GiB at 9.86 MiB/s
+2024-03-29 16:38:47.186    app     info:    [server-manager] Downloaded 1.87 GiB/4.32 GiB at 10.11 MiB/s
+2024-03-29 16:38:47.248    app     info:    [scheduler] Starting scheduler foreground
+2024-03-29 16:38:48.191    app     info:    [server-manager] Downloaded 1.88 GiB/4.32 GiB at 9.61 MiB/s
+2024-03-29 16:38:48.370    app     info:    [scheduler] Stopped scheduler foreground
+2024-03-29 16:38:48.370    app     info:    [ipc-requests] Handling requests in the background
+2024-03-29 16:38:49.197    app     info:    [server-manager] Downloaded 1.89 GiB/4.32 GiB at 9.88 MiB/s
+2024-03-29 16:38:49.371    app     info:    [ipc-requests] No longer handling requests in the background
+2024-03-29 16:38:50.201    app     info:    [server-manager] Downloaded 1.90 GiB/4.32 GiB at 5.11 MiB/s
+2024-03-29 16:38:51.206    app     info:    [server-manager] Downloaded 1.91 GiB/4.32 GiB at 9.92 MiB/s
+2024-03-29 16:38:52.211    app     info:    [server-manager] Downloaded 1.92 GiB/4.32 GiB at 9.92 MiB/s
+2024-03-29 16:38:53.217    app     info:    [server-manager] Downloaded 1.93 GiB/4.32 GiB at 10.03 MiB/s
+2024-03-29 16:38:54.221    app     info:    [server-manager] Downloaded 1.94 GiB/4.32 GiB at 9.56 MiB/s
+2024-03-29 16:38:55.225    app     info:    [server-manager] Downloaded 1.94 GiB/4.32 GiB at 9.84 MiB/s
+2024-03-29 16:38:56.230    app     info:    [server-manager] Downloaded 1.95 GiB/4.32 GiB at 13.88 MiB/s
+2024-03-29 16:38:57.248    app     info:    [server-manager] Downloaded 1.96 GiB/4.32 GiB at 5.07 MiB/s
+2024-03-29 16:38:58.253    app     info:    [server-manager] Downloaded 1.97 GiB/4.32 GiB at 9.81 MiB/s
+2024-03-29 16:38:59.258    app     info:    [server-manager] Downloaded 1.98 GiB/4.32 GiB at 9.61 MiB/s
+2024-03-29 16:39:00.272    app     info:    [server-manager] Downloaded 1.99 GiB/4.32 GiB at 9.39 MiB/s
+2024-03-29 16:39:01.276    app     info:    [server-manager] Downloaded 2.00 GiB/4.32 GiB at 9.94 MiB/s
+2024-03-29 16:39:02.282    app     info:    [server-manager] Downloaded 2.01 GiB/4.32 GiB at 5.27 MiB/s
+2024-03-29 16:39:03.286    app     info:    [server-manager] Downloaded 2.02 GiB/4.32 GiB at 10.03 MiB/s
+2024-03-29 16:39:04.291    app     info:    [server-manager] Downloaded 2.03 GiB/4.32 GiB at 9.81 MiB/s
+2024-03-29 16:39:05.292    app     info:    [server-manager] Downloaded 2.04 GiB/4.32 GiB at 4.75 MiB/s
+2024-03-29 16:39:06.298    app     info:    [server-manager] Downloaded 2.05 GiB/4.32 GiB at 14.66 MiB/s
+2024-03-29 16:39:07.302    app     info:    [server-manager] Downloaded 2.06 GiB/4.32 GiB at 9.85 MiB/s
+2024-03-29 16:39:08.307    app     info:    [server-manager] Downloaded 2.07 GiB/4.32 GiB at 10.03 MiB/s
+2024-03-29 16:39:09.313    app     info:    [server-manager] Downloaded 2.08 GiB/4.32 GiB at 9.61 MiB/s
+2024-03-29 16:39:10.318    app     info:    [server-manager] Downloaded 2.09 GiB/4.32 GiB at 9.63 MiB/s
+2024-03-29 16:39:11.324    app     info:    [server-manager] Downloaded 2.10 GiB/4.32 GiB at 14.81 MiB/s
+2024-03-29 16:39:12.342    app     info:    [server-manager] Downloaded 2.11 GiB/4.32 GiB at 9.86 MiB/s
+2024-03-29 16:39:13.347    app     info:    [server-manager] Downloaded 2.12 GiB/4.32 GiB at 9.89 MiB/s
+2024-03-29 16:39:14.352    app     info:    [server-manager] Downloaded 2.13 GiB/4.32 GiB at 9.94 MiB/s
+2024-03-29 16:39:15.356    app     info:    [server-manager] Downloaded 2.14 GiB/4.32 GiB at 9.73 MiB/s
+2024-03-29 16:39:16.360    app     info:    [server-manager] Downloaded 2.15 GiB/4.32 GiB at 9.92 MiB/s
+2024-03-29 16:39:17.364    app     info:    [server-manager] Downloaded 2.15 GiB/4.32 GiB at 9.50 MiB/s
+2024-03-29 16:39:18.368    app     info:    [server-manager] Downloaded 2.16 GiB/4.32 GiB at 4.87 MiB/s
+2024-03-29 16:39:19.378    app     info:    [server-manager] Downloaded 2.17 GiB/4.32 GiB at 9.28 MiB/s
+2024-03-29 16:39:20.383    app     info:    [server-manager] Downloaded 2.18 GiB/4.32 GiB at 4.83 MiB/s
+2024-03-29 16:39:21.392    app     info:    [server-manager] Downloaded 2.19 GiB/4.32 GiB at 9.53 MiB/s
+2024-03-29 16:39:22.397    app     info:    [server-manager] Downloaded 2.20 GiB/4.32 GiB at 14.28 MiB/s
+2024-03-29 16:39:23.402    app     info:    [server-manager] Downloaded 2.21 GiB/4.32 GiB at 9.93 MiB/s
+2024-03-29 16:39:24.406    app     info:    [server-manager] Downloaded 2.22 GiB/4.32 GiB at 10.30 MiB/s
+2024-03-29 16:39:25.411    app     info:    [server-manager] Downloaded 2.23 GiB/4.32 GiB at 9.75 MiB/s
+2024-03-29 16:39:26.232    app     info:    [scheduler] Starting scheduler foreground
+2024-03-29 16:39:26.415    app     info:    [server-manager] Downloaded 2.24 GiB/4.32 GiB at 14.32 MiB/s
+2024-03-29 16:39:27.420    app     info:    [server-manager] Downloaded 2.25 GiB/4.32 GiB at 4.88 MiB/s
+2024-03-29 16:39:28.425    app     info:    [server-manager] Downloaded 2.26 GiB/4.32 GiB at 4.53 MiB/s
+2024-03-29 16:39:29.429    app     info:    [server-manager] Downloaded 2.27 GiB/4.32 GiB at 13.58 MiB/s
+2024-03-29 16:39:30.434    app     info:    [server-manager] Downloaded 2.28 GiB/4.32 GiB at 4.86 MiB/s
+2024-03-29 16:39:31.439    app     info:    [server-manager] Downloaded 2.29 GiB/4.32 GiB at 9.81 MiB/s
+2024-03-29 16:39:32.444    app     info:    [server-manager] Downloaded 2.30 GiB/4.32 GiB at 14.84 MiB/s
+2024-03-29 16:39:33.456    app     info:    [server-manager] Downloaded 2.31 GiB/4.32 GiB at 9.88 MiB/s
+2024-03-29 16:39:34.233    app     info:    [scheduler] Stopped scheduler foreground
+2024-03-29 16:39:34.234    app     info:    [ipc-requests] Handling requests in the background
+2024-03-29 16:39:34.470    app     info:    [server-manager] Downloaded 2.31 GiB/4.32 GiB at 10.16 MiB/s
+2024-03-29 16:39:35.234    app     info:    [ipc-requests] No longer handling requests in the background
+2024-03-29 16:39:35.475    app     info:    [server-manager] Downloaded 2.32 GiB/4.32 GiB at 10.27 MiB/s
+2024-03-29 16:39:36.479    app     info:    [server-manager] Downloaded 2.33 GiB/4.32 GiB at 9.97 MiB/s
+2024-03-29 16:39:37.484    app     info:    [server-manager] Downloaded 2.34 GiB/4.32 GiB at 14.87 MiB/s
+2024-03-29 16:39:38.490    app     info:    [server-manager] Downloaded 2.35 GiB/4.32 GiB at 14.47 MiB/s
+2024-03-29 16:39:39.496    app     info:    [server-manager] Downloaded 2.36 GiB/4.32 GiB at 9.87 MiB/s
+2024-03-29 16:39:40.502    app     info:    [server-manager] Downloaded 2.37 GiB/4.32 GiB at 14.70 MiB/s
+2024-03-29 16:39:41.507    app     info:    [server-manager] Downloaded 2.38 GiB/4.32 GiB at 5.22 MiB/s
+2024-03-29 16:39:42.512    app     info:    [server-manager] Downloaded 2.39 GiB/4.32 GiB at 9.69 MiB/s
+2024-03-29 16:39:43.522    app     info:    [server-manager] Downloaded 2.40 GiB/4.32 GiB at 9.78 MiB/s
+2024-03-29 16:39:44.530    app     info:    [server-manager] Downloaded 2.41 GiB/4.32 GiB at 9.84 MiB/s
+2024-03-29 16:39:45.535    app     info:    [server-manager] Downloaded 2.42 GiB/4.32 GiB at 10.03 MiB/s
+2024-03-29 16:39:45.887    app     info:    [scheduler] Starting scheduler foreground
+2024-03-29 16:39:46.548    app     info:    [server-manager] Downloaded 2.43 GiB/4.32 GiB at 9.67 MiB/s
+2024-03-29 16:39:46.820    app     info:    [scheduler] Stopped scheduler foreground
+2024-03-29 16:39:46.820    app     info:    [ipc-requests] Handling requests in the background
+2024-03-29 16:39:47.559    app     info:    [server-manager] Downloaded 2.44 GiB/4.32 GiB at 10.01 MiB/s
+2024-03-29 16:39:47.821    app     info:    [ipc-requests] No longer handling requests in the background
+2024-03-29 16:39:48.574    app     info:    [server-manager] Downloaded 2.45 GiB/4.32 GiB at 14.58 MiB/s
+2024-03-29 16:39:48.793    app     info:    [scheduler] Starting scheduler foreground
+2024-03-29 16:39:49.578    app     info:    [server-manager] Downloaded 2.46 GiB/4.32 GiB at 10.11 MiB/s
+2024-03-29 16:39:50.152    app     info:    [scheduler] Stopped scheduler foreground
+2024-03-29 16:39:50.152    app     info:    [ipc-requests] Handling requests in the background
+2024-03-29 16:39:50.593    app     info:    [server-manager] Downloaded 2.47 GiB/4.32 GiB at 9.61 MiB/s
+2024-03-29 16:39:51.152    app     info:    [ipc-requests] No longer handling requests in the background
+2024-03-29 16:39:51.602    app     info:    [server-manager] Downloaded 2.48 GiB/4.32 GiB at 10.20 MiB/s
+2024-03-29 16:39:52.606    app     info:    [server-manager] Downloaded 2.49 GiB/4.32 GiB at 9.87 MiB/s
+2024-03-29 16:39:53.611    app     info:    [server-manager] Downloaded 2.50 GiB/4.32 GiB at 9.78 MiB/s
+2024-03-29 16:39:54.616    app     info:    [server-manager] Downloaded 2.51 GiB/4.32 GiB at 9.52 MiB/s
+2024-03-29 16:39:55.620    app     info:    [server-manager] Downloaded 2.52 GiB/4.32 GiB at 9.47 MiB/s
+2024-03-29 16:39:56.626    app     info:    [server-manager] Downloaded 2.53 GiB/4.32 GiB at 9.47 MiB/s
+2024-03-29 16:39:57.633    app     info:    [server-manager] Downloaded 2.54 GiB/4.32 GiB at 9.92 MiB/s
+2024-03-29 16:39:58.650    app     info:    [server-manager] Downloaded 2.54 GiB/4.32 GiB at 9.44 MiB/s
+2024-03-29 16:39:59.655    app     info:    [server-manager] Downloaded 2.55 GiB/4.32 GiB at 9.49 MiB/s
+2024-03-29 16:40:00.675    app     info:    [server-manager] Downloaded 2.56 GiB/4.32 GiB at 10.03 MiB/s
+2024-03-29 16:40:01.689    app     info:    [server-manager] Downloaded 2.57 GiB/4.32 GiB at 9.98 MiB/s
+2024-03-29 16:40:02.694    app     info:    [server-manager] Downloaded 2.58 GiB/4.32 GiB at 10.25 MiB/s
+2024-03-29 16:40:03.699    app     info:    [server-manager] Downloaded 2.59 GiB/4.32 GiB at 10.07 MiB/s
+2024-03-29 16:40:04.708    app     info:    [server-manager] Downloaded 2.60 GiB/4.32 GiB at 5.28 MiB/s
+2024-03-29 16:40:05.712    app     info:    [server-manager] Downloaded 2.61 GiB/4.32 GiB at 10.09 MiB/s
+2024-03-29 16:40:06.727    app     info:    [server-manager] Downloaded 2.62 GiB/4.32 GiB at 9.73 MiB/s
+2024-03-29 16:40:07.731    app     info:    [server-manager] Downloaded 2.63 GiB/4.32 GiB at 5.22 MiB/s
+2024-03-29 16:40:08.745    app     info:    [server-manager] Downloaded 2.64 GiB/4.32 GiB at 14.66 MiB/s
+2024-03-29 16:40:09.750    app     info:    [server-manager] Downloaded 2.65 GiB/4.32 GiB at 15.12 MiB/s
+2024-03-29 16:40:10.772    app     info:    [server-manager] Downloaded 2.66 GiB/4.32 GiB at 9.92 MiB/s
+2024-03-29 16:40:11.780    app     info:    [server-manager] Downloaded 2.67 GiB/4.32 GiB at 5.05 MiB/s
+2024-03-29 16:40:12.785    app     info:    [server-manager] Downloaded 2.68 GiB/4.32 GiB at 4.98 MiB/s
+2024-03-29 16:40:13.798    app     info:    [server-manager] Downloaded 2.69 GiB/4.32 GiB at 9.64 MiB/s
+2024-03-29 16:40:14.803    app     info:    [server-manager] Downloaded 2.70 GiB/4.32 GiB at 9.81 MiB/s
+2024-03-29 16:40:15.811    app     info:    [server-manager] Downloaded 2.71 GiB/4.32 GiB at 9.17 MiB/s
+2024-03-29 16:40:16.816    app     info:    [server-manager] Downloaded 2.72 GiB/4.32 GiB at 4.96 MiB/s
+2024-03-29 16:40:17.827    app     info:    [server-manager] Downloaded 2.73 GiB/4.32 GiB at 9.98 MiB/s
+2024-03-29 16:40:18.832    app     info:    [server-manager] Downloaded 2.74 GiB/4.32 GiB at 15.17 MiB/s
+2024-03-29 16:40:19.836    app     info:    [server-manager] Downloaded 2.75 GiB/4.32 GiB at 9.67 MiB/s
+2024-03-29 16:40:20.841    app     info:    [server-manager] Downloaded 2.75 GiB/4.32 GiB at 9.86 MiB/s
+2024-03-29 16:40:21.841    app     info:    [server-manager] Downloaded 2.76 GiB/4.32 GiB at 9.90 MiB/s
+2024-03-29 16:40:22.848    app     info:    [server-manager] Downloaded 2.77 GiB/4.32 GiB at 14.62 MiB/s
+2024-03-29 16:40:23.856    app     info:    [server-manager] Downloaded 2.78 GiB/4.32 GiB at 9.84 MiB/s
+2024-03-29 16:40:24.862    app     info:    [server-manager] Downloaded 2.79 GiB/4.32 GiB at 5.31 MiB/s
+2024-03-29 16:40:25.867    app     info:    [server-manager] Downloaded 2.80 GiB/4.32 GiB at 9.58 MiB/s
+2024-03-29 16:40:26.871    app     info:    [server-manager] Downloaded 2.81 GiB/4.32 GiB at 9.53 MiB/s
+2024-03-29 16:40:27.876    app     info:    [server-manager] Downloaded 2.82 GiB/4.32 GiB at 9.84 MiB/s
+2024-03-29 16:40:28.881    app     info:    [server-manager] Downloaded 2.83 GiB/4.32 GiB at 9.83 MiB/s
+2024-03-29 16:40:29.882    app     info:    [server-manager] Downloaded 2.84 GiB/4.32 GiB at 9.78 MiB/s
+2024-03-29 16:40:30.893    app     info:    [server-manager] Downloaded 2.85 GiB/4.32 GiB at 10.03 MiB/s
+2024-03-29 16:40:31.909    app     info:    [server-manager] Downloaded 2.86 GiB/4.32 GiB at 9.96 MiB/s
+2024-03-29 16:40:32.914    app     info:    [server-manager] Downloaded 2.87 GiB/4.32 GiB at 14.97 MiB/s
+2024-03-29 16:40:33.919    app     info:    [server-manager] Downloaded 2.88 GiB/4.32 GiB at 10.03 MiB/s
+2024-03-29 16:40:34.935    app     info:    [server-manager] Downloaded 2.89 GiB/4.32 GiB at 14.69 MiB/s
+2024-03-29 16:40:35.925    app     info:    [server-manager] Downloaded 2.90 GiB/4.32 GiB at 4.97 MiB/s
+2024-03-29 16:40:36.925    app     info:    [server-manager] Downloaded 2.91 GiB/4.32 GiB at 9.61 MiB/s
+2024-03-29 16:40:37.929    app     info:    [server-manager] Downloaded 2.92 GiB/4.32 GiB at 10.07 MiB/s
+2024-03-29 16:40:38.933    app     info:    [server-manager] Downloaded 2.93 GiB/4.32 GiB at 9.62 MiB/s
+2024-03-29 16:40:39.939    app     info:    [server-manager] Downloaded 2.94 GiB/4.32 GiB at 9.79 MiB/s
+2024-03-29 16:40:40.943    app     info:    [server-manager] Downloaded 2.95 GiB/4.32 GiB at 9.90 MiB/s
+2024-03-29 16:40:41.947    app     info:    [server-manager] Downloaded 2.96 GiB/4.32 GiB at 9.54 MiB/s
+2024-03-29 16:40:42.952    app     info:    [server-manager] Downloaded 2.97 GiB/4.32 GiB at 9.84 MiB/s
+2024-03-29 16:40:43.960    app     info:    [server-manager] Downloaded 2.98 GiB/4.32 GiB at 9.67 MiB/s
+2024-03-29 16:40:44.964    app     info:    [server-manager] Downloaded 2.98 GiB/4.32 GiB at 9.95 MiB/s
+2024-03-29 16:40:45.968    app     info:    [server-manager] Downloaded 2.99 GiB/4.32 GiB at 14.23 MiB/s
+2024-03-29 16:40:46.972    app     info:    [server-manager] Downloaded 3.00 GiB/4.32 GiB at 9.42 MiB/s
+2024-03-29 16:40:47.991    app     info:    [server-manager] Downloaded 3.01 GiB/4.32 GiB at 9.28 MiB/s
+2024-03-29 16:40:48.988    app     info:    [server-manager] Downloaded 3.02 GiB/4.32 GiB at 5.00 MiB/s
+2024-03-29 16:40:50.001    app     info:    [server-manager] Downloaded 3.03 GiB/4.32 GiB at 14.67 MiB/s
+2024-03-29 16:40:50.993    app     info:    [server-manager] Downloaded 3.04 GiB/4.32 GiB at 4.95 MiB/s
+2024-03-29 16:40:51.998    app     info:    [server-manager] Downloaded 3.05 GiB/4.32 GiB at 14.81 MiB/s
+2024-03-29 16:40:53.003    app     info:    [server-manager] Downloaded 3.06 GiB/4.32 GiB at 9.87 MiB/s
+2024-03-29 16:40:54.008    app     info:    [server-manager] Downloaded 3.07 GiB/4.32 GiB at 9.81 MiB/s
+2024-03-29 16:40:55.022    app     info:    [server-manager] Downloaded 3.08 GiB/4.32 GiB at 5.20 MiB/s
+2024-03-29 16:40:56.026    app     info:    [server-manager] Downloaded 3.09 GiB/4.32 GiB at 15.11 MiB/s
+2024-03-29 16:40:57.026    app     info:    [server-manager] Downloaded 3.10 GiB/4.32 GiB at 10.00 MiB/s
+2024-03-29 16:40:58.032    app     info:    [server-manager] Downloaded 3.11 GiB/4.32 GiB at 4.78 MiB/s
+2024-03-29 16:40:59.043    app     info:    [server-manager] Downloaded 3.12 GiB/4.32 GiB at 14.83 MiB/s
+2024-03-29 16:41:00.050    app     info:    [server-manager] Downloaded 3.13 GiB/4.32 GiB at 10.09 MiB/s
+2024-03-29 16:41:01.057    app     info:    [server-manager] Downloaded 3.14 GiB/4.32 GiB at 14.87 MiB/s
+2024-03-29 16:41:02.062    app     info:    [server-manager] Downloaded 3.15 GiB/4.32 GiB at 14.63 MiB/s
+2024-03-29 16:41:03.069    app     info:    [server-manager] Downloaded 3.16 GiB/4.32 GiB at 14.77 MiB/s
+2024-03-29 16:41:04.084    app     info:    [server-manager] Downloaded 3.17 GiB/4.32 GiB at 9.91 MiB/s
+2024-03-29 16:41:05.089    app     info:    [server-manager] Downloaded 3.18 GiB/4.32 GiB at 10.21 MiB/s
+2024-03-29 16:41:06.094    app     info:    [server-manager] Downloaded 3.19 GiB/4.32 GiB at 14.72 MiB/s
+2024-03-29 16:41:07.098    app     info:    [server-manager] Downloaded 3.20 GiB/4.32 GiB at 9.69 MiB/s
+2024-03-29 16:41:08.104    app     info:    [server-manager] Downloaded 3.20 GiB/4.32 GiB at 14.92 MiB/s
+2024-03-29 16:41:09.108    app     info:    [server-manager] Downloaded 3.21 GiB/4.32 GiB at 10.16 MiB/s
+2024-03-29 16:41:10.121    app     info:    [server-manager] Downloaded 3.22 GiB/4.32 GiB at 14.17 MiB/s
+2024-03-29 16:41:11.129    app     info:    [server-manager] Downloaded 3.23 GiB/4.32 GiB at 4.90 MiB/s
+2024-03-29 16:41:12.137    app     info:    [server-manager] Downloaded 3.24 GiB/4.32 GiB at 10.19 MiB/s
+2024-03-29 16:41:13.134    app     info:    [server-manager] Downloaded 3.25 GiB/4.32 GiB at 5.20 MiB/s
+2024-03-29 16:41:14.138    app     info:    [server-manager] Downloaded 3.26 GiB/4.32 GiB at 9.23 MiB/s
+2024-03-29 16:41:15.143    app     info:    [server-manager] Downloaded 3.27 GiB/4.32 GiB at 9.73 MiB/s
+2024-03-29 16:41:16.149    app     info:    [server-manager] Downloaded 3.28 GiB/4.32 GiB at 9.63 MiB/s
+2024-03-29 16:41:17.147    app     info:    [server-manager] Downloaded 3.29 GiB/4.32 GiB at 4.34 MiB/s
+2024-03-29 16:41:18.151    app     info:    [server-manager] Downloaded 3.30 GiB/4.32 GiB at 9.56 MiB/s
+2024-03-29 16:41:19.157    app     info:    [server-manager] Downloaded 3.31 GiB/4.32 GiB at 9.49 MiB/s
+2024-03-29 16:41:20.160    app     info:    [server-manager] Downloaded 3.32 GiB/4.32 GiB at 9.53 MiB/s
+2024-03-29 16:41:21.165    app     info:    [server-manager] Downloaded 3.33 GiB/4.32 GiB at 14.09 MiB/s
+2024-03-29 16:41:22.170    app     info:    [server-manager] Downloaded 3.34 GiB/4.32 GiB at 9.43 MiB/s
+2024-03-29 16:41:23.175    app     info:    [server-manager] Downloaded 3.34 GiB/4.32 GiB at 9.35 MiB/s
+2024-03-29 16:41:24.187    app     info:    [server-manager] Downloaded 3.35 GiB/4.32 GiB at 9.51 MiB/s
+2024-03-29 16:41:25.198    app     info:    [server-manager] Downloaded 3.36 GiB/4.32 GiB at 8.97 MiB/s
+2024-03-29 16:41:26.204    app     info:    [server-manager] Downloaded 3.37 GiB/4.32 GiB at 9.63 MiB/s
+2024-03-29 16:41:27.208    app     info:    [server-manager] Downloaded 3.38 GiB/4.32 GiB at 9.45 MiB/s
+2024-03-29 16:41:28.221    app     info:    [server-manager] Downloaded 3.39 GiB/4.32 GiB at 9.44 MiB/s
+2024-03-29 16:41:29.226    app     info:    [server-manager] Downloaded 3.40 GiB/4.32 GiB at 10.03 MiB/s
+2024-03-29 16:41:30.235    app     info:    [server-manager] Downloaded 3.41 GiB/4.32 GiB at 9.37 MiB/s
+2024-03-29 16:41:31.241    app     info:    [server-manager] Downloaded 3.42 GiB/4.32 GiB at 9.70 MiB/s
+2024-03-29 16:41:32.245    app     info:    [server-manager] Downloaded 3.43 GiB/4.32 GiB at 9.35 MiB/s
+2024-03-29 16:41:33.250    app     info:    [server-manager] Downloaded 3.44 GiB/4.32 GiB at 14.83 MiB/s
+2024-03-29 16:41:34.255    app     info:    [server-manager] Downloaded 3.45 GiB/4.32 GiB at 9.78 MiB/s
+2024-03-29 16:41:35.259    app     info:    [server-manager] Downloaded 3.46 GiB/4.32 GiB at 14.89 MiB/s
+2024-03-29 16:41:36.259    app     info:    [server-manager] Downloaded 3.47 GiB/4.32 GiB at 9.81 MiB/s
+2024-03-29 16:41:37.263    app     info:    [server-manager] Downloaded 3.48 GiB/4.32 GiB at 9.61 MiB/s
+2024-03-29 16:41:38.279    app     info:    [server-manager] Downloaded 3.49 GiB/4.32 GiB at 9.91 MiB/s
+2024-03-29 16:41:38.418    app     info:    [scheduler] Starting scheduler foreground
+2024-03-29 16:41:39.285    app     info:    [server-manager] Downloaded 3.50 GiB/4.32 GiB at 10.18 MiB/s
+2024-03-29 16:41:39.802    app     info:    [scheduler] Stopped scheduler foreground
+2024-03-29 16:41:39.802    app     info:    [ipc-requests] Handling requests in the background
+2024-03-29 16:41:40.310    app     info:    [server-manager] Downloaded 3.51 GiB/4.32 GiB at 9.86 MiB/s
+2024-03-29 16:41:40.802    app     info:    [ipc-requests] No longer handling requests in the background
+2024-03-29 16:41:41.315    app     info:    [server-manager] Downloaded 3.52 GiB/4.32 GiB at 9.58 MiB/s
+2024-03-29 16:41:42.320    app     info:    [server-manager] Downloaded 3.52 GiB/4.32 GiB at 5.02 MiB/s
+2024-03-29 16:41:43.328    app     info:    [server-manager] Downloaded 3.53 GiB/4.32 GiB at 10.09 MiB/s
+2024-03-29 16:41:44.333    app     info:    [server-manager] Downloaded 3.54 GiB/4.32 GiB at 9.92 MiB/s
+2024-03-29 16:41:45.345    app     info:    [server-manager] Downloaded 3.55 GiB/4.32 GiB at 9.89 MiB/s
+2024-03-29 16:41:46.350    app     info:    [server-manager] Downloaded 3.56 GiB/4.32 GiB at 9.90 MiB/s
+2024-03-29 16:41:47.354    app     info:    [server-manager] Downloaded 3.57 GiB/4.32 GiB at 9.69 MiB/s
+2024-03-29 16:41:48.369    app     info:    [server-manager] Downloaded 3.58 GiB/4.32 GiB at 14.91 MiB/s
+2024-03-29 16:41:49.373    app     info:    [server-manager] Downloaded 3.59 GiB/4.32 GiB at 9.62 MiB/s
+2024-03-29 16:41:50.378    app     info:    [server-manager] Downloaded 3.60 GiB/4.32 GiB at 14.41 MiB/s
+2024-03-29 16:41:51.383    app     info:    [server-manager] Downloaded 3.61 GiB/4.32 GiB at 10.03 MiB/s
+2024-03-29 16:41:52.387    app     info:    [server-manager] Downloaded 3.62 GiB/4.32 GiB at 14.70 MiB/s
+2024-03-29 16:41:53.404    app     info:    [server-manager] Downloaded 3.63 GiB/4.32 GiB at 14.63 MiB/s
+2024-03-29 16:41:54.404    app     info:    [server-manager] Downloaded 3.64 GiB/4.32 GiB at 4.70 MiB/s
+2024-03-29 16:41:55.408    app     info:    [server-manager] Downloaded 3.65 GiB/4.32 GiB at 9.78 MiB/s
+2024-03-29 16:41:56.412    app     info:    [server-manager] Downloaded 3.66 GiB/4.32 GiB at 9.53 MiB/s
+2024-03-29 16:41:57.417    app     info:    [server-manager] Downloaded 3.67 GiB/4.32 GiB at 9.26 MiB/s
+2024-03-29 16:41:58.421    app     info:    [server-manager] Downloaded 3.68 GiB/4.32 GiB at 14.31 MiB/s
+2024-03-29 16:41:59.433    app     info:    [server-manager] Downloaded 3.69 GiB/4.32 GiB at 13.46 MiB/s
+2024-03-29 16:42:00.438    app     info:    [server-manager] Downloaded 3.70 GiB/4.32 GiB at 9.55 MiB/s
+2024-03-29 16:42:01.443    app     info:    [server-manager] Downloaded 3.71 GiB/4.32 GiB at 9.62 MiB/s
+2024-03-29 16:42:02.447    app     info:    [server-manager] Downloaded 3.72 GiB/4.32 GiB at 9.65 MiB/s
+2024-03-29 16:42:03.451    app     info:    [server-manager] Downloaded 3.73 GiB/4.32 GiB at 5.30 MiB/s
+2024-03-29 16:42:04.456    app     info:    [server-manager] Downloaded 3.73 GiB/4.32 GiB at 14.93 MiB/s
+2024-03-29 16:42:05.455    app     info:    [server-manager] Downloaded 3.74 GiB/4.32 GiB at 9.75 MiB/s
+2024-03-29 16:42:06.465    app     info:    [server-manager] Downloaded 3.75 GiB/4.32 GiB at 4.58 MiB/s
+2024-03-29 16:42:07.475    app     info:    [server-manager] Downloaded 3.76 GiB/4.32 GiB at 5.08 MiB/s
+2024-03-29 16:42:08.480    app     info:    [server-manager] Downloaded 3.77 GiB/4.32 GiB at 9.94 MiB/s
+2024-03-29 16:42:09.484    app     info:    [server-manager] Downloaded 3.78 GiB/4.32 GiB at 14.88 MiB/s
+2024-03-29 16:42:10.488    app     info:    [server-manager] Downloaded 3.79 GiB/4.32 GiB at 10.03 MiB/s
+2024-03-29 16:42:11.492    app     info:    [server-manager] Downloaded 3.80 GiB/4.32 GiB at 9.87 MiB/s
+2024-03-29 16:42:12.493    app     info:    [server-manager] Downloaded 3.81 GiB/4.32 GiB at 4.75 MiB/s
+2024-03-29 16:42:13.502    app     info:    [server-manager] Downloaded 3.82 GiB/4.32 GiB at 9.39 MiB/s
+2024-03-29 16:42:14.506    app     info:    [server-manager] Downloaded 3.83 GiB/4.32 GiB at 14.96 MiB/s
+2024-03-29 16:42:15.506    app     info:    [server-manager] Downloaded 3.84 GiB/4.32 GiB at 4.91 MiB/s
+2024-03-29 16:42:16.507    app     info:    [server-manager] Downloaded 3.85 GiB/4.32 GiB at 9.67 MiB/s
+2024-03-29 16:42:17.512    app     info:    [server-manager] Downloaded 3.86 GiB/4.32 GiB at 9.61 MiB/s
+2024-03-29 16:42:18.516    app     info:    [server-manager] Downloaded 3.87 GiB/4.32 GiB at 9.83 MiB/s
+2024-03-29 16:42:19.521    app     info:    [server-manager] Downloaded 3.88 GiB/4.32 GiB at 9.73 MiB/s
+2024-03-29 16:42:20.525    app     info:    [server-manager] Downloaded 3.89 GiB/4.32 GiB at 9.79 MiB/s
+2024-03-29 16:42:21.543    app     info:    [server-manager] Downloaded 3.90 GiB/4.32 GiB at 5.08 MiB/s
+2024-03-29 16:42:22.555    app     info:    [server-manager] Downloaded 3.91 GiB/4.32 GiB at 9.78 MiB/s
+2024-03-29 16:42:23.569    app     info:    [server-manager] Downloaded 3.92 GiB/4.32 GiB at 4.88 MiB/s
+2024-03-29 16:42:24.573    app     info:    [server-manager] Downloaded 3.93 GiB/4.32 GiB at 10.13 MiB/s
+2024-03-29 16:42:25.583    app     info:    [server-manager] Downloaded 3.94 GiB/4.32 GiB at 14.72 MiB/s
+2024-03-29 16:42:26.591    app     info:    [server-manager] Downloaded 3.95 GiB/4.32 GiB at 9.92 MiB/s
+2024-03-29 16:42:27.587    app     info:    [server-manager] Downloaded 3.96 GiB/4.32 GiB at 4.84 MiB/s
+2024-03-29 16:42:28.595    app     info:    [server-manager] Downloaded 3.97 GiB/4.32 GiB at 9.97 MiB/s
+2024-03-29 16:42:29.602    app     info:    [server-manager] Downloaded 3.97 GiB/4.32 GiB at 9.78 MiB/s
+2024-03-29 16:42:30.612    app     info:    [server-manager] Downloaded 3.98 GiB/4.32 GiB at 9.70 MiB/s
+2024-03-29 16:42:31.616    app     info:    [server-manager] Downloaded 3.99 GiB/4.32 GiB at 9.68 MiB/s
+2024-03-29 16:42:31.984    app     info:    [scheduler] Starting scheduler foreground
+2024-03-29 16:42:32.620    app     info:    [server-manager] Downloaded 4.00 GiB/4.32 GiB at 9.73 MiB/s
+2024-03-29 16:42:33.540    app     info:    [scheduler] Stopped scheduler foreground
+2024-03-29 16:42:33.540    app     info:    [ipc-requests] Handling requests in the background
+2024-03-29 16:42:33.625    app     info:    [server-manager] Downloaded 4.01 GiB/4.32 GiB at 9.89 MiB/s
+2024-03-29 16:42:34.541    app     info:    [ipc-requests] No longer handling requests in the background
+2024-03-29 16:42:34.630    app     info:    [server-manager] Downloaded 4.02 GiB/4.32 GiB at 9.99 MiB/s
+2024-03-29 16:42:35.634    app     info:    [server-manager] Downloaded 4.03 GiB/4.32 GiB at 14.44 MiB/s
+2024-03-29 16:42:36.634    app     info:    [server-manager] Downloaded 4.04 GiB/4.32 GiB at 4.88 MiB/s
+2024-03-29 16:42:37.638    app     info:    [server-manager] Downloaded 4.05 GiB/4.32 GiB at 5.00 MiB/s
+2024-03-29 16:42:38.644    app     info:    [server-manager] Downloaded 4.06 GiB/4.32 GiB at 9.68 MiB/s
+2024-03-29 16:42:39.655    app     info:    [server-manager] Downloaded 4.07 GiB/4.32 GiB at 9.94 MiB/s
+2024-03-29 16:42:40.660    app     info:    [server-manager] Downloaded 4.08 GiB/4.32 GiB at 10.03 MiB/s
+2024-03-29 16:42:41.665    app     info:    [server-manager] Downloaded 4.09 GiB/4.32 GiB at 9.65 MiB/s
+2024-03-29 16:42:42.669    app     info:    [server-manager] Downloaded 4.10 GiB/4.32 GiB at 10.22 MiB/s
+2024-03-29 16:42:43.674    app     info:    [server-manager] Downloaded 4.11 GiB/4.32 GiB at 15.00 MiB/s
+2024-03-29 16:42:44.678    app     info:    [server-manager] Downloaded 4.12 GiB/4.32 GiB at 9.79 MiB/s
+2024-03-29 16:42:45.686    app     info:    [server-manager] Downloaded 4.13 GiB/4.32 GiB at 10.03 MiB/s
+2024-03-29 16:42:46.692    app     info:    [server-manager] Downloaded 4.14 GiB/4.32 GiB at 9.59 MiB/s
+2024-03-29 16:42:47.706    app     info:    [server-manager] Downloaded 4.15 GiB/4.32 GiB at 14.59 MiB/s
+2024-03-29 16:42:48.710    app     info:    [server-manager] Downloaded 4.16 GiB/4.32 GiB at 5.28 MiB/s
+2024-03-29 16:42:49.715    app     info:    [server-manager] Downloaded 4.17 GiB/4.32 GiB at 9.56 MiB/s
+2024-03-29 16:42:50.719    app     info:    [server-manager] Downloaded 4.18 GiB/4.32 GiB at 9.36 MiB/s
+2024-03-29 16:42:51.724    app     info:    [server-manager] Downloaded 4.18 GiB/4.32 GiB at 9.46 MiB/s
+2024-03-29 16:42:52.729    app     info:    [server-manager] Downloaded 4.19 GiB/4.32 GiB at 9.73 MiB/s
+2024-03-29 16:42:53.736    app     info:    [server-manager] Downloaded 4.20 GiB/4.32 GiB at 10.13 MiB/s
+2024-03-29 16:42:54.741    app     info:    [server-manager] Downloaded 4.21 GiB/4.32 GiB at 15.19 MiB/s
+2024-03-29 16:42:55.744    app     info:    [server-manager] Downloaded 4.22 GiB/4.32 GiB at 9.06 MiB/s
+2024-03-29 16:42:56.749    app     info:    [server-manager] Downloaded 4.23 GiB/4.32 GiB at 9.73 MiB/s
+2024-03-29 16:42:57.753    app     info:    [server-manager] Downloaded 4.24 GiB/4.32 GiB at 9.68 MiB/s
+2024-03-29 16:42:58.757    app     info:    [server-manager] Downloaded 4.25 GiB/4.32 GiB at 9.78 MiB/s
+2024-03-29 16:42:59.762    app     info:    [server-manager] Downloaded 4.26 GiB/4.32 GiB at 9.79 MiB/s
+2024-03-29 16:43:00.766    app     info:    [server-manager] Downloaded 4.27 GiB/4.32 GiB at 9.63 MiB/s
+2024-03-29 16:43:01.770    app     info:    [server-manager] Downloaded 4.28 GiB/4.32 GiB at 9.80 MiB/s
+2024-03-29 16:43:02.774    app     info:    [server-manager] Downloaded 4.29 GiB/4.32 GiB at 9.65 MiB/s
+2024-03-29 16:43:03.780    app     info:    [server-manager] Downloaded 4.30 GiB/4.32 GiB at 9.73 MiB/s
+2024-03-29 16:43:04.780    app     info:    [server-manager] Downloaded 4.31 GiB/4.32 GiB at 4.82 MiB/s
+2024-03-29 16:43:05.442    app     info:    [download-from-manifest] Downloaded 442 files (4,31 GiB) in 7 minutes, 37.77 seconds
+2024-03-29 16:43:05.443    app     info:    [download-from-manifest] Average download speed: 9,67 MiB/s
+2024-03-29 16:43:05.443    app     info:    [server-manager] Unpacking prefetch chunks
+2024-03-29 16:43:05.793    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 22/49472
+2024-03-29 16:43:06.973    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 58/49472
+2024-03-29 16:43:08.002    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 90/49472
+2024-03-29 16:43:09.017    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 131/49472
+2024-03-29 16:43:10.074    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 164/49472
+2024-03-29 16:43:11.086    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 198/49472
+2024-03-29 16:43:12.094    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 240/49472
+2024-03-29 16:43:13.121    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 290/49472
+2024-03-29 16:43:14.151    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 325/49472
+2024-03-29 16:43:15.187    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 360/49472
+2024-03-29 16:43:16.199    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 396/49472
+2024-03-29 16:43:17.216    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 421/49472
+2024-03-29 16:43:18.259    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 449/49472
+2024-03-29 16:43:19.307    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 478/49472
+2024-03-29 16:43:20.348    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 510/49472
+2024-03-29 16:43:21.366    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 541/49472
+2024-03-29 16:43:22.376    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 572/49472
+2024-03-29 16:43:23.390    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 610/49472
+2024-03-29 16:43:24.424    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 660/49472
+2024-03-29 16:43:25.452    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 691/49472
+2024-03-29 16:43:26.478    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 721/49472
+2024-03-29 16:43:27.484    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 751/49472
+2024-03-29 16:43:28.525    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 782/49472
+2024-03-29 16:43:29.547    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 814/49472
+2024-03-29 16:43:30.624    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 847/49472
+2024-03-29 16:43:31.653    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 1313/49472
+2024-03-29 16:43:32.657    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 1975/49472
+2024-03-29 16:43:33.660    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 2748/49472
+2024-03-29 16:43:34.666    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 3739/49472
+2024-03-29 16:43:35.670    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 4522/49472
+2024-03-29 16:43:36.670    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 5275/49472
+2024-03-29 16:43:37.673    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 6029/49472
+2024-03-29 16:43:38.677    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 7002/49472
+2024-03-29 16:43:39.681    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 7835/49472
+2024-03-29 16:43:40.685    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 8724/49472
+2024-03-29 16:43:41.690    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 9506/49472
+2024-03-29 16:43:42.693    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 10237/49472
+2024-03-29 16:43:43.697    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 11036/49472
+2024-03-29 16:43:44.702    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 11887/49472
+2024-03-29 16:43:45.706    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 12607/49472
+2024-03-29 16:43:46.712    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 13493/49472
+2024-03-29 16:43:47.716    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 13512/49472
+2024-03-29 16:43:48.797    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 13516/49472
+2024-03-29 16:43:49.860    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 13516/49472
+2024-03-29 16:43:50.864    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 13521/49472
+2024-03-29 16:43:58.808    app     info:    [scheduler] Starting scheduler foreground
+2024-03-29 16:43:59.158    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 13521/49472
+2024-03-29 16:43:59.419    app     info:    [scheduler] Stopped scheduler foreground
+2024-03-29 16:43:59.420    app     info:    [ipc-requests] Handling requests in the background
+2024-03-29 16:44:00.219    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 13526/49472
+2024-03-29 16:44:00.419    app     info:    [ipc-requests] No longer handling requests in the background
+2024-03-29 16:44:01.248    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 13526/49472
+2024-03-29 16:44:01.450    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 13526/49472
+2024-03-29 16:44:03.828    app     info:    [self-update] Checking for application updates.
+2024-03-29 16:44:04.428    app     info:    [self-update] No application updates were found.
+2024-03-29 16:44:05.059    app     info:    [scheduler] Starting scheduler foreground
+2024-03-29 16:44:06.671    app     info:    [scheduler] Stopped scheduler foreground
+2024-03-29 16:44:06.671    app     info:    [ipc-requests] Handling requests in the background
+2024-03-29 16:44:06.855    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 13527/49472
+2024-03-29 16:44:07.671    app     info:    [ipc-requests] No longer handling requests in the background
+2024-03-29 16:44:08.400    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 13528/49472
+2024-03-29 16:44:09.401    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 13854/49472
+2024-03-29 16:44:10.409    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 14021/49472
+2024-03-29 16:44:11.425    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 14347/49472
+2024-03-29 16:44:12.608    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 14387/49472
+2024-03-29 16:44:13.612    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 14713/49472
+2024-03-29 16:44:14.655    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 15047/49472
+2024-03-29 16:44:15.658    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 15605/49472
+2024-03-29 16:44:16.671    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 16093/49472
+2024-03-29 16:44:17.682    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 16424/49472
+2024-03-29 16:44:18.699    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 16638/49472
+2024-03-29 16:44:19.703    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 17233/49472
+2024-03-29 16:44:20.708    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 17917/49472
+2024-03-29 16:44:21.713    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 18490/49472
+2024-03-29 16:44:22.728    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 18791/49472
+2024-03-29 16:44:23.732    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 19454/49472
+2024-03-29 16:44:24.739    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 20102/49472
+2024-03-29 16:44:25.746    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 20701/49472
+2024-03-29 16:44:26.750    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 21330/49472
+2024-03-29 16:44:27.757    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 22003/49472
+2024-03-29 16:44:28.773    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 22573/49472
+2024-03-29 16:44:29.911    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 22657/49472
+2024-03-29 16:44:29.984    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 22657/49472
+2024-03-29 16:44:30.987    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 22706/49472
+2024-03-29 16:44:32.034    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 22846/49472
+2024-03-29 16:44:33.084    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 23038/49472
+2024-03-29 16:44:34.126    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 23186/49472
+2024-03-29 16:44:35.154    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 23520/49472
+2024-03-29 16:44:36.162    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 23767/49472
+2024-03-29 16:44:37.197    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 24051/49472
+2024-03-29 16:44:38.232    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 24626/49472
+2024-03-29 16:44:39.236    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 25269/49472
+2024-03-29 16:44:40.241    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 25770/49472
+2024-03-29 16:44:41.294    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 25810/49472
+2024-03-29 16:44:42.308    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 25846/49472
+2024-03-29 16:44:43.323    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 25893/49472
+2024-03-29 16:44:44.372    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 25932/49472
+2024-03-29 16:44:45.389    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 26444/49472
+2024-03-29 16:44:46.393    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 26805/49472
+2024-03-29 16:44:47.397    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 27310/49472
+2024-03-29 16:44:48.400    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 27751/49472
+2024-03-29 16:44:49.414    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 28157/49472
+2024-03-29 16:44:50.417    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 28660/49472
+2024-03-29 16:44:51.428    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 29468/49472
+2024-03-29 16:44:52.431    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 30080/49472
+2024-03-29 16:44:53.436    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 30480/49472
+2024-03-29 16:44:54.444    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 31079/49472
+2024-03-29 16:44:55.457    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 31356/49472
+2024-03-29 16:44:56.484    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 31839/49472
+2024-03-29 16:44:57.489    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 32110/49472
+2024-03-29 16:44:58.515    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 32619/49472
+2024-03-29 16:44:59.441    app     info:    [scheduler] Starting scheduler foreground
+2024-03-29 16:44:59.519    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 33013/49472
+2024-03-29 16:45:00.014    app     info:    [scheduler] Stopped scheduler foreground
+2024-03-29 16:45:00.015    app     info:    [ipc-requests] Handling requests in the background
+2024-03-29 16:45:00.537    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 33472/49472
+2024-03-29 16:45:01.014    app     info:    [ipc-requests] No longer handling requests in the background
+2024-03-29 16:45:01.542    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 34016/49472
+2024-03-29 16:45:02.545    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 34374/49472
+2024-03-29 16:45:03.565    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 34913/49472
+2024-03-29 16:45:04.569    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 35258/49472
+2024-03-29 16:45:05.583    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 35552/49472
+2024-03-29 16:45:06.600    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 35881/49472
+2024-03-29 16:45:07.604    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 36464/49472
+2024-03-29 16:45:08.616    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 36841/49472
+2024-03-29 16:45:09.616    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 37542/49472
+2024-03-29 16:45:10.616    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 38023/49472
+2024-03-29 16:45:11.620    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 38570/49472
+2024-03-29 16:45:12.637    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 38980/49472
+2024-03-29 16:45:13.656    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 39067/49472
+2024-03-29 16:45:14.711    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 39631/49472
+2024-03-29 16:45:15.716    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 40205/49472
+2024-03-29 16:45:16.720    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 40744/49472
+2024-03-29 16:45:17.724    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 41174/49472
+2024-03-29 16:45:18.728    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 41679/49472
+2024-03-29 16:45:19.733    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 42182/49472
+2024-03-29 16:45:20.773    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 42669/49472
+2024-03-29 16:45:21.788    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 43229/49472
+2024-03-29 16:45:22.805    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 43761/49472
+2024-03-29 16:45:23.816    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 44336/49472
+2024-03-29 16:45:24.820    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 44920/49472
+2024-03-29 16:45:25.825    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 45483/49472
+2024-03-29 16:45:26.829    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 46071/49472
+2024-03-29 16:45:27.834    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 46690/49472
+2024-03-29 16:45:28.843    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 47240/49472
+2024-03-29 16:45:29.982    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 47350/49472
+2024-03-29 16:45:31.072    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 47554/49472
+2024-03-29 16:45:32.109    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 48119/49472
+2024-03-29 16:45:33.123    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 48409/49472
+2024-03-29 16:45:34.144    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 48417/49472
+2024-03-29 16:45:35.179    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 48424/49472
+2024-03-29 16:45:36.282    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 48457/49472
+2024-03-29 16:45:37.295    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 48908/49472
+2024-03-29 16:45:38.302    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 49066/49472
+2024-03-29 16:45:39.339    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 49272/49472
+2024-03-29 16:45:40.423    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 49276/49472
+2024-03-29 16:45:41.466    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 49280/49472
+2024-03-29 16:45:42.516    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 49283/49472
+2024-03-29 16:45:43.675    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 49283/49472
+2024-03-29 16:45:44.682    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 49446/49472
+2024-03-29 16:45:46.019    app     info:    [server-manager] Unpacking files, this may take a while. Extracting file 49460/49472
+2024-03-29 16:45:46.148    app     info:    [chunk-unpacker] Unpacked chunks, and wrote 49472 files (7.8 GB) in 2 minutes, 40.704 seconds
+2024-03-29 16:45:46.148    app     info:    [chunk-unpacker] Average unpacking speed: 48.5 MB/s
+2024-03-29 16:45:46.152    app     info:    [elg-events] Queueing event    eve_launcher.electron.eve_client.GameClientUpdateFinished
+2024-03-29 16:45:46.161    app     info:    [server-manager] Ready to play!
+2024-03-29 16:45:46.167    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2024-03-29 16:45:46.168    app     info:    [server-manager] Build for Tranquility is now 2532064
+2024-03-29 16:45:46.185    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.GameClientUpdateFinished
+2024-03-29 16:45:46.187    app     info:    [authentication] Token for '29285645' on 'tranquility' is expired, refresh is required
+2024-03-29 16:45:46.187    app     info:    [authentication] Refreshing token for '29285645' on 'tranquility'
+2024-03-29 16:45:46.361    app     info:    [authentication] Token for '29285645' on 'tranquility' has been successfully refreshed
+2024-03-29 16:45:46.368    app     info:    [elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensRefreshed
+2024-03-29 16:45:46.390    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensRefreshed
+2024-03-29 16:45:46.392    app     info:    [client-manager] Starting EVE Online game client.    C:\CCP\EVE Online\tq\bin64\exefile.exe    [
+  '/noconsole',
+  '/server:tranquility.servers.eveonline.com',
+  '/ssoToken=***',
+  '/refreshToken=***',
+  '/settingsprofile=Default',
+  '/language=en',
+  '/triplatform=dx12',
+  '/steamUser',
+  '/deviceID=***',
+  '/machineHash=***',
+  '/autoSelectCharacter:2121878074',
+  'exp=1711731345',
+  'tokenExpires=2024-03-29 18:55:45.000'
+]    29285645
+2024-03-29 16:45:46.397    app     info:    [elg-events] Queueing event    eve_launcher.electron.eve_client.GameClientStartRequested
+2024-03-29 16:45:46.594    app     info:    [elg-events] Queueing event    eve_launcher.electron.eve_client.TemporaryClientProcessAdded
+2024-03-29 16:45:46.600    app     info:    [client-manager] Found 'tranquility' client for '29285645' running:     {
+  processId: 2080,
+  createdDate: 1711730746580,
+  userId: 29285645,
+  characterId: 2121878074,
+  profile: 'Default',
+  dxVersion: 'dx12'
+}
+2024-03-29 16:45:46.613    app     info:    [elg-events] Queueing event    eve_launcher.electron.eve_client.GameClientStarted
+2024-03-29 16:45:46.626    app     info:    [elg-events] Queueing event    eve_launcher.electron.eve_client.TemporaryClientProcessRemoved
+2024-03-29 16:45:46.627    app     info:    [client-queue] Started client from group startup    {
+  product: 'eve-online',
+  tenant: 'tranquility',
+  characterId: 2121878074,
+  profile: '',
+  userId: 29285645
+}
+2024-03-29 16:45:46.636    app     info:    [AuthenticationMiddleware] User information updated
+2024-03-29 16:45:46.636    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.GameClientStartRequested
+2024-03-29 16:45:46.637    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.TemporaryClientProcessAdded
+2024-03-29 16:45:46.637    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.GameClientStarted
+2024-03-29 16:45:46.638    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.TemporaryClientProcessRemoved
+2024-03-29 16:45:47.131    app     info:    [elg-events] Queueing event    eve_launcher.electron.eve_client.TemporaryClientProcessMonitoringStopped
+2024-03-29 16:45:47.131    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.TemporaryClientProcessMonitoringStopped
+2024-03-29 16:45:47.639    app     info:    [client-queue] Queue has stopped running, no more clients pending startup.
+2024-03-29 16:46:35.181    app     info:    [scheduler] Starting scheduler foreground
+2024-03-29 16:46:44.430    app     info:    [scheduler] Stopped scheduler foreground
+2024-03-29 16:46:44.431    app     info:    [ipc-requests] Handling requests in the background
+2024-03-29 16:46:44.891    app     info:    [client-manager] 'tranquility' for EVE game client for '29285645' exited with no errors.
+2024-03-29 16:46:44.896    app     info:    [elg-events] Queueing event    eve_launcher.electron.eve_client.GameClientExited
+2024-03-29 16:46:44.914    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2024-03-29 16:46:44.920    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.GameClientExited
+2024-03-29 16:46:45.044    app     info:    [server-manager] Previous Tranquility build: 2532064, current build: 2532064
+2024-03-29 16:46:45.044    app     info:    [server-manager] Tranquility build is unchanged.
+2024-03-29 16:46:45.062    app     info:    [server-manager] Ready to play!
+2024-03-29 16:46:45.070    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2024-03-29 16:46:45.234    app     info:    [scheduler] Starting scheduler foreground
+2024-03-29 16:46:45.431    app     info:    [ipc-requests] No longer handling requests in the background
+2024-03-29 16:46:48.244    app     info:    [main-window] Main window minimized to tray    { windowId: 2 }
+2024-03-29 16:46:48.279    app     info:    [main-window] Sent notification that the application is minimized to tray    { windowId: 2 }
+2024-03-29 16:46:48.290    app     info:    [scheduler] Stopped scheduler foreground
+2024-03-29 16:46:48.290    app     info:    [ipc-requests] Handling requests in the background
+2024-03-29 16:46:49.292    app     info:    [ipc-requests] No longer handling requests in the background
+2024-03-29 16:51:45.074    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2024-03-29 16:51:45.217    app     info:    [server-manager] Previous Tranquility build: 2532064, current build: 2532064
+2024-03-29 16:51:45.217    app     info:    [server-manager] Tranquility build is unchanged.
+2024-03-29 16:51:45.227    app     info:    [server-manager] Ready to play!
+2024-03-29 16:51:45.234    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2024-03-29 16:56:44.923    app     warn:    [main-window] Renderer crashed, reason: killed    { windowId: 2, recoveryCount: 0 }
+2024-03-29 16:56:45.240    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2024-03-29 16:56:45.395    app     info:    [server-manager] Previous Tranquility build: 2532064, current build: 2532064
+2024-03-29 16:56:45.396    app     info:    [server-manager] Tranquility build is unchanged.
+2024-03-29 16:56:45.405    app     info:    [server-manager] Ready to play!
+2024-03-29 16:56:45.411    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2024-03-29 16:57:30.354    app     info:    [tray] Main window restored from tray    { windowId: 2 }
+2024-03-29 16:58:33.131    app     info:    [main-window] Main window minimized to tray    { windowId: 2 }

@@ -1,0 +1,178 @@
+2024-03-29 16:58:38.701    app     info:    [migrations] Migrating state from version 202403211101 to 202403211101
+2024-03-29 16:58:38.916    app     info:    [self-update] Configuring update feed.
+2024-03-29 16:58:38.917    app     info:    [self-update] Update feed set to: https://launcher.ccpgames.com/eve-online/release/win32/x64/
+2024-03-29 16:58:38.925    app     info:    Startup arguments    []
+2024-03-29 16:58:38.997    app     info:    [self-update] Auto-updating is now enabled
+2024-03-29 16:58:38.999    app     info:    [migrations] Migrating state from version 202403211101 to 202403211101
+2024-03-29 16:58:39.004    app     info:    [third-party-authentications] Checking for Steam startup
+2024-03-29 16:58:39.290    app     info:    [migrations] Migrating secured state from version 202403201100 to 202403201100
+2024-03-29 16:58:39.331    app     info:    [elg-events] Queueing event    eve_launcher.electron.application.LauncherStarted
+2024-03-29 16:58:39.368    app     info:    [authentication] Token for '16492377' on 'tranquility' is expired, refresh is required
+2024-03-29 16:58:39.368    app     info:    [authentication] Refreshing token for '16492377' on 'tranquility'
+2024-03-29 16:58:39.369    app     info:    [authentication] Token for '17525312' on 'tranquility' is expired, refresh is required
+2024-03-29 16:58:39.369    app     info:    [authentication] Refreshing token for '17525312' on 'tranquility'
+2024-03-29 16:58:39.370    app     info:    [authentication] Token for '29280260' on 'tranquility' is expired, refresh is required
+2024-03-29 16:58:39.370    app     info:    [authentication] Refreshing token for '29280260' on 'tranquility'
+2024-03-29 16:58:39.370    app     info:    [authentication] Token for '29285645' on 'tranquility' is expired, refresh is required
+2024-03-29 16:58:39.371    app     info:    [authentication] Refreshing token for '29285645' on 'tranquility'
+2024-03-29 16:58:39.371    app     info:    [authentication] Token for '18034259' on 'tranquility' is expired, refresh is required
+2024-03-29 16:58:39.371    app     info:    [authentication] Refreshing token for '18034259' on 'tranquility'
+2024-03-29 16:58:39.372    app     info:    [authentication] Token for '28182799' on 'tranquility' is expired, refresh is required
+2024-03-29 16:58:39.372    app     info:    [authentication] Refreshing token for '28182799' on 'tranquility'
+2024-03-29 16:58:39.372    app     info:    [authentication] Token for '2110311' on 'tranquility' is expired, refresh is required
+2024-03-29 16:58:39.372    app     info:    [authentication] Refreshing token for '2110311' on 'tranquility'
+2024-03-29 16:58:39.373    app     info:    [authentication] Token for '23622903' on 'tranquility' is expired, refresh is required
+2024-03-29 16:58:39.373    app     info:    [authentication] Refreshing token for '23622903' on 'tranquility'
+2024-03-29 16:58:39.387    app     info:    [analytics] Application name:    EVE Online
+2024-03-29 16:58:39.387    app     info:    [analytics] Application version:    1.3.3
+2024-03-29 16:58:39.387    app     info:    [analytics] Domain    undefined
+2024-03-29 16:58:39.388    app     info:    [analytics] Working directory    C:\Games\Steam\steamapps\common\Eve Online\app-1.3.3
+2024-03-29 16:58:39.389    app     info:    [analytics] Username contains UTF8?    false
+2024-03-29 16:58:39.739    app     info:    [elg-events] Queueing event    eve_launcher.electron.application.PdmLoaded
+2024-03-29 16:58:39.747    app     info:    [elg-events] Queueing event    eve_launcher.electron.application.CoreDataLoaded
+2024-03-29 16:58:39.750    app     info:    [analytics] Operating system    {
+  type: 'Windows',
+  name: 'Windows 10 Education',
+  version: '10.0 (19045)'
+}
+2024-03-29 16:58:39.751    app     info:    [analytics] Encryption available:    true
+2024-03-29 16:58:39.752    app     info:    [analytics] Machine UUID    4E9F516C-5B97-47C6-8C67-E93D943CB7C8
+2024-03-29 16:58:39.752    app     info:    [analytics] PDM Version    2.1.4
+2024-03-29 16:58:39.752    app     info:    [analytics] Release channel    release
+2024-03-29 16:58:39.753    app     info:    [initializers] Shared cache directory set to    C:\CCP\EVE Online
+2024-03-29 16:58:39.766    app     info:    [initializers] Shared cache drive free space: 70,57 GiB / 433,74 GiB
+2024-03-29 16:58:39.767    app     info:    [feature-flags] Initializing feature flag client
+2024-03-29 16:58:39.774    app     info:    [i18next] Changed language    en
+2024-03-29 16:58:39.798    app     info:    [shared-cache] Looking for profiles in 'c_ccp_eve_online_tq_tranquility'...
+2024-03-29 16:58:39.799    app     info:    [shared-cache] Looking for profiles in 'c_ccp_eve_online_sisi_singularity'...
+2024-03-29 16:58:39.799    app     info:    [shared-cache] Looking for profiles in 'c_ccp_eve_online_thunderdome_thunderdome'...
+2024-03-29 16:58:39.805    app     info:    [scheduler] Starting scheduler background
+2024-03-29 16:58:39.828    app    error:    (node:12012) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 scheduler/triggered listeners added to [IpcMainImpl]. Use emitter.setMaxListeners() to increase limit
+(Use `eve-online --trace-warnings ...` to show where the warning was created)    []
+2024-03-29 16:58:39.838    app     info:    [shared-cache] Processed 0 profiles from disk
+2024-03-29 16:58:39.854    app     info:    [steam-auth] Steam startup detected
+2024-03-29 16:58:39.862    app     info:    [authentication] Generated login URL with state 'H7js8Z47fwMZ_U8iCAn127ThA9ontMfAF_8C2h5bL0U' for 'tranquility' using clientID 'eveLauncherTQ'
+2024-03-29 16:58:39.862    app     info:    [third-party-authentications] Done checking third party startups
+2024-03-29 16:58:39.884    app     info:    [first-run] Application has been run before: 2024-03-28T11:50:09.863Z
+2024-03-29 16:58:39.929    app     info:    [cache-protocol] Found 0 entries to remove
+2024-03-29 16:58:39.929    app     info:    [cache-protocol] Nothing to clean up.
+2024-03-29 16:58:39.987    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2024-03-29 16:58:40.022    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.application.LauncherStarted
+2024-03-29 16:58:40.023    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.application.PdmLoaded
+2024-03-29 16:58:40.036    app     info:    [customer-information] Agreements have been updated
+2024-03-29 16:58:40.037    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.application.CoreDataLoaded
+2024-03-29 16:58:40.038    app     info:    info: [LaunchDarkly] LaunchDarkly client initialized    []
+2024-03-29 16:58:40.039    app     info:    info: [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/64c3d12e27a4b11365012d39/eyJrZXkiOiI0YTQzNmFkYi00Yjk5LTQwYTctODViMC00MmUyMDZmNDEyODYiLCJraW5kIjoidXNlciIsImN1c3RvbSI6eyJpc0ZpcnN0UnVuIjpmYWxzZSwiZGF5c1NpbmNlRmlyc3RSdW4iOjEsImxhbmd1YWdlIjoiZW4iLCJhcHBsaWNhdGlvbiI6ImV2ZS1vbmxpbmUiLCJ2ZXJzaW9uIjoiMS4zLjMiLCJwbGF0Zm9ybSI6IndpbmRvd3MiLCJpc0dlRm9yY2VOb3ciOmZhbHNlLCJvc1ZlcnNpb25EZXByZWNhdGVkIjpmYWxzZSwidXNlcklkcyI6WzE2NDkyMzc3LDI5Nzk3NjUwLDIxMTAzMTEsMjk3OTc2NTBdLCJvbWVnYUNvdW50IjowLCJhbHBoYUNvdW50IjoxMCwiYWNjb3VudENvdW50IjoxMCwib2xkZXN0QWNjb3VudEFnZSI6NjEwNywieW91bmdlc3RBY2NvdW50QWdlIjowfX0?withReasons=true    []
+2024-03-29 16:58:40.040    app     info:    [feature-flags] Client 4a436adb... ready, fetching flags
+2024-03-29 16:58:40.042    app     info:    [self-update] Auto-updating is now enabled
+2024-03-29 16:58:40.045    app     info:    [feature-flags] Received 27 flags for client 4a436adb...
+2024-03-29 16:58:40.045    app     info:    [feature-flags] Client initialized with key 4a436adb...
+2024-03-29 16:58:40.048    app     info:    [self-update] Configuring update feed.
+2024-03-29 16:58:40.048    app     info:    [self-update] Update feed set to: https://launcher.ccpgames.com/eve-online/release/win32/x64/
+2024-03-29 16:58:40.048    app     info:    [self-update] Auto-updating is now enabled
+2024-03-29 16:58:40.085    app     info:    [customer-information] Agreements have been updated
+2024-03-29 16:58:40.125    app     info:    [server-manager] Previous Tranquility build: 2532064, current build: 2532064
+2024-03-29 16:58:40.126    app     info:    [server-manager] Tranquility build is unchanged.
+2024-03-29 16:58:40.135    app     info:    [server-manager] Ready to play!
+2024-03-29 16:58:40.141    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2024-03-29 16:58:40.148    app     info:    [authentication] Token for '17525312' on 'tranquility' has been successfully refreshed
+2024-03-29 16:58:40.150    app     info:    [elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensRefreshed
+2024-03-29 16:58:40.171    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensRefreshed
+2024-03-29 16:58:40.172    app     info:    [AuthenticationMiddleware] User information updated
+2024-03-29 16:58:40.173    app     info:    [authentication] Token for '29285645' on 'tranquility' has been successfully refreshed
+2024-03-29 16:58:40.176    app     info:    [elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensRefreshed
+2024-03-29 16:58:40.198    app     info:    [AuthenticationMiddleware] User information updated
+2024-03-29 16:58:40.198    app     info:    [authentication] Token for '29280260' on 'tranquility' has been successfully refreshed
+2024-03-29 16:58:40.201    app     info:    [elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensRefreshed
+2024-03-29 16:58:40.222    app     info:    [AuthenticationMiddleware] User information updated
+2024-03-29 16:58:40.222    app     info:    [authentication] Token for '2110311' on 'tranquility' has been successfully refreshed
+2024-03-29 16:58:40.225    app     info:    [elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensRefreshed
+2024-03-29 16:58:40.247    app     info:    [AuthenticationMiddleware] User information updated
+2024-03-29 16:58:40.248    app     info:    [authentication] Token for '23622903' on 'tranquility' has been successfully refreshed
+2024-03-29 16:58:40.252    app     info:    [elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensRefreshed
+2024-03-29 16:58:40.277    app     info:    [AuthenticationMiddleware] User information updated
+2024-03-29 16:58:40.277    app     info:    [authentication] Token for '16492377' on 'tranquility' has been successfully refreshed
+2024-03-29 16:58:40.281    app     info:    [elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensRefreshed
+2024-03-29 16:58:40.308    app     info:    [AuthenticationMiddleware] User information updated
+2024-03-29 16:58:40.308    app     info:    [authentication] Token for '28182799' on 'tranquility' has been successfully refreshed
+2024-03-29 16:58:40.311    app     info:    [elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensRefreshed
+2024-03-29 16:58:40.332    app     info:    [AuthenticationMiddleware] User information updated
+2024-03-29 16:58:40.332    app     info:    [authentication] Token for '18034259' on 'tranquility' has been successfully refreshed
+2024-03-29 16:58:40.337    app     info:    [elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensRefreshed
+2024-03-29 16:58:40.355    app     info:    [AuthenticationMiddleware] Successfully restored 12 / 12 users
+2024-03-29 16:58:40.356    app     info:    [AuthenticationMiddleware] User information updated
+2024-03-29 16:58:40.356    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensRefreshed
+2024-03-29 16:58:40.364    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensRefreshed
+2024-03-29 16:58:40.365    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensRefreshed
+2024-03-29 16:58:40.366    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensRefreshed
+2024-03-29 16:58:40.367    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensRefreshed
+2024-03-29 16:58:40.367    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensRefreshed
+2024-03-29 16:58:40.368    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensRefreshed
+2024-03-29 16:58:40.591    app     info:    [elg-events] Queueing event    eve_launcher.electron.application.RendererLoaded
+2024-03-29 16:58:40.591    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.application.RendererLoaded
+2024-03-29 16:58:40.603    app     info:    [scheduler] Starting scheduler foreground
+2024-03-29 16:58:40.626    app     info:    [content-delivery-trace] Fetching CDN trace data from https://binaries.eveonline.com/cdn-cgi/trace
+2024-03-29 16:58:40.639    app     info:    [creatives] Requesting creatives
+2024-03-29 16:58:40.660    app     info:    [main-window] Registering main window    { windowId: 2 }
+2024-03-29 16:58:40.661    app     info:    [authentication-handler] Creating login window using URI https://login.eveonline.com/account/logoff?lang=en&ReturnUrl=%2Fv2%2Foauth%2Fauthorize%3Fresponse_type%3Dcode%26client_id%3DeveLauncherTQ%26scope%3DeveClientLogin%2Bcisservice.customerRead.v1%2Bcisservice.customerWrite.v1%2Bcisservice.userProfileBasic.v1%2Bvgs.transactionRead.v1%2Bvgs.marketAccess.v1%26redirect_uri%3Dhttps%253A%252F%252Flogin.eveonline.com%252Flauncher%253Fclient_id%253DeveLauncherTQ%26state%3DH7js8Z47fwMZ_U8iCAn127ThA9ontMfAF_8C2h5bL0U%26code_challenge_method%3DS256%26code_challenge%3D_U3pIvosL0XT0RQqNXmEUeVHmiUfOvLdLy_UEVR5FYA%26steam_ticket%3D1400000072d4184a9ef30e691bd7f11a01001001edf206661800000001000000020000007485f13a248e76e85d48010001000000b200000032000000040000001bd7f11a0100100134210000726473b0ad01a8c0000000005a570566da06216601002f220200000000004e6c315e8673ffcaf8efa67467ae7785db04f9e2e66eb066e63b10a454708c2ec5fe55655c5a09ba5af247239d8aadc0d446465661c4563b86b4bce4ffa04211f3dbee3b05fca8a8bc53feeceed39c66b41dd321b01a7aff49f46fb32e2f082de8a1b7a222e470f92c886bf8bba78d47e94ca14cad73aba7619e757449686f69
+2024-03-29 16:58:40.686     ui     info:    [i18next] Requesting missing translation en readnought title title    ccp://launcher/renderer/main_window/index.js    2
+2024-03-29 16:58:40.750    app     info:    [jukebox] Fetched 2 jukebox playlists
+2024-03-29 16:58:40.836    app     info:    [creatives] Received 3 creatives
+2024-03-29 16:58:41.224    app     info:    [elg-events] Queueing event    eve_launcher.electron.authentication.UserAuthenticated
+2024-03-29 16:58:41.224    app     info:    [authentication-handler] Navigation to login completed, receiving code & state    {
+  state: 'H7js8Z47fwMZ_U8iCAn127ThA9ontMfAF_8C2h5bL0U',
+  code: '83wjFzdrYUiclctEt2WeCg'
+}
+2024-03-29 16:58:41.228    app     info:    [elg-events] Queueing event    eve_launcher.electron.authentication.LoginWindowClosed
+2024-03-29 16:58:41.234    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserAuthenticated
+2024-03-29 16:58:41.238    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.LoginWindowClosed
+2024-03-29 16:58:41.367    app     info:    [elg-events] Queueing event    eve_launcher.electron.authentication.UserTokensReceived
+2024-03-29 16:58:41.391    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.authentication.UserTokensReceived
+2024-03-29 16:58:41.413    app     info:    [AuthenticationMiddleware] User information updated
+2024-03-29 16:58:42.170     ui     info:    Initializing captcha    ccp://launcher/renderer/main_window/index.js    2
+2024-03-29 16:58:42.614     ui     warn:    Deprecated API for given entry type.    https://www.gstatic.com/recaptcha/releases/moV1mTgQ6S91nuTnmll4Y9yf/recaptcha__en.js    536
+2024-03-29 16:58:44.149    app     info:    [analytics] Hardware rendering enabled:    true    { disabledViaCommandline: false, disabledViaSettings: false }
+2024-03-29 16:58:45.630    app     info:    [self-update] Checking for application updates.
+2024-03-29 16:58:46.460    app     info:    [self-update] No application updates were found.
+2024-03-29 16:59:02.843    app     info:    [scheduler] Stopped scheduler foreground
+2024-03-29 16:59:02.844    app     info:    [ipc-requests] Handling requests in the background
+2024-03-29 16:59:03.845    app     info:    [ipc-requests] No longer handling requests in the background
+2024-03-29 16:59:09.916    app     warn:    Could not connect to LogLite    [
+  Error: connect ECONNREFUSED 127.0.0.1:3273
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16) {
+    errno: -4078,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '127.0.0.1',
+    port: 3273
+  }
+]
+2024-03-29 16:59:28.904    app     info:    [scheduler] Starting scheduler foreground
+2024-03-29 16:59:29.628    app     info:    [scheduler] Stopped scheduler foreground
+2024-03-29 16:59:29.628    app     info:    [ipc-requests] Handling requests in the background
+2024-03-29 16:59:30.629    app     info:    [ipc-requests] No longer handling requests in the background
+2024-03-29 16:59:41.748    app     info:    [scheduler] Starting scheduler foreground
+2024-03-29 17:00:21.309    app     info:    [scheduler] Stopped scheduler foreground
+2024-03-29 17:00:21.309    app     info:    [ipc-requests] Handling requests in the background
+2024-03-29 17:00:22.310    app     info:    [ipc-requests] No longer handling requests in the background
+2024-03-29 17:00:35.999    app     info:    [scheduler] Starting scheduler foreground
+2024-03-29 17:00:36.874    app     info:    [scheduler] Stopped scheduler foreground
+2024-03-29 17:00:36.874    app     info:    [ipc-requests] Handling requests in the background
+2024-03-29 17:00:37.875    app     info:    [ipc-requests] No longer handling requests in the background
+2024-03-29 17:00:49.846    app     info:    [scheduler] Starting scheduler foreground
+2024-03-29 17:01:19.940    app     info:    [main-window] Main window minimized to tray    { windowId: 2 }
+2024-03-29 17:01:19.968    app     info:    [main-window] Sent notification that the application is minimized to tray    { windowId: 2 }
+2024-03-29 17:01:19.977    app     info:    [scheduler] Stopped scheduler foreground
+2024-03-29 17:01:19.978    app     info:    [ipc-requests] Handling requests in the background
+2024-03-29 17:01:20.979    app     info:    [ipc-requests] No longer handling requests in the background
+2024-03-29 17:01:24.130    app     info:    [tray] Quitting application from tray
+2024-03-29 17:01:24.134    app     info:    Application quitting. Cleanup needed: true
+2024-03-29 17:01:24.138    app     info:    [elg-events] Queueing shutdown event    eve_launcher.electron.application.LauncherShutdown
+2024-03-29 17:01:24.143    app     info:    app.quit called, but we are still sending ELG events.
+2024-03-29 17:01:24.144    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.application.LauncherShutdown
+2024-03-29 17:01:24.395    app     info:    [elg-events] Shutdown event timeout passed
+2024-03-29 17:01:24.396    app     info:    ELG stream closed, quitting.
+2024-03-29 17:01:24.398    app     info:    [main-window] Main window closing    { windowId: 2 }
+2024-03-29 17:01:24.399    app     info:    [elg-events] gRPC connection aborted
+2024-03-29 17:01:24.403    app     info:    ELG stream closed, quitting.
+2024-03-29 17:01:24.420    app     info:    Application closed    0
