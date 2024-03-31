@@ -8,524 +8,604 @@
 0d 0h 00m 01s > Settings.Import - done
 0d 0h 00m 01s > EveMonClient.OnSettingsChanged
 0d 0h 00m 01s > Main loop - start
-0d 0h 00m 02s > MainWindow.OnLoad
-0d 0h 00m 02s > TimeCheck.ScheduleCheck - in 00:00:01
-0d 0h 00m 02s > UpdateManager.ScheduleCheck - in 00:00:10
-0d 0h 00m 02s > Main window - loaded
-0d 0h 00m 02s > Datafiles.Load - begin
-0d 0h 00m 03s > TimeCheck.BeginCheckAsync
-0d 0h 00m 03s > TimeCheck.OnCheckCompleted - Synchronised
-0d 0h 00m 03s > TimeCheck.ScheduleCheck - in 1.00:00:00
-0d 0h 00m 03s > EveMonClient.OnServerStatusUpdated
-0d 0h 00m 07s > Datafiles.Load - done
-0d 0h 00m 07s > Settings.ImportData - begin
-0d 0h 00m 07s > EveMonClient.OnCharacterUpdated - Dee Galla
-0d 0h 00m 07s > EveMonClient.OnCharacterImplantSetCollectionChanged - Dee Galla
-0d 0h 00m 07s > EveMonClient.OnCharacterSkillQueueUpdated - Dee Galla
-0d 0h 00m 08s > EveMonClient.OnCharacterUpdated - Dee Galla
-0d 0h 00m 08s > EveMonClient.OnCharacterUpdated - Deem Matar
-0d 0h 00m 08s > EveMonClient.OnCharacterImplantSetCollectionChanged - Deem Matar
-0d 0h 00m 08s > EveMonClient.OnCharacterSkillQueueUpdated - Deem Matar
-0d 0h 00m 08s > EveMonClient.OnCharacterUpdated - Deem Matar
-0d 0h 00m 08s > EveMonClient.OnCharacterUpdated - VeeDeeCovan
-0d 0h 00m 08s > EveMonClient.OnCharacterImplantSetCollectionChanged - VeeDeeCovan
-0d 0h 00m 08s > EveMonClient.OnCharacterSkillQueueUpdated - VeeDeeCovan
-0d 0h 00m 08s > EveMonClient.OnCharacterUpdated - VeeDeeCovan
-0d 0h 00m 08s > EveMonClient.OnCharacterUpdated - Worm Holera
-0d 0h 00m 08s > EveMonClient.OnCharacterImplantSetCollectionChanged - Worm Holera
-0d 0h 00m 08s > EveMonClient.OnCharacterSkillQueueUpdated - Worm Holera
-0d 0h 00m 08s > EveMonClient.OnCharacterUpdated - Worm Holera
-0d 0h 00m 08s > EveMonClient.OnCharacterUpdated - Gallenteria
-0d 0h 00m 08s > EveMonClient.OnCharacterImplantSetCollectionChanged - Gallenteria
-0d 0h 00m 08s > EveMonClient.OnCharacterSkillQueueUpdated - Gallenteria
-0d 0h 00m 08s > EveMonClient.OnCharacterUpdated - Gallenteria
-0d 0h 00m 08s > EveMonClient.OnCharacterUpdated - Abyssette
-0d 0h 00m 08s > EveMonClient.OnCharacterImplantSetCollectionChanged - Abyssette
-0d 0h 00m 08s > EveMonClient.OnCharacterSkillQueueUpdated - Abyssette
-0d 0h 00m 08s > EveMonClient.OnCharacterUpdated - Abyssette
-0d 0h 00m 08s > EveMonClient.OnCharacterUpdated - DeeBladina
-0d 0h 00m 08s > EveMonClient.OnCharacterImplantSetCollectionChanged - DeeBladina
-0d 0h 00m 08s > EveMonClient.OnCharacterSkillQueueUpdated - DeeBladina
-0d 0h 00m 08s > EveMonClient.OnCharacterUpdated - DeeBladina
-0d 0h 00m 08s > EveMonClient.OnCharacterUpdated - Lordessa
-0d 0h 00m 08s > EveMonClient.OnCharacterImplantSetCollectionChanged - Lordessa
-0d 0h 00m 08s > EveMonClient.OnCharacterSkillQueueUpdated - Lordessa
-0d 0h 00m 08s > EveMonClient.OnCharacterUpdated - Lordessa
-0d 0h 00m 08s > EveMonClient.OnCharacterUpdated - Steamaha
-0d 0h 00m 08s > EveMonClient.OnCharacterImplantSetCollectionChanged - Steamaha
-0d 0h 00m 08s > EveMonClient.OnCharacterSkillQueueUpdated - Steamaha
-0d 0h 00m 08s > EveMonClient.OnCharacterUpdated - Steamaha
-0d 0h 00m 08s > EveMonClient.OnCharacterUpdated - Smart Eggs
-0d 0h 00m 08s > EveMonClient.OnCharacterImplantSetCollectionChanged - Smart Eggs
-0d 0h 00m 08s > EveMonClient.OnCharacterSkillQueueUpdated - Smart Eggs
-0d 0h 00m 08s > EveMonClient.OnCharacterUpdated - Smart Eggs
-0d 0h 00m 08s > EveMonClient.OnCharacterUpdated - Caldarynka
-0d 0h 00m 08s > EveMonClient.OnCharacterImplantSetCollectionChanged - Caldarynka
-0d 0h 00m 08s > EveMonClient.OnCharacterSkillQueueUpdated - Caldarynka
-0d 0h 00m 08s > EveMonClient.OnCharacterUpdated - Caldarynka
-0d 0h 00m 08s > EveMonClient.OnCharacterUpdated - Gallentiada
-0d 0h 00m 08s > EveMonClient.OnCharacterImplantSetCollectionChanged - Gallentiada
-0d 0h 00m 08s > EveMonClient.OnCharacterSkillQueueUpdated - Gallentiada
-0d 0h 00m 08s > EveMonClient.OnCharacterUpdated - Gallentiada
-0d 0h 00m 08s > EveMonClient.OnCharacterUpdated - DeeChEva
-0d 0h 00m 08s > EveMonClient.OnCharacterImplantSetCollectionChanged - DeeChEva
-0d 0h 00m 08s > EveMonClient.OnCharacterSkillQueueUpdated - DeeChEva
-0d 0h 00m 08s > EveMonClient.OnCharacterUpdated - DeeChEva
-0d 0h 00m 08s > EveMonClient.OnCharacterUpdated - Ababa Halamaha
-0d 0h 00m 08s > EveMonClient.OnCharacterImplantSetCollectionChanged - Ababa Halamaha
-0d 0h 00m 08s > EveMonClient.OnCharacterSkillQueueUpdated - Ababa Halamaha
-0d 0h 00m 08s > EveMonClient.OnCharacterUpdated - Ababa Halamaha
-0d 0h 00m 08s > EveMonClient.OnCharacterUpdated - Aby Dee
-0d 0h 00m 08s > EveMonClient.OnCharacterImplantSetCollectionChanged - Aby Dee
-0d 0h 00m 08s > EveMonClient.OnCharacterSkillQueueUpdated - Aby Dee
-0d 0h 00m 08s > EveMonClient.OnCharacterUpdated - Aby Dee
-0d 0h 00m 08s > EveMonClient.OnCharacterUpdated - Micronomica Alpha
-0d 0h 00m 08s > EveMonClient.OnCharacterImplantSetCollectionChanged - Micronomica Alpha
-0d 0h 00m 08s > EveMonClient.OnCharacterSkillQueueUpdated - Micronomica Alpha
-0d 0h 00m 08s > EveMonClient.OnCharacterUpdated - Micronomica Alpha
-0d 0h 00m 08s > EveMonClient.OnCharacterCollectionChanged
-0d 0h 00m 08s > EveMonClient.OnESIKeyCollectionChanged
-0d 0h 00m 08s > EveMonClient.OnCharacterPlanCollectionChanged - Dee Galla
-0d 0h 00m 08s > EveMonClient.OnCharacterPlanCollectionChanged - Deem Matar
-0d 0h 00m 08s > EveMonClient.OnCharacterPlanCollectionChanged - VeeDeeCovan
-0d 0h 00m 08s > EveMonClient.OnCharacterPlanCollectionChanged - Worm Holera
-0d 0h 00m 08s > EveMonClient.OnCharacterPlanCollectionChanged - Gallenteria
-0d 0h 00m 08s > EveMonClient.OnCharacterPlanCollectionChanged - Abyssette
-0d 0h 00m 08s > EveMonClient.OnCharacterPlanCollectionChanged - DeeBladina
-0d 0h 00m 08s > EveMonClient.OnCharacterPlanCollectionChanged - Lordessa
-0d 0h 00m 08s > EveMonClient.OnCharacterPlanCollectionChanged - Steamaha
-0d 0h 00m 08s > EveMonClient.OnCharacterPlanCollectionChanged - Smart Eggs
-0d 0h 00m 08s > EveMonClient.OnCharacterPlanCollectionChanged - Caldarynka
-0d 0h 00m 08s > EveMonClient.OnCharacterPlanCollectionChanged - Gallentiada
-0d 0h 00m 08s > EveMonClient.OnCharacterPlanCollectionChanged - DeeChEva
-0d 0h 00m 08s > EveMonClient.OnCharacterPlanCollectionChanged - Ababa Halamaha
-0d 0h 00m 08s > EveMonClient.OnCharacterPlanCollectionChanged - Aby Dee
-0d 0h 00m 08s > EveMonClient.OnCharacterPlanCollectionChanged - Micronomica Alpha
+0d 0h 00m 01s > MainWindow.OnLoad
+0d 0h 00m 01s > TimeCheck.ScheduleCheck - in 00:00:01
+0d 0h 00m 01s > UpdateManager.ScheduleCheck - in 00:00:10
+0d 0h 00m 01s > Main window - loaded
+0d 0h 00m 01s > Datafiles.Load - begin
+0d 0h 00m 02s > TimeCheck.BeginCheckAsync
+0d 0h 00m 02s > TimeCheck.OnCheckCompleted - Synchronised
+0d 0h 00m 02s > TimeCheck.ScheduleCheck - in 1.00:00:00
+0d 0h 00m 02s > EveMonClient.OnServerStatusUpdated
+0d 0h 00m 06s > Datafiles.Load - done
+0d 0h 00m 06s > Settings.ImportData - begin
+0d 0h 00m 06s > EveMonClient.OnCharacterUpdated - Dee Galla
+0d 0h 00m 06s > EveMonClient.OnCharacterImplantSetCollectionChanged - Dee Galla
+0d 0h 00m 06s > EveMonClient.OnCharacterSkillQueueUpdated - Dee Galla
+0d 0h 00m 06s > EveMonClient.OnCharacterUpdated - Dee Galla
+0d 0h 00m 06s > EveMonClient.OnCharacterUpdated - Deem Matar
+0d 0h 00m 06s > EveMonClient.OnCharacterImplantSetCollectionChanged - Deem Matar
+0d 0h 00m 06s > EveMonClient.OnCharacterSkillQueueUpdated - Deem Matar
+0d 0h 00m 06s > EveMonClient.OnCharacterUpdated - Deem Matar
+0d 0h 00m 07s > EveMonClient.OnCharacterUpdated - VeeDeeCovan
+0d 0h 00m 07s > EveMonClient.OnCharacterImplantSetCollectionChanged - VeeDeeCovan
+0d 0h 00m 07s > EveMonClient.OnCharacterSkillQueueUpdated - VeeDeeCovan
+0d 0h 00m 07s > EveMonClient.OnCharacterUpdated - VeeDeeCovan
+0d 0h 00m 07s > EveMonClient.OnCharacterUpdated - Worm Holera
+0d 0h 00m 07s > EveMonClient.OnCharacterImplantSetCollectionChanged - Worm Holera
+0d 0h 00m 07s > EveMonClient.OnCharacterSkillQueueUpdated - Worm Holera
+0d 0h 00m 07s > EveMonClient.OnCharacterUpdated - Worm Holera
+0d 0h 00m 07s > EveMonClient.OnCharacterUpdated - Gallenteria
+0d 0h 00m 07s > EveMonClient.OnCharacterImplantSetCollectionChanged - Gallenteria
+0d 0h 00m 07s > EveMonClient.OnCharacterSkillQueueUpdated - Gallenteria
+0d 0h 00m 07s > EveMonClient.OnCharacterUpdated - Gallenteria
+0d 0h 00m 07s > EveMonClient.OnCharacterUpdated - Abyssette
+0d 0h 00m 07s > EveMonClient.OnCharacterImplantSetCollectionChanged - Abyssette
+0d 0h 00m 07s > EveMonClient.OnCharacterSkillQueueUpdated - Abyssette
+0d 0h 00m 07s > EveMonClient.OnCharacterUpdated - Abyssette
+0d 0h 00m 07s > EveMonClient.OnCharacterUpdated - DeeBladina
+0d 0h 00m 07s > EveMonClient.OnCharacterImplantSetCollectionChanged - DeeBladina
+0d 0h 00m 07s > EveMonClient.OnCharacterSkillQueueUpdated - DeeBladina
+0d 0h 00m 07s > EveMonClient.OnCharacterUpdated - DeeBladina
+0d 0h 00m 07s > EveMonClient.OnCharacterUpdated - Lordessa
+0d 0h 00m 07s > EveMonClient.OnCharacterImplantSetCollectionChanged - Lordessa
+0d 0h 00m 07s > EveMonClient.OnCharacterSkillQueueUpdated - Lordessa
+0d 0h 00m 07s > EveMonClient.OnCharacterUpdated - Lordessa
+0d 0h 00m 07s > EveMonClient.OnCharacterUpdated - Steamaha
+0d 0h 00m 07s > EveMonClient.OnCharacterImplantSetCollectionChanged - Steamaha
+0d 0h 00m 07s > EveMonClient.OnCharacterSkillQueueUpdated - Steamaha
+0d 0h 00m 07s > EveMonClient.OnCharacterUpdated - Steamaha
+0d 0h 00m 07s > EveMonClient.OnCharacterUpdated - Smart Eggs
+0d 0h 00m 07s > EveMonClient.OnCharacterImplantSetCollectionChanged - Smart Eggs
+0d 0h 00m 07s > EveMonClient.OnCharacterSkillQueueUpdated - Smart Eggs
+0d 0h 00m 07s > EveMonClient.OnCharacterUpdated - Smart Eggs
+0d 0h 00m 07s > EveMonClient.OnCharacterUpdated - Caldarynka
+0d 0h 00m 07s > EveMonClient.OnCharacterImplantSetCollectionChanged - Caldarynka
+0d 0h 00m 07s > EveMonClient.OnCharacterSkillQueueUpdated - Caldarynka
+0d 0h 00m 07s > EveMonClient.OnCharacterUpdated - Caldarynka
+0d 0h 00m 07s > EveMonClient.OnCharacterUpdated - Gallentiada
+0d 0h 00m 07s > EveMonClient.OnCharacterImplantSetCollectionChanged - Gallentiada
+0d 0h 00m 07s > EveMonClient.OnCharacterSkillQueueUpdated - Gallentiada
+0d 0h 00m 07s > EveMonClient.OnCharacterUpdated - Gallentiada
+0d 0h 00m 07s > EveMonClient.OnCharacterUpdated - DeeChEva
+0d 0h 00m 07s > EveMonClient.OnCharacterImplantSetCollectionChanged - DeeChEva
+0d 0h 00m 07s > EveMonClient.OnCharacterSkillQueueUpdated - DeeChEva
+0d 0h 00m 07s > EveMonClient.OnCharacterUpdated - DeeChEva
+0d 0h 00m 07s > EveMonClient.OnCharacterUpdated - Ababa Halamaha
+0d 0h 00m 07s > EveMonClient.OnCharacterImplantSetCollectionChanged - Ababa Halamaha
+0d 0h 00m 07s > EveMonClient.OnCharacterSkillQueueUpdated - Ababa Halamaha
+0d 0h 00m 07s > EveMonClient.OnCharacterUpdated - Ababa Halamaha
+0d 0h 00m 07s > EveMonClient.OnCharacterUpdated - Aby Dee
+0d 0h 00m 07s > EveMonClient.OnCharacterImplantSetCollectionChanged - Aby Dee
+0d 0h 00m 07s > EveMonClient.OnCharacterSkillQueueUpdated - Aby Dee
+0d 0h 00m 07s > EveMonClient.OnCharacterUpdated - Aby Dee
+0d 0h 00m 07s > EveMonClient.OnCharacterUpdated - Micronomica Alpha
+0d 0h 00m 07s > EveMonClient.OnCharacterImplantSetCollectionChanged - Micronomica Alpha
+0d 0h 00m 07s > EveMonClient.OnCharacterSkillQueueUpdated - Micronomica Alpha
+0d 0h 00m 07s > EveMonClient.OnCharacterUpdated - Micronomica Alpha
+0d 0h 00m 07s > EveMonClient.OnCharacterCollectionChanged
+0d 0h 00m 07s > EveMonClient.OnESIKeyCollectionChanged
+0d 0h 00m 07s > EveMonClient.OnCharacterPlanCollectionChanged - Dee Galla
+0d 0h 00m 07s > EveMonClient.OnCharacterPlanCollectionChanged - Deem Matar
+0d 0h 00m 07s > EveMonClient.OnCharacterPlanCollectionChanged - VeeDeeCovan
+0d 0h 00m 07s > EveMonClient.OnCharacterPlanCollectionChanged - Worm Holera
+0d 0h 00m 07s > EveMonClient.OnCharacterPlanCollectionChanged - Gallenteria
+0d 0h 00m 07s > EveMonClient.OnCharacterPlanCollectionChanged - Abyssette
+0d 0h 00m 07s > EveMonClient.OnCharacterPlanCollectionChanged - DeeBladina
+0d 0h 00m 07s > EveMonClient.OnCharacterPlanCollectionChanged - Lordessa
+0d 0h 00m 07s > EveMonClient.OnCharacterPlanCollectionChanged - Steamaha
+0d 0h 00m 07s > EveMonClient.OnCharacterPlanCollectionChanged - Smart Eggs
+0d 0h 00m 07s > EveMonClient.OnCharacterPlanCollectionChanged - Caldarynka
+0d 0h 00m 07s > EveMonClient.OnCharacterPlanCollectionChanged - Gallentiada
+0d 0h 00m 07s > EveMonClient.OnCharacterPlanCollectionChanged - DeeChEva
+0d 0h 00m 07s > EveMonClient.OnCharacterPlanCollectionChanged - Ababa Halamaha
+0d 0h 00m 07s > EveMonClient.OnCharacterPlanCollectionChanged - Aby Dee
+0d 0h 00m 07s > EveMonClient.OnCharacterPlanCollectionChanged - Micronomica Alpha
+0d 0h 00m 07s > EveMonClient.OnMonitoredCharactersChanged
+0d 0h 00m 08s > EveMonClient.OnMonitoredCharactersChanged
+0d 0h 00m 08s > EveMonClient.OnMonitoredCharactersChanged
+0d 0h 00m 08s > EveMonClient.OnEveIDToNameUpdated
+0d 0h 00m 08s > EveMonClient.OnCharacterInfoUpdated - Dee Galla
+0d 0h 00m 08s > EveMonClient.OnCharacterInfoUpdated - Deem Matar
+0d 0h 00m 08s > EveMonClient.OnCharacterInfoUpdated - VeeDeeCovan
+0d 0h 00m 08s > EveMonClient.OnCharacterInfoUpdated - Worm Holera
+0d 0h 00m 08s > EveMonClient.OnCharacterInfoUpdated - Gallenteria
+0d 0h 00m 08s > EveMonClient.OnCharacterInfoUpdated - Abyssette
+0d 0h 00m 08s > EveMonClient.OnCharacterInfoUpdated - DeeBladina
+0d 0h 00m 08s > EveMonClient.OnCharacterInfoUpdated - Lordessa
+0d 0h 00m 08s > EveMonClient.OnCharacterInfoUpdated - Steamaha
+0d 0h 00m 08s > EveMonClient.OnCharacterInfoUpdated - Smart Eggs
+0d 0h 00m 08s > EveMonClient.OnCharacterInfoUpdated - Caldarynka
+0d 0h 00m 08s > EveMonClient.OnCharacterInfoUpdated - Gallentiada
+0d 0h 00m 08s > EveMonClient.OnCharacterInfoUpdated - DeeChEva
+0d 0h 00m 08s > EveMonClient.OnCharacterInfoUpdated - Ababa Halamaha
+0d 0h 00m 08s > EveMonClient.OnCharacterInfoUpdated - Aby Dee
+0d 0h 00m 08s > EveMonClient.OnCharacterInfoUpdated - Micronomica Alpha
+0d 0h 00m 08s > EveMonClient.OnMonitoredCharactersChanged
 0d 0h 00m 08s > EveMonClient.OnMonitoredCharactersChanged
 0d 0h 00m 09s > EveMonClient.OnMonitoredCharactersChanged
 0d 0h 00m 09s > EveMonClient.OnMonitoredCharactersChanged
 0d 0h 00m 09s > EveMonClient.OnMonitoredCharactersChanged
 0d 0h 00m 10s > EveMonClient.OnMonitoredCharactersChanged
 0d 0h 00m 10s > EveMonClient.OnMonitoredCharactersChanged
-0d 0h 00m 10s > EveMonClient.OnEveIDToNameUpdated
-0d 0h 00m 10s > EveMonClient.OnCharacterInfoUpdated - Dee Galla
-0d 0h 00m 10s > EveMonClient.OnCharacterInfoUpdated - Deem Matar
-0d 0h 00m 10s > EveMonClient.OnCharacterInfoUpdated - VeeDeeCovan
-0d 0h 00m 10s > EveMonClient.OnCharacterInfoUpdated - Worm Holera
-0d 0h 00m 10s > EveMonClient.OnCharacterInfoUpdated - Gallenteria
-0d 0h 00m 10s > EveMonClient.OnCharacterInfoUpdated - Abyssette
-0d 0h 00m 10s > EveMonClient.OnCharacterInfoUpdated - DeeBladina
-0d 0h 00m 10s > EveMonClient.OnCharacterInfoUpdated - Lordessa
-0d 0h 00m 10s > EveMonClient.OnCharacterInfoUpdated - Steamaha
-0d 0h 00m 10s > EveMonClient.OnCharacterInfoUpdated - Smart Eggs
-0d 0h 00m 10s > EveMonClient.OnCharacterInfoUpdated - Caldarynka
-0d 0h 00m 10s > EveMonClient.OnCharacterInfoUpdated - Gallentiada
-0d 0h 00m 10s > EveMonClient.OnCharacterInfoUpdated - DeeChEva
-0d 0h 00m 10s > EveMonClient.OnCharacterInfoUpdated - Ababa Halamaha
-0d 0h 00m 10s > EveMonClient.OnCharacterInfoUpdated - Aby Dee
-0d 0h 00m 10s > EveMonClient.OnCharacterInfoUpdated - Micronomica Alpha
-0d 0h 00m 10s > EveMonClient.OnMonitoredCharactersChanged
 0d 0h 00m 11s > EveMonClient.OnMonitoredCharactersChanged
 0d 0h 00m 11s > EveMonClient.OnMonitoredCharactersChanged
 0d 0h 00m 12s > EveMonClient.OnMonitoredCharactersChanged
-0d 0h 00m 12s > EveMonClient.OnCharacterUpdated - Aby Dee
-0d 0h 00m 12s > EveMonClient.OnCharacterListUpdated - 133469435104900630 (Aby Dee)
-0d 0h 00m 12s > EveMonClient.OnESIKeyCollectionChanged
-0d 0h 00m 12s > EveMonClient.OnESIKeyInfoUpdated - 133469435104900630 (Aby Dee)
+0d 0h 00m 12s > EveMonClient.OnMonitoredCharactersChanged
 0d 0h 00m 13s > EveMonClient.OnMonitoredCharactersChanged
-0d 0h 00m 13s > EveMonClient.OnCharacterUpdated - DeeChEva
-0d 0h 00m 13s > EveMonClient.OnCharacterListUpdated - 133562039234423423 (DeeChEva)
-0d 0h 00m 13s > EveMonClient.OnESIKeyCollectionChanged
-0d 0h 00m 13s > EveMonClient.OnESIKeyInfoUpdated - 133562039234423423 (DeeChEva)
-0d 0h 00m 13s > EveMonClient.OnCharacterUpdated - Caldarynka
-0d 0h 00m 14s > EveMonClient.OnCharacterListUpdated - 133459197273928343 (Caldarynka)
-0d 0h 00m 14s > EveMonClient.OnESIKeyCollectionChanged
-0d 0h 00m 14s > EveMonClient.OnESIKeyInfoUpdated - 133459197273928343 (Caldarynka)
-0d 0h 00m 14s > EveMonClient.OnCharacterUpdated - Micronomica Alpha
-0d 0h 00m 14s > EveMonClient.OnCharacterListUpdated - 133562065843575742 (Micronomica Alpha)
-0d 0h 00m 14s > EveMonClient.OnESIKeyCollectionChanged
-0d 0h 00m 14s > EveMonClient.OnESIKeyInfoUpdated - 133562065843575742 (Micronomica Alpha)
-0d 0h 00m 14s > EveMonClient.OnMonitoredCharactersChanged
-0d 0h 00m 14s > EveMonClient.OnCharacterUpdated - Gallentiada
-0d 0h 00m 15s > EveMonClient.OnCharacterListUpdated - 133463129728316356 (Gallentiada)
+0d 0h 00m 13s > EveMonClient.OnMonitoredCharactersChanged
+0d 0h 00m 14s > Settings.ImportData - done
+0d 0h 00m 14s > EveMonClient.OnSettingsChanged
+0d 0h 00m 15s > EveMonClient.OnCharacterUpdated - Ababa Halamaha
+0d 0h 00m 15s > EveMonClient.OnCharacterListUpdated - 133562039832853600 (Ababa Halamaha)
 0d 0h 00m 15s > EveMonClient.OnESIKeyCollectionChanged
-0d 0h 00m 15s > EveMonClient.OnESIKeyInfoUpdated - 133463129728316356 (Gallentiada)
+0d 0h 00m 15s > EveMonClient.OnESIKeyInfoUpdated - 133562039832853600 (Ababa Halamaha)
+0d 0h 00m 15s > EveMonClient.OnCharacterUpdated - Caldarynka
+0d 0h 00m 15s > EveMonClient.OnCharacterListUpdated - 133459197273928343 (Caldarynka)
+0d 0h 00m 15s > EveMonClient.OnESIKeyCollectionChanged
+0d 0h 00m 15s > EveMonClient.OnESIKeyInfoUpdated - 133459197273928343 (Caldarynka)
+0d 0h 00m 15s > EveMonClient.OnCharacterUpdated - Aby Dee
+0d 0h 00m 15s > EveMonClient.OnCharacterListUpdated - 133469435104900630 (Aby Dee)
+0d 0h 00m 15s > EveMonClient.OnESIKeyCollectionChanged
+0d 0h 00m 15s > EveMonClient.OnESIKeyInfoUpdated - 133469435104900630 (Aby Dee)
 0d 0h 00m 15s > EveMonClient.OnCharacterUpdated - Abyssette
 0d 0h 00m 15s > EveMonClient.OnCharacterListUpdated - 133463127839046469 (Abyssette)
 0d 0h 00m 15s > EveMonClient.OnESIKeyCollectionChanged
 0d 0h 00m 15s > EveMonClient.OnESIKeyInfoUpdated - 133463127839046469 (Abyssette)
-0d 0h 00m 15s > EveMonClient.OnCharacterUpdated - Worm Holera
-0d 0h 00m 15s > EveMonClient.OnCharacterListUpdated - 133464838339803886 (Worm Holera)
-0d 0h 00m 15s > EveMonClient.OnESIKeyCollectionChanged
-0d 0h 00m 15s > EveMonClient.OnESIKeyInfoUpdated - 133464838339803886 (Worm Holera)
-0d 0h 00m 15s > EveMonClient.OnCharacterUpdated - DeeBladina
-0d 0h 00m 15s > EveMonClient.OnCharacterListUpdated - 133464838919305587 (DeeBladina)
-0d 0h 00m 15s > EveMonClient.OnESIKeyCollectionChanged
-0d 0h 00m 15s > EveMonClient.OnESIKeyInfoUpdated - 133464838919305587 (DeeBladina)
-0d 0h 00m 16s > EveMonClient.OnMonitoredCharactersChanged
-0d 0h 00m 16s > EveMonClient.OnCharacterUpdated - Dee Galla
-0d 0h 00m 16s > EveMonClient.OnCharacterListUpdated - 133463130195295669 (Dee Galla)
+0d 0h 00m 15s > EveMonClient.OnCharacterUpdated - DeeChEva
+0d 0h 00m 16s > EveMonClient.OnCharacterListUpdated - 133562039234423423 (DeeChEva)
 0d 0h 00m 16s > EveMonClient.OnESIKeyCollectionChanged
-0d 0h 00m 16s > EveMonClient.OnESIKeyInfoUpdated - 133463130195295669 (Dee Galla)
-0d 0h 00m 16s > EveMonClient.OnCharacterUpdated - Ababa Halamaha
-0d 0h 00m 16s > EveMonClient.OnCharacterListUpdated - 133562039832853600 (Ababa Halamaha)
+0d 0h 00m 16s > EveMonClient.OnESIKeyInfoUpdated - 133562039234423423 (DeeChEva)
+0d 0h 00m 16s > EveMonClient.OnCharacterUpdated - Micronomica Alpha
+0d 0h 00m 16s > EveMonClient.OnCharacterListUpdated - 133562065843575742 (Micronomica Alpha)
 0d 0h 00m 16s > EveMonClient.OnESIKeyCollectionChanged
-0d 0h 00m 16s > EveMonClient.OnESIKeyInfoUpdated - 133562039832853600 (Ababa Halamaha)
+0d 0h 00m 16s > EveMonClient.OnESIKeyInfoUpdated - 133562065843575742 (Micronomica Alpha)
+0d 0h 00m 16s > EveMonClient.OnCharacterUpdated - Worm Holera
+0d 0h 00m 16s > EveMonClient.OnCharacterListUpdated - 133464838339803886 (Worm Holera)
+0d 0h 00m 16s > EveMonClient.OnESIKeyCollectionChanged
+0d 0h 00m 16s > EveMonClient.OnESIKeyInfoUpdated - 133464838339803886 (Worm Holera)
+0d 0h 00m 16s > EveMonClient.OnCharacterUpdated - Steamaha
+0d 0h 00m 16s > EveMonClient.OnCharacterListUpdated - 133456646896361497 (Steamaha)
+0d 0h 00m 16s > EveMonClient.OnESIKeyCollectionChanged
+0d 0h 00m 16s > EveMonClient.OnESIKeyInfoUpdated - 133456646896361497 (Steamaha)
+0d 0h 00m 16s > EveMonClient.OnCharacterUpdated - VeeDeeCovan
+0d 0h 00m 16s > EveMonClient.OnCharacterListUpdated - 133464863970014042 (VeeDeeCovan)
+0d 0h 00m 16s > EveMonClient.OnESIKeyCollectionChanged
+0d 0h 00m 16s > EveMonClient.OnESIKeyInfoUpdated - 133464863970014042 (VeeDeeCovan)
+0d 0h 00m 16s > EveMonClient.OnCharacterUpdated - DeeBladina
+0d 0h 00m 16s > EveMonClient.OnCharacterListUpdated - 133464838919305587 (DeeBladina)
+0d 0h 00m 16s > EveMonClient.OnESIKeyCollectionChanged
+0d 0h 00m 16s > EveMonClient.OnESIKeyInfoUpdated - 133464838919305587 (DeeBladina)
 0d 0h 00m 16s > EveMonClient.OnCharacterUpdated - Smart Eggs
-0d 0h 00m 16s > EveMonClient.OnCharacterListUpdated - 133463128749152987 (Smart Eggs)
-0d 0h 00m 16s > EveMonClient.OnESIKeyCollectionChanged
-0d 0h 00m 16s > EveMonClient.OnESIKeyInfoUpdated - 133463128749152987 (Smart Eggs)
-0d 0h 00m 17s > EveMonClient.OnMonitoredCharactersChanged
-0d 0h 00m 17s > EveMonClient.OnCharacterUpdated - Steamaha
-0d 0h 00m 17s > EveMonClient.OnCharacterListUpdated - 133456646896361497 (Steamaha)
+0d 0h 00m 17s > EveMonClient.OnCharacterListUpdated - 133463128749152987 (Smart Eggs)
 0d 0h 00m 17s > EveMonClient.OnESIKeyCollectionChanged
-0d 0h 00m 17s > EveMonClient.OnESIKeyInfoUpdated - 133456646896361497 (Steamaha)
-0d 0h 00m 17s > EveMonClient.OnCharacterUpdated - VeeDeeCovan
-0d 0h 00m 17s > EveMonClient.OnCharacterListUpdated - 133464863970014042 (VeeDeeCovan)
-0d 0h 00m 17s > EveMonClient.OnESIKeyCollectionChanged
-0d 0h 00m 17s > EveMonClient.OnESIKeyInfoUpdated - 133464863970014042 (VeeDeeCovan)
+0d 0h 00m 17s > EveMonClient.OnESIKeyInfoUpdated - 133463128749152987 (Smart Eggs)
 0d 0h 00m 17s > EveMonClient.OnCharacterUpdated - Steamaha
 0d 0h 00m 17s > EveMonClient.OnCharacterListUpdated - 133456443912618197 (Steamaha)
 0d 0h 00m 17s > EveMonClient.OnESIKeyCollectionChanged
 0d 0h 00m 17s > EveMonClient.OnESIKeyInfoUpdated - 133456443912618197 (Steamaha)
-0d 0h 00m 18s > EveMonClient.OnCharacterUpdated - Gallenteria
-0d 0h 00m 18s > EveMonClient.OnCharacterListUpdated - 133469312675876772 (Gallenteria)
-0d 0h 00m 18s > EveMonClient.OnESIKeyCollectionChanged
-0d 0h 00m 18s > EveMonClient.OnESIKeyInfoUpdated - 133469312675876772 (Gallenteria)
-0d 0h 00m 18s > EveMonClient.OnMonitoredCharactersChanged
-0d 0h 00m 18s > EveMonClient.OnCharacterUpdated - Deem Matar
+0d 0h 00m 17s > EveMonClient.OnCharacterUpdated - Gallentiada
+0d 0h 00m 17s > EveMonClient.OnCharacterListUpdated - 133463129728316356 (Gallentiada)
+0d 0h 00m 17s > EveMonClient.OnESIKeyCollectionChanged
+0d 0h 00m 17s > EveMonClient.OnESIKeyInfoUpdated - 133463129728316356 (Gallentiada)
+0d 0h 00m 17s > EveMonClient.OnCharacterUpdated - Gallenteria
+0d 0h 00m 17s > EveMonClient.OnCharacterListUpdated - 133469312675876772 (Gallenteria)
+0d 0h 00m 17s > EveMonClient.OnESIKeyCollectionChanged
+0d 0h 00m 17s > EveMonClient.OnESIKeyInfoUpdated - 133469312675876772 (Gallenteria)
+0d 0h 00m 17s > EveMonClient.OnCharacterUpdated - Dee Galla
+0d 0h 00m 17s > EveMonClient.OnCharacterListUpdated - 133463130195295669 (Dee Galla)
+0d 0h 00m 17s > EveMonClient.OnESIKeyCollectionChanged
+0d 0h 00m 17s > EveMonClient.OnESIKeyInfoUpdated - 133463130195295669 (Dee Galla)
+0d 0h 00m 17s > EveMonClient.OnCharacterUpdated - Deem Matar
 0d 0h 00m 18s > EveMonClient.OnCharacterListUpdated - 133455576520758185 (Deem Matar)
 0d 0h 00m 18s > EveMonClient.OnESIKeyCollectionChanged
 0d 0h 00m 18s > EveMonClient.OnESIKeyInfoUpdated - 133455576520758185 (Deem Matar)
-0d 0h 00m 19s > EveMonClient.OnMonitoredCharactersChanged
-0d 0h 00m 20s > Settings.ImportData - done
-0d 0h 00m 20s > EveMonClient.OnSettingsChanged
-0d 0h 00m 20s > EveMonClient.OnCharacterIndustryJobsCompleted - Dee Galla
-0d 0h 00m 20s > EveMonClient.OnNotificationSent - 1 industry job completed.
-0d 0h 00m 20s > EveMonClient.OnCharacterIndustryJobsCompleted - Deem Matar
-0d 0h 00m 20s > EveMonClient.OnNotificationSent - 4 industry jobs completed.
-0d 0h 00m 20s > EveMonClient.OnCharacterIndustryJobsCompleted - DeeBladina
-0d 0h 00m 20s > EveMonClient.OnNotificationSent - 1 industry job completed.
-0d 0h 00m 20s > EveMonClient.OnCharacterContractsUpdated - Caldarynka
-0d 0h 00m 20s > EveMonClient.OnCharacterResearchPointsUpdated - Caldarynka
-0d 0h 00m 20s > EveMonClient.OnCharacterKillLogUpdated - Caldarynka
-0d 0h 00m 20s > EveMonClient.OnCharacterContractsUpdated - Gallentiada
-0d 0h 00m 20s > EveMonClient.OnCharacterIndustryJobsUpdated - Caldarynka
-0d 0h 00m 20s > EveMonClient.OnCharacterLoyaltyPointsUpdated - Caldarynka
-0d 0h 00m 20s > EveMonClient.OnCharacterIndustryJobsUpdated - Gallentiada
-0d 0h 00m 20s > EveMonClient.OnCharacterResearchPointsUpdated - Gallentiada
-0d 0h 00m 20s > EveMonClient.OnCharacterWalletJournalUpdated - Caldarynka
-0d 0h 00m 20s > EveMonClient.OnCharacterKillLogUpdated - Gallentiada
-0d 0h 00m 20s > EveMonClient.OnCharacterWalletTransactionsUpdated - Gallentiada
-0d 0h 00m 20s > EveMonClient.OnCharacterStandingsUpdated - Gallentiada
-0d 0h 00m 20s > EveMonClient.OnCharacterKillLogUpdated - Worm Holera
-0d 0h 00m 20s > EveMonClient.OnCharacterWalletJournalUpdated - Gallentiada
-0d 0h 00m 20s > EveMonClient.OnCharacterPlanetaryColoniesUpdated - Gallentiada
-0d 0h 00m 20s > EveMonClient.OnCharacterPlanetaryColoniesUpdated - Caldarynka
-0d 0h 00m 20s > EveMonClient.OnCharacterWalletJournalUpdated - Abyssette
-0d 0h 00m 20s > EveMonClient.OnCharacterWalletTransactionsUpdated - Abyssette
-0d 0h 00m 20s > EveMonClient.OnCharacterIndustryJobsUpdated - Abyssette
-0d 0h 00m 20s > EveMonClient.OnCharacterStandingsUpdated - Abyssette
-0d 0h 00m 20s > EveMonClient.OnCharacterStandingsUpdated - Caldarynka
-0d 0h 00m 20s > EveMonClient.OnCharacterResearchPointsUpdated - DeeBladina
-0d 0h 00m 20s > EveMonClient.OnCharacterWalletTransactionsUpdated - Caldarynka
-0d 0h 00m 20s > EveMonClient.OnCharacterLoyaltyPointsUpdated - Gallentiada
-0d 0h 00m 20s > EveMonClient.OnCharacterStandingsUpdated - Worm Holera
-0d 0h 00m 20s > EveMonClient.OnCharacterStandingsUpdated - Dee Galla
-0d 0h 00m 21s > EveMonClient.OnCharacterContactsUpdated - Caldarynka
-0d 0h 00m 21s > EveMonClient.OnCharacterContractsUpdated - DeeBladina
-0d 0h 00m 21s > EveMonClient.OnCharacterEVEMailMessagesUpdated - Gallentiada
-0d 0h 00m 21s > EveMonClient.OnCharacterLoyaltyPointsUpdated - Worm Holera
-0d 0h 00m 21s > EveMonClient.OnCharacterKillLogUpdated - Abyssette
-0d 0h 00m 21s > EveMonClient.OnCharacterEVEMailMessagesUpdated - Caldarynka
-0d 0h 00m 21s > EveMonClient.OnCharacterEVENotificationsUpdated - Caldarynka
-0d 0h 00m 21s > EveMonClient.OnNotificationSent - 2 new EVE notifications.
-0d 0h 00m 21s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
-0d 0h 00m 21s > CitadelStationProvider.FetchIDs - ESI lookup for 1041815756528 using 133463129728316356 (Gallentiada)
-0d 0h 00m 21s > EveMonClient.OnCharacterAssetsUpdated - Caldarynka
-0d 0h 00m 21s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
-0d 0h 00m 21s > EveFlag.Import - begin
-0d 0h 00m 21s > EveFlag.EnsureImportation - done
-0d 0h 00m 21s > EveMonClient.OnCharacterAssetsUpdated - VeeDeeCovan
-0d 0h 00m 21s > EveMonClient.OnCharacterAssetsUpdated - Gallentiada
-0d 0h 00m 21s > EveMonClient.OnCharacterAssetsUpdated - Abyssette
-0d 0h 00m 21s > EveMonClient.OnCharacterEVEMailMessagesUpdated - DeeBladina
-0d 0h 00m 21s > EveMonClient.OnCharacterIndustryJobsUpdated - Worm Holera
-0d 0h 00m 21s > EveMonClient.OnCharacterKillLogUpdated - DeeBladina
-0d 0h 00m 21s > EveMonClient.OnCharacterStandingsUpdated - DeeBladina
-0d 0h 00m 21s > EveMonClient.OnCharacterResearchPointsUpdated - Smart Eggs
-0d 0h 00m 21s > EveMonClient.OnCharacterContractsUpdated - Abyssette
-0d 0h 00m 21s > EveMonClient.OnCharacterKillLogUpdated - Smart Eggs
-0d 0h 00m 21s > EveMonClient.OnCharacterWalletTransactionsUpdated - Dee Galla
-0d 0h 00m 21s > EveMonClient.OnCharacterResearchPointsUpdated - Abyssette
-0d 0h 00m 21s > EveMonClient.OnCharacterResearchPointsUpdated - Dee Galla
-0d 0h 00m 21s > EveMonClient.OnCharacterLoyaltyPointsUpdated - Abyssette
-0d 0h 00m 21s > EveMonClient.OnCharacterEVENotificationsUpdated - Abyssette
-0d 0h 00m 21s > EveMonClient.OnCharacterEVENotificationsUpdated - Worm Holera
-0d 0h 00m 21s > EveMonClient.OnNotificationSent - 3 new EVE notifications.
-0d 0h 00m 21s > EveMonClient.OnCharacterLoyaltyPointsUpdated - DeeBladina
-0d 0h 00m 21s > EveMonClient.OnCharacterContractsUpdated - Smart Eggs
-0d 0h 00m 21s > EveMonClient.OnCharacterWalletJournalUpdated - Steamaha
-0d 0h 00m 21s > EveMonClient.OnCharacterStandingsUpdated - Smart Eggs
-0d 0h 00m 21s > EveMonClient.OnCharacterWalletTransactionsUpdated - DeeBladina
-0d 0h 00m 21s > EveMonClient.OnCharacterResearchPointsUpdated - Worm Holera
-0d 0h 00m 21s > EveMonClient.OnCharacterResearchPointsUpdated - Steamaha
-0d 0h 00m 21s > EveMonClient.OnCharacterWalletTransactionsUpdated - Worm Holera
-0d 0h 00m 21s > EveMonClient.OnCharacterContactsUpdated - DeeBladina
-0d 0h 00m 21s > EveMonClient.OnCharacterContactsUpdated - Dee Galla
-0d 0h 00m 21s > EveMonClient.OnCharacterEVEMailMessagesUpdated - Smart Eggs
-0d 0h 00m 21s > EveMonClient.OnCharacterWalletTransactionsUpdated - Smart Eggs
-0d 0h 00m 21s > EveMonClient.OnCharacterKillLogUpdated - Steamaha
-0d 0h 00m 21s > EveMonClient.OnCharacterContractsUpdated - Steamaha
-0d 0h 00m 21s > EveMonClient.OnCharacterStandingsUpdated - Gallenteria
-0d 0h 00m 21s > EveMonClient.OnCharacterStandingsUpdated - Steamaha
-0d 0h 00m 21s > EveMonClient.OnCharacterWalletTransactionsUpdated - Steamaha
-0d 0h 00m 21s > EveMonClient.OnCharacterKillLogUpdated - Dee Galla
-0d 0h 00m 21s > EveMonClient.OnCharacterEVEMailMessagesUpdated - Dee Galla
-0d 0h 00m 21s > EveMonClient.OnCharacterContractsUpdated - VeeDeeCovan
-0d 0h 00m 21s > EveMonClient.OnCharacterLoyaltyPointsUpdated - Dee Galla
-0d 0h 00m 21s > EveMonClient.OnCharacterLoyaltyPointsUpdated - Steamaha
-0d 0h 00m 21s > EveMonClient.OnCharacterPlanetaryColoniesUpdated - Worm Holera
-0d 0h 00m 21s > EveMonClient.OnCharacterContactsUpdated - Gallentiada
-0d 0h 00m 21s > EveMonClient.OnCharacterWalletJournalUpdated - Smart Eggs
-0d 0h 00m 21s > EveMonClient.OnCharacterAssetsUpdated - Steamaha
-0d 0h 00m 21s > EveMonClient.OnCharacterContactsUpdated - Smart Eggs
-0d 0h 00m 21s > EveMonClient.OnCharacterWalletJournalUpdated - Worm Holera
-0d 0h 00m 21s > EveMonClient.OnCharacterWalletJournalUpdated - Dee Galla
-0d 0h 00m 21s > EveMonClient.OnCorporationIndustryJobsUpdated - Dee Galla
-0d 0h 00m 21s > EveMonClient.OnCharacterPlanetaryColoniesUpdated - Gallenteria
-0d 0h 00m 21s > EveMonClient.OnCharacterAssetsUpdated - DeeBladina
-0d 0h 00m 21s > EveMonClient.OnCharacterPlanetaryColoniesUpdated - DeeBladina
-0d 0h 00m 21s > EveMonClient.OnCharacterKillLogUpdated - Gallenteria
-0d 0h 00m 21s > EveMonClient.OnCharacterContractsUpdated - Deem Matar
-0d 0h 00m 21s > EveMonClient.OnCharacterPlanetaryColoniesUpdated - Dee Galla
-0d 0h 00m 21s > EveMonClient.OnCharacterIndustryJobsUpdated - Dee Galla
-0d 0h 00m 21s > EveMonClient.OnIndustryJobsUpdated - Dee Galla
-0d 0h 00m 21s > EveMonClient.OnCharacterMarketOrdersUpdated - Abyssette
-0d 0h 00m 21s > EveMonClient.OnCharacterKillLogUpdated - Gallentiada
-0d 0h 00m 21s > EveMonClient.OnCharacterMarketOrdersUpdated - Dee Galla
-0d 0h 00m 21s > EveMonClient.OnCharacterIndustryJobsUpdated - DeeBladina
-0d 0h 00m 21s > EveMonClient.OnCharacterLoyaltyPointsUpdated - Smart Eggs
-0d 0h 00m 21s > EveMonClient.OnCharacterMarketOrdersUpdated - Gallentiada
-0d 0h 00m 21s > EveMonClient.OnCharacterEVEMailMessagesUpdated - Abyssette
-0d 0h 00m 21s > EveMonClient.OnCharacterLoyaltyPointsUpdated - VeeDeeCovan
-0d 0h 00m 21s > EveMonClient.OnCharacterIndustryJobsUpdated - Smart Eggs
-0d 0h 00m 21s > EveMonClient.OnCharacterResearchPointsUpdated - VeeDeeCovan
-0d 0h 00m 21s > EveMonClient.OnCharacterPlanetaryColoniesUpdated - Abyssette
-0d 0h 00m 21s > EveMonClient.OnCharacterEVEMailMessagesUpdated - Steamaha
-0d 0h 00m 21s > EveMonClient.OnCharacterEVEMailMessagesUpdated - Worm Holera
-0d 0h 00m 21s > EveMonClient.OnCharacterWalletJournalUpdated - DeeBladina
-0d 0h 00m 21s > EveMonClient.OnCorporationIndustryJobsUpdated - Steamaha
-0d 0h 00m 21s > EveMonClient.OnCorporationMarketOrdersUpdated - Dee Cartel
-0d 0h 00m 21s > EveMonClient.OnMarketOrdersUpdated - Dee Galla
-0d 0h 00m 21s > EveMonClient.OnCharacterEVENotificationsUpdated - Gallentiada
-0d 0h 00m 21s > EveMonClient.OnNotificationSent - 2 new EVE notifications.
-0d 0h 00m 21s > EveMonClient.OnCharacterWalletTransactionsUpdated - VeeDeeCovan
-0d 0h 00m 21s > EveMonClient.OnCorporationIndustryJobsUpdated - DeeBladina
-0d 0h 00m 21s > EveMonClient.OnIndustryJobsUpdated - DeeBladina
-0d 0h 00m 21s > EveMonClient.OnCharacterIndustryJobsUpdated - Gallenteria
-0d 0h 00m 21s > EveMonClient.OnCharacterContactsUpdated - Steamaha
-0d 0h 00m 21s > EveMonClient.OnCorporationIndustryJobsUpdated - Gallentiada
-0d 0h 00m 21s > EveMonClient.OnIndustryJobsUpdated - Gallentiada
-0d 0h 00m 21s > EveMonClient.OnCorporationContractsUpdated - Dee Cartel
-0d 0h 00m 21s > EveMonClient.OnCharacterIndustryJobsUpdated - Steamaha
-0d 0h 00m 21s > EveMonClient.OnIndustryJobsUpdated - Steamaha
-0d 0h 00m 21s > EveMonClient.OnCharacterWalletJournalUpdated - VeeDeeCovan
-0d 0h 00m 21s > EveMonClient.OnCharacterContactsUpdated - Gallenteria
-0d 0h 00m 21s > EveMonClient.OnCharacterIndustryJobsUpdated - VeeDeeCovan
-0d 0h 00m 21s > EveMonClient.OnCharacterPlanetaryColoniesUpdated - VeeDeeCovan
-0d 0h 00m 21s > EveMonClient.OnCharacterStandingsUpdated - VeeDeeCovan
-0d 0h 00m 21s > EveMonClient.OnCharacterWalletJournalUpdated - Gallenteria
-0d 0h 00m 21s > EveMonClient.OnCharacterContractsUpdated - Dee Galla
-0d 0h 00m 21s > EveMonClient.OnContractsUpdated - Dee Galla
-0d 0h 00m 21s > EveMonClient.OnCharacterEVEMailMessagesUpdated - VeeDeeCovan
-0d 0h 00m 21s > EveMonClient.OnCharacterEVEMailMessagesUpdated - Gallenteria
-0d 0h 00m 21s > EveMonClient.OnCharacterEVENotificationsUpdated - DeeBladina
-0d 0h 00m 21s > EveMonClient.OnCharacterContactsUpdated - Worm Holera
-0d 0h 00m 21s > EveMonClient.OnCharacterWalletTransactionsUpdated - Gallenteria
-0d 0h 00m 21s > EveMonClient.OnCharacterLoyaltyPointsUpdated - Gallenteria
-0d 0h 00m 21s > EveMonClient.OnCharacterStandingsUpdated - Deem Matar
-0d 0h 00m 21s > EveMonClient.OnConquerableStationListUpdated
-0d 0h 00m 21s > EveMonClient.OnCharacterLoyaltyPointsUpdated - Deem Matar
-0d 0h 00m 21s > EveMonClient.OnCharacterPlanetaryColoniesUpdated - Steamaha
-0d 0h 00m 21s > EveMonClient.OnCharacterContactsUpdated - Abyssette
-0d 0h 00m 21s > EveMonClient.OnCharacterEVEMailMessagesUpdated - Deem Matar
-0d 0h 00m 21s > EveMonClient.OnCharacterPlanetaryColoniesUpdated - Smart Eggs
-0d 0h 00m 21s > EveMonClient.OnCharacterWalletJournalUpdated - Deem Matar
-0d 0h 00m 21s > EveMonClient.OnCharacterResearchPointsUpdated - Deem Matar
-0d 0h 00m 21s > EveMonClient.OnCharacterEVENotificationsUpdated - Steamaha
-0d 0h 00m 21s > EveMonClient.OnNotificationSent - 2 new EVE notifications.
-0d 0h 00m 21s > EveMonClient.OnCharacterMarketOrdersUpdated - Caldarynka
-0d 0h 00m 21s > EveMonClient.OnCharacterKillLogUpdated - Deem Matar
-0d 0h 00m 21s > EveMonClient.OnCorporationContractsUpdated - Dee Cartel
-0d 0h 00m 21s > EveMonClient.OnContractsUpdated - Abyssette
-0d 0h 00m 21s > EveMonClient.OnCorporationIndustryJobsUpdated - Abyssette
-0d 0h 00m 21s > EveMonClient.OnIndustryJobsUpdated - Abyssette
-0d 0h 00m 21s > EveMonClient.OnCharacterResearchPointsUpdated - Gallenteria
-0d 0h 00m 21s > EveMonClient.OnCharacterKillLogUpdated - VeeDeeCovan
-0d 0h 00m 21s > EveMonClient.OnCharacterIndustryJobsUpdated - Deem Matar
-0d 0h 00m 21s > EveMonClient.OnCharacterWalletTransactionsUpdated - Deem Matar
-0d 0h 00m 21s > EveMonClient.OnCharacterContactsUpdated - Deem Matar
-0d 0h 00m 21s > EveMonClient.OnCorporationContractsUpdated - Dee Cartel
-0d 0h 00m 21s > EveMonClient.OnContractsUpdated - DeeBladina
-0d 0h 00m 21s > EveMonClient.OnCorporationIndustryJobsUpdated - Caldarynka
-0d 0h 00m 21s > EveMonClient.OnIndustryJobsUpdated - Caldarynka
-0d 0h 00m 21s > EveMonClient.OnCharacterPlanetaryColoniesUpdated - Deem Matar
-0d 0h 00m 21s > EveMonClient.OnCorporationMarketOrdersUpdated - Dee Cartel
-0d 0h 00m 21s > EveMonClient.OnMarketOrdersUpdated - Deem Matar
-0d 0h 00m 21s > EveMonClient.OnCorporationMarketOrdersUpdated - Dee Cartel
-0d 0h 00m 21s > EveMonClient.OnMarketOrdersUpdated - DeeBladina
-0d 0h 00m 21s > EveMonClient.OnCorporationContractsUpdated - Heirs of Holes
-0d 0h 00m 21s > EveMonClient.OnContractsUpdated - Steamaha
-0d 0h 00m 21s > EveMonClient.OnCorporationMarketOrdersUpdated - Dee Cartel
-0d 0h 00m 21s > EveMonClient.OnMarketOrdersUpdated - Gallenteria
-0d 0h 00m 21s > EveMonClient.OnCorporationMarketOrdersUpdated - Heirs of Holes
-0d 0h 00m 21s > EveMonClient.OnMarketOrdersUpdated - Smart Eggs
-0d 0h 00m 21s > EveMonClient.OnCorporationIndustryJobsUpdated - Gallenteria
-0d 0h 00m 21s > EveMonClient.OnIndustryJobsUpdated - Gallenteria
-0d 0h 00m 21s > EveMonClient.OnCharacterEVENotificationsUpdated - Gallenteria
-0d 0h 00m 21s > EveMonClient.OnCharacterEVENotificationsUpdated - Deem Matar
-0d 0h 00m 21s > EveMonClient.OnCorporationIndustryJobsUpdated - Deem Matar
-0d 0h 00m 21s > EveMonClient.OnIndustryJobsUpdated - Deem Matar
-0d 0h 00m 21s > EveMonClient.OnCorporationContractsUpdated - Haidamaky
-0d 0h 00m 21s > EveMonClient.OnContractsUpdated - VeeDeeCovan
-0d 0h 00m 21s > EveMonClient.OnCharacterEVENotificationsUpdated - VeeDeeCovan
-0d 0h 00m 21s > EveMonClient.OnCharacterMarketOrdersUpdated - Gallenteria
-0d 0h 00m 21s > EveMonClient.OnMarketOrdersUpdated - Gallenteria
-0d 0h 00m 21s > EveMonClient.OnCharacterEVENotificationsUpdated - Dee Galla
-0d 0h 00m 21s > EveMonClient.OnCorporationIndustryJobsUpdated - Smart Eggs
-0d 0h 00m 21s > EveMonClient.OnIndustryJobsUpdated - Smart Eggs
-0d 0h 00m 21s > EveMonClient.OnCorporationMarketOrdersUpdated - Dee Cartel
-0d 0h 00m 21s > EveMonClient.OnMarketOrdersUpdated - Abyssette
-0d 0h 00m 21s > EveMonClient.OnCharacterMarketOrdersUpdated - DeeBladina
-0d 0h 00m 21s > EveMonClient.OnMarketOrdersUpdated - DeeBladina
-0d 0h 00m 21s > EveMonClient.OnCorporationMarketOrdersUpdated - Heirs of Holes
-0d 0h 00m 21s > EveMonClient.OnMarketOrdersUpdated - Gallentiada
-0d 0h 00m 21s > EveMonClient.OnCorporationMarketOrdersUpdated - Heirs of Holes
-0d 0h 00m 21s > EveMonClient.OnMarketOrdersUpdated - Steamaha
-0d 0h 00m 21s > EveMonClient.OnCorporationIndustryJobsUpdated - Worm Holera
-0d 0h 00m 21s > EveMonClient.OnIndustryJobsUpdated - Worm Holera
-0d 0h 00m 21s > EveMonClient.OnCharacterEVENotificationsUpdated - Smart Eggs
-0d 0h 00m 21s > EveMonClient.OnNotificationSent - 2 new EVE notifications.
-0d 0h 00m 21s > EveMonClient.OnCorporationContractsUpdated - Heirs of Holes
-0d 0h 00m 21s > EveMonClient.OnContractsUpdated - Smart Eggs
-0d 0h 00m 21s > EveMonClient.OnCharacterContactsUpdated - VeeDeeCovan
-0d 0h 00m 21s > EveMonClient.OnCorporationContractsUpdated - Dee Cartel
-0d 0h 00m 21s > UpdateManager.OnCheckCompleted
-0d 0h 00m 21s > UpdateManager.ScheduleCheck - in 12:00:00
-0d 0h 00m 21s > EveMonClient.OnCorporationContractsUpdated - Heirs of Holes
-0d 0h 00m 21s > EveMonClient.OnCorporationMarketOrdersUpdated - Heirs of Holes
-0d 0h 00m 21s > EveMonClient.OnMarketOrdersUpdated - Caldarynka
-0d 0h 00m 21s > EveMonClient.OnCorporationMarketOrdersUpdated - Heirs of Holes
-0d 0h 00m 21s > EveMonClient.OnMarketOrdersUpdated - Worm Holera
-0d 0h 00m 21s > EveMonClient.OnCharacterContractsUpdated - Gallenteria
-0d 0h 00m 21s > EveMonClient.OnContractsUpdated - Gallenteria
-0d 0h 00m 21s > EveMonClient.OnCorporationContractsUpdated - Heirs of Holes
-0d 0h 00m 21s > EveMonClient.OnContractsUpdated - Gallentiada
-0d 0h 00m 21s > EveMonClient.OnCorporationContractsUpdated - Dee Cartel
-0d 0h 00m 21s > EveMonClient.OnContractsUpdated - Deem Matar
-0d 0h 00m 21s > EveMonClient.OnCharacterMarketOrdersUpdated - Smart Eggs
-0d 0h 00m 21s > EveMonClient.OnMarketOrdersUpdated - Smart Eggs
-0d 0h 00m 21s > EveMonClient.OnCharacterAssetsUpdated - Dee Galla
-0d 0h 00m 21s > EveMonClient.OnCharacterAssetsUpdated - Worm Holera
-0d 0h 00m 21s > EveMonClient.OnCharacterAssetsUpdated - Deem Matar
-0d 0h 00m 21s > EveMonClient.OnCharacterMarketOrdersUpdated - Deem Matar
-0d 0h 00m 21s > EveMonClient.OnMarketOrdersUpdated - Deem Matar
-0d 0h 00m 21s > EveMonClient.OnCharacterMarketOrdersUpdated - Steamaha
-0d 0h 00m 21s > EveMonClient.OnMarketOrdersUpdated - Steamaha
-0d 0h 00m 21s > Request: https://esi.evetech.net/v3/universe/names/ returned: 404 (Not Found) with content: '{"error":"Ensure all IDs are valid before resolving."}'.
-0d 0h 00m 21s > EveMonClient.OnNotificationSent - Error looking up character identities.
-0d 0h 00m 21s > EveMonClient.OnCharacterMarketOrdersUpdated - Worm Holera
-0d 0h 00m 21s > EveMonClient.OnMarketOrdersUpdated - Worm Holera
-0d 0h 00m 21s > EveMonClient.OnCharacterMarketOrdersUpdated - VeeDeeCovan
-0d 0h 00m 21s > EveMonClient.OnMarketOrdersUpdated - VeeDeeCovan
-0d 0h 00m 21s > EveMonClient.OnCharacterContractsUpdated - Worm Holera
-0d 0h 00m 21s > EveMonClient.OnContractsUpdated - Worm Holera
-0d 0h 00m 21s > EveMonClient.OnCorporationContractsUpdated - Heirs of Holes
-0d 0h 00m 21s > EveMonClient.OnContractsUpdated - Caldarynka
-0d 0h 00m 21s > EveMonClient.OnCharacterAssetsUpdated - Smart Eggs
-0d 0h 00m 21s > EveMonClient.OnCharacterAssetsUpdated - Gallenteria
-0d 0h 00m 21s > EveMonClient.OnNotificationInvalidated
-0d 0h 00m 22s > EveMonClient.OnEveIDToNameUpdated
-0d 0h 00m 22s > EveMonClient.OnCharacterSkillQueueUpdated - Ababa Halamaha
-0d 0h 00m 22s > EveMonClient.OnCharacterSkillQueueUpdated - Micronomica Alpha
-0d 0h 00m 22s > EveMonClient.OnCharacterSkillQueueUpdated - Gallentiada
-0d 0h 00m 22s > EveMonClient.OnCharacterSkillQueueUpdated - Aby Dee
-0d 0h 00m 22s > EveMonClient.OnCharacterSkillQueueUpdated - Abyssette
-0d 0h 00m 22s > EveMonClient.OnCharacterSkillQueueUpdated - DeeChEva
-0d 0h 00m 22s > EveMonClient.OnCharacterSkillQueueUpdated - Caldarynka
-0d 0h 00m 22s > EveMonClient.OnCharacterSkillQueueUpdated - Dee Galla
-0d 0h 00m 22s > EveMonClient.OnCharacterSkillQueueUpdated - Smart Eggs
-0d 0h 00m 22s > EveMonClient.OnCharacterSkillQueueUpdated - Worm Holera
-0d 0h 00m 22s > EveMonClient.OnCharacterSkillQueueUpdated - Deem Matar
-0d 0h 00m 22s > EveMonClient.OnCharacterSkillQueueUpdated - Gallenteria
-0d 0h 00m 22s > EveMonClient.OnCharacterSkillQueueUpdated - VeeDeeCovan
-0d 0h 00m 22s > EveMonClient.OnCharacterSkillQueueUpdated - Steamaha
-0d 0h 00m 22s > EveMonClient.OnCharacterSkillQueueUpdated - DeeBladina
-0d 0h 00m 22s > EveMonClient.OnEveIDToNameUpdated
-0d 0h 00m 23s > EveMonClient.OnCharacterImplantSetCollectionChanged - DeeChEva
-0d 0h 00m 23s > EveMonClient.OnCharacterImplantSetCollectionChanged - Aby Dee
-0d 0h 00m 23s > EveMonClient.OnCharacterImplantSetCollectionChanged - Abyssette
-0d 0h 00m 23s > EveMonClient.OnCharacterImplantSetCollectionChanged - Micronomica Alpha
-0d 0h 00m 23s > EveMonClient.OnCharacterImplantSetCollectionChanged - Dee Galla
-0d 0h 00m 23s > EveMonClient.OnCharacterImplantSetCollectionChanged - Gallentiada
-0d 0h 00m 23s > EveMonClient.OnCharacterImplantSetCollectionChanged - Caldarynka
-0d 0h 00m 23s > EveMonClient.OnCharacterImplantSetCollectionChanged - Worm Holera
-0d 0h 00m 23s > EveMonClient.OnCharacterImplantSetCollectionChanged - Gallenteria
-0d 0h 00m 23s > EveMonClient.OnCharacterImplantSetCollectionChanged - Steamaha
-0d 0h 00m 23s > EveMonClient.OnCharacterImplantSetCollectionChanged - DeeBladina
-0d 0h 00m 23s > EveMonClient.OnCharacterImplantSetCollectionChanged - Smart Eggs
-0d 0h 00m 23s > EveMonClient.OnCharacterImplantSetCollectionChanged - Deem Matar
-0d 0h 00m 23s > EveMonClient.OnCharacterImplantSetCollectionChanged - Ababa Halamaha
+0d 0h 00m 18s > EveMonClient.OnCharacterIndustryJobsCompleted - Dee Galla
+0d 0h 00m 18s > EveMonClient.OnNotificationSent - 1 industry job completed.
+0d 0h 00m 18s > EveMonClient.OnCharacterIndustryJobsCompleted - Deem Matar
+0d 0h 00m 18s > EveMonClient.OnNotificationSent - 4 industry jobs completed.
+0d 0h 00m 18s > EveMonClient.OnCharacterIndustryJobsCompleted - DeeBladina
+0d 0h 00m 18s > EveMonClient.OnNotificationSent - 1 industry job completed.
+0d 0h 00m 18s > EveMonClient.OnCharacterResearchPointsUpdated - Caldarynka
+0d 0h 00m 18s > EveMonClient.OnCharacterMedalsUpdated - Caldarynka
+0d 0h 00m 18s > EveMonClient.OnCharacterKillLogUpdated - Worm Holera
+0d 0h 00m 18s > EveMonClient.OnCharacterLoyaltyPointsUpdated - Abyssette
+0d 0h 00m 18s > EveMonClient.OnCharacterKillLogUpdated - Abyssette
+0d 0h 00m 18s > EveMonClient.OnCharacterIndustryJobsUpdated - Caldarynka
+0d 0h 00m 18s > EveMonClient.OnCharacterIndustryJobsUpdated - Abyssette
+0d 0h 00m 18s > EveMonClient.OnCharacterLoyaltyPointsUpdated - Caldarynka
+0d 0h 00m 18s > EveMonClient.OnCharacterWalletTransactionsUpdated - Worm Holera
+0d 0h 00m 18s > EveMonClient.OnCharacterResearchPointsUpdated - Abyssette
+0d 0h 00m 18s > EveMonClient.OnCharacterWalletTransactionsUpdated - Caldarynka
+0d 0h 00m 18s > EveMonClient.OnCharacterKillLogUpdated - Caldarynka
+0d 0h 00m 18s > EveMonClient.OnCharacterMedalsUpdated - Worm Holera
+0d 0h 00m 18s > EveMonClient.OnCharacterLoyaltyPointsUpdated - Steamaha
+0d 0h 00m 18s > EveMonClient.OnCharacterIndustryJobsUpdated - Worm Holera
+0d 0h 00m 18s > EveMonClient.OnCharacterLoyaltyPointsUpdated - Worm Holera
+0d 0h 00m 18s > EveMonClient.OnCharacterWalletTransactionsUpdated - Abyssette
+0d 0h 00m 18s > EveMonClient.OnCharacterPlanetaryColoniesUpdated - Caldarynka
+0d 0h 00m 18s > EveMonClient.OnCharacterWalletTransactionsUpdated - Steamaha
+0d 0h 00m 18s > EveMonClient.OnCharacterContractsUpdated - Caldarynka
+0d 0h 00m 18s > EveMonClient.OnCharacterStandingsUpdated - Abyssette
+0d 0h 00m 18s > EveMonClient.OnCharacterStandingsUpdated - Caldarynka
+0d 0h 00m 18s > EveMonClient.OnCharacterStandingsUpdated - Worm Holera
+0d 0h 00m 18s > EveMonClient.OnCharacterContractsUpdated - DeeBladina
+0d 0h 00m 18s > EveMonClient.OnCharacterResearchPointsUpdated - Worm Holera
+0d 0h 00m 18s > EveMonClient.OnCharacterWalletJournalUpdated - Caldarynka
+0d 0h 00m 18s > EveMonClient.OnCharacterWalletJournalUpdated - Abyssette
+0d 0h 00m 18s > EveMonClient.OnCharacterContractsUpdated - Steamaha
+0d 0h 00m 18s > EveMonClient.OnCharacterContractsUpdated - Abyssette
+0d 0h 00m 18s > EveMonClient.OnCharacterPlanetaryColoniesUpdated - Abyssette
+0d 0h 00m 18s > EveMonClient.OnCharacterMedalsUpdated - Abyssette
+0d 0h 00m 18s > EveMonClient.OnCharacterContactsUpdated - Caldarynka
+0d 0h 00m 18s > EveMonClient.OnCharacterContactsUpdated - Abyssette
+0d 0h 00m 18s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 00m 18s > EveMonClient.OnCharacterLoyaltyPointsUpdated - VeeDeeCovan
+0d 0h 00m 18s > EveMonClient.OnCharacterIndustryJobsUpdated - VeeDeeCovan
+0d 0h 00m 18s > EveMonClient.OnCharacterStandingsUpdated - VeeDeeCovan
+0d 0h 00m 18s > EveMonClient.OnCharacterResearchPointsUpdated - Steamaha
+0d 0h 00m 18s > EveMonClient.OnCharacterEVENotificationsUpdated - Caldarynka
+0d 0h 00m 18s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 00m 18s > EveMonClient.OnCharacterKillLogUpdated - VeeDeeCovan
+0d 0h 00m 18s > EveMonClient.OnCharacterContactsUpdated - Worm Holera
+0d 0h 00m 18s > EveMonClient.OnCharacterKillLogUpdated - Steamaha
+0d 0h 00m 18s > EveMonClient.OnCharacterIndustryJobsUpdated - Steamaha
+0d 0h 00m 18s > EveMonClient.OnCharacterWalletTransactionsUpdated - VeeDeeCovan
+0d 0h 00m 18s > EveMonClient.OnCharacterStandingsUpdated - Steamaha
+0d 0h 00m 18s > EveMonClient.OnCharacterMedalsUpdated - Steamaha
+0d 0h 00m 18s > EveMonClient.OnCharacterEVENotificationsUpdated - Worm Holera
+0d 0h 00m 18s > EveMonClient.OnCharacterPlanetaryColoniesUpdated - Worm Holera
+0d 0h 00m 18s > EveMonClient.OnCharacterEVENotificationsUpdated - Abyssette
+0d 0h 00m 18s > EveMonClient.OnCharacterWalletJournalUpdated - Steamaha
+0d 0h 00m 18s > EveMonClient.OnCharacterEVEMailMessagesUpdated - Worm Holera
+0d 0h 00m 18s > EveMonClient.OnNotificationSent - 1 new EVE mail message.
+0d 0h 00m 18s > EveMonClient.OnCharacterContractsUpdated - VeeDeeCovan
+0d 0h 00m 18s > EveMonClient.OnCharacterAssetsUpdated - Abyssette
+0d 0h 00m 18s > EveFlag.Import - begin
+0d 0h 00m 18s > EveFlag.EnsureImportation - done
+0d 0h 00m 18s > EveMonClient.OnCharacterAssetsUpdated - Caldarynka
+0d 0h 00m 18s > EveMonClient.OnCharacterResearchPointsUpdated - Smart Eggs
+0d 0h 00m 18s > EveMonClient.OnCharacterContractsUpdated - Worm Holera
+0d 0h 00m 18s > EveMonClient.OnCharacterEVEMailMessagesUpdated - Caldarynka
+0d 0h 00m 18s > EveMonClient.OnNotificationSent - 1 new EVE mail message.
+0d 0h 00m 18s > EveMonClient.OnCharacterEVEMailMessagesUpdated - Abyssette
+0d 0h 00m 18s > EveMonClient.OnNotificationSent - 1 new EVE mail message.
+0d 0h 00m 18s > EveMonClient.OnCharacterStandingsUpdated - Smart Eggs
+0d 0h 00m 18s > EveMonClient.OnCharacterEVEMailMessagesUpdated - Steamaha
+0d 0h 00m 18s > EveMonClient.OnNotificationSent - 1 new EVE mail message.
+0d 0h 00m 18s > EveMonClient.OnCharacterKillLogUpdated - Gallentiada
+0d 0h 00m 18s > EveMonClient.OnCharacterIndustryJobsUpdated - Smart Eggs
+0d 0h 00m 18s > EveMonClient.OnCorporationContractsUpdated - Haidamaky
+0d 0h 00m 18s > EveMonClient.OnContractsUpdated - VeeDeeCovan
+0d 0h 00m 18s > EveMonClient.OnCharacterPlanetaryColoniesUpdated - VeeDeeCovan
+0d 0h 00m 18s > EveMonClient.OnCharacterAssetsUpdated - Steamaha
+0d 0h 00m 18s > EveMonClient.OnCharacterAssetsUpdated - Worm Holera
+0d 0h 00m 18s > EveMonClient.OnCharacterResearchPointsUpdated - VeeDeeCovan
+0d 0h 00m 18s > EveMonClient.OnCharacterWalletJournalUpdated - Worm Holera
+0d 0h 00m 18s > EveMonClient.OnCharacterMedalsUpdated - VeeDeeCovan
+0d 0h 00m 18s > EveMonClient.OnCharacterAssetsUpdated - Smart Eggs
+0d 0h 00m 18s > EveMonClient.OnCharacterLoyaltyPointsUpdated - Smart Eggs
+0d 0h 00m 18s > EveMonClient.OnCharacterIndustryJobsUpdated - Gallentiada
+0d 0h 00m 18s > EveMonClient.OnCharacterContactsUpdated - Steamaha
+0d 0h 00m 18s > EveMonClient.OnCharacterEVEMailMessagesUpdated - Smart Eggs
+0d 0h 00m 18s > EveMonClient.OnNotificationSent - 1 new EVE mail message.
+0d 0h 00m 18s > EveMonClient.OnCharacterWalletJournalUpdated - Gallentiada
+0d 0h 00m 18s > EveMonClient.OnCharacterWalletTransactionsUpdated - DeeBladina
+0d 0h 00m 18s > EveMonClient.OnCharacterWalletJournalUpdated - DeeBladina
+0d 0h 00m 18s > EveMonClient.OnCharacterWalletTransactionsUpdated - Gallentiada
+0d 0h 00m 18s > EveMonClient.OnCharacterWalletTransactionsUpdated - Gallenteria
+0d 0h 00m 18s > EveMonClient.OnCharacterStandingsUpdated - DeeBladina
+0d 0h 00m 18s > EveMonClient.OnCharacterKillLogUpdated - DeeBladina
+0d 0h 00m 18s > EveMonClient.OnCharacterContractsUpdated - Gallentiada
+0d 0h 00m 18s > EveMonClient.OnCharacterWalletJournalUpdated - Smart Eggs
+0d 0h 00m 18s > EveMonClient.OnCharacterMedalsUpdated - DeeBladina
+0d 0h 00m 18s > EveMonClient.OnCharacterLoyaltyPointsUpdated - Gallentiada
+0d 0h 00m 18s > EveMonClient.OnCharacterContactsUpdated - DeeBladina
+0d 0h 00m 18s > EveMonClient.OnCharacterEVENotificationsUpdated - Steamaha
+0d 0h 00m 18s > EveMonClient.OnCharacterWalletJournalUpdated - VeeDeeCovan
+0d 0h 00m 18s > EveMonClient.OnCharacterWalletTransactionsUpdated - Smart Eggs
+0d 0h 00m 18s > EveMonClient.OnCharacterKillLogUpdated - Smart Eggs
+0d 0h 00m 18s > EveMonClient.OnCharacterPlanetaryColoniesUpdated - Steamaha
+0d 0h 00m 18s > EveMonClient.OnCharacterContractsUpdated - Smart Eggs
+0d 0h 00m 18s > EveMonClient.OnCharacterMedalsUpdated - Gallentiada
+0d 0h 00m 18s > EveMonClient.OnCharacterMedalsUpdated - Smart Eggs
+0d 0h 00m 18s > EveMonClient.OnCharacterLoyaltyPointsUpdated - DeeBladina
+0d 0h 00m 18s > EveMonClient.OnCharacterKillLogUpdated - Gallenteria
+0d 0h 00m 18s > EveMonClient.OnCharacterContactsUpdated - Gallentiada
+0d 0h 00m 18s > EveMonClient.OnCharacterPlanetaryColoniesUpdated - Smart Eggs
+0d 0h 00m 18s > EveMonClient.OnCharacterResearchPointsUpdated - DeeBladina
+0d 0h 00m 18s > EveMonClient.OnCharacterStandingsUpdated - Gallentiada
+0d 0h 00m 18s > EveMonClient.OnCharacterResearchPointsUpdated - Gallentiada
+0d 0h 00m 18s > EveMonClient.OnCharacterEVEMailMessagesUpdated - Gallentiada
+0d 0h 00m 18s > EveMonClient.OnNotificationSent - 1 new EVE mail message.
+0d 0h 00m 18s > EveMonClient.OnCharacterIndustryJobsUpdated - DeeBladina
+0d 0h 00m 18s > EveMonClient.OnCharacterMedalsUpdated - Gallenteria
+0d 0h 00m 18s > EveMonClient.OnCharacterMarketOrdersUpdated - Abyssette
+0d 0h 00m 18s > EveMonClient.OnCharacterAssetsUpdated - DeeBladina
+0d 0h 00m 18s > EveMonClient.OnCharacterMarketOrdersUpdated - Caldarynka
+0d 0h 00m 18s > EveMonClient.OnCharacterStandingsUpdated - Gallenteria
+0d 0h 00m 18s > EveMonClient.OnCharacterLoyaltyPointsUpdated - Gallenteria
+0d 0h 00m 18s > EveMonClient.OnCharacterResearchPointsUpdated - Gallenteria
+0d 0h 00m 18s > EveMonClient.OnCharacterWalletJournalUpdated - Dee Galla
+0d 0h 00m 18s > EveMonClient.OnCharacterContractsUpdated - Gallenteria
+0d 0h 00m 18s > EveMonClient.OnCharacterIndustryJobsUpdated - Gallenteria
+0d 0h 00m 18s > EveMonClient.OnCharacterPlanetaryColoniesUpdated - DeeBladina
+0d 0h 00m 18s > EveMonClient.OnCharacterWalletTransactionsUpdated - Dee Galla
+0d 0h 00m 18s > EveMonClient.OnCharacterPlanetaryColoniesUpdated - Gallentiada
+0d 0h 00m 18s > CitadelStationProvider.FetchIDs - ESI lookup for 1041815756528 using 133463129728316356 (Gallentiada)
+0d 0h 00m 18s > EveMonClient.OnCharacterContactsUpdated - Smart Eggs
+0d 0h 00m 18s > EveMonClient.OnCharacterMedalsUpdated - Dee Galla
+0d 0h 00m 18s > EveMonClient.OnCharacterAssetsUpdated - Gallentiada
+0d 0h 00m 18s > EveMonClient.OnCharacterEVEMailMessagesUpdated - VeeDeeCovan
+0d 0h 00m 18s > EveMonClient.OnNotificationSent - 1 new EVE mail message.
+0d 0h 00m 18s > EveMonClient.OnCharacterContractsUpdated - Deem Matar
+0d 0h 00m 18s > EveMonClient.OnCharacterMedalsUpdated - Deem Matar
+0d 0h 00m 18s > EveMonClient.OnCharacterResearchPointsUpdated - Dee Galla
+0d 0h 00m 18s > EveMonClient.OnCharacterKillLogUpdated - Dee Galla
+0d 0h 00m 18s > EveMonClient.OnCorporationMedalsUpdated - Worm Holera
+0d 0h 00m 18s > EveMonClient.OnCharacterWalletTransactionsUpdated - Deem Matar
+0d 0h 00m 18s > EveMonClient.OnCharacterEVENotificationsUpdated - Gallentiada
+0d 0h 00m 18s > EveMonClient.OnCharacterStandingsUpdated - Dee Galla
+0d 0h 00m 18s > EveMonClient.OnCharacterWalletJournalUpdated - Gallenteria
+0d 0h 00m 18s > EveMonClient.OnCharacterLoyaltyPointsUpdated - Deem Matar
+0d 0h 00m 18s > EveMonClient.OnCharacterEVEMailMessagesUpdated - DeeBladina
+0d 0h 00m 18s > EveMonClient.OnNotificationSent - 1 new EVE mail message.
+0d 0h 00m 18s > EveMonClient.OnCharacterLoyaltyPointsUpdated - Dee Galla
+0d 0h 00m 18s > EveMonClient.OnCharacterMarketOrdersUpdated - VeeDeeCovan
+0d 0h 00m 18s > EveMonClient.OnMarketOrdersUpdated - VeeDeeCovan
+0d 0h 00m 18s > EveMonClient.OnCharacterStandingsUpdated - Deem Matar
+0d 0h 00m 18s > EveMonClient.OnCharacterMarketOrdersUpdated - Worm Holera
+0d 0h 00m 18s > EveMonClient.OnCharacterContractsUpdated - Dee Galla
+0d 0h 00m 18s > EveMonClient.OnCorporationMarketOrdersUpdated - Heirs of Holes
+0d 0h 00m 18s > EveMonClient.OnMarketOrdersUpdated - Worm Holera
+0d 0h 00m 18s > EveMonClient.OnCharacterEVEMailMessagesUpdated - Gallenteria
+0d 0h 00m 18s > EveMonClient.OnNotificationSent - 1 new EVE mail message.
+0d 0h 00m 18s > EveMonClient.OnCharacterIndustryJobsUpdated - Deem Matar
+0d 0h 00m 18s > EveMonClient.OnCorporationContractsUpdated - Dee Cartel
+0d 0h 00m 18s > EveMonClient.OnContractsUpdated - Abyssette
+0d 0h 00m 18s > EveMonClient.OnCharacterKillLogUpdated - Deem Matar
+0d 0h 00m 18s > EveMonClient.OnCorporationIndustryJobsUpdated - Abyssette
+0d 0h 00m 18s > EveMonClient.OnIndustryJobsUpdated - Abyssette
+0d 0h 00m 18s > EveMonClient.OnCorporationIndustryJobsUpdated - Caldarynka
+0d 0h 00m 18s > EveMonClient.OnIndustryJobsUpdated - Caldarynka
+0d 0h 00m 18s > EveMonClient.OnCharacterPlanetaryColoniesUpdated - Gallenteria
+0d 0h 00m 18s > EveMonClient.OnCharacterEVENotificationsUpdated - Gallenteria
+0d 0h 00m 18s > EveMonClient.OnCorporationMarketOrdersUpdated - Heirs of Holes
+0d 0h 00m 18s > EveMonClient.OnMarketOrdersUpdated - Steamaha
+0d 0h 00m 18s > EveMonClient.OnCorporationMarketOrdersUpdated - Dee Cartel
+0d 0h 00m 18s > EveMonClient.OnMarketOrdersUpdated - Abyssette
+0d 0h 00m 18s > EveMonClient.OnCharacterContactsUpdated - Deem Matar
+0d 0h 00m 18s > EveMonClient.OnCorporationIndustryJobsUpdated - Dee Galla
+0d 0h 00m 18s > EveMonClient.OnCharacterAssetsUpdated - VeeDeeCovan
+0d 0h 00m 18s > EveMonClient.OnCharacterMarketOrdersUpdated - Smart Eggs
+0d 0h 00m 18s > EveMonClient.OnCorporationMedalsUpdated - Smart Eggs
+0d 0h 00m 18s > EveMonClient.OnCorporationMarketOrdersUpdated - Dee Cartel
+0d 0h 00m 18s > EveMonClient.OnMarketOrdersUpdated - Gallenteria
+0d 0h 00m 18s > EveMonClient.OnCorporationMarketOrdersUpdated - Heirs of Holes
+0d 0h 00m 18s > EveMonClient.OnMarketOrdersUpdated - Caldarynka
+0d 0h 00m 18s > EveMonClient.OnCharacterContactsUpdated - Dee Galla
+0d 0h 00m 18s > EveMonClient.OnCorporationContractsUpdated - Heirs of Holes
+0d 0h 00m 18s > EveMonClient.OnContractsUpdated - Caldarynka
+0d 0h 00m 18s > EveMonClient.OnCharacterIndustryJobsUpdated - Dee Galla
+0d 0h 00m 18s > EveMonClient.OnIndustryJobsUpdated - Dee Galla
+0d 0h 00m 18s > EveMonClient.OnCharacterEVENotificationsUpdated - DeeBladina
+0d 0h 00m 18s > EveMonClient.OnCharacterPlanetaryColoniesUpdated - Dee Galla
+0d 0h 00m 18s > EveMonClient.OnCharacterContactsUpdated - VeeDeeCovan
+0d 0h 00m 18s > EveMonClient.OnCorporationMedalsUpdated - Caldarynka
+0d 0h 00m 18s > EveMonClient.OnCharacterAssetsUpdated - Dee Galla
+0d 0h 00m 18s > EveMonClient.OnCharacterContactsUpdated - Gallenteria
+0d 0h 00m 18s > EveMonClient.OnCharacterAssetsUpdated - Gallenteria
+0d 0h 00m 18s > EveMonClient.OnCharacterEVEMailMessagesUpdated - Dee Galla
+0d 0h 00m 18s > EveMonClient.OnNotificationSent - 1 new EVE mail message.
+0d 0h 00m 18s > EveMonClient.OnCharacterResearchPointsUpdated - Deem Matar
+0d 0h 00m 18s > EveMonClient.OnCharacterMarketOrdersUpdated - Steamaha
+0d 0h 00m 18s > EveMonClient.OnMarketOrdersUpdated - Steamaha
+0d 0h 00m 18s > EveMonClient.OnCharacterWalletJournalUpdated - Deem Matar
+0d 0h 00m 18s > EveMonClient.OnCharacterEVENotificationsUpdated - Smart Eggs
+0d 0h 00m 18s > EveMonClient.OnCorporationIndustryJobsUpdated - Worm Holera
+0d 0h 00m 18s > EveMonClient.OnIndustryJobsUpdated - Worm Holera
+0d 0h 00m 18s > EveMonClient.OnCorporationMarketOrdersUpdated - Dee Cartel
+0d 0h 00m 18s > EveMonClient.OnMarketOrdersUpdated - Deem Matar
+0d 0h 00m 18s > EveMonClient.OnCorporationMedalsUpdated - Steamaha
+0d 0h 00m 18s > EveMonClient.OnCharacterPlanetaryColoniesUpdated - Deem Matar
+0d 0h 00m 18s > EveMonClient.OnCorporationIndustryJobsUpdated - Gallentiada
+0d 0h 00m 18s > EveMonClient.OnIndustryJobsUpdated - Gallentiada
+0d 0h 00m 18s > EveMonClient.OnCorporationMedalsUpdated - Abyssette
+0d 0h 00m 18s > EveMonClient.OnCorporationIndustryJobsUpdated - Deem Matar
+0d 0h 00m 18s > EveMonClient.OnIndustryJobsUpdated - Deem Matar
+0d 0h 00m 18s > EveMonClient.OnCorporationIndustryJobsUpdated - Smart Eggs
+0d 0h 00m 18s > EveMonClient.OnIndustryJobsUpdated - Smart Eggs
+0d 0h 00m 18s > EveMonClient.OnCorporationContractsUpdated - Dee Cartel
+0d 0h 00m 18s > EveMonClient.OnContractsUpdated - Dee Galla
+0d 0h 00m 18s > EveMonClient.OnCorporationMedalsUpdated - Deem Matar
+0d 0h 00m 18s > EveMonClient.OnCharacterEVENotificationsUpdated - Dee Galla
+0d 0h 00m 18s > EveMonClient.OnCorporationMarketOrdersUpdated - Heirs of Holes
+0d 0h 00m 18s > EveMonClient.OnMarketOrdersUpdated - Gallentiada
+0d 0h 00m 18s > EveMonClient.OnCorporationIndustryJobsUpdated - DeeBladina
+0d 0h 00m 18s > EveMonClient.OnIndustryJobsUpdated - DeeBladina
+0d 0h 00m 18s > EveMonClient.OnCharacterKillLogUpdated - Gallentiada
+0d 0h 00m 18s > EveMonClient.OnCorporationIndustryJobsUpdated - Steamaha
+0d 0h 00m 18s > EveMonClient.OnIndustryJobsUpdated - Steamaha
+0d 0h 00m 18s > EveMonClient.OnCorporationContractsUpdated - Dee Cartel
+0d 0h 00m 18s > EveMonClient.OnContractsUpdated - Deem Matar
+0d 0h 00m 18s > EveMonClient.OnCorporationContractsUpdated - Dee Cartel
+0d 0h 00m 18s > EveMonClient.OnContractsUpdated - DeeBladina
+0d 0h 00m 18s > EveMonClient.OnCorporationMedalsUpdated - VeeDeeCovan
+0d 0h 00m 18s > EveMonClient.OnCorporationMedalsUpdated - DeeBladina
+0d 0h 00m 18s > EveMonClient.OnCharacterEVEMailMessagesUpdated - Deem Matar
+0d 0h 00m 18s > EveMonClient.OnNotificationSent - 1 new EVE mail message.
+0d 0h 00m 18s > EveMonClient.OnCharacterEVENotificationsUpdated - VeeDeeCovan
+0d 0h 00m 18s > EveMonClient.OnCorporationMarketOrdersUpdated - Dee Cartel
+0d 0h 00m 18s > EveMonClient.OnMarketOrdersUpdated - DeeBladina
+0d 0h 00m 18s > EveMonClient.OnCorporationMedalsUpdated - Gallentiada
+0d 0h 00m 18s > EveMonClient.OnCharacterEVENotificationsUpdated - Deem Matar
+0d 0h 00m 18s > EveMonClient.OnCorporationContractsUpdated - Dee Cartel
+0d 0h 00m 18s > EveMonClient.OnContractsUpdated - Gallenteria
+0d 0h 00m 18s > EveMonClient.OnCorporationMedalsUpdated - Gallenteria
+0d 0h 00m 18s > EveMonClient.OnCorporationMedalsUpdated - Dee Galla
+0d 0h 00m 18s > EveMonClient.OnCorporationContractsUpdated - Heirs of Holes
+0d 0h 00m 18s > EveMonClient.OnContractsUpdated - Smart Eggs
+0d 0h 00m 18s > EveMonClient.OnCorporationMarketOrdersUpdated - Heirs of Holes
+0d 0h 00m 18s > EveMonClient.OnMarketOrdersUpdated - Smart Eggs
+0d 0h 00m 18s > EveMonClient.OnCorporationIndustryJobsUpdated - Gallenteria
+0d 0h 00m 18s > EveMonClient.OnIndustryJobsUpdated - Gallenteria
+0d 0h 00m 18s > EveMonClient.OnCorporationContractsUpdated - Heirs of Holes
+0d 0h 00m 18s > EveMonClient.OnContractsUpdated - Steamaha
+0d 0h 00m 18s > EveMonClient.OnCorporationContractsUpdated - Heirs of Holes
+0d 0h 00m 18s > EveMonClient.OnContractsUpdated - Worm Holera
+0d 0h 00m 18s > EveMonClient.OnCorporationMarketOrdersUpdated - Dee Cartel
+0d 0h 00m 18s > EveMonClient.OnMarketOrdersUpdated - Dee Galla
+0d 0h 00m 18s > EveMonClient.OnCorporationContractsUpdated - Heirs of Holes
+0d 0h 00m 18s > EveMonClient.OnContractsUpdated - Gallentiada
+0d 0h 00m 18s > UpdateManager.OnCheckCompleted
+0d 0h 00m 18s > UpdateManager.ScheduleCheck - in 12:00:00
+0d 0h 00m 18s > EveMonClient.OnCharacterAssetsUpdated - Deem Matar
+0d 0h 00m 18s > EveMonClient.OnCharacterMarketOrdersUpdated - Gallenteria
+0d 0h 00m 18s > EveMonClient.OnMarketOrdersUpdated - Gallenteria
+0d 0h 00m 18s > EveMonClient.OnConquerableStationListUpdated
+0d 0h 00m 18s > EveMonClient.OnCharacterMarketOrdersUpdated - Dee Galla
+0d 0h 00m 18s > EveMonClient.OnMarketOrdersUpdated - Dee Galla
+0d 0h 00m 18s > EveMonClient.OnCharacterMarketOrdersUpdated - Gallentiada
+0d 0h 00m 18s > EveMonClient.OnMarketOrdersUpdated - Gallentiada
+0d 0h 00m 19s > EveMonClient.OnCharacterMarketOrdersUpdated - DeeBladina
+0d 0h 00m 19s > EveMonClient.OnMarketOrdersUpdated - DeeBladina
+0d 0h 00m 19s > Request: https://esi.evetech.net/v3/universe/names/ returned: 404 (Not Found) with content: '{"error":"Ensure all IDs are valid before resolving."}'.
+0d 0h 00m 19s > EveMonClient.OnNotificationSent - Error looking up character identities.
+0d 0h 00m 19s > EveMonClient.OnCharacterMarketOrdersUpdated - Deem Matar
+0d 0h 00m 19s > EveMonClient.OnMarketOrdersUpdated - Deem Matar
+0d 0h 00m 19s > EveMonClient.OnNotificationInvalidated
+0d 0h 00m 19s > EveMonClient.OnEveIDToNameUpdated
+0d 0h 00m 19s > EveMonClient.OnCharacterSkillQueueUpdated - Gallenteria
+0d 0h 00m 19s > EveMonClient.OnCharacterSkillQueueUpdated - Dee Galla
+0d 0h 00m 19s > EveMonClient.OnCharacterSkillQueueUpdated - DeeChEva
+0d 0h 00m 19s > EveMonClient.OnNotificationSent - Character DeeChEva has less than a day of skills queued.
+0d 0h 00m 19s > EveMonClient.OnCharacterSkillQueueUpdated - Aby Dee
+0d 0h 00m 19s > EveMonClient.OnCharacterSkillQueueUpdated - Deem Matar
+0d 0h 00m 19s > EveMonClient.OnCharacterSkillQueueUpdated - Steamaha
+0d 0h 00m 19s > EveMonClient.OnCharacterSkillQueueUpdated - Ababa Halamaha
+0d 0h 00m 19s > EveMonClient.OnCharacterSkillQueueUpdated - VeeDeeCovan
+0d 0h 00m 19s > EveMonClient.OnCharacterSkillQueueUpdated - Micronomica Alpha
+0d 0h 00m 19s > EveMonClient.OnCharacterSkillQueueUpdated - Smart Eggs
+0d 0h 00m 19s > EveMonClient.OnCharacterSkillQueueUpdated - Abyssette
+0d 0h 00m 19s > EveMonClient.OnCharacterSkillQueueUpdated - Gallentiada
+0d 0h 00m 19s > EveMonClient.OnCharacterSkillQueueUpdated - Worm Holera
+0d 0h 00m 19s > EveMonClient.OnCharacterSkillQueueUpdated - Caldarynka
+0d 0h 00m 19s > EveMonClient.OnCharacterSkillQueueUpdated - DeeBladina
+0d 0h 00m 20s > EveMonClient.OnEveIDToNameUpdated
+0d 0h 00m 20s > EveMonClient.OnCharacterImplantSetCollectionChanged - Caldarynka
+0d 0h 00m 20s > EveMonClient.OnCharacterImplantSetCollectionChanged - DeeChEva
+0d 0h 00m 20s > EveMonClient.OnCharacterImplantSetCollectionChanged - Worm Holera
+0d 0h 00m 20s > EveMonClient.OnCharacterImplantSetCollectionChanged - Aby Dee
+0d 0h 00m 20s > EveMonClient.OnCharacterImplantSetCollectionChanged - Ababa Halamaha
+0d 0h 00m 20s > EveMonClient.OnCharacterImplantSetCollectionChanged - Smart Eggs
+0d 0h 00m 20s > EveMonClient.OnCharacterImplantSetCollectionChanged - Gallentiada
+0d 0h 00m 20s > EveMonClient.OnCharacterImplantSetCollectionChanged - Abyssette
+0d 0h 00m 20s > EveMonClient.OnCharacterImplantSetCollectionChanged - VeeDeeCovan
+0d 0h 00m 20s > EveMonClient.OnCharacterImplantSetCollectionChanged - Dee Galla
+0d 0h 00m 20s > EveMonClient.OnCharacterImplantSetCollectionChanged - Gallenteria
+0d 0h 00m 20s > EveMonClient.OnCharacterImplantSetCollectionChanged - Deem Matar
+0d 0h 00m 20s > EveMonClient.OnCharacterImplantSetCollectionChanged - Micronomica Alpha
+0d 0h 00m 20s > EveMonClient.OnCharacterImplantSetCollectionChanged - DeeBladina
+0d 0h 00m 20s > EveMonClient.OnCharacterImplantSetCollectionChanged - Steamaha
+0d 0h 00m 21s > EveMonClient.OnEveIDToNameUpdated
+0d 0h 00m 21s > EveMonClient.OnCharacterUpdated - Ababa Halamaha
+0d 0h 00m 21s > EveMonClient.OnCharacterInfoUpdated - Ababa Halamaha
+0d 0h 00m 21s > EveMonClient.OnCharacterImplantSetCollectionChanged - Ababa Halamaha
+0d 0h 00m 21s > EveMonClient.OnCharacterUpdated - Caldarynka
+0d 0h 00m 21s > EveMonClient.OnCharacterInfoUpdated - Caldarynka
+0d 0h 00m 21s > EveMonClient.OnCharacterImplantSetCollectionChanged - Caldarynka
+0d 0h 00m 21s > EveMonClient.OnCharacterUpdated - Aby Dee
+0d 0h 00m 22s > EveMonClient.OnCharacterInfoUpdated - Aby Dee
+0d 0h 00m 22s > EveMonClient.OnCharacterImplantSetCollectionChanged - Aby Dee
+0d 0h 00m 22s > EveMonClient.OnCharacterUpdated - Abyssette
+0d 0h 00m 22s > EveMonClient.OnCharacterInfoUpdated - Abyssette
+0d 0h 00m 22s > EveMonClient.OnCharacterImplantSetCollectionChanged - Abyssette
+0d 0h 00m 22s > EveMonClient.OnCharacterUpdated - DeeChEva
+0d 0h 00m 22s > EveMonClient.OnCharacterInfoUpdated - DeeChEva
+0d 0h 00m 22s > EveMonClient.OnCharacterImplantSetCollectionChanged - DeeChEva
+0d 0h 00m 22s > EveMonClient.OnCharacterUpdated - Micronomica Alpha
+0d 0h 00m 22s > EveMonClient.OnCharacterInfoUpdated - Micronomica Alpha
+0d 0h 00m 22s > EveMonClient.OnCharacterImplantSetCollectionChanged - Micronomica Alpha
+0d 0h 00m 22s > EveMonClient.OnCharacterUpdated - Worm Holera
+0d 0h 00m 22s > EveMonClient.OnCharacterInfoUpdated - Worm Holera
+0d 0h 00m 22s > EveMonClient.OnCharacterImplantSetCollectionChanged - Worm Holera
+0d 0h 00m 22s > EveMonClient.OnCharacterUpdated - Steamaha
+0d 0h 00m 22s > EveMonClient.OnCharacterInfoUpdated - Steamaha
+0d 0h 00m 22s > EveMonClient.OnCharacterImplantSetCollectionChanged - Steamaha
+0d 0h 00m 22s > EveMonClient.OnCharacterUpdated - VeeDeeCovan
+0d 0h 00m 23s > EveMonClient.OnCharacterInfoUpdated - VeeDeeCovan
 0d 0h 00m 23s > EveMonClient.OnCharacterImplantSetCollectionChanged - VeeDeeCovan
-0d 0h 00m 23s > EveMonClient.OnEveIDToNameUpdated
-0d 0h 00m 23s > EveMonClient.OnCharacterUpdated - Aby Dee
-0d 0h 00m 24s > EveMonClient.OnCharacterInfoUpdated - Aby Dee
-0d 0h 00m 24s > EveMonClient.OnCharacterImplantSetCollectionChanged - Aby Dee
-0d 0h 00m 24s > EveMonClient.OnCharacterUpdated - DeeChEva
-0d 0h 00m 24s > EveMonClient.OnCharacterInfoUpdated - DeeChEva
-0d 0h 00m 24s > EveMonClient.OnCharacterImplantSetCollectionChanged - DeeChEva
-0d 0h 00m 24s > EveMonClient.OnCharacterUpdated - Caldarynka
-0d 0h 00m 24s > EveMonClient.OnCharacterInfoUpdated - Caldarynka
-0d 0h 00m 24s > EveMonClient.OnCharacterImplantSetCollectionChanged - Caldarynka
-0d 0h 00m 24s > EveMonClient.OnCharacterUpdated - Micronomica Alpha
-0d 0h 00m 24s > EveMonClient.OnCharacterInfoUpdated - Micronomica Alpha
-0d 0h 00m 24s > EveMonClient.OnCharacterImplantSetCollectionChanged - Micronomica Alpha
-0d 0h 00m 24s > EveMonClient.OnCharacterUpdated - Gallentiada
-0d 0h 00m 24s > EveMonClient.OnCharacterInfoUpdated - Gallentiada
-0d 0h 00m 24s > EveMonClient.OnCharacterImplantSetCollectionChanged - Gallentiada
-0d 0h 00m 24s > EveMonClient.OnCharacterUpdated - Abyssette
-0d 0h 00m 25s > EveMonClient.OnCharacterInfoUpdated - Abyssette
-0d 0h 00m 25s > EveMonClient.OnCharacterImplantSetCollectionChanged - Abyssette
-0d 0h 00m 25s > EveMonClient.OnCharacterUpdated - Worm Holera
-0d 0h 00m 25s > EveMonClient.OnCharacterInfoUpdated - Worm Holera
-0d 0h 00m 25s > EveMonClient.OnCharacterImplantSetCollectionChanged - Worm Holera
-0d 0h 00m 25s > EveMonClient.OnCharacterUpdated - DeeBladina
-0d 0h 00m 25s > EveMonClient.OnCharacterInfoUpdated - DeeBladina
-0d 0h 00m 25s > EveMonClient.OnCharacterImplantSetCollectionChanged - DeeBladina
-0d 0h 00m 25s > EveMonClient.OnCharacterUpdated - Dee Galla
-0d 0h 00m 25s > EveMonClient.OnCharacterInfoUpdated - Dee Galla
-0d 0h 00m 25s > EveMonClient.OnCharacterImplantSetCollectionChanged - Dee Galla
-0d 0h 00m 25s > EveMonClient.OnCharacterUpdated - Ababa Halamaha
-0d 0h 00m 25s > EveMonClient.OnCharacterInfoUpdated - Ababa Halamaha
-0d 0h 00m 25s > EveMonClient.OnCharacterImplantSetCollectionChanged - Ababa Halamaha
-0d 0h 00m 25s > EveMonClient.OnCharacterUpdated - Smart Eggs
-0d 0h 00m 25s > EveMonClient.OnCharacterInfoUpdated - Smart Eggs
-0d 0h 00m 25s > EveMonClient.OnCharacterImplantSetCollectionChanged - Smart Eggs
-0d 0h 00m 25s > EveMonClient.OnCharacterUpdated - Steamaha
-0d 0h 00m 26s > EveMonClient.OnCharacterInfoUpdated - Steamaha
-0d 0h 00m 26s > EveMonClient.OnCharacterImplantSetCollectionChanged - Steamaha
-0d 0h 00m 26s > EveMonClient.OnCharacterUpdated - VeeDeeCovan
-0d 0h 00m 26s > EveMonClient.OnCharacterInfoUpdated - VeeDeeCovan
-0d 0h 00m 26s > EveMonClient.OnCharacterImplantSetCollectionChanged - VeeDeeCovan
-0d 0h 00m 26s > EveMonClient.OnCharacterUpdated - Gallenteria
-0d 0h 00m 26s > EveMonClient.OnCharacterInfoUpdated - Gallenteria
-0d 0h 00m 26s > EveMonClient.OnCharacterImplantSetCollectionChanged - Gallenteria
-0d 0h 00m 26s > EveMonClient.OnCharacterUpdated - Deem Matar
-0d 0h 00m 26s > EveMonClient.OnCharacterInfoUpdated - Deem Matar
-0d 0h 00m 26s > EveMonClient.OnCharacterImplantSetCollectionChanged - Deem Matar
-0d 0h 02m 21s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
-0d 0h 02m 21s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
-0d 0h 03m 16s > Main loop - done
-0d 0h 03m 16s > ExecutionContext.Run
-0d 0h 03m 16s > Closed
+0d 0h 00m 23s > EveMonClient.OnCharacterUpdated - DeeBladina
+0d 0h 00m 23s > EveMonClient.OnCharacterInfoUpdated - DeeBladina
+0d 0h 00m 23s > EveMonClient.OnCharacterImplantSetCollectionChanged - DeeBladina
+0d 0h 00m 23s > EveMonClient.OnCharacterUpdated - Smart Eggs
+0d 0h 00m 23s > EveMonClient.OnCharacterInfoUpdated - Smart Eggs
+0d 0h 00m 23s > EveMonClient.OnCharacterImplantSetCollectionChanged - Smart Eggs
+0d 0h 00m 23s > EveMonClient.OnCharacterUpdated - Gallentiada
+0d 0h 00m 23s > EveMonClient.OnCharacterInfoUpdated - Gallentiada
+0d 0h 00m 23s > EveMonClient.OnCharacterImplantSetCollectionChanged - Gallentiada
+0d 0h 00m 23s > EveMonClient.OnCharacterUpdated - Gallenteria
+0d 0h 00m 23s > EveMonClient.OnCharacterInfoUpdated - Gallenteria
+0d 0h 00m 23s > EveMonClient.OnCharacterImplantSetCollectionChanged - Gallenteria
+0d 0h 00m 23s > EveMonClient.OnCharacterUpdated - Dee Galla
+0d 0h 00m 24s > EveMonClient.OnCharacterInfoUpdated - Dee Galla
+0d 0h 00m 24s > EveMonClient.OnCharacterImplantSetCollectionChanged - Dee Galla
+0d 0h 00m 24s > EveMonClient.OnCharacterUpdated - Deem Matar
+0d 0h 00m 24s > EveMonClient.OnCharacterInfoUpdated - Deem Matar
+0d 0h 00m 24s > EveMonClient.OnCharacterImplantSetCollectionChanged - Deem Matar
+0d 0h 01m 32s > EveMonClient.OnMonitoredCharactersChanged
+0d 0h 02m 19s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 02m 19s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 04m 02s > EveMonClient.OnCharacterUpdated - Lordessa
+0d 0h 04m 02s > EveMonClient.OnESIKeyCollectionChanged
+0d 0h 04m 02s > EveMonClient.OnCharacterUpdated - Lordessa
+0d 0h 04m 02s > EveMonClient.OnCharacterListUpdated - 133563653788091463 (Lordessa)
+0d 0h 04m 02s > EveMonClient.OnESIKeyCollectionChanged
+0d 0h 04m 02s > EveMonClient.OnESIKeyInfoUpdated - 133563653788091463 (Lordessa)
+0d 0h 04m 03s > EveMonClient.OnCharacterResearchPointsUpdated - Lordessa
+0d 0h 04m 03s > EveMonClient.OnCharacterWalletTransactionsUpdated - Lordessa
+0d 0h 04m 03s > EveMonClient.OnCharacterStandingsUpdated - Lordessa
+0d 0h 04m 03s > EveMonClient.OnCharacterContractsUpdated - Lordessa
+0d 0h 04m 03s > CitadelStationProvider.FetchIDs - ESI lookup for 1041815756528 using 133563653788091463 (Lordessa)
+0d 0h 04m 03s > EveMonClient.OnCharacterEVEMailMessagesUpdated - Lordessa
+0d 0h 04m 03s > EveMonClient.OnNotificationSent - 21 new EVE mail messages.
+0d 0h 04m 03s > EveMonClient.OnCharacterAssetsUpdated - Lordessa
+0d 0h 04m 03s > EveMonClient.OnCharacterMarketOrdersUpdated - Lordessa
+0d 0h 04m 03s > EveMonClient.OnCharacterIndustryJobsUpdated - Lordessa
+0d 0h 04m 03s > EveMonClient.OnCharacterKillLogUpdated - Lordessa
+0d 0h 04m 03s > EveMonClient.OnCorporationIndustryJobsUpdated - Lordessa
+0d 0h 04m 03s > EveMonClient.OnIndustryJobsUpdated - Lordessa
+0d 0h 04m 03s > EveMonClient.OnCorporationMedalsUpdated - Lordessa
+0d 0h 04m 03s > EveMonClient.OnCorporationMarketOrdersUpdated - Heirs of Holes
+0d 0h 04m 03s > EveMonClient.OnMarketOrdersUpdated - Lordessa
+0d 0h 04m 03s > EveMonClient.OnCharacterEVENotificationsUpdated - Lordessa
+0d 0h 04m 03s > EveMonClient.OnNotificationSent - 24 new EVE notifications.
+0d 0h 04m 03s > EveMonClient.OnCharacterContactsUpdated - Lordessa
+0d 0h 04m 03s > EveMonClient.OnCharacterLoyaltyPointsUpdated - Lordessa
+0d 0h 04m 03s > EveMonClient.OnCharacterPlanetaryColoniesUpdated - Lordessa
+0d 0h 04m 03s > EveMonClient.OnCharacterWalletJournalUpdated - Lordessa
+0d 0h 04m 03s > EveMonClient.OnCorporationContractsUpdated - Heirs of Holes
+0d 0h 04m 03s > EveMonClient.OnContractsUpdated - Lordessa
+0d 0h 04m 03s > EveMonClient.OnCharacterMedalsUpdated - Lordessa
+0d 0h 04m 03s > EveMonClient.OnConquerableStationListUpdated
+0d 0h 04m 03s > EveMonClient.OnEveIDToNameUpdated
+0d 0h 04m 04s > EveMonClient.OnCharacterSkillQueueUpdated - Lordessa
+0d 0h 04m 05s > EveMonClient.OnCharacterImplantSetCollectionChanged - Lordessa
+0d 0h 04m 06s > EveMonClient.OnCharacterUpdated - Lordessa
+0d 0h 04m 06s > EveMonClient.OnCharacterInfoUpdated - Lordessa
+0d 0h 04m 06s > EveMonClient.OnCharacterImplantSetCollectionChanged - Lordessa
+0d 0h 04m 19s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 04m 19s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 05m 02s > EveMonClient.OnServerStatusUpdated
+0d 0h 06m 20s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 06m 20s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 08m 20s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 08m 20s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 10m 03s > EveMonClient.OnServerStatusUpdated
+0d 0h 10m 20s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 10m 20s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 12m 21s > Request: https://esi.evetech.net/v1/corporations/98696581/industry/jobs/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 12m 21s > Request: https://esi.evetech.net/v3/corporations/98696581/orders/ returned: 403 (Forbidden) with content: '{"error":"Character does not have required role(s)"}'.
+0d 0h 14m 20s > Main loop - done
+0d 0h 14m 20s > ExecutionContext.Run
+0d 0h 14m 20s > Closed
