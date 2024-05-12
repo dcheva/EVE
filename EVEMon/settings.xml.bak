@@ -13,7 +13,7 @@
     <esikey id="133464838339803886" refreshToken="XYcX1jvLQEC65Nh1ZdGrZg==" accessMask="18446744073709551615" monitored="true" />
     <esikey id="133464838919305587" refreshToken="DX0C7+7/20Wiq4OdfdEL9w==" accessMask="18446744073709551615" monitored="true" />
     <esikey id="133464863970014042" refreshToken="sDH9uiYrW02KL3sI3V1KUA==" accessMask="18446744073709551615" monitored="true" />
-    <esikey id="133469312675876772" refreshToken="JAA6VkhxMUOxIMQ+tQDWWg==" accessMask="18446744073709551615" monitored="true" />
+    <esikey id="133469312675876772" refreshToken="z1QB2RzP4k2vOYjYtevYCQ==" accessMask="18446744073709551615" monitored="true" />
     <esikey id="133469435104900630" refreshToken="PeW1Cfaqc0aVzLnQaCjReQ==" accessMask="18446744073709551615" monitored="true" />
     <esikey id="133562039234423423" refreshToken="cGrrwU83tk2yTgcvflWbHA==" accessMask="18446744073709551615" monitored="true" />
     <esikey id="133562039832853600" refreshToken="knWSceXd30+QVCBDc+cvdQ==" accessMask="18446744073709551615" monitored="true" />
@@ -2312,8 +2312,8 @@
       <bloodLine>Civire</bloodLine>
       <ancestry>Unknown</ancestry>
       <gender>Female</gender>
-      <corporationName>Heirs of Holes</corporationName>
-      <corporationID>98756871</corporationID>
+      <corporationName>State War Academy</corporationName>
+      <corporationID>1000167</corporationID>
       <allianceName>(None)</allianceName>
       <allianceID>0</allianceID>
       <factionID>0</factionID>
@@ -2327,7 +2327,7 @@
       <jumpFatigue>0001-01-01 00:00:00</jumpFatigue>
       <jumpLastUpdate>0001-01-01 00:00:00</jumpLastUpdate>
       <certificates />
-      <balance>1779503.68</balance>
+      <balance>1523503.68</balance>
       <shipName>Merlin SoE Arc 2m</shipName>
       <shipTypeName>Merlin</shipTypeName>
       <lastKnownLocation>
@@ -2335,7 +2335,7 @@
         <stationID>60015027</stationID>
         <structureID>0</structureID>
       </lastKnownLocation>
-      <securityStatus>0.007497511</securityStatus>
+      <securityStatus>0</securityStatus>
       <cloneStateOverride>Auto</cloneStateOverride>
       <employmentHistory>
         <record corporationID="98756871" corporationName="Heirs of Holes" startDate="2024-03-28 13:24:00" />
@@ -2372,15 +2372,10 @@
         <skill typeID="3301" name="Small Hybrid Turret" level="1" activelevel="1" skillpoints="250" ownsBook="true" isKnown="true" />
         <skill typeID="3315" name="Surgical Strike" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
         <skill typeID="3317" name="Trajectory Analysis" level="1" activelevel="1" skillpoints="1250" ownsBook="true" isKnown="true" />
-        <skill typeID="3321" name="Light Missiles" level="4" activelevel="4" skillpoints="454002" ownsBook="true" isKnown="true" />
-        <skill typeID="12441" name="Missile Bombardment" level="4" activelevel="4" skillpoints="90510" ownsBook="true" isKnown="true" />
-        <skill typeID="3319" name="Missile Launcher Operation" level="5" activelevel="5" skillpoints="256000" ownsBook="true" isKnown="true" />
-        <skill typeID="12442" name="Missile Projection" level="2" activelevel="2" skillpoints="5657" ownsBook="true" isKnown="true" />
-        <skill typeID="21071" name="Rapid Launch" level="4" activelevel="4" skillpoints="90510" ownsBook="true" isKnown="true" />
-        <skill typeID="20314" name="Target Navigation Prediction" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
+        <skill typeID="3319" name="Missile Launcher Operation" level="3" activelevel="3" skillpoints="8000" ownsBook="true" isKnown="true" />
         <skill typeID="3450" name="Afterburner" level="3" activelevel="3" skillpoints="8000" ownsBook="true" isKnown="true" />
         <skill typeID="3453" name="Evasive Maneuvering" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
-        <skill typeID="3454" name="High Speed Maneuvering" level="3" activelevel="3" skillpoints="40000" ownsBook="true" isKnown="true" />
+        <skill typeID="3454" name="High Speed Maneuvering" level="3" activelevel="1" skillpoints="40000" ownsBook="true" isKnown="true" />
         <skill typeID="3449" name="Navigation" level="3" activelevel="3" skillpoints="8000" ownsBook="true" isKnown="true" />
         <skill typeID="3455" name="Warp Drive Operation" level="2" activelevel="2" skillpoints="1415" ownsBook="true" isKnown="true" />
         <skill typeID="3411" name="Cybernetics" level="1" activelevel="1" skillpoints="750" ownsBook="true" isKnown="true" />
@@ -2394,7 +2389,6 @@
         <skill typeID="21718" name="Hacking" level="1" activelevel="1" skillpoints="750" ownsBook="true" isKnown="true" />
         <skill typeID="3551" name="Survey" level="3" activelevel="3" skillpoints="8000" ownsBook="true" isKnown="true" />
         <skill typeID="3402" name="Science" level="4" activelevel="4" skillpoints="45255" ownsBook="true" isKnown="true" />
-        <skill typeID="3422" name="Shield Emission Systems" level="1" activelevel="0" skillpoints="500" ownsBook="false" isKnown="true" />
         <skill typeID="3419" name="Shield Management" level="2" activelevel="2" skillpoints="4243" ownsBook="true" isKnown="true" />
         <skill typeID="3425" name="Shield Upgrades" level="2" activelevel="2" skillpoints="2829" ownsBook="true" isKnown="true" />
         <skill typeID="3420" name="Tactical Shield Manipulation" level="2" activelevel="2" skillpoints="5657" ownsBook="true" isKnown="true" />
@@ -2404,9 +2398,9 @@
         <skill typeID="3342" name="Caldari Hauler" level="1" activelevel="1" skillpoints="1000" ownsBook="true" isKnown="true" />
         <skill typeID="32918" name="Mining Frigate" level="1" activelevel="1" skillpoints="500" ownsBook="true" isKnown="true" />
         <skill typeID="3327" name="Spaceship Command" level="3" activelevel="3" skillpoints="8000" ownsBook="true" isKnown="true" />
-        <skill typeID="3428" name="Long Range Targeting" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
-        <skill typeID="3431" name="Signature Analysis" level="3" activelevel="3" skillpoints="8000" ownsBook="true" isKnown="true" />
-        <skill typeID="3429" name="Target Management" level="4" activelevel="4" skillpoints="45255" ownsBook="true" isKnown="true" />
+        <skill typeID="3428" name="Long Range Targeting" level="2" activelevel="2" skillpoints="2829" ownsBook="true" isKnown="true" />
+        <skill typeID="3431" name="Signature Analysis" level="2" activelevel="2" skillpoints="1415" ownsBook="true" isKnown="true" />
+        <skill typeID="3429" name="Target Management" level="3" activelevel="3" skillpoints="8000" ownsBook="true" isKnown="true" />
         <skill typeID="16598" name="Marketing" level="1" activelevel="1" skillpoints="750" ownsBook="true" isKnown="true" />
         <skill typeID="3443" name="Trade" level="2" activelevel="2" skillpoints="1415" ownsBook="true" isKnown="true" />
       </skills>
@@ -2425,27 +2419,21 @@
         </activeCloneSet>
         <selectedIndex>0</selectedIndex>
       </implants>
-      <queue>
-        <skill typeID="3321" level="5" startSP="453026" endSP="512000" startTime="2024-05-11 23:46:42" endTime="2024-05-14 12:15:52" />
-        <skill typeID="3318" level="4" startSP="16000" endSP="90510" startTime="2024-05-14 12:15:52" endTime="2024-05-17 17:52:45" />
-        <skill typeID="3432" level="4" startSP="16000" endSP="90510" startTime="2024-05-17 17:52:45" endTime="2024-05-21 04:40:05" />
-        <skill typeID="3318" level="5" startSP="90510" endSP="512000" startTime="2024-05-21 04:40:05" endTime="2024-06-08 11:43:12" />
-        <skill typeID="3432" level="5" startSP="90510" endSP="512000" startTime="2024-06-08 11:43:12" endTime="2024-06-28 00:02:32" />
-      </queue>
+      <queue />
       <marketOrders />
       <contracts />
       <industryJobs />
       <eveMailMessages />
       <eveNotifications />
       <lastUpdates>
-        <apiUpdate method="CharacterSheet" time="2024-05-11T22:21:17.736234Z" />
-        <apiUpdate method="Location" time="2024-05-11T22:21:18.5467931Z" />
-        <apiUpdate method="Clones" time="2024-05-11T22:21:18.6242992Z" />
-        <apiUpdate method="Implants" time="2024-05-11T22:21:18.5826339Z" />
-        <apiUpdate method="Ship" time="2024-05-11T22:21:18.6057799Z" />
-        <apiUpdate method="Skills" time="2024-05-11T22:21:18.6863785Z" />
-        <apiUpdate method="SkillQueue" time="2024-05-12T00:21:19.8263872Z" />
-        <apiUpdate method="EmploymentHistory" time="2024-05-11T22:21:18.6012999Z" />
+        <apiUpdate method="CharacterSheet" time="2024-03-31T13:26:02.259683Z" />
+        <apiUpdate method="Location" time="2024-03-31T13:26:03.1883695Z" />
+        <apiUpdate method="Clones" time="2024-03-31T13:26:03.231256Z" />
+        <apiUpdate method="Implants" time="2024-03-31T13:26:03.2521996Z" />
+        <apiUpdate method="Ship" time="2024-03-31T13:26:03.2651642Z" />
+        <apiUpdate method="Skills" time="2024-03-31T13:26:03.3210155Z" />
+        <apiUpdate method="SkillQueue" time="2024-03-31T13:26:02.2676906Z" />
+        <apiUpdate method="EmploymentHistory" time="2024-03-31T13:26:03.2691536Z" />
         <apiUpdate method="Standings" time="0001-01-01T00:00:00" />
         <apiUpdate method="ContactList" time="0001-01-01T00:00:00" />
         <apiUpdate method="FactionalWarfareStats" time="0001-01-01T00:00:00" />
@@ -2455,7 +2443,7 @@
         <apiUpdate method="MarketOrders" time="0001-01-01T00:00:00" />
         <apiUpdate method="Contracts" time="0001-01-01T00:00:00" />
         <apiUpdate method="WalletJournal" time="0001-01-01T00:00:00" />
-        <apiUpdate method="AccountBalance" time="2024-05-11T22:21:18.5938335Z" />
+        <apiUpdate method="AccountBalance" time="2024-03-31T13:26:03.2382378Z" />
         <apiUpdate method="WalletTransactions" time="0001-01-01T00:00:00" />
         <apiUpdate method="IndustryJobs" time="0001-01-01T00:00:00" />
         <apiUpdate method="ResearchPoints" time="0001-01-01T00:00:00" />

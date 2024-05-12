@@ -6,64 +6,19 @@
     "auditLog": "C:\\Users\\Dmytro\\AppData\\Roaming\\EVE Online\\logs\\.log-audit.json",
     "files": [
         {
-            "date": 1711626607821,
-            "name": "C:\\Users\\Dmytro\\AppData\\Roaming\\EVE Online\\logs\\eve-online-launcher-2024.03.28-11.50.07.log",
-            "hash": "0b9c3efb2c1feaffac2f82291b6f0fa78d169ce1ced8d5576d998c783ea6f2fc"
+            "date": 1715463452955,
+            "name": "C:\\Users\\Dmytro\\AppData\\Roaming\\EVE Online\\logs\\eve-online-launcher-2024.05.11-21.37.32.log",
+            "hash": "fec9621b97266ac4c5cc5998273b8d6405899b078bfa0f89dfdb48c667653ee6"
         },
         {
-            "date": 1711629055808,
-            "name": "C:\\Users\\Dmytro\\AppData\\Roaming\\EVE Online\\logs\\eve-online-launcher-2024.03.28-12.30.55.log",
-            "hash": "8047cac0e928c87a45958b08b6d07432aa551c06b7fa2d7e7954767164e1d604"
+            "date": 1715463468929,
+            "name": "C:\\Users\\Dmytro\\AppData\\Roaming\\EVE Online\\logs\\eve-online-launcher-2024.05.11-21.37.48.log",
+            "hash": "f0a3d67b862910610e0b90d444ea4e6ed787c43c9e1219b58335d0f25006ad34"
         },
         {
-            "date": 1711634380265,
-            "name": "C:\\Users\\Dmytro\\AppData\\Roaming\\EVE Online\\logs\\eve-online-launcher-2024.03.28-13.59.40.log",
-            "hash": "f8cd5a6163a8b581dafaba4420f89284ec75b5971f76b088e4372c44263f0aff"
-        },
-        {
-            "date": 1711664838950,
-            "name": "C:\\Users\\Dmytro\\AppData\\Roaming\\EVE Online\\logs\\eve-online-launcher-2024.03.28-22.27.18.log",
-            "hash": "16351294ee5556302e4b5075808bbf4698fe441e1db17549c95b8486e95711eb"
-        },
-        {
-            "date": 1711670659964,
-            "name": "C:\\Users\\Dmytro\\AppData\\Roaming\\EVE Online\\logs\\eve-online-launcher-2024.03.29-22.27.18.log",
-            "hash": "7a6b8f097a5660786f11930b7f7e02d9bcff0557f10e311c1201ff0297a448bf"
-        },
-        {
-            "date": 1711729964130,
-            "name": "C:\\Users\\Dmytro\\AppData\\Roaming\\EVE Online\\logs\\eve-online-launcher-2024.03.29-16.32.44.log",
-            "hash": "2028d49460e0344dfcb06cab6b45eb1a94c67d65ed40472426106c43071f1757"
-        },
-        {
-            "date": 1711731518484,
-            "name": "C:\\Users\\Dmytro\\AppData\\Roaming\\EVE Online\\logs\\eve-online-launcher-2024.03.29-16.58.38.log",
-            "hash": "f5bebb3830f2ed08708dd58b06a03eec740796c691f049054cdbd713cf927a3a"
-        },
-        {
-            "date": 1711731919027,
-            "name": "C:\\Users\\Dmytro\\AppData\\Roaming\\EVE Online\\logs\\eve-online-launcher-2024.03.29-17.05.19.log",
-            "hash": "f5e19ce20daa97de3cfa35ec59c4aabd661ac100fa1ae903e3a17058713d9922"
-        },
-        {
-            "date": 1711732221661,
-            "name": "C:\\Users\\Dmytro\\AppData\\Roaming\\EVE Online\\logs\\eve-online-launcher-2024.03.29-17.10.21.log",
-            "hash": "e34b988cd5a809877aeac21ae17e25c642291cdb81f931b16a651cc7ef67399d"
-        },
-        {
-            "date": 1711732346758,
-            "name": "C:\\Users\\Dmytro\\AppData\\Roaming\\EVE Online\\logs\\eve-online-launcher-2024.03.29-17.12.26.log",
-            "hash": "889d487c481a62d01cf1d4a85d163dcabaaa6c447bef960ab1338887a60d6a7e"
-        },
-        {
-            "date": 1711734734286,
-            "name": "C:\\Users\\Dmytro\\AppData\\Roaming\\EVE Online\\logs\\eve-online-launcher-2024.03.29-17.52.14.log",
-            "hash": "2923189d8dca724c07d8fb8b85074e4c43398a73c8e9f20b34139b4bb422d4f4"
-        },
-        {
-            "date": 1711891650941,
-            "name": "C:\\Users\\Dmytro\\AppData\\Roaming\\EVE Online\\logs\\eve-online-launcher-2024.03.31-13.27.30.log",
-            "hash": "8708e1e8af7a2805e40d84bde2101df54366a7eb4edc1ea2a9e1c120630b46a3"
+            "date": 1715472163634,
+            "name": "C:\\Users\\Dmytro\\AppData\\Roaming\\EVE Online\\logs\\eve-online-launcher-2024.05.12-21.37.48.log",
+            "hash": "e40d902e441e749346d294c78f8e9c5455cb6479fe743658fc732860102ab41b"
         }
     ],
     "hashType": "sha256"

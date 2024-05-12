@@ -1,0 +1,59 @@
+2024-05-12 00:02:43.633    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2024-05-12 00:02:43.742    app     info:    [server-manager] Previous Tranquility build: 2574463, current build: 2574463
+2024-05-12 00:02:43.742    app     info:    [server-manager] Tranquility build is unchanged.
+2024-05-12 00:02:43.752    app     info:    [server-manager] Ready to play!
+2024-05-12 00:02:43.759    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2024-05-12 00:07:43.763    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2024-05-12 00:07:43.866    app     info:    [server-manager] Previous Tranquility build: 2574463, current build: 2574463
+2024-05-12 00:07:43.866    app     info:    [server-manager] Tranquility build is unchanged.
+2024-05-12 00:07:43.876    app     info:    [server-manager] Ready to play!
+2024-05-12 00:07:43.882    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2024-05-12 00:12:43.886    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2024-05-12 00:12:43.996    app     info:    [server-manager] Previous Tranquility build: 2574463, current build: 2574463
+2024-05-12 00:12:43.996    app     info:    [server-manager] Tranquility build is unchanged.
+2024-05-12 00:12:44.005    app     info:    [server-manager] Ready to play!
+2024-05-12 00:12:44.011    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2024-05-12 00:17:44.016    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2024-05-12 00:17:44.122    app     info:    [server-manager] Previous Tranquility build: 2574463, current build: 2574463
+2024-05-12 00:17:44.122    app     info:    [server-manager] Tranquility build is unchanged.
+2024-05-12 00:17:44.132    app     info:    [server-manager] Ready to play!
+2024-05-12 00:17:44.138    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2024-05-12 00:22:44.141    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2024-05-12 00:22:44.244    app     info:    [server-manager] Previous Tranquility build: 2574463, current build: 2574463
+2024-05-12 00:22:44.244    app     info:    [server-manager] Tranquility build is unchanged.
+2024-05-12 00:22:44.253    app     info:    [server-manager] Ready to play!
+2024-05-12 00:22:44.259    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2024-05-12 00:27:44.263    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2024-05-12 00:27:44.373    app     info:    [server-manager] Previous Tranquility build: 2574463, current build: 2574463
+2024-05-12 00:27:44.373    app     info:    [server-manager] Tranquility build is unchanged.
+2024-05-12 00:27:44.382    app     info:    [server-manager] Ready to play!
+2024-05-12 00:27:44.388    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2024-05-12 00:32:44.391    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2024-05-12 00:32:44.498    app     info:    [server-manager] Previous Tranquility build: 2574463, current build: 2574463
+2024-05-12 00:32:44.499    app     info:    [server-manager] Tranquility build is unchanged.
+2024-05-12 00:32:44.508    app     info:    [server-manager] Ready to play!
+2024-05-12 00:32:44.514    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2024-05-12 00:37:44.518    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2024-05-12 00:37:44.627    app     info:    [server-manager] Previous Tranquility build: 2574463, current build: 2574463
+2024-05-12 00:37:44.627    app     info:    [server-manager] Tranquility build is unchanged.
+2024-05-12 00:37:44.637    app     info:    [server-manager] Ready to play!
+2024-05-12 00:37:44.643    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2024-05-12 00:42:44.646    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2024-05-12 00:42:44.765    app     info:    [server-manager] Previous Tranquility build: 2574463, current build: 2574463
+2024-05-12 00:42:44.765    app     info:    [server-manager] Tranquility build is unchanged.
+2024-05-12 00:42:44.774    app     info:    [server-manager] Ready to play!
+2024-05-12 00:42:44.781    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2024-05-12 00:46:38.005    app     info:    [client-manager] 'tranquility' for EVE game client for '29795975' exited with no errors.
+2024-05-12 00:46:38.010    app     info:    [elg-events] Queueing event    eve_launcher.electron.eve_client.GameClientExited
+2024-05-12 00:46:38.023    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2024-05-12 00:46:38.138    app     info:    [server-manager] Previous Tranquility build: 2574463, current build: 2574463
+2024-05-12 00:46:38.138    app     info:    [server-manager] Tranquility build is unchanged.
+2024-05-12 00:46:38.148    app     info:    [server-manager] Ready to play!
+2024-05-12 00:46:38.155    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2024-05-12 00:46:38.179    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.eve_client.GameClientExited
+2024-05-12 00:46:44.921    app     info:    [main-window] Main window closing    { windowId: 2 }
+2024-05-12 00:46:44.941    app     info:    Application quitting. Cleanup needed: true
+2024-05-12 00:46:44.947    app     info:    [elg-events] Queueing shutdown event    eve_launcher.electron.application.LauncherShutdown
+2024-05-12 00:46:44.952    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.application.LauncherShutdown
+2024-05-12 00:46:44.952    app     info:    app.quit called, but we are still sending ELG events.
+2024-05-12 00:46:45.202    app     info:    [elg-events] Shutdown event timeout passed
