@@ -1,0 +1,11 @@
+2024-06-12 19:51:05.983    app     info:    [self-update] Configuring update feed.
+2024-06-12 19:51:05.984    app     info:    [self-update] Update feed set to: https://launcher.ccpgames.com/eve-online/release/win32/x64/
+2024-06-12 19:51:05.992    app     info:    Startup arguments    [ '--squirrel-updated', '1.4.3' ]
+2024-06-12 19:51:06.056    app     info:    EVE Online Launcher is already running. This instance will now be closed.
+2024-06-12 19:51:06.057    app     info:    Application quitting. Cleanup needed: true
+2024-06-12 19:51:06.062    app     info:    [shortcuts] Waiting for third party authentication to be ready.
+2024-06-12 19:51:06.068    app     info:    app.quit called, but we are still sending ELG events.
+2024-06-12 19:51:06.068    app     info:    [third-party-authentications] Checking for Steam startup
+2024-06-12 19:51:06.095    app     warn:    [steam-auth] Failed to initialize Steamworks client: GenericFailure
+2024-06-12 19:51:06.096    app     info:    [third-party-authentications] Done checking third party startups
+2024-06-12 19:51:06.801    app     info:    Application quitting. Cleanup needed: false

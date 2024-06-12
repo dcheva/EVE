@@ -1,0 +1,341 @@
+2024-06-12 19:51:40.272    app     info:    [migrations] Migrating state from version 202403271440 to 202403271440
+2024-06-12 19:51:40.457    app     info:    [self-update] Configuring update feed.
+2024-06-12 19:51:40.457    app     info:    [self-update] Update feed set to: https://launcher.ccpgames.com/eve-online/release/win32/x64/
+2024-06-12 19:51:40.461    app     info:    Startup arguments    []
+2024-06-12 19:51:40.503    app     info:    [self-update] Auto-updating is now enabled
+2024-06-12 19:51:40.505    app     info:    [migrations] Migrating state from version 202403271440 to 202403271440
+2024-06-12 19:51:40.509    app     info:    [third-party-authentications] Checking for Steam startup
+2024-06-12 19:51:40.530    app     warn:    [steam-auth] Failed to initialize Steamworks client: GenericFailure
+2024-06-12 19:51:40.530    app     info:    [third-party-authentications] Done checking third party startups
+2024-06-12 19:51:40.675    app     info:    [migrations] Migrating secured state from version 202403201100 to 202406060001
+2024-06-12 19:51:40.675    app     info:    [migrations] Running 1 migrations
+2024-06-12 19:51:40.791    app     info:    [elg-events] Queueing event    eve_launcher.electron.application.LauncherStarted
+2024-06-12 19:51:40.823    app     info:    [authentication] Token for '2110311' on 'tranquility' is expired, refresh is required
+2024-06-12 19:51:40.823    app     info:    [authentication] Refreshing token for '2110311' on 'tranquility'
+2024-06-12 19:51:40.824    app     info:    [authentication] Token for '16492377' on 'tranquility' is expired, refresh is required
+2024-06-12 19:51:40.824    app     info:    [authentication] Refreshing token for '16492377' on 'tranquility'
+2024-06-12 19:51:40.824    app     info:    [authentication] Token for '17525312' on 'tranquility' is expired, refresh is required
+2024-06-12 19:51:40.825    app     info:    [authentication] Refreshing token for '17525312' on 'tranquility'
+2024-06-12 19:51:40.825    app     info:    [authentication] Token for '17550993' on 'tranquility' is expired, refresh is required
+2024-06-12 19:51:40.825    app     info:    [authentication] Refreshing token for '17550993' on 'tranquility'
+2024-06-12 19:51:40.826    app     info:    [authentication] Token for '18000247' on 'tranquility' is expired, refresh is required
+2024-06-12 19:51:40.826    app     info:    [authentication] Refreshing token for '18000247' on 'tranquility'
+2024-06-12 19:51:40.827    app     info:    [authentication] Token for '18034259' on 'tranquility' is expired, refresh is required
+2024-06-12 19:51:40.827    app     info:    [authentication] Refreshing token for '18034259' on 'tranquility'
+2024-06-12 19:51:40.827    app     info:    [authentication] Token for '18922386' on 'tranquility' is expired, refresh is required
+2024-06-12 19:51:40.827    app     info:    [authentication] Refreshing token for '18922386' on 'tranquility'
+2024-06-12 19:51:40.828    app     info:    [authentication] Token for '23622903' on 'tranquility' is expired, refresh is required
+2024-06-12 19:51:40.828    app     info:    [authentication] Refreshing token for '23622903' on 'tranquility'
+2024-06-12 19:51:40.828    app     info:    [authentication] Token for '25218835' on 'tranquility' is expired, refresh is required
+2024-06-12 19:51:40.829    app     info:    [authentication] Refreshing token for '25218835' on 'tranquility'
+2024-06-12 19:51:40.829    app     info:    [authentication] Token for '26239201' on 'tranquility' is expired, refresh is required
+2024-06-12 19:51:40.829    app     info:    [authentication] Refreshing token for '26239201' on 'tranquility'
+2024-06-12 19:51:40.830    app     info:    [authentication] Token for '28182799' on 'tranquility' is expired, refresh is required
+2024-06-12 19:51:40.830    app     info:    [authentication] Refreshing token for '28182799' on 'tranquility'
+2024-06-12 19:51:40.830    app     info:    [authentication] Token for '29280260' on 'tranquility' is expired, refresh is required
+2024-06-12 19:51:40.830    app     info:    [authentication] Refreshing token for '29280260' on 'tranquility'
+2024-06-12 19:51:40.830    app     info:    [authentication] Token for '29285645' on 'tranquility' is expired, refresh is required
+2024-06-12 19:51:40.831    app     info:    [authentication] Refreshing token for '29285645' on 'tranquility'
+2024-06-12 19:51:40.831    app     info:    [authentication] Token for '29795975' on 'tranquility' is expired, refresh is required
+2024-06-12 19:51:40.831    app     info:    [authentication] Refreshing token for '29795975' on 'tranquility'
+2024-06-12 19:51:40.831    app     info:    [authentication] Token for '29797650' on 'tranquility' is expired, refresh is required
+2024-06-12 19:51:40.831    app     info:    [authentication] Refreshing token for '29797650' on 'tranquility'
+2024-06-12 19:51:40.850    app     info:    [analytics] Application name:    EVE Online
+2024-06-12 19:51:40.850    app     info:    [analytics] Application version:    1.4.3
+2024-06-12 19:51:40.850    app     info:    [analytics] Domain    undefined
+2024-06-12 19:51:40.851    app     info:    [analytics] Working directory    C:\Users\REDACTED\AppData\Local\eve-online\app-1.4.3
+2024-06-12 19:51:40.852    app     info:    [analytics] Username contains UTF8?    false
+2024-06-12 19:51:41.154    app     info:    [elg-events] Queueing event    eve_launcher.electron.application.PdmLoaded
+2024-06-12 19:51:41.160    app     info:    [elg-events] Queueing event    eve_launcher.electron.application.CoreDataLoaded
+2024-06-12 19:51:41.164    app     info:    [analytics] Operating system    {
+  type: 'Windows',
+  name: 'Windows 10 Education',
+  version: '10.0 (19045)'
+}
+2024-06-12 19:51:41.165    app     info:    [analytics] Encryption available:    true
+2024-06-12 19:51:41.165    app     info:    [analytics] Machine UUID    4E9F516C-5B97-47C6-8C67-E93D943CB7C8
+2024-06-12 19:51:41.165    app     info:    [analytics] PDM Version    2.1.4
+2024-06-12 19:51:41.165    app     info:    [analytics] Release channel    release
+2024-06-12 19:51:41.166    app     info:    [initializers] Shared cache directory set to    C:\CCP\EVE Online
+2024-06-12 19:51:41.180    app     info:    [initializers] Shared cache drive free space: 121,06 GiB / 433,74 GiB
+2024-06-12 19:51:41.180    app     info:    [feature-flags] Initializing feature flag client
+2024-06-12 19:51:41.194    app     info:    [i18next] Changed language    ru
+2024-06-12 19:51:41.226    app     info:    [shared-cache] Looking for profiles in 'c_ccp_eve_online_tq_tranquility'...
+2024-06-12 19:51:41.226    app     info:    [shared-cache] Looking for profiles in 'c_ccp_eve_online_sisi_singularity'...
+2024-06-12 19:51:41.227    app     info:    [shared-cache] Looking for profiles in 'c_ccp_eve_online_thunderdome_thunderdome'...
+2024-06-12 19:51:41.227    app     info:    [scheduler] Starting scheduler background
+2024-06-12 19:51:41.249    app    error:    (node:2004) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 scheduler/triggered listeners added to [IpcMainImpl]. Use emitter.setMaxListeners() to increase limit
+(Use `eve-online --trace-warnings ...` to show where the warning was created)    []
+2024-06-12 19:51:41.257    app     info:    [shared-cache] No profiles found on disk
+2024-06-12 19:51:41.337    app     info:    [first-run] Application has been run before: 2024-03-28T11:50:09.863Z
+2024-06-12 19:51:41.360    app     info:    [cache-protocol] Found 0 entries to remove
+2024-06-12 19:51:41.360    app     info:    [cache-protocol] Nothing to clean up.
+2024-06-12 19:51:41.382    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2024-06-12 19:51:41.394    app     warn:    [authentication] Refresh token for '26239201' on 'tranquility' is invalid
+2024-06-12 19:51:41.403    app    error:    [authentication] Could not refresh token for '26239201' on 'tranquility' SSO responded with an invalid status code: 400 - Bad Request    R [InvalidGrantResponseError]: SSO responded with an invalid status code: 400 - Bad Request
+    at F (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:2046946)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Promise.allSettled (index 9) {
+  body: '{"error":"invalid_grant","error_description":"Invalid refresh token. Token missing/expired."}'
+}
+2024-06-12 19:51:41.405    app     warn:    [authentication] Refresh token for '29285645' on 'tranquility' is invalid
+2024-06-12 19:51:41.417    app    error:    [authentication] Could not refresh token for '29285645' on 'tranquility' SSO responded with an invalid status code: 400 - Bad Request    R [InvalidGrantResponseError]: SSO responded with an invalid status code: 400 - Bad Request
+    at F (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:2046946)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Promise.allSettled (index 12) {
+  body: '{"error":"invalid_grant","error_description":"Invalid refresh token. Token missing/expired."}'
+}
+2024-06-12 19:51:41.417    app     warn:    [authentication] Refresh token for '18000247' on 'tranquility' is invalid
+2024-06-12 19:51:41.430    app    error:    [authentication] Could not refresh token for '18000247' on 'tranquility' SSO responded with an invalid status code: 400 - Bad Request    R [InvalidGrantResponseError]: SSO responded with an invalid status code: 400 - Bad Request
+    at F (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:2046946)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Promise.allSettled (index 4) {
+  body: '{"error":"invalid_grant","error_description":"Invalid refresh token. Token missing/expired."}'
+}
+2024-06-12 19:51:41.431    app     warn:    [authentication] Refresh token for '2110311' on 'tranquility' is invalid
+2024-06-12 19:51:41.442    app    error:    [authentication] Could not refresh token for '2110311' on 'tranquility' SSO responded with an invalid status code: 400 - Bad Request    R [InvalidGrantResponseError]: SSO responded with an invalid status code: 400 - Bad Request
+    at F (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:2046946)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Promise.allSettled (index 0) {
+  body: '{"error":"invalid_grant","error_description":"Invalid refresh token. Token missing/expired."}'
+}
+2024-06-12 19:51:41.443    app     warn:    [authentication] Refresh token for '18922386' on 'tranquility' is invalid
+2024-06-12 19:51:41.458    app    error:    [authentication] Could not refresh token for '18922386' on 'tranquility' SSO responded with an invalid status code: 400 - Bad Request    R [InvalidGrantResponseError]: SSO responded with an invalid status code: 400 - Bad Request
+    at F (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:2046946)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Promise.allSettled (index 6) {
+  body: '{"error":"invalid_grant","error_description":"Invalid refresh token. Token missing/expired."}'
+}
+2024-06-12 19:51:41.459    app     warn:    [authentication] Refresh token for '29797650' on 'tranquility' is invalid
+2024-06-12 19:51:41.476    app    error:    [authentication] Could not refresh token for '29797650' on 'tranquility' SSO responded with an invalid status code: 400 - Bad Request    R [InvalidGrantResponseError]: SSO responded with an invalid status code: 400 - Bad Request
+    at F (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:2046946)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Promise.allSettled (index 14) {
+  body: '{"error":"invalid_grant","error_description":"Invalid refresh token. Token missing/expired."}'
+}
+2024-06-12 19:51:41.477    app     warn:    [authentication] Refresh token for '23622903' on 'tranquility' is invalid
+2024-06-12 19:51:41.492    app    error:    [authentication] Could not refresh token for '23622903' on 'tranquility' SSO responded with an invalid status code: 400 - Bad Request    R [InvalidGrantResponseError]: SSO responded with an invalid status code: 400 - Bad Request
+    at F (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:2046946)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Promise.allSettled (index 7) {
+  body: '{"error":"invalid_grant","error_description":"Invalid refresh token. Token missing/expired."}'
+}
+2024-06-12 19:51:41.493    app     warn:    [authentication] Refresh token for '18034259' on 'tranquility' is invalid
+2024-06-12 19:51:41.505    app    error:    [authentication] Could not refresh token for '18034259' on 'tranquility' SSO responded with an invalid status code: 400 - Bad Request    R [InvalidGrantResponseError]: SSO responded with an invalid status code: 400 - Bad Request
+    at F (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:2046946)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Promise.allSettled (index 5) {
+  body: '{"error":"invalid_grant","error_description":"Invalid refresh token. Token missing/expired."}'
+}
+2024-06-12 19:51:41.507    app     warn:    [authentication] Refresh token for '17525312' on 'tranquility' is invalid
+2024-06-12 19:51:41.521    app    error:    [authentication] Could not refresh token for '17525312' on 'tranquility' SSO responded with an invalid status code: 400 - Bad Request    R [InvalidGrantResponseError]: SSO responded with an invalid status code: 400 - Bad Request
+    at F (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:2046946)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Promise.allSettled (index 2) {
+  body: '{"error":"invalid_grant","error_description":"Invalid refresh token. Token missing/expired."}'
+}
+2024-06-12 19:51:41.527    app     info:    [customer-information] Agreements have been updated
+2024-06-12 19:51:41.530    app     warn:    [authentication] Refresh token for '29795975' on 'tranquility' is invalid
+2024-06-12 19:51:41.541    app    error:    [authentication] Could not refresh token for '29795975' on 'tranquility' SSO responded with an invalid status code: 400 - Bad Request    R [InvalidGrantResponseError]: SSO responded with an invalid status code: 400 - Bad Request
+    at F (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:2046946)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Promise.allSettled (index 13) {
+  body: '{"error":"invalid_grant","error_description":"Invalid refresh token. Token missing/expired."}'
+}
+2024-06-12 19:51:41.542    app     warn:    [authentication] Refresh token for '28182799' on 'tranquility' is invalid
+2024-06-12 19:51:41.574    app    error:    [authentication] Could not refresh token for '28182799' on 'tranquility' SSO responded with an invalid status code: 400 - Bad Request    R [InvalidGrantResponseError]: SSO responded with an invalid status code: 400 - Bad Request
+    at F (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:2046946)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Promise.allSettled (index 10) {
+  body: '{"error":"invalid_grant","error_description":"Invalid refresh token. Token missing/expired."}'
+}
+2024-06-12 19:51:41.575    app     warn:    [authentication] Refresh token for '16492377' on 'tranquility' is invalid
+2024-06-12 19:51:41.608    app    error:    [authentication] Could not refresh token for '16492377' on 'tranquility' SSO responded with an invalid status code: 400 - Bad Request    R [InvalidGrantResponseError]: SSO responded with an invalid status code: 400 - Bad Request
+    at F (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:2046946)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Promise.allSettled (index 1) {
+  body: '{"error":"invalid_grant","error_description":"Invalid refresh token. Token missing/expired."}'
+}
+2024-06-12 19:51:41.609    app     warn:    [authentication] Refresh token for '25218835' on 'tranquility' is invalid
+2024-06-12 19:51:41.693    app    error:    [authentication] Could not refresh token for '25218835' on 'tranquility' SSO responded with an invalid status code: 400 - Bad Request    R [InvalidGrantResponseError]: SSO responded with an invalid status code: 400 - Bad Request
+    at F (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:2046946)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Promise.allSettled (index 8) {
+  body: '{"error":"invalid_grant","error_description":"Invalid refresh token. Token missing/expired."}'
+}
+2024-06-12 19:51:41.694    app     warn:    [authentication] Refresh token for '29280260' on 'tranquility' is invalid
+2024-06-12 19:51:41.710    app    error:    [authentication] Could not refresh token for '29280260' on 'tranquility' SSO responded with an invalid status code: 400 - Bad Request    R [InvalidGrantResponseError]: SSO responded with an invalid status code: 400 - Bad Request
+    at F (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:2046946)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Promise.allSettled (index 11) {
+  body: '{"error":"invalid_grant","error_description":"Invalid refresh token. Token missing/expired."}'
+}
+2024-06-12 19:51:41.714    app     info:    [customer-information] Agreements have been updated
+2024-06-12 19:51:41.716    app     warn:    [authentication] Refresh token for '17550993' on 'tranquility' is invalid
+2024-06-12 19:51:41.725    app    error:    [authentication] Could not refresh token for '17550993' on 'tranquility' SSO responded with an invalid status code: 400 - Bad Request    R [InvalidGrantResponseError]: SSO responded with an invalid status code: 400 - Bad Request
+    at F (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:2046946)
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Promise.allSettled (index 3) {
+  body: '{"error":"invalid_grant","error_description":"Invalid refresh token. Token missing/expired."}'
+}
+2024-06-12 19:51:41.725    app     info:    [AuthenticationMiddleware] Successfully restored 0 / 15 users
+2024-06-12 19:51:41.729    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.application.LauncherStarted
+2024-06-12 19:51:41.730    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.application.PdmLoaded
+2024-06-12 19:51:41.737    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.application.CoreDataLoaded
+2024-06-12 19:51:41.772    app     info:    info: [LaunchDarkly] LaunchDarkly client initialized    []
+2024-06-12 19:51:41.773    app     info:    info: [LaunchDarkly] Opening stream connection to https://clientstream.launchdarkly.com/eval/64c3d12e27a4b11365012d39/eyJrZXkiOiI0YTQzNmFkYi00Yjk5LTQwYTctODViMC00MmUyMDZmNDEyODYiLCJraW5kIjoidXNlciIsImN1c3RvbSI6eyJpc0ZpcnN0UnVuIjpmYWxzZSwiZGF5c1NpbmNlRmlyc3RSdW4iOjc2LCJsYW5ndWFnZSI6InJ1IiwiYXBwbGljYXRpb24iOiJldmUtb25saW5lIiwidmVyc2lvbiI6IjEuNC4zIiwicGxhdGZvcm0iOiJ3aW5kb3dzIiwiaXNHZUZvcmNlTm93IjpmYWxzZSwib3NWZXJzaW9uRGVwcmVjYXRlZCI6ZmFsc2UsInVzZXJJZHMiOlsxNjQ5MjM3NywxNzU1MDk5MywyMTEwMzExLDI5Nzk3NjUwXSwib21lZ2FDb3VudCI6MCwiYWxwaGFDb3VudCI6MTUsImFjY291bnRDb3VudCI6MTUsIm9sZGVzdEFjY291bnRBZ2UiOjYxODIsInlvdW5nZXN0QWNjb3VudEFnZSI6NzV9fQ?withReasons=true    []
+2024-06-12 19:51:41.774    app     info:    [feature-flags] Client 4a436adb... ready, fetching flags
+2024-06-12 19:51:41.775    app     info:    [self-update] Auto-updating is now enabled
+2024-06-12 19:51:41.784    app     info:    [feature-flags] Received 30 flags for client 4a436adb...
+2024-06-12 19:51:41.784    app     info:    [feature-flags] Client initialized with key 4a436adb...
+2024-06-12 19:51:41.788    app     info:    [self-update] Configuring update feed.
+2024-06-12 19:51:41.788    app     info:    [self-update] Update feed set to: https://launcher.ccpgames.com/eve-online/release/win32/x64/
+2024-06-12 19:51:41.788    app     info:    [self-update] Auto-updating is now enabled
+2024-06-12 19:51:41.895    app     info:    [server-manager] Previous Tranquility build: 2607535, current build: 2607535
+2024-06-12 19:51:41.895    app     info:    [server-manager] Tranquility build is unchanged.
+2024-06-12 19:51:41.909    app     info:    [server-manager] Ready to play!
+2024-06-12 19:51:41.915    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2024-06-12 19:51:42.042    app     info:    [elg-events] Queueing event    eve_launcher.electron.application.RendererLoaded
+2024-06-12 19:51:42.042    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.application.RendererLoaded
+2024-06-12 19:51:42.050    app     info:    [scheduler] Starting scheduler foreground
+2024-06-12 19:51:42.072    app     info:    [shared-cache-cleaner] Removing unused files from the shared cache
+2024-06-12 19:51:42.089    app     info:    [content-delivery-trace] Fetching CDN trace data from https://binaries.eveonline.com/cdn-cgi/trace
+2024-06-12 19:51:42.104    app     info:    [creatives] Requesting creatives
+2024-06-12 19:51:42.106    app    error:    [authentication] Could not refresh token for '29795975' on 'tranquility' Tokens for '29795975' on 'tranquility' are invalid, refresh was skipped    m [InvalidTokenError]: Tokens for '29795975' on 'tranquility' are invalid, refresh was skipped
+    at F (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:2046251)
+    at C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:2862609
+    at y (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:636526)
+    at v (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:636582)
+    at w (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:636901)
+    at C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:2866167
+2024-06-12 19:51:42.106    app    error:    [AuthenticationMiddleware] Could not update data on active user change Tokens for '29795975' on 'tranquility' are invalid, refresh was skipped    m [InvalidTokenError]: Tokens for '29795975' on 'tranquility' are invalid, refresh was skipped
+    at F (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:2046251)
+    at C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:2862609
+    at y (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:636526)
+    at v (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:636582)
+    at w (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:636901)
+    at C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:2866167
+2024-06-12 19:51:42.123    app     info:    [main-window] Registering main window    { windowId: 2 }
+2024-06-12 19:51:42.140     ui     info:    [i18next] Requesting missing translation ru readnought title title    ccp://launcher/renderer/main_window/index.js    2
+2024-06-12 19:51:42.635    app     info:    [manifest] Combined 4 manifests into a single manifest with 166020 entries
+2024-06-12 19:51:42.657    app     info:    [manifest] Combined 1 manifests into a single manifest with 166020 entries
+2024-06-12 19:51:42.795    app     info:    [jukebox] Fetched 2 jukebox playlists
+2024-06-12 19:51:42.854    app     info:    [creatives] Received 3 creatives
+2024-06-12 19:51:43.627    app     info:    [shared-cache-cleaner] Removed 3149 files from the shared cache
+2024-06-12 19:51:43.867    app     info:    [analytics] Hardware rendering enabled:    true    { disabledViaCommandline: false, disabledViaSettings: false }
+2024-06-12 19:51:44.889     ui     info:    Initializing captcha    ccp://launcher/renderer/main_window/index.js    2
+2024-06-12 19:51:45.598    app     info:    [scheduler] Stopped scheduler foreground
+2024-06-12 19:51:45.599    app     info:    [ipc-requests] Handling requests in the background
+2024-06-12 19:51:46.600    app     info:    [ipc-requests] No longer handling requests in the background
+2024-06-12 19:51:47.073    app     info:    [self-update] Checking for application updates.
+2024-06-12 19:51:47.550    app     info:    [self-update] No application updates were found.
+2024-06-12 19:51:50.408    app     info:    [scheduler] Starting scheduler foreground
+2024-06-12 19:51:50.708    app     info:    [scheduler] Stopped scheduler foreground
+2024-06-12 19:51:50.709    app     info:    [ipc-requests] Handling requests in the background
+2024-06-12 19:51:51.710    app     info:    [ipc-requests] No longer handling requests in the background
+2024-06-12 19:52:02.440    app     info:    [scheduler] Starting scheduler foreground
+2024-06-12 19:52:02.717    app     info:    [scheduler] Stopped scheduler foreground
+2024-06-12 19:52:02.717    app     info:    [ipc-requests] Handling requests in the background
+2024-06-12 19:52:03.717    app     info:    [ipc-requests] No longer handling requests in the background
+2024-06-12 19:52:11.320    app     warn:    Could not connect to LogLite    [
+  Error: connect ECONNREFUSED 127.0.0.1:3273
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16) {
+    errno: -4078,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '127.0.0.1',
+    port: 3273
+  }
+]
+2024-06-12 19:53:17.970    app     info:    [scheduler] Starting scheduler foreground
+2024-06-12 19:53:17.982    app    error:    [authentication] Could not refresh token for '29795975' on 'tranquility' Tokens for '29795975' on 'tranquility' are invalid, refresh was skipped    m [InvalidTokenError]: Tokens for '29795975' on 'tranquility' are invalid, refresh was skipped
+    at F (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:2046251)
+    at C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:2862609
+    at y (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:636526)
+    at v (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:636582)
+    at w (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:636901)
+    at C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:2866167
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+2024-06-12 19:53:17.983    app    error:    [AuthenticationMiddleware] Could not update data on active user change Tokens for '29795975' on 'tranquility' are invalid, refresh was skipped    m [InvalidTokenError]: Tokens for '29795975' on 'tranquility' are invalid, refresh was skipped
+    at F (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:2046251)
+    at C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:2862609
+    at y (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:636526)
+    at v (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:636582)
+    at w (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:636901)
+    at C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:2866167
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+2024-06-12 19:53:19.612    app     info:    [scheduler] Stopped scheduler foreground
+2024-06-12 19:53:19.612    app     info:    [ipc-requests] Handling requests in the background
+2024-06-12 19:53:19.707    app     info:    [scheduler] Starting scheduler foreground
+2024-06-12 19:53:20.309    app     info:    [scheduler] Stopped scheduler foreground
+2024-06-12 19:53:20.310    app     info:    [ipc-requests] Handling requests in the background
+2024-06-12 19:53:20.612    app     info:    [ipc-requests] No longer handling requests in the background
+2024-06-12 19:53:20.798    app     info:    [scheduler] Starting scheduler foreground
+2024-06-12 19:53:21.311    app     info:    [ipc-requests] No longer handling requests in the background
+2024-06-12 19:53:21.989    app     info:    [scheduler] Stopped scheduler foreground
+2024-06-12 19:53:21.989    app     info:    [ipc-requests] Handling requests in the background
+2024-06-12 19:53:22.990    app     info:    [ipc-requests] No longer handling requests in the background
+2024-06-12 19:53:50.906    app     info:    [scheduler] Starting scheduler foreground
+2024-06-12 19:53:51.366    app     info:    [scheduler] Stopped scheduler foreground
+2024-06-12 19:53:51.366    app     info:    [ipc-requests] Handling requests in the background
+2024-06-12 19:53:52.367    app     info:    [ipc-requests] No longer handling requests in the background
+2024-06-12 19:54:51.890    app     info:    [scheduler] Starting scheduler foreground
+2024-06-12 19:54:51.901    app    error:    [authentication] Could not refresh token for '29795975' on 'tranquility' Tokens for '29795975' on 'tranquility' are invalid, refresh was skipped    m [InvalidTokenError]: Tokens for '29795975' on 'tranquility' are invalid, refresh was skipped
+    at F (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:2046251)
+    at C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:2862609
+    at y (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:636526)
+    at v (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:636582)
+    at w (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:636901)
+    at C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:2866167
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+2024-06-12 19:54:51.901    app    error:    [AuthenticationMiddleware] Could not update data on active user change Tokens for '29795975' on 'tranquility' are invalid, refresh was skipped    m [InvalidTokenError]: Tokens for '29795975' on 'tranquility' are invalid, refresh was skipped
+    at F (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:2046251)
+    at C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:2862609
+    at y (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:636526)
+    at v (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:636582)
+    at w (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:636901)
+    at C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:2866167
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+2024-06-12 19:54:54.020    app     info:    [scheduler] Stopped scheduler foreground
+2024-06-12 19:54:54.020    app     info:    [ipc-requests] Handling requests in the background
+2024-06-12 19:54:55.021    app     info:    [ipc-requests] No longer handling requests in the background
+2024-06-12 19:54:59.860    app     info:    [scheduler] Starting scheduler foreground
+2024-06-12 19:55:00.868    app     info:    [scheduler] Stopped scheduler foreground
+2024-06-12 19:55:00.869    app     info:    [ipc-requests] Handling requests in the background
+2024-06-12 19:55:01.869    app     info:    [ipc-requests] No longer handling requests in the background
+2024-06-12 19:56:02.345    app     info:    [scheduler] Starting scheduler foreground
+2024-06-12 19:56:02.357    app    error:    [authentication] Could not refresh token for '29795975' on 'tranquility' Tokens for '29795975' on 'tranquility' are invalid, refresh was skipped    m [InvalidTokenError]: Tokens for '29795975' on 'tranquility' are invalid, refresh was skipped
+    at F (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:2046251)
+    at C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:2862609
+    at y (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:636526)
+    at v (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:636582)
+    at w (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:636901)
+    at C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:2866167
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+2024-06-12 19:56:02.357    app    error:    [AuthenticationMiddleware] Could not update data on active user change Tokens for '29795975' on 'tranquility' are invalid, refresh was skipped    m [InvalidTokenError]: Tokens for '29795975' on 'tranquility' are invalid, refresh was skipped
+    at F (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:2046251)
+    at C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:2862609
+    at y (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:636526)
+    at v (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:636582)
+    at w (C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:636901)
+    at C:\Users\Dmytro\AppData\Local\eve-online\app-1.4.3\resources\app.asar\.webpack\main\index.js:8:2866167
+    at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+2024-06-12 19:56:03.004    app     info:    [scheduler] Stopped scheduler foreground
+2024-06-12 19:56:03.004    app     info:    [ipc-requests] Handling requests in the background
+2024-06-12 19:56:04.004    app     info:    [ipc-requests] No longer handling requests in the background
+2024-06-12 19:56:27.768    app     info:    [scheduler] Starting scheduler foreground
+2024-06-12 19:56:41.918    app     info:    [server-manager] Starting refresh cycle for eve-online / Tranquility
+2024-06-12 19:56:42.089    app     info:    [server-manager] Previous Tranquility build: 2607535, current build: 2607535
+2024-06-12 19:56:42.089    app     info:    [server-manager] Tranquility build is unchanged.
+2024-06-12 19:56:42.100    app     info:    [server-manager] Ready to play!
+2024-06-12 19:56:42.107    app     info:    [server-manager] Finished refresh cycle for Tranquility
+2024-06-12 19:56:47.074    app     info:    [self-update] Checking for application updates.
+2024-06-12 19:56:47.367    app     info:    [self-update] No application updates were found.
+2024-06-12 19:56:54.160    app     info:    [main-window] Main window closing    { windowId: 2 }
+2024-06-12 19:56:54.173    app     info:    [scheduler] Stopped scheduler foreground
+2024-06-12 19:56:54.173    app     info:    [ipc-requests] Handling requests in the background
+2024-06-12 19:56:54.187    app     info:    Application quitting. Cleanup needed: true
+2024-06-12 19:56:54.192    app     info:    [elg-events] Queueing shutdown event    eve_launcher.electron.application.LauncherShutdown
+2024-06-12 19:56:54.198    app     info:    app.quit called, but we are still sending ELG events.
+2024-06-12 19:56:54.199    app     info:    [elg-events] Event sent    type.evetech.net/eve_launcher.electron.application.LauncherShutdown
+2024-06-12 19:56:54.449    app     info:    [elg-events] Shutdown event timeout passed

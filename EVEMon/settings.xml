@@ -2360,10 +2360,10 @@
         <skill typeID="3418" name="Capacitor Management" level="4" activelevel="4" skillpoints="135765" ownsBook="true" isKnown="true" />
         <skill typeID="3417" name="Capacitor Systems Operation" level="3" activelevel="3" skillpoints="8000" ownsBook="true" isKnown="true" />
         <skill typeID="3426" name="CPU Management" level="5" activelevel="5" skillpoints="256000" ownsBook="true" isKnown="true" />
-        <skill typeID="3432" name="Electronics Upgrades" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
+        <skill typeID="3432" name="Electronics Upgrades" level="4" activelevel="3" skillpoints="184316" ownsBook="true" isKnown="true" />
         <skill typeID="3424" name="Energy Grid Upgrades" level="1" activelevel="1" skillpoints="500" ownsBook="true" isKnown="true" />
         <skill typeID="3413" name="Power Grid Management" level="5" activelevel="5" skillpoints="256000" ownsBook="true" isKnown="true" />
-        <skill typeID="3318" name="Weapon Upgrades" level="3" activelevel="3" skillpoints="16000" ownsBook="true" isKnown="true" />
+        <skill typeID="3318" name="Weapon Upgrades" level="5" activelevel="3" skillpoints="512000" ownsBook="true" isKnown="true" />
         <skill typeID="3316" name="Controlled Bursts" level="2" activelevel="2" skillpoints="2829" ownsBook="true" isKnown="true" />
         <skill typeID="3300" name="Gunnery" level="4" activelevel="4" skillpoints="45255" ownsBook="true" isKnown="true" />
         <skill typeID="3312" name="Motion Prediction" level="2" activelevel="2" skillpoints="2829" ownsBook="true" isKnown="true" />
@@ -2372,7 +2372,7 @@
         <skill typeID="3301" name="Small Hybrid Turret" level="1" activelevel="1" skillpoints="250" ownsBook="true" isKnown="true" />
         <skill typeID="3315" name="Surgical Strike" level="0" activelevel="0" skillpoints="0" ownsBook="true" isKnown="true" />
         <skill typeID="3317" name="Trajectory Analysis" level="1" activelevel="1" skillpoints="1250" ownsBook="true" isKnown="true" />
-        <skill typeID="3321" name="Light Missiles" level="4" activelevel="4" skillpoints="454002" ownsBook="true" isKnown="true" />
+        <skill typeID="3321" name="Light Missiles" level="5" activelevel="4" skillpoints="512000" ownsBook="true" isKnown="true" />
         <skill typeID="12441" name="Missile Bombardment" level="4" activelevel="4" skillpoints="90510" ownsBook="true" isKnown="true" />
         <skill typeID="3319" name="Missile Launcher Operation" level="5" activelevel="5" skillpoints="256000" ownsBook="true" isKnown="true" />
         <skill typeID="12442" name="Missile Projection" level="2" activelevel="2" skillpoints="5657" ownsBook="true" isKnown="true" />
@@ -2426,10 +2426,6 @@
         <selectedIndex>0</selectedIndex>
       </implants>
       <queue>
-        <skill typeID="3321" level="5" startSP="453026" endSP="512000" startTime="2024-05-11 23:46:42" endTime="2024-05-14 12:15:52" />
-        <skill typeID="3318" level="4" startSP="16000" endSP="90510" startTime="2024-05-14 12:15:52" endTime="2024-05-17 17:52:45" />
-        <skill typeID="3432" level="4" startSP="16000" endSP="90510" startTime="2024-05-17 17:52:45" endTime="2024-05-21 04:40:05" />
-        <skill typeID="3318" level="5" startSP="90510" endSP="512000" startTime="2024-05-21 04:40:05" endTime="2024-06-08 11:43:12" />
         <skill typeID="3432" level="5" startSP="90510" endSP="512000" startTime="2024-06-08 11:43:12" endTime="2024-06-28 00:02:32" />
       </queue>
       <marketOrders />
@@ -3031,6 +3027,642 @@
         <notes>High Speed Maneuvering</notes>
       </entry>
     </plan>
+    <plan name="orca" owner="4be22655-078d-4cb0-91f1-d49dfe90d46e" description="">
+      <sorting criteria="None" order="None" groupByPriority="false" />
+      <entry skillID="3327" skill="Spaceship Command" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3327" skill="Spaceship Command" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="3" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22552" skill="Mining Director" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="29637" skill="Industrial Command Ships" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3394" skill="Hull Upgrades" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3450" skill="Afterburner" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3420" skill="Tactical Shield Manipulation" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="3" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="4" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3380" skill="Industry" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3380" skill="Industry" level="3" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="24625" skill="Advanced Mass Production" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="3" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="4" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="62450" skill="Shipboard Compression Technology" level="1" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="62450" skill="Shipboard Compression Technology" level="2" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3437" skill="Drone Avionics" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="1" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="3" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3386" skill="Mining" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22541" skill="Mining Drone Specialization" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3440" skill="Salvage Drone Operation" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="23566" skill="Advanced Drone Avionics" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="16281" skill="Ice Harvesting" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="16281" skill="Ice Harvesting" level="2" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="43702" skill="Ice Harvesting Drone Operation" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+    </plan>
+    <plan name="orca" owner="4b10300c-fd72-4ce4-a36e-e89f5881d9db" description="">
+      <sorting criteria="None" order="None" groupByPriority="false" />
+      <entry skillID="3327" skill="Spaceship Command" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3327" skill="Spaceship Command" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="3" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22552" skill="Mining Director" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="29637" skill="Industrial Command Ships" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3450" skill="Afterburner" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3420" skill="Tactical Shield Manipulation" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3420" skill="Tactical Shield Manipulation" level="3" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3420" skill="Tactical Shield Manipulation" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3425" skill="Shield Upgrades" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="3" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="4" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="24625" skill="Advanced Mass Production" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="3" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="4" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="62450" skill="Shipboard Compression Technology" level="1" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="62450" skill="Shipboard Compression Technology" level="2" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3437" skill="Drone Avionics" level="4" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3437" skill="Drone Avionics" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="1" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="3" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3386" skill="Mining" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22541" skill="Mining Drone Specialization" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3440" skill="Salvage Drone Operation" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="23566" skill="Advanced Drone Avionics" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="16281" skill="Ice Harvesting" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="16281" skill="Ice Harvesting" level="2" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="43702" skill="Ice Harvesting Drone Operation" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+    </plan>
+    <plan name="orca" owner="20c7bab8-567c-43f8-83d1-b548db1c35f4" description="">
+      <sorting criteria="None" order="None" groupByPriority="false" />
+      <entry skillID="3327" skill="Spaceship Command" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="3" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22552" skill="Mining Director" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="29637" skill="Industrial Command Ships" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3450" skill="Afterburner" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="3" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="4" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3380" skill="Industry" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3380" skill="Industry" level="3" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="24625" skill="Advanced Mass Production" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="3" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="4" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="62450" skill="Shipboard Compression Technology" level="1" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="62450" skill="Shipboard Compression Technology" level="2" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3437" skill="Drone Avionics" level="4" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3437" skill="Drone Avionics" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="1" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="3" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22541" skill="Mining Drone Specialization" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3440" skill="Salvage Drone Operation" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="23566" skill="Advanced Drone Avionics" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="16281" skill="Ice Harvesting" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="16281" skill="Ice Harvesting" level="2" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="43702" skill="Ice Harvesting Drone Operation" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+    </plan>
+    <plan name="orca" owner="984696ef-cc83-4a75-8620-18746a418d19" description="">
+      <sorting criteria="None" order="None" groupByPriority="false" />
+      <entry skillID="3327" skill="Spaceship Command" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3327" skill="Spaceship Command" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="3" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22552" skill="Mining Director" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="29637" skill="Industrial Command Ships" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3450" skill="Afterburner" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3420" skill="Tactical Shield Manipulation" level="3" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3420" skill="Tactical Shield Manipulation" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="3" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="4" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="24625" skill="Advanced Mass Production" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="3" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="4" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="62450" skill="Shipboard Compression Technology" level="1" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="62450" skill="Shipboard Compression Technology" level="2" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3437" skill="Drone Avionics" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="1" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="3" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3386" skill="Mining" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22541" skill="Mining Drone Specialization" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3440" skill="Salvage Drone Operation" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="23566" skill="Advanced Drone Avionics" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="16281" skill="Ice Harvesting" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="16281" skill="Ice Harvesting" level="2" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="43702" skill="Ice Harvesting Drone Operation" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+    </plan>
     <plan name="Aligila" owner="24677fa6-bdd9-4e3a-b270-5c33d768fefd" description="">
       <sorting criteria="None" order="None" groupByPriority="false" />
       <entry skillID="3330" skill="Caldari Frigate" level="1" priority="1" type="Prerequisite">
@@ -3220,6 +3852,168 @@
         <notes>Alliagator - Ratting / Level 4</notes>
       </entry>
     </plan>
+    <plan name="orca" owner="24677fa6-bdd9-4e3a-b270-5c33d768fefd" description="">
+      <sorting criteria="None" order="None" groupByPriority="false" />
+      <entry skillID="3327" skill="Spaceship Command" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3327" skill="Spaceship Command" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="3" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22552" skill="Mining Director" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="29637" skill="Industrial Command Ships" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3394" skill="Hull Upgrades" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3450" skill="Afterburner" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3420" skill="Tactical Shield Manipulation" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3425" skill="Shield Upgrades" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="3" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="4" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="24625" skill="Advanced Mass Production" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="3" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="4" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="62450" skill="Shipboard Compression Technology" level="1" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="62450" skill="Shipboard Compression Technology" level="2" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3437" skill="Drone Avionics" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="1" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="3" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3386" skill="Mining" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22541" skill="Mining Drone Specialization" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3440" skill="Salvage Drone Operation" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="23566" skill="Advanced Drone Avionics" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="16281" skill="Ice Harvesting" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="16281" skill="Ice Harvesting" level="2" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="43702" skill="Ice Harvesting Drone Operation" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+    </plan>
     <plan name="Subrat " owner="b869a88a-da3e-45c8-85d5-cd5ae62864ff" description="">
       <sorting criteria="TrainingTime" order="Ascending" groupByPriority="false" />
       <entry skillID="3319" skill="Missile Launcher Operation" level="5" priority="3" type="Planned">
@@ -3407,6 +4201,1962 @@
         <notes>Gila Mastery Level III</notes>
       </entry>
     </plan>
+    <plan name="orca" owner="b869a88a-da3e-45c8-85d5-cd5ae62864ff" description="">
+      <sorting criteria="None" order="None" groupByPriority="false" />
+      <entry skillID="3327" skill="Spaceship Command" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="3" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22552" skill="Mining Director" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="29637" skill="Industrial Command Ships" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3394" skill="Hull Upgrades" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3450" skill="Afterburner" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="3" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="4" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="24625" skill="Advanced Mass Production" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="3" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="4" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="62450" skill="Shipboard Compression Technology" level="1" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="62450" skill="Shipboard Compression Technology" level="2" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3437" skill="Drone Avionics" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="1" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="3" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3386" skill="Mining" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22541" skill="Mining Drone Specialization" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3440" skill="Salvage Drone Operation" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="23566" skill="Advanced Drone Avionics" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="16281" skill="Ice Harvesting" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="16281" skill="Ice Harvesting" level="2" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="43702" skill="Ice Harvesting Drone Operation" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+    </plan>
+    <plan name="orca" owner="43cde78d-f909-49c8-9a50-3ee87b81d6c3" description="">
+      <sorting criteria="None" order="None" groupByPriority="false" />
+      <entry skillID="3327" skill="Spaceship Command" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3327" skill="Spaceship Command" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="3" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22552" skill="Mining Director" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="29637" skill="Industrial Command Ships" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3450" skill="Afterburner" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="3" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="4" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="24625" skill="Advanced Mass Production" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="3" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="4" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="62450" skill="Shipboard Compression Technology" level="1" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="62450" skill="Shipboard Compression Technology" level="2" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3437" skill="Drone Avionics" level="4" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3437" skill="Drone Avionics" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="1" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="3" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3386" skill="Mining" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22541" skill="Mining Drone Specialization" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3440" skill="Salvage Drone Operation" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="23566" skill="Advanced Drone Avionics" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="16281" skill="Ice Harvesting" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="16281" skill="Ice Harvesting" level="2" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="43702" skill="Ice Harvesting Drone Operation" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+    </plan>
+    <plan name="orca" owner="4ff89e78-4550-46a1-a16d-1c3b8a60c83c" description="">
+      <sorting criteria="None" order="None" groupByPriority="false" />
+      <entry skillID="3327" skill="Spaceship Command" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="3" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22552" skill="Mining Director" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="29637" skill="Industrial Command Ships" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3450" skill="Afterburner" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3420" skill="Tactical Shield Manipulation" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3425" skill="Shield Upgrades" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="4" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="24625" skill="Advanced Mass Production" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="3" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="4" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="62450" skill="Shipboard Compression Technology" level="1" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="62450" skill="Shipboard Compression Technology" level="2" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3437" skill="Drone Avionics" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="1" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="3" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3386" skill="Mining" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22541" skill="Mining Drone Specialization" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3440" skill="Salvage Drone Operation" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="23566" skill="Advanced Drone Avionics" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="16281" skill="Ice Harvesting" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="16281" skill="Ice Harvesting" level="2" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="43702" skill="Ice Harvesting Drone Operation" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+    </plan>
+    <plan name="orca" owner="189f4f00-773e-4f3a-b5fa-81474cfcebd5" description="">
+      <sorting criteria="None" order="None" groupByPriority="false" />
+      <entry skillID="3327" skill="Spaceship Command" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3327" skill="Spaceship Command" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="3" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22552" skill="Mining Director" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="29637" skill="Industrial Command Ships" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3450" skill="Afterburner" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3420" skill="Tactical Shield Manipulation" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3425" skill="Shield Upgrades" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="3" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="4" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="24625" skill="Advanced Mass Production" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="3" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="4" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="62450" skill="Shipboard Compression Technology" level="1" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="62450" skill="Shipboard Compression Technology" level="2" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3437" skill="Drone Avionics" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="1" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="3" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3386" skill="Mining" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22541" skill="Mining Drone Specialization" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3440" skill="Salvage Drone Operation" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="23566" skill="Advanced Drone Avionics" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="16281" skill="Ice Harvesting" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="16281" skill="Ice Harvesting" level="2" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="43702" skill="Ice Harvesting Drone Operation" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+    </plan>
+    <plan name="orca" owner="30a81906-50db-444c-9ebf-d77bcee9229f" description="">
+      <sorting criteria="None" order="None" groupByPriority="false" />
+      <entry skillID="3327" skill="Spaceship Command" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3327" skill="Spaceship Command" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="3" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22552" skill="Mining Director" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="29637" skill="Industrial Command Ships" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3394" skill="Hull Upgrades" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3450" skill="Afterburner" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3420" skill="Tactical Shield Manipulation" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3420" skill="Tactical Shield Manipulation" level="3" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3420" skill="Tactical Shield Manipulation" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3425" skill="Shield Upgrades" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="3" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="4" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3380" skill="Industry" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3380" skill="Industry" level="3" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="24625" skill="Advanced Mass Production" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="3" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="4" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="62450" skill="Shipboard Compression Technology" level="1" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="62450" skill="Shipboard Compression Technology" level="2" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3437" skill="Drone Avionics" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="1" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="3" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3386" skill="Mining" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22541" skill="Mining Drone Specialization" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3440" skill="Salvage Drone Operation" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="23566" skill="Advanced Drone Avionics" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="16281" skill="Ice Harvesting" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="16281" skill="Ice Harvesting" level="2" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="43702" skill="Ice Harvesting Drone Operation" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+    </plan>
+    <plan name="orca" owner="6a8afb03-621f-41b4-8c6d-1f8c188e4787" description="">
+      <sorting criteria="None" order="None" groupByPriority="false" />
+      <entry skillID="3327" skill="Spaceship Command" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3327" skill="Spaceship Command" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="3" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22552" skill="Mining Director" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="29637" skill="Industrial Command Ships" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3394" skill="Hull Upgrades" level="3" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3394" skill="Hull Upgrades" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3450" skill="Afterburner" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="3" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="4" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3380" skill="Industry" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3380" skill="Industry" level="3" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="24625" skill="Advanced Mass Production" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="3" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="4" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="62450" skill="Shipboard Compression Technology" level="1" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="62450" skill="Shipboard Compression Technology" level="2" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3437" skill="Drone Avionics" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3437" skill="Drone Avionics" level="3" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3437" skill="Drone Avionics" level="4" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3437" skill="Drone Avionics" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="1" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="3" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3386" skill="Mining" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22541" skill="Mining Drone Specialization" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3440" skill="Salvage Drone Operation" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="23566" skill="Advanced Drone Avionics" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="16281" skill="Ice Harvesting" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="16281" skill="Ice Harvesting" level="2" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="43702" skill="Ice Harvesting Drone Operation" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+    </plan>
+    <plan name="orca" owner="1a11620b-a063-4259-8b5f-420d4fdb38f8" description="">
+      <sorting criteria="None" order="None" groupByPriority="false" />
+      <entry skillID="3327" skill="Spaceship Command" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="3" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22552" skill="Mining Director" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="29637" skill="Industrial Command Ships" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3450" skill="Afterburner" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3420" skill="Tactical Shield Manipulation" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3420" skill="Tactical Shield Manipulation" level="3" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3420" skill="Tactical Shield Manipulation" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3425" skill="Shield Upgrades" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3425" skill="Shield Upgrades" level="3" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3425" skill="Shield Upgrades" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="3" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="4" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3380" skill="Industry" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3380" skill="Industry" level="3" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="24625" skill="Advanced Mass Production" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="3" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="4" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="62450" skill="Shipboard Compression Technology" level="1" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="62450" skill="Shipboard Compression Technology" level="2" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3437" skill="Drone Avionics" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="1" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="3" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3386" skill="Mining" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22541" skill="Mining Drone Specialization" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3440" skill="Salvage Drone Operation" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="23566" skill="Advanced Drone Avionics" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="16281" skill="Ice Harvesting" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="16281" skill="Ice Harvesting" level="2" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="43702" skill="Ice Harvesting Drone Operation" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+    </plan>
+    <plan name="orca" owner="55ef69ce-f993-41f4-9810-7657c0dcf5bd" description="">
+      <sorting criteria="None" order="None" groupByPriority="false" />
+      <entry skillID="3327" skill="Spaceship Command" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3327" skill="Spaceship Command" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="3" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22552" skill="Mining Director" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="29637" skill="Industrial Command Ships" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3394" skill="Hull Upgrades" level="3" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3394" skill="Hull Upgrades" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3450" skill="Afterburner" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3420" skill="Tactical Shield Manipulation" level="3" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3420" skill="Tactical Shield Manipulation" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3425" skill="Shield Upgrades" level="3" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3425" skill="Shield Upgrades" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="3" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="4" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3380" skill="Industry" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3380" skill="Industry" level="3" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="24625" skill="Advanced Mass Production" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="3" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="4" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="62450" skill="Shipboard Compression Technology" level="1" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="62450" skill="Shipboard Compression Technology" level="2" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3437" skill="Drone Avionics" level="4" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3437" skill="Drone Avionics" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="1" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="3" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3386" skill="Mining" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22541" skill="Mining Drone Specialization" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3436" skill="Drones" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3436" skill="Drones" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3440" skill="Salvage Drone Operation" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3436" skill="Drones" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="23566" skill="Advanced Drone Avionics" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="16281" skill="Ice Harvesting" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="16281" skill="Ice Harvesting" level="2" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="43702" skill="Ice Harvesting Drone Operation" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+    </plan>
+    <plan name="orca" owner="e80c001c-37d1-4bc6-8ab1-4176f99885eb" description="">
+      <sorting criteria="None" order="None" groupByPriority="false" />
+      <entry skillID="3327" skill="Spaceship Command" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3327" skill="Spaceship Command" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="3" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22552" skill="Mining Director" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="29637" skill="Industrial Command Ships" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3394" skill="Hull Upgrades" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3450" skill="Afterburner" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3420" skill="Tactical Shield Manipulation" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="3" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="4" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3380" skill="Industry" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3380" skill="Industry" level="3" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="24625" skill="Advanced Mass Production" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="3" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="4" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="62450" skill="Shipboard Compression Technology" level="1" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="62450" skill="Shipboard Compression Technology" level="2" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3437" skill="Drone Avionics" level="4" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3437" skill="Drone Avionics" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="1" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="3" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3386" skill="Mining" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22541" skill="Mining Drone Specialization" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3440" skill="Salvage Drone Operation" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="23566" skill="Advanced Drone Avionics" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="16281" skill="Ice Harvesting" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="16281" skill="Ice Harvesting" level="2" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="43702" skill="Ice Harvesting Drone Operation" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+    </plan>
+    <plan name="orca-new" owner="e80c001c-37d1-4bc6-8ab1-4176f99885eb" description="">
+      <sorting criteria="None" order="None" groupByPriority="false" />
+      <entry skillID="3327" skill="Spaceship Command" level="4" priority="1" type="Prerequisite">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="3327" skill="Spaceship Command" level="5" priority="1" type="Planned">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="1" priority="1" type="Prerequisite">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="2" priority="1" type="Prerequisite">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="3" priority="1" type="Planned">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="1" priority="1" type="Planned">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="1" priority="1" type="Prerequisite">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="2" priority="1" type="Prerequisite">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="3" priority="1" type="Prerequisite">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="4" priority="1" type="Prerequisite">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="5" priority="1" type="Planned">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="22552" skill="Mining Director" level="1" priority="1" type="Planned">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="29637" skill="Industrial Command Ships" level="1" priority="1" type="Planned">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="3394" skill="Hull Upgrades" level="4" priority="1" type="Planned">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="3420" skill="Tactical Shield Manipulation" level="4" priority="1" type="Planned">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="3350" skill="Shield Command" level="1" priority="1" type="Planned">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="1" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="3" priority="1" type="Planned">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="1" priority="1" type="Prerequisite">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="2" priority="1" type="Prerequisite">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="3" priority="1" type="Prerequisite">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="4" priority="1" type="Prerequisite">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="5" priority="1" type="Planned">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="3386" skill="Mining" level="4" priority="1" type="Planned">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="22541" skill="Mining Drone Specialization" level="1" priority="1" type="Planned">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+    </plan>
+    <plan name="orca" owner="28be04c5-4148-43a0-a9db-6d03b9121add" description="">
+      <sorting criteria="None" order="None" groupByPriority="false" />
+      <entry skillID="3327" skill="Spaceship Command" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3327" skill="Spaceship Command" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="3" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22552" skill="Mining Director" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="29637" skill="Industrial Command Ships" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3450" skill="Afterburner" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3420" skill="Tactical Shield Manipulation" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3425" skill="Shield Upgrades" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="3" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="4" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3380" skill="Industry" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3380" skill="Industry" level="3" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="24625" skill="Advanced Mass Production" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="3" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="4" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="62450" skill="Shipboard Compression Technology" level="1" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="62450" skill="Shipboard Compression Technology" level="2" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3437" skill="Drone Avionics" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3437" skill="Drone Avionics" level="3" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3437" skill="Drone Avionics" level="4" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3437" skill="Drone Avionics" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="1" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="3" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3386" skill="Mining" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22541" skill="Mining Drone Specialization" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3440" skill="Salvage Drone Operation" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="23566" skill="Advanced Drone Avionics" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="16281" skill="Ice Harvesting" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="16281" skill="Ice Harvesting" level="2" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="43702" skill="Ice Harvesting Drone Operation" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+    </plan>
+    <plan name="orca-new" owner="28be04c5-4148-43a0-a9db-6d03b9121add" description="">
+      <sorting criteria="None" order="None" groupByPriority="false" />
+      <entry skillID="3327" skill="Spaceship Command" level="4" priority="1" type="Prerequisite">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="3327" skill="Spaceship Command" level="5" priority="1" type="Planned">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="1" priority="1" type="Prerequisite">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="2" priority="1" type="Prerequisite">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="3" priority="1" type="Planned">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="1" priority="1" type="Planned">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="1" priority="1" type="Prerequisite">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="2" priority="1" type="Prerequisite">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="3" priority="1" type="Prerequisite">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="4" priority="1" type="Prerequisite">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="5" priority="1" type="Planned">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="22552" skill="Mining Director" level="1" priority="1" type="Planned">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="29637" skill="Industrial Command Ships" level="1" priority="1" type="Planned">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="3420" skill="Tactical Shield Manipulation" level="4" priority="1" type="Planned">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="3350" skill="Shield Command" level="1" priority="1" type="Planned">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="1" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="3" priority="1" type="Planned">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="1" priority="1" type="Prerequisite">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="2" priority="1" type="Prerequisite">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="3" priority="1" type="Prerequisite">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="4" priority="1" type="Prerequisite">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="5" priority="1" type="Planned">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="3386" skill="Mining" level="4" priority="1" type="Planned">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+      <entry skillID="22541" skill="Mining Drone Specialization" level="1" priority="1" type="Planned">
+        <notes>Solo High Sec Orca *Read Description* **UPDATED**</notes>
+      </entry>
+    </plan>
+    <plan name="Orca" owner="974227ec-65e6-410f-a879-5464b680bf52" description="">
+      <sorting criteria="None" order="None" groupByPriority="false" />
+      <entry skillID="3327" skill="Spaceship Command" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3184" skill="ORE Hauler" level="3" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22536" skill="Mining Foreman" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22552" skill="Mining Director" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="29637" skill="Industrial Command Ships" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3450" skill="Afterburner" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="3" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="4" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="3348" skill="Leadership" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3380" skill="Industry" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3380" skill="Industry" level="3" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3387" skill="Mass Production" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="24625" skill="Advanced Mass Production" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="3" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="4" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="58956" skill="Industrial Reconfiguration" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="62450" skill="Shipboard Compression Technology" level="1" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="62450" skill="Shipboard Compression Technology" level="2" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3437" skill="Drone Avionics" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="1" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="2" priority="1" type="Prerequisite">
+        <notes />
+      </entry>
+      <entry skillID="11579" skill="Cloaking" level="3" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="4" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3438" skill="Mining Drone Operation" level="5" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3386" skill="Mining" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="22541" skill="Mining Drone Specialization" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3440" skill="Salvage Drone Operation" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="2" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="3" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="3427" skill="Electronic Warfare" level="4" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="23566" skill="Advanced Drone Avionics" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="16281" skill="Ice Harvesting" level="1" priority="1" type="Prerequisite">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="16281" skill="Ice Harvesting" level="2" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+      <entry skillID="43702" skill="Ice Harvesting Drone Operation" level="1" priority="1" type="Planned">
+        <notes>Ice Booster</notes>
+      </entry>
+    </plan>
   </plans>
   <monitoredCharacters>
     <character characterGuid="4be22655-078d-4cb0-91f1-d49dfe90d46e" name="Dee Galla">
@@ -3568,59 +6318,6 @@
         <advancedFeaturesEnabledPages>Notification</advancedFeaturesEnabledPages>
       </settings>
     </character>
-    <character characterGuid="20c7bab8-567c-43f8-83d1-b548db1c35f4" name="VeeDeeCovan">
-      <settings>
-        <selectedPage>skillsPage</selectedPage>
-        <collapsedGroup>Armor</collapsedGroup>
-        <collapsedGroup>Corporation Management</collapsedGroup>
-        <collapsedGroup>Drones</collapsedGroup>
-        <collapsedGroup>Electronic Systems</collapsedGroup>
-        <collapsedGroup>Engineering</collapsedGroup>
-        <collapsedGroup>Fleet Support</collapsedGroup>
-        <collapsedGroup>Gunnery</collapsedGroup>
-        <collapsedGroup>Missiles</collapsedGroup>
-        <collapsedGroup>Navigation</collapsedGroup>
-        <collapsedGroup>Neural Enhancement</collapsedGroup>
-        <collapsedGroup>Planet Management</collapsedGroup>
-        <collapsedGroup>Production</collapsedGroup>
-        <collapsedGroup>Resource Processing</collapsedGroup>
-        <collapsedGroup>Rigging</collapsedGroup>
-        <collapsedGroup>Scanning</collapsedGroup>
-        <collapsedGroup>Science</collapsedGroup>
-        <collapsedGroup>Shields</collapsedGroup>
-        <collapsedGroup>Social</collapsedGroup>
-        <collapsedGroup>Spaceship Command</collapsedGroup>
-        <collapsedGroup>Structure Management</collapsedGroup>
-        <collapsedGroup>Subsystems</collapsedGroup>
-        <collapsedGroup>Targeting</collapsedGroup>
-        <collapsedGroup>Trade</collapsedGroup>
-        <assetsGroupBy>None</assetsGroupBy>
-        <ordersGroupBy>State</ordersGroupBy>
-        <contractsGroupBy>State</contractsGroupBy>
-        <walletJournalGroupBy>None</walletJournalGroupBy>
-        <walletTransactionsGroupBy>None</walletTransactionsGroupBy>
-        <jobsGroupBy>State</jobsGroupBy>
-        <planetaryGroupBy>None</planetaryGroupBy>
-        <mailMessagesGroupBy>State</mailMessagesGroupBy>
-        <eveNotificationsGroupBy>Type</eveNotificationsGroupBy>
-        <advancedFeaturesEnabledPages>Standings</advancedFeaturesEnabledPages>
-        <advancedFeaturesEnabledPages>Contacts</advancedFeaturesEnabledPages>
-        <advancedFeaturesEnabledPages>Factional Warfare</advancedFeaturesEnabledPages>
-        <advancedFeaturesEnabledPages>Medals</advancedFeaturesEnabledPages>
-        <advancedFeaturesEnabledPages>Combat Log</advancedFeaturesEnabledPages>
-        <advancedFeaturesEnabledPages>Assets</advancedFeaturesEnabledPages>
-        <advancedFeaturesEnabledPages>Market</advancedFeaturesEnabledPages>
-        <advancedFeaturesEnabledPages>Contracts</advancedFeaturesEnabledPages>
-        <advancedFeaturesEnabledPages>Wallet Journal</advancedFeaturesEnabledPages>
-        <advancedFeaturesEnabledPages>Wallet Transactions</advancedFeaturesEnabledPages>
-        <advancedFeaturesEnabledPages>Industry</advancedFeaturesEnabledPages>
-        <advancedFeaturesEnabledPages>Planetary Colonies</advancedFeaturesEnabledPages>
-        <advancedFeaturesEnabledPages>Loyalty Points</advancedFeaturesEnabledPages>
-        <advancedFeaturesEnabledPages>Research</advancedFeaturesEnabledPages>
-        <advancedFeaturesEnabledPages>Mail</advancedFeaturesEnabledPages>
-        <advancedFeaturesEnabledPages>Notification</advancedFeaturesEnabledPages>
-      </settings>
-    </character>
     <character characterGuid="984696ef-cc83-4a75-8620-18746a418d19" name="Worm Holera">
       <settings>
         <selectedPage>skillsPage</selectedPage>
@@ -3648,6 +6345,59 @@
         <collapsedGroup>Trade</collapsedGroup>
         <collapsedGroup>Gunnery</collapsedGroup>
         <assetsGroupBy>Category</assetsGroupBy>
+        <ordersGroupBy>State</ordersGroupBy>
+        <contractsGroupBy>State</contractsGroupBy>
+        <walletJournalGroupBy>None</walletJournalGroupBy>
+        <walletTransactionsGroupBy>None</walletTransactionsGroupBy>
+        <jobsGroupBy>State</jobsGroupBy>
+        <planetaryGroupBy>None</planetaryGroupBy>
+        <mailMessagesGroupBy>State</mailMessagesGroupBy>
+        <eveNotificationsGroupBy>Type</eveNotificationsGroupBy>
+        <advancedFeaturesEnabledPages>Standings</advancedFeaturesEnabledPages>
+        <advancedFeaturesEnabledPages>Contacts</advancedFeaturesEnabledPages>
+        <advancedFeaturesEnabledPages>Factional Warfare</advancedFeaturesEnabledPages>
+        <advancedFeaturesEnabledPages>Medals</advancedFeaturesEnabledPages>
+        <advancedFeaturesEnabledPages>Combat Log</advancedFeaturesEnabledPages>
+        <advancedFeaturesEnabledPages>Assets</advancedFeaturesEnabledPages>
+        <advancedFeaturesEnabledPages>Market</advancedFeaturesEnabledPages>
+        <advancedFeaturesEnabledPages>Contracts</advancedFeaturesEnabledPages>
+        <advancedFeaturesEnabledPages>Wallet Journal</advancedFeaturesEnabledPages>
+        <advancedFeaturesEnabledPages>Wallet Transactions</advancedFeaturesEnabledPages>
+        <advancedFeaturesEnabledPages>Industry</advancedFeaturesEnabledPages>
+        <advancedFeaturesEnabledPages>Planetary Colonies</advancedFeaturesEnabledPages>
+        <advancedFeaturesEnabledPages>Loyalty Points</advancedFeaturesEnabledPages>
+        <advancedFeaturesEnabledPages>Research</advancedFeaturesEnabledPages>
+        <advancedFeaturesEnabledPages>Mail</advancedFeaturesEnabledPages>
+        <advancedFeaturesEnabledPages>Notification</advancedFeaturesEnabledPages>
+      </settings>
+    </character>
+    <character characterGuid="20c7bab8-567c-43f8-83d1-b548db1c35f4" name="VeeDeeCovan">
+      <settings>
+        <selectedPage>skillsPage</selectedPage>
+        <collapsedGroup>Armor</collapsedGroup>
+        <collapsedGroup>Corporation Management</collapsedGroup>
+        <collapsedGroup>Drones</collapsedGroup>
+        <collapsedGroup>Electronic Systems</collapsedGroup>
+        <collapsedGroup>Engineering</collapsedGroup>
+        <collapsedGroup>Fleet Support</collapsedGroup>
+        <collapsedGroup>Gunnery</collapsedGroup>
+        <collapsedGroup>Missiles</collapsedGroup>
+        <collapsedGroup>Navigation</collapsedGroup>
+        <collapsedGroup>Neural Enhancement</collapsedGroup>
+        <collapsedGroup>Planet Management</collapsedGroup>
+        <collapsedGroup>Production</collapsedGroup>
+        <collapsedGroup>Resource Processing</collapsedGroup>
+        <collapsedGroup>Rigging</collapsedGroup>
+        <collapsedGroup>Scanning</collapsedGroup>
+        <collapsedGroup>Science</collapsedGroup>
+        <collapsedGroup>Shields</collapsedGroup>
+        <collapsedGroup>Social</collapsedGroup>
+        <collapsedGroup>Spaceship Command</collapsedGroup>
+        <collapsedGroup>Structure Management</collapsedGroup>
+        <collapsedGroup>Subsystems</collapsedGroup>
+        <collapsedGroup>Targeting</collapsedGroup>
+        <collapsedGroup>Trade</collapsedGroup>
+        <assetsGroupBy>None</assetsGroupBy>
         <ordersGroupBy>State</ordersGroupBy>
         <contractsGroupBy>State</contractsGroupBy>
         <walletJournalGroupBy>None</walletJournalGroupBy>
@@ -3989,6 +6739,58 @@
         <advancedFeaturesEnabledPages>Notification</advancedFeaturesEnabledPages>
       </settings>
     </character>
+    <character characterGuid="28be04c5-4148-43a0-a9db-6d03b9121add" name="Aby Dee">
+      <settings>
+        <selectedPage>skillsPage</selectedPage>
+        <assetsGroupBy>None</assetsGroupBy>
+        <ordersGroupBy>State</ordersGroupBy>
+        <contractsGroupBy>State</contractsGroupBy>
+        <walletJournalGroupBy>None</walletJournalGroupBy>
+        <walletTransactionsGroupBy>None</walletTransactionsGroupBy>
+        <jobsGroupBy>State</jobsGroupBy>
+        <planetaryGroupBy>None</planetaryGroupBy>
+        <mailMessagesGroupBy>State</mailMessagesGroupBy>
+        <eveNotificationsGroupBy>Type</eveNotificationsGroupBy>
+      </settings>
+    </character>
+    <character characterGuid="974227ec-65e6-410f-a879-5464b680bf52" name="Micronomica Alpha">
+      <settings>
+        <selectedPage>skillsPage</selectedPage>
+        <collapsedGroup>Armor</collapsedGroup>
+        <collapsedGroup>Corporation Management</collapsedGroup>
+        <collapsedGroup>Drones</collapsedGroup>
+        <collapsedGroup>Electronic Systems</collapsedGroup>
+        <collapsedGroup>Engineering</collapsedGroup>
+        <collapsedGroup>Fleet Support</collapsedGroup>
+        <collapsedGroup>Gunnery</collapsedGroup>
+        <collapsedGroup>Missiles</collapsedGroup>
+        <collapsedGroup>Navigation</collapsedGroup>
+        <collapsedGroup>Neural Enhancement</collapsedGroup>
+        <collapsedGroup>Planet Management</collapsedGroup>
+        <collapsedGroup>Production</collapsedGroup>
+        <collapsedGroup>Resource Processing</collapsedGroup>
+        <collapsedGroup>Rigging</collapsedGroup>
+        <collapsedGroup>Scanning</collapsedGroup>
+        <collapsedGroup>Science</collapsedGroup>
+        <collapsedGroup>Sequencing</collapsedGroup>
+        <collapsedGroup>Shields</collapsedGroup>
+        <collapsedGroup>Social</collapsedGroup>
+        <collapsedGroup>Spaceship Command</collapsedGroup>
+        <collapsedGroup>Structure Management</collapsedGroup>
+        <collapsedGroup>Subsystems</collapsedGroup>
+        <collapsedGroup>Targeting</collapsedGroup>
+        <collapsedGroup>Trade</collapsedGroup>
+        <assetsGroupBy>None</assetsGroupBy>
+        <ordersGroupBy>State</ordersGroupBy>
+        <contractsGroupBy>State</contractsGroupBy>
+        <walletJournalGroupBy>None</walletJournalGroupBy>
+        <walletTransactionsGroupBy>None</walletTransactionsGroupBy>
+        <jobsGroupBy>State</jobsGroupBy>
+        <planetaryGroupBy>None</planetaryGroupBy>
+        <mailMessagesGroupBy>State</mailMessagesGroupBy>
+        <eveNotificationsGroupBy>Type</eveNotificationsGroupBy>
+      </settings>
+    </character>
     <character characterGuid="30a81906-50db-444c-9ebf-d77bcee9229f" name="Smart Eggs">
       <settings>
         <selectedPage>skillsPage</selectedPage>
@@ -4057,34 +6859,6 @@
       </settings>
     </character>
     <character characterGuid="e80c001c-37d1-4bc6-8ab1-4176f99885eb" name="Ababa Halamaha">
-      <settings>
-        <selectedPage>skillsPage</selectedPage>
-        <assetsGroupBy>None</assetsGroupBy>
-        <ordersGroupBy>State</ordersGroupBy>
-        <contractsGroupBy>State</contractsGroupBy>
-        <walletJournalGroupBy>None</walletJournalGroupBy>
-        <walletTransactionsGroupBy>None</walletTransactionsGroupBy>
-        <jobsGroupBy>State</jobsGroupBy>
-        <planetaryGroupBy>None</planetaryGroupBy>
-        <mailMessagesGroupBy>State</mailMessagesGroupBy>
-        <eveNotificationsGroupBy>Type</eveNotificationsGroupBy>
-      </settings>
-    </character>
-    <character characterGuid="28be04c5-4148-43a0-a9db-6d03b9121add" name="Aby Dee">
-      <settings>
-        <selectedPage>skillsPage</selectedPage>
-        <assetsGroupBy>None</assetsGroupBy>
-        <ordersGroupBy>State</ordersGroupBy>
-        <contractsGroupBy>State</contractsGroupBy>
-        <walletJournalGroupBy>None</walletJournalGroupBy>
-        <walletTransactionsGroupBy>None</walletTransactionsGroupBy>
-        <jobsGroupBy>State</jobsGroupBy>
-        <planetaryGroupBy>None</planetaryGroupBy>
-        <mailMessagesGroupBy>State</mailMessagesGroupBy>
-        <eveNotificationsGroupBy>Type</eveNotificationsGroupBy>
-      </settings>
-    </character>
-    <character characterGuid="974227ec-65e6-410f-a879-5464b680bf52" name="Micronomica Alpha">
       <settings>
         <selectedPage>skillsPage</selectedPage>
         <assetsGroupBy>None</assetsGroupBy>
@@ -4216,7 +6990,7 @@
       <highlightQueuedSkills>false</highlightQueuedSkills>
       <alwaysShowSkillQueueTime>false</alwaysShowSkillQueueTime>
       <skillQueueWarningThresholdDays>1</skillQueueWarningThresholdDays>
-      <overviewIndex>12</overviewIndex>
+      <overviewIndex>4</overviewIndex>
       <overviewItemSize>x96</overviewItemSize>
       <showWalletOnOverview>true</showWalletOnOverview>
       <showSkillpointsOnOverview>true</showSkillpointsOnOverview>
@@ -4592,7 +7366,7 @@
     </skillPieChart>
     <locations>
       <location left="412" top="107" width="1091" height="868">MainWindow</location>
-      <location left="771" top="404" width="959" height="601">PlanWindow</location>
+      <location left="471" top="135" width="959" height="601">PlanWindow</location>
       <location left="26" top="26" width="390" height="481">LoadoutImportationForm</location>
       <location left="234" top="234" width="800" height="481">CharactersComparisonWindow</location>
     </locations>
